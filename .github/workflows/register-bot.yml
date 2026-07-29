@@ -1,0 +1,17 @@
+name: Getränke-Handelsregister
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repository laden
+        uses: actions/checkout@v6
+
+      - name: Dateien anzeigen
+        run: |
+          echo "GitHub Actions funktioniert."
+          find . -maxdepth 3 -type f | sort
