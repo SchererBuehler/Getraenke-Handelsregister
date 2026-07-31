@@ -26,6 +26,11 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+BASE_URL = os.getenv(
+    "ZEFIX_BASE_URL",
+    "https://www.zefix.admin.ch/ZefixPublicREST/api/v1",
+).rstrip("/")
+
 BASE_URL = os.getenv("ZEFIX_BASE_URL", "https://www.zefix.admin.ch/ZefixPublicREST/api/v1").rstrip("/")
 DB_PATH = Path(os.getenv("DB_PATH", "registry_bot.sqlite3"))
 TIMEOUT = int(os.getenv("HTTP_TIMEOUT", "30"))
