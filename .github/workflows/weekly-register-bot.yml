@@ -1,168 +1,107 @@
 name: Getränke-Handelsregister wöchentlich
 
 on:
+  workflow_dispatch:
+    inputs:
+      end_date:
+        description: "Optionales Enddatum YYYY-MM-DD; Standard: gestern"
+        required: false
+        type: string
   schedule:
     - cron: "15 7 * * 1"
       timezone: "Europe/Zurich"
-  workflow_dispatch:
-    inputs:
-      date:
-        description: "Optionales Einzel-Datum (YYYY-MM-DD); leer = letzte 7 Tage"
-        required: false
-        type: string
 
 permissions:
   contents: write
 
 concurrency:
-  group: beverage-register-production
+  group: weekly-register-bot
   cancel-in-progress: false
 
 jobs:
-  run-bot:
+  weekly-report:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
-    env:
-      ZEFIX_USERNAME: ${{ secrets.ZEFIX_USERNAME }}
-      ZEFIX_PASSWORD: ${{ secrets.ZEFIX_PASSWORD }}
-      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-      EVENT_TYPES: new,mutation,closure
-      MIN_CONFIDENCE: "60"
-      ENRICH_CONTACTS: "true"
-      MAX_CONTACT_PAGES: "3"
-      HTTP_TIMEOUT: "30"
-      LOG_LEVEL: INFO
-      TZ: Europe/Zurich
 
     steps:
-      - name: Repository laden
-        uses: actions/checkout@v5
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Python einrichten
+        uses: actions/setup-python@v5
         with:
-          fetch-depth: 0
-
-      - name: Projektordner finden
-        id: project
-        shell: bash
-        run: |
-          BOT_FILE="$(find "$GITHUB_WORKSPACE" -maxdepth 4 -type f -name bot.py -print -quit)"
-          if [[ -z "$BOT_FILE" ]]; then
-            echo "Fehler: bot.py wurde im Repository nicht gefunden."
-            echo "Vorhandene Dateien:"
-            find "$GITHUB_WORKSPACE" -maxdepth 4 -type f | sort
-            exit 1
-          fi
-
-          PROJECT_DIR="$(dirname "$BOT_FILE")"
-          if [[ ! -f "$PROJECT_DIR/requirements.txt" ]]; then
-            echo "Fehler: requirements.txt fehlt neben $BOT_FILE"
-            exit 1
-          fi
-
-          echo "dir=$PROJECT_DIR" >> "$GITHUB_OUTPUT"
-          echo "Bot gefunden in: $PROJECT_DIR"
-
-      - name: Python installieren
-        uses: actions/setup-python@v6
-        with:
-          python-version: "3.13"
+          python-version: "3.12"
           cache: pip
-          cache-dependency-path: ${{ steps.project.outputs.dir }}/requirements.txt
 
       - name: Abhängigkeiten installieren
-        shell: bash
-        run: python -m pip install -r "${{ steps.project.outputs.dir }}/requirements.txt"
+        run: pip install -r requirements.txt
 
-      - name: Zugangsdaten prüfen
-        shell: bash
-        run: |
-          if [[ -z "$ZEFIX_USERNAME" ]]; then
-            echo "Fehler: Repository-Secret ZEFIX_USERNAME fehlt."
-            exit 1
-          fi
-          if [[ -z "$ZEFIX_PASSWORD" ]]; then
-            echo "Fehler: Repository-Secret ZEFIX_PASSWORD fehlt."
-            exit 1
-          fi
-
-      - name: Zeitraum bestimmen
+      - name: Berichtszeitraum bestimmen
         id: period
         shell: bash
         run: |
-          mkdir -p "$GITHUB_WORKSPACE/data" "$GITHUB_WORKSPACE/reports"
-
-          if [[ -n "${{ inputs.date }}" ]]; then
-            RUN_DATE="$(date -d "${{ inputs.date }}" +%F)"
-            echo "dates=$RUN_DATE" >> "$GITHUB_OUTPUT"
-            echo "label=$RUN_DATE" >> "$GITHUB_OUTPUT"
+          if [ -n "${{ inputs.end_date }}" ]; then
+            END_DATE="${{ inputs.end_date }}"
           else
-            DATES=""
-            for OFFSET in 7 6 5 4 3 2 1; do
-              DAY="$(date -d "$OFFSET days ago" +%F)"
-              DATES="${DATES}${DAY} "
-            done
-            DATES="${DATES% }"
-            echo "dates=$DATES" >> "$GITHUB_OUTPUT"
-            echo "label=$(date -d '7 days ago' +%F)_bis_$(date -d 'yesterday' +%F)" >> "$GITHUB_OUTPUT"
+            END_DATE="$(TZ=Europe/Zurich date -d yesterday +%F)"
           fi
+          START_DATE="$(date -d "$END_DATE -6 days" +%F)"
+          echo "start=$START_DATE" >> "$GITHUB_OUTPUT"
+          echo "end=$END_DATE" >> "$GITHUB_OUTPUT"
+          echo "Zeitraum: $START_DATE bis $END_DATE"
 
-      - name: Registerdaten verarbeiten
-        shell: bash
+      - name: Publikationen der letzten sieben Tage verarbeiten
         env:
-          DB_PATH: ${{ github.workspace }}/data/registry_bot.sqlite3
-        working-directory: ${{ steps.project.outputs.dir }}
+          ZEFIX_USERNAME: ${{ secrets.ZEFIX_USERNAME }}
+          ZEFIX_PASSWORD: ${{ secrets.ZEFIX_PASSWORD }}
+          DB_PATH: data/registry_bot.sqlite3
+          ENRICH_CONTACTS: "true"
+          MAX_CONTACT_PAGES: "3"
+          USER_AGENT: ${{ vars.USER_AGENT || 'CH-Beverage-Registry-Monitor/2.0 (GitHub Actions)' }}
+        shell: bash
         run: |
-          for RUN_DATE in ${{ steps.period.outputs.dates }}; do
-            echo "Verarbeite $RUN_DATE"
-            python bot.py \
-              --date "$RUN_DATE" \
-              --events "$EVENT_TYPES" \
-              --min-confidence "$MIN_CONFIDENCE" \
-              --json > "$GITHUB_WORKSPACE/reports/treffer-$RUN_DATE.json"
+          mkdir -p reports exports data
+          current="${{ steps.period.outputs.start }}"
+          end="${{ steps.period.outputs.end }}"
+          while [ "$current" != "$(date -d "$end +1 day" +%F)" ]; do
+            echo "Verarbeite $current"
+            python bot.py --date "$current" --json > "reports/treffer-$current.json"
+            current="$(date -d "$current +1 day" +%F)"
           done
 
-      - name: Ausgabedateien prüfen
-        id: output
+      - name: Wochen-Excel erstellen
         shell: bash
         run: |
-          echo "Erzeugte Berichte:"
-          find "$GITHUB_WORKSPACE/reports" -maxdepth 1 -type f -name '*.json' -print
+          report_files=()
+          current="${{ steps.period.outputs.start }}"
+          end="${{ steps.period.outputs.end }}"
+          while [ "$current" != "$(date -d "$end +1 day" +%F)" ]; do
+            report_files+=("reports/treffer-$current.json")
+            current="$(date -d "$current +1 day" +%F)"
+          done
+          python export_excel.py \
+            --input "${report_files[@]}" \
+            --output exports/treffer-${{ steps.period.outputs.start }}_bis_${{ steps.period.outputs.end }}.xlsx \
+            --period "${{ steps.period.outputs.start }} bis ${{ steps.period.outputs.end }}"
 
-          if [[ ! -f "$GITHUB_WORKSPACE/data/registry_bot.sqlite3" ]]; then
-            echo "Fehler: SQLite-Datenbank wurde nicht erzeugt."
-            exit 1
-          fi
-
-          REPORT_COUNT="$(find "$GITHUB_WORKSPACE/reports" -maxdepth 1 -type f -name '*.json' | wc -l)"
-          if [[ "$REPORT_COUNT" -eq 0 ]]; then
-            echo "Fehler: Es wurde kein JSON-Bericht erzeugt."
-            exit 1
-          fi
-
-          echo "files_created=true" >> "$GITHUB_OUTPUT"
-
-      - name: Ergebnisse als Artefakt sichern
-        if: steps.output.outputs.files_created == 'true'
-        uses: actions/upload-artifact@v6
+      - name: Bericht als Artefakt speichern
+        uses: actions/upload-artifact@v4
         with:
-          name: handelsregister-${{ steps.period.outputs.label }}-${{ github.run_number }}
+          name: getraenke-register-${{ steps.period.outputs.start }}-bis-${{ steps.period.outputs.end }}
           path: |
-            reports/*.json
-            data/registry_bot.sqlite3
-          if-no-files-found: error
+            reports/treffer-*.json
+            exports/treffer-${{ steps.period.outputs.start }}_bis_${{ steps.period.outputs.end }}.xlsx
           retention-days: 30
 
-      - name: Datenbank und Berichte speichern
-        if: steps.output.outputs.files_created == 'true'
+      - name: Datenbank und Berichte ins Repository schreiben
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/registry_bot.sqlite3 reports/*.json
-
+          git add data/registry_bot.sqlite3 reports/ exports/
           if git diff --cached --quiet; then
-            echo "Keine Änderungen zu speichern."
+            echo "Keine Änderungen vorhanden."
           else
-            git commit -m "Wöchentlicher Bot-Lauf ${{ steps.period.outputs.label }}"
+            git commit -m "Wochenbericht ${{ steps.period.outputs.start }} bis ${{ steps.period.outputs.end }}"
+            git pull --rebase
             git push
           fi
