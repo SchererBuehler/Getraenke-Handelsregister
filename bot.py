@@ -31,6 +31,12 @@ BASE_URL = os.getenv(
     "https://www.zefix.admin.ch/ZefixPublicREST/api/v1",
 ).rstrip("/")
 
+ZEFIX_USERNAME = os.getenv("ZEFIX_USERNAME", "").strip()
+ZEFIX_PASSWORD = os.getenv("ZEFIX_PASSWORD", "")
+
+DB_PATH = Path(os.getenv("DB_PATH", "registry_bot.sqlite3"))
+TIMEOUT = int(os.getenv("HTTP_TIMEOUT", "30"))
+
 BASE_URL = os.getenv("ZEFIX_BASE_URL", "https://www.zefix.admin.ch/ZefixPublicREST/api/v1").rstrip("/")
 DB_PATH = Path(os.getenv("DB_PATH", "registry_bot.sqlite3"))
 TIMEOUT = int(os.getenv("HTTP_TIMEOUT", "30"))
