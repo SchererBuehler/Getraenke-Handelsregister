@@ -82,7 +82,8 @@ jobs:
     timeout-minutes: 350
     strategy:
       fail-fast: false
-      max-parallel: 3
+      # Zefix bewusst seriell abfragen, um die öffentliche API nicht zu überlasten.
+      max-parallel: 1
       matrix: ${{ fromJSON(needs.prepare.outputs.matrix) }}
 
     steps:
@@ -106,6 +107,9 @@ jobs:
           DB_PATH: data/backfill-${{ matrix.label }}.sqlite3
           ENRICH_CONTACTS: ${{ inputs.enrich_contacts && 'true' || 'false' }}
           MAX_CONTACT_PAGES: "3"
+          HTTP_TIMEOUT: "60"
+          HTTP_RETRIES: "6"
+          HTTP_BACKOFF: "2"
           USER_AGENT: ${{ vars.USER_AGENT || 'CH-Beverage-Registry-Monitor/2.0 (GitHub Actions Backfill)' }}
         run: |
           set -euo pipefail
@@ -115,18 +119,46 @@ jobs:
           end="${{ matrix.end }}"
           after_end="$(date -d "$end +1 day" +%F)"
 
+          : > "failed-dates-${{ matrix.label }}.txt"
+
           while [ "$current" != "$after_end" ]; do
             echo "Verarbeite $current"
-            python bot.py --date "$current" --json > "reports/treffer-$current.json"
+
+            success=false
+            for attempt in 1 2 3; do
+              tmp_file="reports/treffer-$current.json.tmp"
+              if python bot.py --date "$current" --json > "$tmp_file"; then
+                mv "$tmp_file" "reports/treffer-$current.json"
+                success=true
+                break
+              fi
+
+              rm -f "$tmp_file"
+              delay=$((attempt * 30))
+              echo "Versuch $attempt für $current fehlgeschlagen; neuer Versuch in ${delay}s." >&2
+              sleep "$delay"
+            done
+
+            if [ "$success" != true ]; then
+              echo "$current" | tee -a "failed-dates-${{ matrix.label }}.txt" >&2
+            fi
+
             current="$(date -d "$current +1 day" +%F)"
-            sleep 1
+            sleep 3
           done
+
+          if [ -s "failed-dates-${{ matrix.label }}.txt" ]; then
+            echo "Folgende Tage konnten nach mehreren Versuchen nicht verarbeitet werden:" >&2
+            cat "failed-dates-${{ matrix.label }}.txt" >&2
+          fi
 
       - name: Monatsdaten hochladen
         uses: actions/upload-artifact@v6
         with:
           name: backfill-${{ matrix.label }}
-          path: reports/treffer-*.json
+          path: |
+            reports/treffer-*.json
+            failed-dates-${{ matrix.label }}.txt
           if-no-files-found: error
           retention-days: 14
 
@@ -169,6 +201,11 @@ jobs:
                 cp "$file" reports/
               done
 
+          find collected -type f -name 'failed-dates-*.txt' -size +0c -print0 \
+            | while IFS= read -r -d '' file; do
+                cat "$file"
+              done | sort -u > exports/fehlgeschlagene-tage.txt
+
           mapfile -d '' report_files < <(
             find reports -maxdepth 1 -type f -name 'treffer-*.json' \
               -newermt '2026-01-01' ! -newermt '${{ needs.prepare.outputs.end_date }} +1 day' \
@@ -192,6 +229,7 @@ jobs:
           path: |
             reports/treffer-*.json
             exports/treffer-2026-01-01_bis_${{ needs.prepare.outputs.end_date }}.xlsx
+            exports/fehlgeschlagene-tage.txt
           if-no-files-found: error
           retention-days: 30
 
