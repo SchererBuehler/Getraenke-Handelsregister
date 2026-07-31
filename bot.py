@@ -113,13 +113,32 @@ def setup_db() -> sqlite3.Connection:
 
 
 def fetch_publications(day: date) -> Any:
-    """Fetch public SHAB/Zefix publications without authentication."""
+    """Fetch SHAB publications using official Zefix credentials."""
+
+    if not ZEFIX_USERNAME or not ZEFIX_PASSWORD:
+        raise RuntimeError(
+            "ZEFIX_USERNAME oder ZEFIX_PASSWORD fehlt. "
+            "Bitte als Umgebungsvariablen beziehungsweise GitHub Secrets hinterlegen."
+        )
+
     url = f"{BASE_URL}/sogc/bydate/{day.isoformat()}"
+
     response = requests.get(
         url,
+        auth=(ZEFIX_USERNAME, ZEFIX_PASSWORD),
         timeout=TIMEOUT,
-        headers={"Accept": "application/json", "User-Agent": USER_AGENT},
+        headers={
+            "Accept": "application/json",
+            "User-Agent": USER_AGENT,
+        },
     )
+
+    if response.status_code == 401:
+        raise RuntimeError(
+            "Zefix hat die Anmeldung abgelehnt (HTTP 401). "
+            "Benutzername oder Passwort prüfen."
+        )
+
     response.raise_for_status()
     return response.json()
 
