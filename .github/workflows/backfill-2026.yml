@@ -1,0 +1,214 @@
+name: Getränke-Handelsregister Rücklauf ab 2026
+
+on:
+  workflow_dispatch:
+    inputs:
+      end_date:
+        description: "Enddatum YYYY-MM-DD; leer = gestern (Europe/Zurich)"
+        required: false
+        type: string
+      enrich_contacts:
+        description: "Websites zur Kontaktsuche aufrufen (langsamer)"
+        required: true
+        default: false
+        type: boolean
+
+permissions:
+  contents: write
+
+concurrency:
+  group: beverage-register-backfill-2026
+  cancel-in-progress: false
+
+jobs:
+  prepare:
+    name: Zeiträume vorbereiten
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.periods.outputs.matrix }}
+      end_date: ${{ steps.periods.outputs.end_date }}
+    steps:
+      - name: Monatsabschnitte ab 01.01.2026 erzeugen
+        id: periods
+        shell: bash
+        env:
+          REQUESTED_END_DATE: ${{ inputs.end_date }}
+        run: |
+          python - <<'PY'
+          import calendar
+          import json
+          import os
+          from datetime import date, datetime, timedelta
+
+          start = date(2026, 1, 1)
+          requested = os.environ.get("REQUESTED_END_DATE", "").strip()
+
+          if requested:
+              end = date.fromisoformat(requested)
+          else:
+              # Der Runner läuft in UTC; Europe/Zurich wird hier ausdrücklich verwendet.
+              from zoneinfo import ZoneInfo
+              end = datetime.now(ZoneInfo("Europe/Zurich")).date() - timedelta(days=1)
+
+          if end < start:
+              raise SystemExit("Das Enddatum darf nicht vor dem 01.01.2026 liegen.")
+          if end > date.today():
+              raise SystemExit("Das Enddatum darf nicht in der Zukunft liegen.")
+
+          periods = []
+          cursor = start
+          while cursor <= end:
+              last_day = calendar.monthrange(cursor.year, cursor.month)[1]
+              month_end = min(date(cursor.year, cursor.month, last_day), end)
+              periods.append({
+                  "label": f"{cursor:%Y-%m}",
+                  "start": cursor.isoformat(),
+                  "end": month_end.isoformat(),
+              })
+              cursor = month_end + timedelta(days=1)
+
+          matrix = json.dumps({"include": periods}, separators=(",", ":"))
+          with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as output:
+              output.write(f"matrix={matrix}\n")
+              output.write(f"end_date={end.isoformat()}\n")
+
+          print(f"{len(periods)} Monatsabschnitte: {start} bis {end}")
+          PY
+
+  collect:
+    name: Monat ${{ matrix.label }}
+    needs: prepare
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    strategy:
+      fail-fast: false
+      max-parallel: 3
+      matrix: ${{ fromJSON(needs.prepare.outputs.matrix) }}
+
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v5
+
+      - name: Python einrichten
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Abhängigkeiten installieren
+        run: pip install -r requirements.txt
+
+      - name: Tagespublikationen verarbeiten
+        shell: bash
+        env:
+          ZEFIX_USERNAME: ${{ secrets.ZEFIX_USERNAME }}
+          ZEFIX_PASSWORD: ${{ secrets.ZEFIX_PASSWORD }}
+          DB_PATH: data/backfill-${{ matrix.label }}.sqlite3
+          ENRICH_CONTACTS: ${{ inputs.enrich_contacts && 'true' || 'false' }}
+          MAX_CONTACT_PAGES: "3"
+          USER_AGENT: ${{ vars.USER_AGENT || 'CH-Beverage-Registry-Monitor/2.0 (GitHub Actions Backfill)' }}
+        run: |
+          set -euo pipefail
+          mkdir -p reports data
+
+          current="${{ matrix.start }}"
+          end="${{ matrix.end }}"
+          after_end="$(date -d "$end +1 day" +%F)"
+
+          while [ "$current" != "$after_end" ]; do
+            echo "Verarbeite $current"
+            python bot.py --date "$current" --json > "reports/treffer-$current.json"
+            current="$(date -d "$current +1 day" +%F)"
+            sleep 1
+          done
+
+      - name: Monatsdaten hochladen
+        uses: actions/upload-artifact@v6
+        with:
+          name: backfill-${{ matrix.label }}
+          path: reports/treffer-*.json
+          if-no-files-found: error
+          retention-days: 14
+
+  compile:
+    name: Gesamtauswertung erstellen
+    needs: [prepare, collect]
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Python einrichten
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Abhängigkeiten installieren
+        run: pip install -r requirements.txt
+
+      - name: Monatsartefakte herunterladen
+        uses: actions/download-artifact@v8
+        with:
+          pattern: backfill-*
+          path: collected
+          merge-multiple: true
+
+      - name: Tagesberichte zusammenführen und Excel erstellen
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p reports exports
+
+          find collected -type f -name 'treffer-*.json' -print0 \
+            | while IFS= read -r -d '' file; do
+                cp "$file" reports/
+              done
+
+          mapfile -d '' report_files < <(
+            find reports -maxdepth 1 -type f -name 'treffer-*.json' \
+              -newermt '2026-01-01' ! -newermt '${{ needs.prepare.outputs.end_date }} +1 day' \
+              -print0 | sort -z
+          )
+
+          if [ "${#report_files[@]}" -eq 0 ]; then
+            echo "Keine Tagesberichte gefunden." >&2
+            exit 1
+          fi
+
+          python export_excel.py \
+            --input "${report_files[@]}" \
+            --output "exports/treffer-2026-01-01_bis_${{ needs.prepare.outputs.end_date }}.xlsx" \
+            --period "01.01.2026 bis ${{ needs.prepare.outputs.end_date }}"
+
+      - name: Gesamtergebnis als Artefakt speichern
+        uses: actions/upload-artifact@v6
+        with:
+          name: getraenke-register-2026-01-01-bis-${{ needs.prepare.outputs.end_date }}
+          path: |
+            reports/treffer-*.json
+            exports/treffer-2026-01-01_bis_${{ needs.prepare.outputs.end_date }}.xlsx
+          if-no-files-found: error
+          retention-days: 30
+
+      - name: Berichte ins Repository schreiben
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add reports/ exports/
+
+          if git diff --cached --quiet; then
+            echo "Keine neuen Berichte vorhanden."
+            exit 0
+          fi
+
+          git commit -m "Rücklauf 01.01.2026 bis ${{ needs.prepare.outputs.end_date }}"
+          git pull --rebase
+          git push
