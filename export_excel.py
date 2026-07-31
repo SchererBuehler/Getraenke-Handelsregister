@@ -1,87 +1,86 @@
+#!/usr/bin/env python3
+"""Combine one or more JSON reports into a formatted Excel workbook."""
 from __future__ import annotations
 
 import argparse
 import html
 import json
+from collections import Counter
 from datetime import date
 from pathlib import Path
-from typing import Any
+from typing import Any, Iterable
 
 from openpyxl import Workbook
-from openpyxl.styles import Alignment, Font
+from openpyxl.styles import Alignment, Font, PatternFill
 from openpyxl.utils import get_column_letter
-
-
-REPORTS_DIR = Path("reports")
-EXPORTS_DIR = Path("exports")
-
-
-def repair_encoding(value: str) -> str:
-    """Repariert typische fehlerhaft dekodierte UTF-8-Texte."""
-    if not value or not any(marker in value for marker in ("Ã", "Â", "â€")):
-        return value
-
-    try:
-        return value.encode("latin-1").decode("utf-8")
-    except (UnicodeEncodeError, UnicodeDecodeError):
-        return value
+from openpyxl.worksheet.table import Table, TableStyleInfo
 
 
 def clean_text(value: Any) -> str:
     if value is None:
         return ""
-
     if isinstance(value, (list, tuple, set)):
-        return ", ".join(clean_text(item) for item in value)
-
+        return ", ".join(clean_text(item) for item in value if item not in (None, ""))
     if isinstance(value, dict):
         return json.dumps(value, ensure_ascii=False)
+    text = html.unescape(str(value)).strip()
+    if any(marker in text for marker in ("Ã", "Â", "â€")):
+        try:
+            text = text.encode("latin-1").decode("utf-8")
+        except (UnicodeEncodeError, UnicodeDecodeError):
+            pass
+    return text
 
-    return repair_encoding(html.unescape(str(value))).strip()
 
-
-def get_nested(data: dict[str, Any], *keys: str) -> Any:
+def nested(data: dict[str, Any], *keys: str) -> Any:
     current: Any = data
-
     for key in keys:
         if not isinstance(current, dict):
             return None
         current = current.get(key)
-
     return current
 
 
-def normalize_uid(value: str) -> str:
-    uid = "".join(character for character in value if character.isalnum())
-
+def format_uid(value: Any) -> str:
+    uid = "".join(ch for ch in clean_text(value) if ch.isalnum())
     if uid.startswith("CHE") and len(uid) == 12:
-        return f"{uid[:3]}-{uid[3:6]}.{uid[6:9]}.{uid[9:12]}"
+        return f"CHE-{uid[3:6]}.{uid[6:9]}.{uid[9:12]}"
+    return uid
 
-    return value
+
+def load_reports(paths: Iterable[Path]) -> list[dict[str, Any]]:
+    records: list[dict[str, Any]] = []
+    seen: set[str] = set()
+    for path in paths:
+        with path.open("r", encoding="utf-8") as handle:
+            payload = json.load(handle)
+        if not isinstance(payload, list):
+            raise ValueError(f"JSON-Bericht muss eine Liste enthalten: {path}")
+        for entry in payload:
+            if not isinstance(entry, dict):
+                continue
+            publication_id = clean_text(entry.get("publication_id"))
+            key = publication_id or json.dumps(entry, sort_keys=True, ensure_ascii=False)
+            if key not in seen:
+                seen.add(key)
+                records.append(entry)
+    return records
 
 
-def extract_row(entry: dict[str, Any]) -> list[Any]:
-    company = get_nested(entry, "raw", "companyShort") or {}
-    publication = get_nested(entry, "raw", "sogcPublication") or {}
-
-    mutation_types = publication.get("mutationTypes") or []
-    mutation_keys = [
-        mutation.get("key", "")
-        for mutation in mutation_types
-        if isinstance(mutation, dict)
-    ]
-
+def row_for(entry: dict[str, Any]) -> list[Any]:
+    company = nested(entry, "raw", "companyShort") or {}
+    publication = nested(entry, "raw", "sogcPublication") or {}
+    mutations = publication.get("mutationTypes") or []
+    mutation_keys = [item.get("key", "") for item in mutations if isinstance(item, dict)]
+    sources = entry.get("contact_sources") or {}
     return [
         clean_text(entry.get("publication_date")),
         clean_text(entry.get("event_type")),
         clean_text(entry.get("company_name") or company.get("name")),
-        normalize_uid(clean_text(entry.get("uid") or company.get("uid"))),
-        clean_text(
-            entry.get("canton")
-            or publication.get("registryOfCommerceCanton")
-        ),
+        format_uid(entry.get("uid") or company.get("uid")),
+        clean_text(entry.get("canton") or publication.get("registryOfCommerceCanton")),
         clean_text(entry.get("locality") or company.get("legalSeat")),
-        clean_text(get_nested(company, "legalForm", "name", "de")),
+        clean_text(nested(company, "legalForm", "name", "de")),
         clean_text(company.get("status")),
         clean_text(entry.get("categories", [])),
         entry.get("confidence", ""),
@@ -91,166 +90,86 @@ def extract_row(entry: dict[str, Any]) -> list[Any]:
         clean_text(entry.get("website")),
         clean_text(mutation_keys),
         clean_text(publication.get("message") or entry.get("purpose")),
+        clean_text(sources),
+        clean_text(entry.get("source_url")),
         clean_text(entry.get("publication_id")),
     ]
 
 
-def create_excel(report_path: Path, excel_path: Path) -> int:
-    with report_path.open("r", encoding="utf-8") as file:
-        records = json.load(file)
-
-    if not isinstance(records, list):
-        raise ValueError("Der JSON-Bericht muss eine Liste enthalten.")
-
-    workbook = Workbook()
-    sheet = workbook.active
-    sheet.title = "Treffer"
-
+def create_workbook(records: list[dict[str, Any]], output: Path, period: str) -> None:
+    wb = Workbook()
+    ws = wb.active
+    ws.title = "Treffer"
     headers = [
-        "Publikationsdatum",
-        "Ereignistyp",
-        "Firma",
-        "UID",
-        "Kanton",
-        "Ort",
-        "Rechtsform",
-        "Status",
-        "Kategorien",
-        "Konfidenz",
-        "Kontaktpersonen",
-        "E-Mail-Adressen",
-        "Telefonnummern",
-        "Website",
-        "Mutationsarten",
-        "Publikationstext",
-        "Publikations-ID",
+        "Publikationsdatum", "Ereignistyp", "Firma", "UID", "Kanton", "Ort",
+        "Rechtsform", "Status", "Kategorien", "Konfidenz", "Kontaktpersonen",
+        "E-Mail-Adressen", "Telefonnummern", "Website", "Mutationsarten",
+        "Publikationstext", "Kontaktquellen", "Quellen-URL", "Publikations-ID",
     ]
+    ws.append(headers)
+    for record in sorted(records, key=lambda r: (clean_text(r.get("publication_date")), clean_text(r.get("company_name")))):
+        ws.append(row_for(record))
 
-    sheet.append(headers)
-
-    for cell in sheet[1]:
-        cell.font = Font(bold=True)
-        cell.alignment = Alignment(
-            horizontal="center",
-            vertical="center",
-        )
-
-    for record in records:
-        if isinstance(record, dict):
-            sheet.append(extract_row(record))
-
-    sheet.freeze_panes = "A2"
-    sheet.auto_filter.ref = sheet.dimensions
-
-    widths = {
-        1: 18,
-        2: 16,
-        3: 36,
-        4: 20,
-        5: 10,
-        6: 24,
-        7: 34,
-        8: 14,
-        9: 25,
-        10: 12,
-        11: 35,
-        12: 35,
-        13: 25,
-        14: 35,
-        15: 30,
-        16: 100,
-        17: 28,
-    }
-
-    for number, width in widths.items():
-        sheet.column_dimensions[get_column_letter(number)].width = width
-
-    for row in sheet.iter_rows(min_row=2):
+    header_fill = PatternFill("solid", fgColor="1F4E78")
+    for cell in ws[1]:
+        cell.font = Font(bold=True, color="FFFFFF")
+        cell.fill = header_fill
+        cell.alignment = Alignment(horizontal="center", vertical="center", wrap_text=True)
+    ws.freeze_panes = "A2"
+    ws.auto_filter.ref = ws.dimensions
+    widths = [16, 15, 34, 20, 9, 22, 30, 13, 24, 12, 32, 32, 24, 32, 28, 80, 40, 35, 28]
+    for index, width in enumerate(widths, 1):
+        ws.column_dimensions[get_column_letter(index)].width = width
+    for row in ws.iter_rows(min_row=2):
         for cell in row:
-            cell.alignment = Alignment(
-                vertical="top",
-                wrap_text=True,
-            )
+            cell.alignment = Alignment(vertical="top", wrap_text=True)
+    if ws.max_row >= 2:
+        table = Table(displayName="TrefferTabelle", ref=f"A1:S{ws.max_row}")
+        table.tableStyleInfo = TableStyleInfo(name="TableStyleMedium2", showRowStripes=True, showFirstColumn=False, showLastColumn=False)
+        ws.add_table(table)
 
-    summary = workbook.create_sheet("Zusammenfassung")
-    summary.append(["Kennzahl", "Wert"])
+    summary = wb.create_sheet("Zusammenfassung")
+    summary.append(["Wochenbericht", period])
     summary.append(["Anzahl Treffer", len(records)])
-
-    event_counts: dict[str, int] = {}
-    category_counts: dict[str, int] = {}
-
-    for record in records:
-        if not isinstance(record, dict):
-            continue
-
-        event_type = clean_text(record.get("event_type")) or "unbekannt"
-        event_counts[event_type] = event_counts.get(event_type, 0) + 1
-
-        categories = record.get("categories") or []
-        if isinstance(categories, list):
-            for category in categories:
-                category = clean_text(category)
-                if category:
-                    category_counts[category] = (
-                        category_counts.get(category, 0) + 1
-                    )
-
     summary.append([])
     summary.append(["Ereignistyp", "Anzahl"])
-
-    for event_type, count in sorted(event_counts.items()):
-        summary.append([event_type, count])
-
+    event_counts = Counter(clean_text(r.get("event_type")) or "unbekannt" for r in records)
+    for name, count in sorted(event_counts.items()):
+        summary.append([name, count])
     summary.append([])
     summary.append(["Kategorie", "Anzahl"])
-
-    for category, count in sorted(
-        category_counts.items(),
-        key=lambda item: (-item[1], item[0]),
-    ):
-        summary.append([category, count])
-
-    for cell in summary[1]:
-        cell.font = Font(bold=True)
-
+    category_counts: Counter[str] = Counter()
+    for record in records:
+        categories = record.get("categories") or []
+        if isinstance(categories, list):
+            category_counts.update(clean_text(category) for category in categories if clean_text(category))
+    for name, count in category_counts.most_common():
+        summary.append([name, count])
     summary.column_dimensions["A"].width = 30
-    summary.column_dimensions["B"].width = 15
+    summary.column_dimensions["B"].width = 18
+    for row_number in (1, 4, 4 + len(event_counts) + 3):
+        for cell in summary[row_number]:
+            cell.font = Font(bold=True, color="FFFFFF")
+            cell.fill = header_fill
+    output.parent.mkdir(parents=True, exist_ok=True)
+    wb.save(output)
 
-    excel_path.parent.mkdir(parents=True, exist_ok=True)
-    workbook.save(excel_path)
 
-    return len(records)
-
-
-def main() -> None:
-    parser = argparse.ArgumentParser(
-        description="JSON-Tagesbericht als Excel-Datei exportieren."
-    )
-    parser.add_argument(
-        "--date",
-        required=True,
-        help="Berichtsdatum im Format YYYY-MM-DD",
-    )
+def main() -> int:
+    parser = argparse.ArgumentParser(description="JSON-Berichte als Excel-Datei exportieren")
+    parser.add_argument("--input", nargs="+", required=True, help="Eine oder mehrere JSON-Dateien")
+    parser.add_argument("--output", required=True, help="Zielpfad der XLSX-Datei")
+    parser.add_argument("--period", default="", help="Bezeichnung des Berichtszeitraums")
     args = parser.parse_args()
-
-    try:
-        date.fromisoformat(args.date)
-    except ValueError as exc:
-        raise SystemExit(
-            "--date muss das Format YYYY-MM-DD haben."
-        ) from exc
-
-    report_path = REPORTS_DIR / f"treffer-{args.date}.json"
-    excel_path = EXPORTS_DIR / f"treffer-{args.date}.xlsx"
-
-    if not report_path.exists():
-        raise SystemExit(f"JSON-Bericht nicht gefunden: {report_path}")
-
-    count = create_excel(report_path, excel_path)
-
-    print(f"Excel-Datei erstellt: {excel_path}")
-    print(f"Anzahl exportierter Treffer: {count}")
+    paths = [Path(value) for value in args.input]
+    missing = [str(path) for path in paths if not path.exists()]
+    if missing:
+        raise SystemExit(f"Fehlende JSON-Berichte: {', '.join(missing)}")
+    records = load_reports(paths)
+    create_workbook(records, Path(args.output), args.period)
+    print(f"Excel-Datei erstellt: {args.output} ({len(records)} Treffer)")
+    return 0
 
 
 if __name__ == "__main__":
-    main()
+    raise SystemExit(main())

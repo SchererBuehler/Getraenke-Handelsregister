@@ -34,11 +34,7 @@ BASE_URL = os.getenv(
 ZEFIX_USERNAME = os.getenv("ZEFIX_USERNAME", "").strip()
 ZEFIX_PASSWORD = os.getenv("ZEFIX_PASSWORD", "")
 
-DB_PATH = Path(os.getenv("DB_PATH", "registry_bot.sqlite3"))
-TIMEOUT = int(os.getenv("HTTP_TIMEOUT", "30"))
-
-BASE_URL = os.getenv("ZEFIX_BASE_URL", "https://www.zefix.admin.ch/ZefixPublicREST/api/v1").rstrip("/")
-DB_PATH = Path(os.getenv("DB_PATH", "registry_bot.sqlite3"))
+DB_PATH = Path(os.getenv("DB_PATH", "data/registry_bot.sqlite3"))
 TIMEOUT = int(os.getenv("HTTP_TIMEOUT", "30"))
 ENRICH_CONTACTS = os.getenv("ENRICH_CONTACTS", "true").lower() in {"1", "true", "yes", "on"}
 MAX_CONTACT_PAGES = int(os.getenv("MAX_CONTACT_PAGES", "3"))
@@ -90,6 +86,7 @@ class Match:
 
 
 def setup_db() -> sqlite3.Connection:
+    DB_PATH.parent.mkdir(parents=True, exist_ok=True)
     con = sqlite3.connect(DB_PATH)
     con.execute("""
         CREATE TABLE IF NOT EXISTS matches (
@@ -143,6 +140,10 @@ def fetch_publications(day: date) -> Any:
             "User-Agent": USER_AGENT,
         },
     )
+
+    if response.status_code == 404:
+        logging.info("Keine Publikationen für %s gefunden.", day.isoformat())
+        return []
 
     if response.status_code == 401:
         raise RuntimeError(
