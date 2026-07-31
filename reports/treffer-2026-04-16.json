@@ -1,0 +1,794 @@
+[
+  {
+    "publication_id": "1ab5d7c571fb47989fbd21a6",
+    "publication_date": "2026-04-16",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-04-16 | ZH | 2026-04-13 | <FT TYPE=\"F\">ANDORRA CafÃ© Bar GmbH in Liquidation</FT>, in <FT TYPE=\"S\">ZÃ¼rich</FT>, <FT TYPE=\"A\">CHE-284.141.914</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 224 vom 19.11.2025, Publ. 1006488283). Das Konkursverfahren ist mit Urteil des Konkursgerichts des Bezirksgerichts ZÃ¼rich vom 02.04.2026 mangels Aktiven eingestellt worden. | status | status.wiederrufliq | ANDORRA Café Bar GmbH in Liquidation | CHE284141914 | CH02040464295 | Zürich | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | BEING_CANCELLED | 2026-04-16",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006488283)",
+      "02040464295"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-04-16",
+        "sogcId": 1006626015,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 18595,
+        "registryOfCommerceJournalDate": "2026-04-13",
+        "message": "<FT TYPE=\"F\">ANDORRA CafÃ© Bar GmbH in Liquidation</FT>, in <FT TYPE=\"S\">ZÃ¼rich</FT>, <FT TYPE=\"A\">CHE-284.141.914</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 224 vom 19.11.2025, Publ. 1006488283). Das Konkursverfahren ist mit Urteil des Konkursgerichts des Bezirksgerichts ZÃ¼rich vom 02.04.2026 mangels Aktiven eingestellt worden.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 6,
+            "key": "status.wiederrufliq"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "ANDORRA Café Bar GmbH in Liquidation",
+        "ehraid": 1042609,
+        "uid": "CHE284141914",
+        "chid": "CH02040464295",
+        "legalSeatId": 261,
+        "legalSeat": "Zürich",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "BEING_CANCELLED",
+        "sogcDate": "2026-04-16",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "06873469a487a85c4c33124c",
+    "publication_date": "2026-04-16",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-04-16 | VS | 2026-04-13 | <FT TYPE=\"F\">CafÃ© Pizzeria L&apos;Avenue - SNC en liquidation</FT>, Ã  <FT TYPE=\"S\">Chippis</FT>, <FT TYPE=\"A\">CHE-439.992.002</FT>, sociÃ©tÃ© en nom collectif (No. FOSC 70 du 14.04.2026, Publ. 1006624765). La liquidation Ã©tant terminÃ©e, la sociÃ©tÃ© est radiÃ©e. | status | status.loeschung | Café Pizzeria L'Avenue - SNC en liquidation | CHE439992002 | CH62620242176 | Chippis | 0103 | Kollektivgesellschaft | Société en nom collectif | Società in nome collettivo | General Partnership | KlG | SNC | SNC | GP | CANCELLED | 2026-04-16 | 2026-04-16",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006624765)"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-04-16",
+        "sogcId": 1006627191,
+        "registryOfCommerceId": 626,
+        "registryOfCommerceCanton": "VS",
+        "registryOfCommerceJournalId": 1592,
+        "registryOfCommerceJournalDate": "2026-04-13",
+        "message": "<FT TYPE=\"F\">CafÃ© Pizzeria L&apos;Avenue - SNC en liquidation</FT>, Ã  <FT TYPE=\"S\">Chippis</FT>, <FT TYPE=\"A\">CHE-439.992.002</FT>, sociÃ©tÃ© en nom collectif (No. FOSC 70 du 14.04.2026, Publ. 1006624765). La liquidation Ã©tant terminÃ©e, la sociÃ©tÃ© est radiÃ©e.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 7,
+            "key": "status.loeschung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Café Pizzeria L'Avenue - SNC en liquidation",
+        "ehraid": 1640639,
+        "uid": "CHE439992002",
+        "chid": "CH62620242176",
+        "legalSeatId": 6235,
+        "legalSeat": "Chippis",
+        "registryOfCommerceId": 626,
+        "legalForm": {
+          "id": 2,
+          "uid": "0103",
+          "name": {
+            "de": "Kollektivgesellschaft",
+            "fr": "Société en nom collectif",
+            "it": "Società in nome collettivo",
+            "en": "General Partnership"
+          },
+          "shortName": {
+            "de": "KlG",
+            "fr": "SNC",
+            "it": "SNC",
+            "en": "GP"
+          }
+        },
+        "status": "CANCELLED",
+        "sogcDate": "2026-04-16",
+        "deletionDate": "2026-04-16"
+      }
+    }
+  },
+  {
+    "publication_id": "208b0aef66414779d23212f0",
+    "publication_date": "2026-04-16",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-04-16 | VS | 2026-04-13 | <FT TYPE=\"F\">CafÃ©-Restaurant de la Gare et Bar La Taverne, Hugo Joaquim de Jesus Rocha</FT>, Ã  <FT TYPE=\"S\">Saxon</FT>, <FT TYPE=\"A\">CHE-396.423.811</FT>, entreprise individuelle (No. FOSC 5 du 09.01.2026, Publ. 1006533527). Par dÃ©cision du 02.04.2026 prononcÃ©e par le Tribunal de Martigny et St-Maurice, la liquidation de la faillite en la forme sommaire a Ã©tÃ© ordonnÃ©e. | status | status.wiederrufliq | Café-Restaurant de la Gare et Bar La Taverne, Hugo Joaquim de Jesus Rocha | CHE396423811 | CH62110118106 | Saxon | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | BEING_CANCELLED | 2026-04-16",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006533527)"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-04-16",
+        "sogcId": 1006627171,
+        "registryOfCommerceId": 621,
+        "registryOfCommerceCanton": "VS",
+        "registryOfCommerceJournalId": 1454,
+        "registryOfCommerceJournalDate": "2026-04-13",
+        "message": "<FT TYPE=\"F\">CafÃ©-Restaurant de la Gare et Bar La Taverne, Hugo Joaquim de Jesus Rocha</FT>, Ã  <FT TYPE=\"S\">Saxon</FT>, <FT TYPE=\"A\">CHE-396.423.811</FT>, entreprise individuelle (No. FOSC 5 du 09.01.2026, Publ. 1006533527). Par dÃ©cision du 02.04.2026 prononcÃ©e par le Tribunal de Martigny et St-Maurice, la liquidation de la faillite en la forme sommaire a Ã©tÃ© ordonnÃ©e.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 6,
+            "key": "status.wiederrufliq"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Café-Restaurant de la Gare et Bar La Taverne, Hugo Joaquim de Jesus Rocha",
+        "ehraid": 1678486,
+        "uid": "CHE396423811",
+        "chid": "CH62110118106",
+        "legalSeatId": 6141,
+        "legalSeat": "Saxon",
+        "registryOfCommerceId": 621,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "BEING_CANCELLED",
+        "sogcDate": "2026-04-16",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "76d30264abd82384a0929486",
+    "publication_date": "2026-04-16",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-04-16 | GR | 2026-04-13 | <FT TYPE=\"N\">GMD Swiss GmbH</FT>, in <FT TYPE=\"5\">Landquart</FT>, <FT TYPE=\"A\">CHE-467.637.003</FT>, Bahnhofstrasse 11, 7302 Landquart, Gesellschaft mit beschrÃ¤nkter Haftung (Neueintragung). Statutendatum: 10.04.2026. Zweck: Die Gesellschaft bezweckt die Entwicklung, Erforschung, Herstellung und den Vertrieb von Multilevel-Sensoren und Edge-Computing-Systemen im Bereich von Naturgefahren sowie einer KI-basierten Analyseplattform zur Verarbeitung von Mess- und Umweltdaten. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle GeschÃ¤fte tÃ¤tigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, verÃ¤ussern und verwalten. Sie kann auch Finanzierungen fÃ¼r eigene oder fremde Rechnung vornehmen sowie Sicherheiten fÃ¼r Verbindlichkeiten verbundener Gesellschaften abgeben. Stammkapital: CHF 20&apos;000.00. Nebenleistungspflichten, Vorhand-, Vorkaufs- oder Kaufsrechte gemÃ¤ss nÃ¤herer Umschreibung in den Statuten. Publikationsorgan: SHAB. Die Mitteilungen der GeschÃ¤ftsfÃ¼hrung an die Gesellschafter erfolgen schriftlich oder per E-Mail. GemÃ¤ss ErklÃ¤rung bei der GrÃ¼ndung der Gesellschaft wird auf eine eingeschrÃ¤nkte Revision verzichtet. Eingetragene Personen: Weingarth, Steve Frank, deutscher StaatsangehÃ¶riger, in Innsbruck (AT), Gesellschafter und GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift, mit 100&apos;000 Stammanteilen zu je CHF 0.20; Arpagaus, Eugen Plazi, von Lumnezia, in Zizers, mit Einzelunterschrift. | status | status.neu | GMD Swiss GmbH | CHE467637003 | CH35040081910 | Landquart | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-04-16",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "040081910"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-04-16",
+        "sogcId": 1006626621,
+        "registryOfCommerceId": 350,
+        "registryOfCommerceCanton": "GR",
+        "registryOfCommerceJournalId": 1832,
+        "registryOfCommerceJournalDate": "2026-04-13",
+        "message": "<FT TYPE=\"N\">GMD Swiss GmbH</FT>, in <FT TYPE=\"5\">Landquart</FT>, <FT TYPE=\"A\">CHE-467.637.003</FT>, Bahnhofstrasse 11, 7302 Landquart, Gesellschaft mit beschrÃ¤nkter Haftung (Neueintragung). Statutendatum: 10.04.2026. Zweck: Die Gesellschaft bezweckt die Entwicklung, Erforschung, Herstellung und den Vertrieb von Multilevel-Sensoren und Edge-Computing-Systemen im Bereich von Naturgefahren sowie einer KI-basierten Analyseplattform zur Verarbeitung von Mess- und Umweltdaten. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle GeschÃ¤fte tÃ¤tigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, verÃ¤ussern und verwalten. Sie kann auch Finanzierungen fÃ¼r eigene oder fremde Rechnung vornehmen sowie Sicherheiten fÃ¼r Verbindlichkeiten verbundener Gesellschaften abgeben. Stammkapital: CHF 20&apos;000.00. Nebenleistungspflichten, Vorhand-, Vorkaufs- oder Kaufsrechte gemÃ¤ss nÃ¤herer Umschreibung in den Statuten. Publikationsorgan: SHAB. Die Mitteilungen der GeschÃ¤ftsfÃ¼hrung an die Gesellschafter erfolgen schriftlich oder per E-Mail. GemÃ¤ss ErklÃ¤rung bei der GrÃ¼ndung der Gesellschaft wird auf eine eingeschrÃ¤nkte Revision verzichtet. Eingetragene Personen: Weingarth, Steve Frank, deutscher StaatsangehÃ¶riger, in Innsbruck (AT), Gesellschafter und GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift, mit 100&apos;000 Stammanteilen zu je CHF 0.20; Arpagaus, Eugen Plazi, von Lumnezia, in Zizers, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "GMD Swiss GmbH",
+        "ehraid": 1745073,
+        "uid": "CHE467637003",
+        "chid": "CH35040081910",
+        "legalSeatId": 3955,
+        "legalSeat": "Landquart",
+        "registryOfCommerceId": 350,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-04-16",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "64bf26c3b8b73d1ff7dba860",
+    "publication_date": "2026-04-16",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-04-16 | ZH | 2026-04-13 | <FT TYPE=\"F\">Limet Trading GmbH</FT>, in <FT TYPE=\"S\">Winkel</FT>, <FT TYPE=\"A\">CHE-114.915.366</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 219 vom 10.11.2022, Publ. 1005601083). Firma neu: <FT TYPE=\"N\">Limet Trading GmbH in Liquidation</FT>. Die Gesellschaft ist mit Beschluss der Gesellschafterversammlung vom 31.03.2026 aufgelÃ¶st. Eingetragene Personen neu oder mutierend: Thurnheer, Marco Andreas, von Winterthur und Weinfelden, in BÃ¼lach, Gesellschafter und Vorsitzender der GeschÃ¤ftsfÃ¼hrung, Liquidator, mit Einzelunterschrift, mit 8 Stammanteilen zu je CHF 2&apos;000.00 [bisher: Gesellschafter und Vorsitzender der GeschÃ¤ftsfÃ¼hrung, mit Einzelunterschrift]. | status | status.aufl | status.aufl.liq | aenderungorgane | Limet Trading GmbH in Liquidation | CHE114915366 | CH02040403111 | Winkel | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | BEING_CANCELLED | 2026-04-16",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "005601083)",
+      "02040403111"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-04-16",
+        "sogcId": 1006626082,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 18662,
+        "registryOfCommerceJournalDate": "2026-04-13",
+        "message": "<FT TYPE=\"F\">Limet Trading GmbH</FT>, in <FT TYPE=\"S\">Winkel</FT>, <FT TYPE=\"A\">CHE-114.915.366</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 219 vom 10.11.2022, Publ. 1005601083). Firma neu: <FT TYPE=\"N\">Limet Trading GmbH in Liquidation</FT>. Die Gesellschaft ist mit Beschluss der Gesellschafterversammlung vom 31.03.2026 aufgelÃ¶st. Eingetragene Personen neu oder mutierend: Thurnheer, Marco Andreas, von Winterthur und Weinfelden, in BÃ¼lach, Gesellschafter und Vorsitzender der GeschÃ¤ftsfÃ¼hrung, Liquidator, mit Einzelunterschrift, mit 8 Stammanteilen zu je CHF 2&apos;000.00 [bisher: Gesellschafter und Vorsitzender der GeschÃ¤ftsfÃ¼hrung, mit Einzelunterschrift].",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 3,
+            "key": "status.aufl"
+          },
+          {
+            "id": 4,
+            "key": "status.aufl.liq"
+          },
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Limet Trading GmbH in Liquidation",
+        "ehraid": 947635,
+        "uid": "CHE114915366",
+        "chid": "CH02040403111",
+        "legalSeatId": 72,
+        "legalSeat": "Winkel",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "BEING_CANCELLED",
+        "sogcDate": "2026-04-16",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "54700ec342efa087376de89f",
+    "publication_date": "2026-04-16",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-04-16 | VD | 2026-04-13 | <FT TYPE=\"F\">MBRM Holding SÃ rl</FT>, Ã  <FT TYPE=\"S\">Daillens</FT>, <FT TYPE=\"A\">CHE-233.932.041</FT> (FOSC du 10.12.2024, p. 0/1006200636). Statuts modifiÃ©s le 08.04.2026. Nouvelle raison de commerce: <FT TYPE=\"N\">MBEpicure SÃ rl</FT>. SiÃ¨ge transfÃ©rÃ© Ã  <FT TYPE=\"5\">Aigle</FT>. Nouvelle adresse: Chemin de Vers-Pousaz 41, 1860 Aigle. Nouveau but: la sociÃ©tÃ© a pour but l&apos;exploitation en matiÃ¨re d&apos;Ã©tablissements publics de tous types, soit hÃ´tels, restaurants, cafÃ©s, bars et stands de vente de nourriture et boissons Ã  l&apos;emporter ainsi que toutes activitÃ©s convergentes soit achat, vente, importation, exportation, commercialisation de marchandises nÃ©cessaires Ã  cette activitÃ©, consulting, enseignement et Ã©colage en relation avec ce type d&apos;activitÃ©, organisation d&apos;Ã©vÃ¨nements et organisation de service traiteur. La sociÃ©tÃ© peut se charger de toutes les opÃ©rations et de toutes les fonctions qui sont de nature Ã  dÃ©velopper son but ou qui ont un rapport direct ou indirect avec celui-ci. Elle peut crÃ©er des succursales ou des filiales en Suisse ou Ã  l&apos;Ã©tranger, acquÃ©rir des entreprises visant un but identique ou analogue, ou fusionner avec de telles entreprises, acquÃ©rir ou vendre des immeubles Ã  l&apos;exception des opÃ©rations prohibÃ©es par la LFAIE et conclure tous contrats propres Ã  dÃ©velopper ou Ã  Ã©tendre son but ou s&apos;y rapportant directement ou indirectement. Bruno Mathieu est maintenant Ã  Aigle. | firmenaenderung | zweckaenderung | adressaenderung | aenderungorgane | fusion | MBEpicure Sàrl | CHE233932041 | CH55012426684 | Aigle | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-04-16",
+    "categories": [
+      "allgemein",
+      "handel_vertrieb"
+    ],
+    "confidence": 95,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006200636)",
+      "012426684"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-04-16",
+        "sogcId": 1006627102,
+        "registryOfCommerceId": 550,
+        "registryOfCommerceCanton": "VD",
+        "registryOfCommerceJournalId": 7987,
+        "registryOfCommerceJournalDate": "2026-04-13",
+        "message": "<FT TYPE=\"F\">MBRM Holding SÃ rl</FT>, Ã  <FT TYPE=\"S\">Daillens</FT>, <FT TYPE=\"A\">CHE-233.932.041</FT> (FOSC du 10.12.2024, p. 0/1006200636). Statuts modifiÃ©s le 08.04.2026. Nouvelle raison de commerce: <FT TYPE=\"N\">MBEpicure SÃ rl</FT>. SiÃ¨ge transfÃ©rÃ© Ã  <FT TYPE=\"5\">Aigle</FT>. Nouvelle adresse: Chemin de Vers-Pousaz 41, 1860 Aigle. Nouveau but: la sociÃ©tÃ© a pour but l&apos;exploitation en matiÃ¨re d&apos;Ã©tablissements publics de tous types, soit hÃ´tels, restaurants, cafÃ©s, bars et stands de vente de nourriture et boissons Ã  l&apos;emporter ainsi que toutes activitÃ©s convergentes soit achat, vente, importation, exportation, commercialisation de marchandises nÃ©cessaires Ã  cette activitÃ©, consulting, enseignement et Ã©colage en relation avec ce type d&apos;activitÃ©, organisation d&apos;Ã©vÃ¨nements et organisation de service traiteur. La sociÃ©tÃ© peut se charger de toutes les opÃ©rations et de toutes les fonctions qui sont de nature Ã  dÃ©velopper son but ou qui ont un rapport direct ou indirect avec celui-ci. Elle peut crÃ©er des succursales ou des filiales en Suisse ou Ã  l&apos;Ã©tranger, acquÃ©rir des entreprises visant un but identique ou analogue, ou fusionner avec de telles entreprises, acquÃ©rir ou vendre des immeubles Ã  l&apos;exception des opÃ©rations prohibÃ©es par la LFAIE et conclure tous contrats propres Ã  dÃ©velopper ou Ã  Ã©tendre son but ou s&apos;y rapportant directement ou indirectement. Bruno Mathieu est maintenant Ã  Aigle.",
+        "mutationTypes": [
+          {
+            "id": 9,
+            "key": "firmenaenderung"
+          },
+          {
+            "id": 11,
+            "key": "zweckaenderung"
+          },
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          },
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          },
+          {
+            "id": 19,
+            "key": "fusion"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "MBEpicure Sàrl",
+        "ehraid": 1669065,
+        "uid": "CHE233932041",
+        "chid": "CH55012426684",
+        "legalSeatId": 5401,
+        "legalSeat": "Aigle",
+        "registryOfCommerceId": 550,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-04-16",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "a246da31a5c948a3d7245101",
+    "publication_date": "2026-04-16",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-04-16 | SZ | 2026-04-13 | <FT TYPE=\"F\">Noor Coffee AG</FT>, in <FT TYPE=\"S\">Feusisberg</FT>, <FT TYPE=\"A\">CHE-333.053.281</FT>, Aktiengesellschaft (SHAB Nr. 236 vom 05.12.2022, Publ. 1005619309). Ausgeschiedene Personen und erloschene Unterschriften: Ducaroir, Vincent Roger RenÃ©, franzÃ¶sischer StaatsangehÃ¶riger, in Nyon, VizeprÃ¤sident, mit Einzelunterschrift. Eingetragene Personen neu oder mutierend: Tender da Costa Cabral, Helena, portugiesische StaatsangehÃ¶rige, in Einsiedeln, Mitglied, mit Einzelunterschrift [bisher: PrÃ¤sidentin und GeschÃ¤ftsfÃ¼hrerin, mit Einzelunterschrift]. | aenderungorgane | Noor Coffee AG | CHE333053281 | CH13030316738 | Feusisberg | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-04-16",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "005619309)",
+      "030316738"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-04-16",
+        "sogcId": 1006626333,
+        "registryOfCommerceId": 130,
+        "registryOfCommerceCanton": "SZ",
+        "registryOfCommerceJournalId": 2497,
+        "registryOfCommerceJournalDate": "2026-04-13",
+        "message": "<FT TYPE=\"F\">Noor Coffee AG</FT>, in <FT TYPE=\"S\">Feusisberg</FT>, <FT TYPE=\"A\">CHE-333.053.281</FT>, Aktiengesellschaft (SHAB Nr. 236 vom 05.12.2022, Publ. 1005619309). Ausgeschiedene Personen und erloschene Unterschriften: Ducaroir, Vincent Roger RenÃ©, franzÃ¶sischer StaatsangehÃ¶riger, in Nyon, VizeprÃ¤sident, mit Einzelunterschrift. Eingetragene Personen neu oder mutierend: Tender da Costa Cabral, Helena, portugiesische StaatsangehÃ¶rige, in Einsiedeln, Mitglied, mit Einzelunterschrift [bisher: PrÃ¤sidentin und GeschÃ¤ftsfÃ¼hrerin, mit Einzelunterschrift].",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Noor Coffee AG",
+        "ehraid": 1563622,
+        "uid": "CHE333053281",
+        "chid": "CH13030316738",
+        "legalSeatId": 1321,
+        "legalSeat": "Feusisberg",
+        "registryOfCommerceId": 130,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-04-16",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "d6baff6193c6530185609668",
+    "publication_date": "2026-04-16",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-04-16 | TG | 2026-04-13 | <FT TYPE=\"F\">Nordlicht Wealth Management AG</FT>, in <FT TYPE=\"S\">Egnach</FT>, <FT TYPE=\"A\">CHE-418.990.262</FT>, Aktiengesellschaft (SHAB Nr. 151 vom 08.08.2025, Publ. 1006404601). StatutenÃ¤nderung: 20.03.2026. Zweck neu: Die Gesellschaft bezweckt die TÃ¤tigkeit als VermÃ¶gensverwalterin im Sinne von Art. 17 Abs. 1 FINIG sowie als Verwalterin von KollektivvermÃ¶gen unterhalb der De-minimis-Schwellenwerte gemÃ¤ss Art. 24 Abs. 2 FINIG. Die Gesellschaft kann zudem weitere nicht bewilligungspflichtige Finanzdienstleistungen sowie damit verbundene Nebendienstleistungen erbringen, Finanzinstrumente entwickeln sowie Beratungs- und Verwaltungsdienstleistungen im Finanzbereich anbieten. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle GeschÃ¤fte tÃ¤tigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, verÃ¤ussern und verwalten. Sie kann auch Finanzierungen fÃ¼r eigene oder fremde Rechnung vornehmen sowie Garantien und BÃ¼rgschaften fÃ¼r Tochtergesellschaften und Dritte eingehen. Eingetragene Personen neu oder mutierend: SchÃ¼rch, Philipp Daniel, von Rohrbach, in Lostorf, PrÃ¤sident des Verwaltungsrates, mit Kollektivunterschrift zu zweien [bisher: Mitglied des Verwaltungsrates, mit Einzelunterschrift]; Bogusch, David, von Niederwil (AG), in Neukirch (Egnach), Mitglied des Verwaltungsrates, Mitglied der GeschÃ¤ftsleitung, mit Einzelunterschrift; Isenrich, Urs, von Wuppenau, in Weinfelden, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien. | zweckaenderung | aenderungorgane | Nordlicht Wealth Management AG | CHE418990262 | CH44030432842 | Egnach | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-04-16",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006404601)",
+      "030432842"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-04-16",
+        "sogcId": 1006626702,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 2585,
+        "registryOfCommerceJournalDate": "2026-04-13",
+        "message": "<FT TYPE=\"F\">Nordlicht Wealth Management AG</FT>, in <FT TYPE=\"S\">Egnach</FT>, <FT TYPE=\"A\">CHE-418.990.262</FT>, Aktiengesellschaft (SHAB Nr. 151 vom 08.08.2025, Publ. 1006404601). StatutenÃ¤nderung: 20.03.2026. Zweck neu: Die Gesellschaft bezweckt die TÃ¤tigkeit als VermÃ¶gensverwalterin im Sinne von Art. 17 Abs. 1 FINIG sowie als Verwalterin von KollektivvermÃ¶gen unterhalb der De-minimis-Schwellenwerte gemÃ¤ss Art. 24 Abs. 2 FINIG. Die Gesellschaft kann zudem weitere nicht bewilligungspflichtige Finanzdienstleistungen sowie damit verbundene Nebendienstleistungen erbringen, Finanzinstrumente entwickeln sowie Beratungs- und Verwaltungsdienstleistungen im Finanzbereich anbieten. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle GeschÃ¤fte tÃ¤tigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, verÃ¤ussern und verwalten. Sie kann auch Finanzierungen fÃ¼r eigene oder fremde Rechnung vornehmen sowie Garantien und BÃ¼rgschaften fÃ¼r Tochtergesellschaften und Dritte eingehen. Eingetragene Personen neu oder mutierend: SchÃ¼rch, Philipp Daniel, von Rohrbach, in Lostorf, PrÃ¤sident des Verwaltungsrates, mit Kollektivunterschrift zu zweien [bisher: Mitglied des Verwaltungsrates, mit Einzelunterschrift]; Bogusch, David, von Niederwil (AG), in Neukirch (Egnach), Mitglied des Verwaltungsrates, Mitglied der GeschÃ¤ftsleitung, mit Einzelunterschrift; Isenrich, Urs, von Wuppenau, in Weinfelden, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien.",
+        "mutationTypes": [
+          {
+            "id": 11,
+            "key": "zweckaenderung"
+          },
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Nordlicht Wealth Management AG",
+        "ehraid": 1706150,
+        "uid": "CHE418990262",
+        "chid": "CH44030432842",
+        "legalSeatId": 4411,
+        "legalSeat": "Egnach",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-04-16",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "467abf10c8b863653c70e2ac",
+    "publication_date": "2026-04-16",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-04-16 | ZH | 2026-04-13 | <FT TYPE=\"N\">Sampatakos Creative &amp; Hospitality</FT>, in <FT TYPE=\"5\">ZÃ¼rich</FT>, <FT TYPE=\"A\">CHE-225.665.197</FT>, Ceresstrasse 4, 8008 ZÃ¼rich, Einzelunternehmen (Neueintragung). Zweck: Grafikdesign, Fotografie, Publishing, gedruckte und digitale Magazine, journalistische und redaktionelle Inhalte, visuelle Kommunikation, Branding, Beratung, Schulung und Weiterbildung, Hospitality- und Beverage-Konzepte, Cocktail-Kurse und Schulungen, Barcatering, Eventdienstleistungen sowie der Verkauf von Publikationen, Postern und GetrÃ¤nkeprodukten. Eingetragene Personen: Sampatakos, Epameinondas, griechischer StaatsangehÃ¶riger, in ZÃ¼rich, Inhaber, mit Einzelunterschrift. | status | status.neu | Sampatakos Creative & Hospitality | CHE225665197 | CH02011059473 | Zürich | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-04-16",
+    "categories": [
+      "allgemein"
+    ],
+    "confidence": 60,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "02011059473"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-04-16",
+        "sogcId": 1006625997,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 18577,
+        "registryOfCommerceJournalDate": "2026-04-13",
+        "message": "<FT TYPE=\"N\">Sampatakos Creative &amp; Hospitality</FT>, in <FT TYPE=\"5\">ZÃ¼rich</FT>, <FT TYPE=\"A\">CHE-225.665.197</FT>, Ceresstrasse 4, 8008 ZÃ¼rich, Einzelunternehmen (Neueintragung). Zweck: Grafikdesign, Fotografie, Publishing, gedruckte und digitale Magazine, journalistische und redaktionelle Inhalte, visuelle Kommunikation, Branding, Beratung, Schulung und Weiterbildung, Hospitality- und Beverage-Konzepte, Cocktail-Kurse und Schulungen, Barcatering, Eventdienstleistungen sowie der Verkauf von Publikationen, Postern und GetrÃ¤nkeprodukten. Eingetragene Personen: Sampatakos, Epameinondas, griechischer StaatsangehÃ¶riger, in ZÃ¼rich, Inhaber, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Sampatakos Creative & Hospitality",
+        "ehraid": 1745052,
+        "uid": "CHE225665197",
+        "chid": "CH02011059473",
+        "legalSeatId": 261,
+        "legalSeat": "Zürich",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-04-16",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "ce13781577aac1ffb775c139",
+    "publication_date": "2026-04-16",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-04-16 | BS | 2026-04-13 | <FT TYPE=\"N\">Weinauswahl Kampanien D&apos;Agostino</FT>, in <FT TYPE=\"5\">Basel</FT>, <FT TYPE=\"A\">CHE-415.703.101</FT>, c/o Tatjana Schillaci, Kaysersbergerstrasse 45, 4055 Basel, Einzelunternehmen (Neueintragung). Zweck: Import, Handel und Vertrieb und Lebensmitteln, insbesondere Wein, OlivenÃ¶l und Italienische SpezialitÃ¤ten. Eingetragene Personen: D&apos; Agostino, Giueppe, italienischer StaatsangehÃ¶riger, in Basel, Inhaber, mit Einzelunterschrift; Schillaci, Tatjana, italienische StaatsangehÃ¶rige, in Basel, mit Einzelunterschrift. | status | status.neu | Weinauswahl Kampanien D'Agostino | CHE415703101 | CH27010222375 | Basel | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-04-16",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "010222375"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-04-16",
+        "sogcId": 1006626498,
+        "registryOfCommerceId": 270,
+        "registryOfCommerceCanton": "BS",
+        "registryOfCommerceJournalId": 2612,
+        "registryOfCommerceJournalDate": "2026-04-13",
+        "message": "<FT TYPE=\"N\">Weinauswahl Kampanien D&apos;Agostino</FT>, in <FT TYPE=\"5\">Basel</FT>, <FT TYPE=\"A\">CHE-415.703.101</FT>, c/o Tatjana Schillaci, Kaysersbergerstrasse 45, 4055 Basel, Einzelunternehmen (Neueintragung). Zweck: Import, Handel und Vertrieb und Lebensmitteln, insbesondere Wein, OlivenÃ¶l und Italienische SpezialitÃ¤ten. Eingetragene Personen: D&apos; Agostino, Giueppe, italienischer StaatsangehÃ¶riger, in Basel, Inhaber, mit Einzelunterschrift; Schillaci, Tatjana, italienische StaatsangehÃ¶rige, in Basel, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Weinauswahl Kampanien D'Agostino",
+        "ehraid": 1744992,
+        "uid": "CHE415703101",
+        "chid": "CH27010222375",
+        "legalSeatId": 2701,
+        "legalSeat": "Basel",
+        "registryOfCommerceId": 270,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-04-16",
+        "deletionDate": null
+      }
+    }
+  }
+]

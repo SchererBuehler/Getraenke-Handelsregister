@@ -1,0 +1,1988 @@
+[
+  {
+    "publication_id": "65e30f226c04791e062e1fd9",
+    "publication_date": "2026-02-04",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-04 | TG | 2026-01-30 | <FT TYPE=\"F\">Appstractly GmbH</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-236.988.233</FT>, Gesellschaft mit beschränkter Haftung (SHAB Nr. 156 vom 15.08.2023, Publ. 1005816874). Domizil neu: Gaswerkstrasse 9a, 8570 Weinfelden. | adressaenderung | Appstractly GmbH | CHE236988233 | CH44040402538 | Weinfelden | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-02-04",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "005816874)",
+      "040402538"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-04",
+        "sogcId": 1006559775,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 701,
+        "registryOfCommerceJournalDate": "2026-01-30",
+        "message": "<FT TYPE=\"F\">Appstractly GmbH</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-236.988.233</FT>, Gesellschaft mit beschränkter Haftung (SHAB Nr. 156 vom 15.08.2023, Publ. 1005816874). Domizil neu: Gaswerkstrasse 9a, 8570 Weinfelden.",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Appstractly GmbH",
+        "ehraid": 1600324,
+        "uid": "CHE236988233",
+        "chid": "CH44040402538",
+        "legalSeatId": 4946,
+        "legalSeat": "Weinfelden",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-02-04",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "46a5ace2461de517e5aec8b1",
+    "publication_date": "2026-02-04",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-04 | ZH | 2026-01-30 | <FT TYPE=\"F\">Auto Zürich AG</FT>, in <FT TYPE=\"S\">Zürich</FT>, <FT TYPE=\"A\">CHE-113.088.861</FT>, Aktiengesellschaft (SHAB Nr. 131 vom 10.07.2025, Publ. 1006380293). Eingetragene Personen neu oder mutierend: Backé, Mark Nikolaus, deutscher Staatsangehöriger, in Zollikon, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien mit Karl Bieri oder Patrick Heintz [bisher: in Buchs (ZH)]. | aenderungorgane | Auto Zürich AG | CHE113088861 | CH02030301690 | Zürich | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-02-04",
+    "categories": [
+      "bier"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006380293)",
+      "02030301690"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-04",
+        "sogcId": 1006558953,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 5383,
+        "registryOfCommerceJournalDate": "2026-01-30",
+        "message": "<FT TYPE=\"F\">Auto Zürich AG</FT>, in <FT TYPE=\"S\">Zürich</FT>, <FT TYPE=\"A\">CHE-113.088.861</FT>, Aktiengesellschaft (SHAB Nr. 131 vom 10.07.2025, Publ. 1006380293). Eingetragene Personen neu oder mutierend: Backé, Mark Nikolaus, deutscher Staatsangehöriger, in Zollikon, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien mit Karl Bieri oder Patrick Heintz [bisher: in Buchs (ZH)].",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Auto Zürich AG",
+        "ehraid": 847244,
+        "uid": "CHE113088861",
+        "chid": "CH02030301690",
+        "legalSeatId": 261,
+        "legalSeat": "Zürich",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-02-04",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "d08b715ba681d21d005e0bc3",
+    "publication_date": "2026-02-04",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-04 | BS | 2026-01-30 | <FT TYPE=\"F\">Berivanistan Food&amp;Drink, Inhaberin Demirarslan</FT>, in <FT TYPE=\"S\">Basel</FT>, <FT TYPE=\"A\">CHE-275.896.959</FT>, Einzelunternehmen (SHAB Nr. 103 vom 30.05.2025, Publ. 1006344564). Das Einzelunternehmen ist infolge Geschäftsaufgabe erloschen. | status | status.loeschung | Berivanistan Food&Drink, Inhaberin Demirarslan | CHE275896959 | CH27010218610 | Basel | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | CANCELLED | 2026-02-04 | 2026-02-04",
+    "categories": [
+      "allgemein"
+    ],
+    "confidence": 60,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006344564)",
+      "010218610"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-04",
+        "sogcId": 1006559558,
+        "registryOfCommerceId": 270,
+        "registryOfCommerceCanton": "BS",
+        "registryOfCommerceJournalId": 837,
+        "registryOfCommerceJournalDate": "2026-01-30",
+        "message": "<FT TYPE=\"F\">Berivanistan Food&amp;Drink, Inhaberin Demirarslan</FT>, in <FT TYPE=\"S\">Basel</FT>, <FT TYPE=\"A\">CHE-275.896.959</FT>, Einzelunternehmen (SHAB Nr. 103 vom 30.05.2025, Publ. 1006344564). Das Einzelunternehmen ist infolge Geschäftsaufgabe erloschen.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 7,
+            "key": "status.loeschung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Berivanistan Food&Drink, Inhaberin Demirarslan",
+        "ehraid": 1695366,
+        "uid": "CHE275896959",
+        "chid": "CH27010218610",
+        "legalSeatId": 2701,
+        "legalSeat": "Basel",
+        "registryOfCommerceId": 270,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "CANCELLED",
+        "sogcDate": "2026-02-04",
+        "deletionDate": "2026-02-04"
+      }
+    }
+  },
+  {
+    "publication_id": "e61e37eddbc8766c9e8c553d",
+    "publication_date": "2026-02-04",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-04 | NW | 2026-01-30 | <FT TYPE=\"N\">Brauerei Keimling GmbH</FT> <FT TYPE=\"V\">(Brauerei Keimling Sàrl) (Brauerei Keimling Sagl) (Brauerei Keimling Ltd liab Co)</FT>, in <FT TYPE=\"5\">Buochs</FT>, <FT TYPE=\"A\">CHE-320.796.674</FT>, Allmendstrasse 5, 6374 Buochs, Gesellschaft mit beschränkter Haftung (Neueintragung). Statutendatum: 28.01.2026. Zweck: Die Gesellschaft bezweckt die Herstellung, Abfüllung und den Vertrieb von Bier und weiteren alkoholischen sowie nicht alkoholischen Getränken. Weiter bezweckt die Gesellschaft den Handel mit Rohstoffen, Getränken, Brauzubehör, Merchandising-Artikeln sowie verwandten Produkten, den Betrieb oder die Beteiligung an gastronomischen Einrichtungen, die Organisation von Veranstaltungen, Degustationen und Kursen sowie die Erbringung von Dienstleistungen im Bereich Brauerei, Getränkeherstellung und Markenaufbau. Die Gesellschaft kann Zweigniederlassungen in der Schweiz und im Ausland errichten, sich an anderen Unternehmungen des In- und des Auslandes beteiligen, gleichartige oder verwandte Unternehmen erwerben oder sich mit solchen zusammenschliessen sowie alle Geschäfte eingehen und Verträge abschliessen, die geeignet sind, den Zweck der Gesellschaft zu fördern oder die direkt oder indirekt damit im Zusammenhang stehen. Sie kann Grundstücke, Immaterialgüterrechte und Lizenzen aller Art erwerben, verwalten, belasten und veräussern. Stammkapital: CHF 20&apos;000.00. Nebenleistungspflichten, Vorhand-, Vorkaufs- oder Kaufsrechte gemäss näherer Umschreibung in den Statuten. Publikationsorgan: SHAB. Die Mitteilungen der Geschäftsführung an die Gesellschafter erfolgen schriftlich oder per E-Mail. Gemäss Erklärung bei der Gründung der Gesellschaft wird auf eine eingeschränkte Revision verzichtet. Eingetragene Personen: Zwyssig, Roger, von Seelisberg, in Buochs, Gesellschafter und Geschäftsführer, mit Einzelunterschrift, mit 200 Stammanteilen zu je CHF 100.00. | status | status.neu | Brauerei Keimling GmbH | CHE320796674 | CH1504479",
+    "categories": [
+      "allgemein",
+      "bier",
+      "handel_vertrieb"
+    ],
+    "confidence": 95,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "044790549"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-04",
+        "sogcId": 1006559334,
+        "registryOfCommerceId": 150,
+        "registryOfCommerceCanton": "NW",
+        "registryOfCommerceJournalId": 181,
+        "registryOfCommerceJournalDate": "2026-01-30",
+        "message": "<FT TYPE=\"N\">Brauerei Keimling GmbH</FT> <FT TYPE=\"V\">(Brauerei Keimling Sàrl) (Brauerei Keimling Sagl) (Brauerei Keimling Ltd liab Co)</FT>, in <FT TYPE=\"5\">Buochs</FT>, <FT TYPE=\"A\">CHE-320.796.674</FT>, Allmendstrasse 5, 6374 Buochs, Gesellschaft mit beschränkter Haftung (Neueintragung). Statutendatum: 28.01.2026. Zweck: Die Gesellschaft bezweckt die Herstellung, Abfüllung und den Vertrieb von Bier und weiteren alkoholischen sowie nicht alkoholischen Getränken. Weiter bezweckt die Gesellschaft den Handel mit Rohstoffen, Getränken, Brauzubehör, Merchandising-Artikeln sowie verwandten Produkten, den Betrieb oder die Beteiligung an gastronomischen Einrichtungen, die Organisation von Veranstaltungen, Degustationen und Kursen sowie die Erbringung von Dienstleistungen im Bereich Brauerei, Getränkeherstellung und Markenaufbau. Die Gesellschaft kann Zweigniederlassungen in der Schweiz und im Ausland errichten, sich an anderen Unternehmungen des In- und des Auslandes beteiligen, gleichartige oder verwandte Unternehmen erwerben oder sich mit solchen zusammenschliessen sowie alle Geschäfte eingehen und Verträge abschliessen, die geeignet sind, den Zweck der Gesellschaft zu fördern oder die direkt oder indirekt damit im Zusammenhang stehen. Sie kann Grundstücke, Immaterialgüterrechte und Lizenzen aller Art erwerben, verwalten, belasten und veräussern. Stammkapital: CHF 20&apos;000.00. Nebenleistungspflichten, Vorhand-, Vorkaufs- oder Kaufsrechte gemäss näherer Umschreibung in den Statuten. Publikationsorgan: SHAB. Die Mitteilungen der Geschäftsführung an die Gesellschafter erfolgen schriftlich oder per E-Mail. Gemäss Erklärung bei der Gründung der Gesellschaft wird auf eine eingeschränkte Revision verzichtet. Eingetragene Personen: Zwyssig, Roger, von Seelisberg, in Buochs, Gesellschafter und Geschäftsführer, mit Einzelunterschrift, mit 200 Stammanteilen zu je CHF 100.00.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Brauerei Keimling GmbH",
+        "ehraid": 1733135,
+        "uid": "CHE320796674",
+        "chid": "CH15044790549",
+        "legalSeatId": 1502,
+        "legalSeat": "Buochs",
+        "registryOfCommerceId": 150,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-02-04",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "9104468f69b9f66c3336692f",
+    "publication_date": "2026-02-04",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-04 | SH | 2026-01-30 | <FT TYPE=\"N\">BRO URBAN GmbH</FT>, in <FT TYPE=\"5\">Schaffhausen</FT>, <FT TYPE=\"A\">CHE-226.094.908</FT>, Mühlentalstrasse 255, 8200 Schaffhausen, Gesellschaft mit beschränkter Haftung (Neueintragung). Statutendatum: 08.01.2026. Zweck: Die Gesellschaft bezweckt die Führung von Restaurants und Gastronomiebetrieben. Herstellung, Verarbeitung, Handel und Verkauf von Lebensmitteln. Verkauf von alkoholischen und nicht alkoholischen Getränken. Erbringung von Catering-Take Away und Lieferdienstleistungen. Organisation von Veranstaltungen sowie Ausübung aller damit direkt oder indirekt zusammenhängenden Tätigkeiten. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle Geschäfte tätigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, veräussern und verwalten. Sie kann auch Finanzierungen für eigene oder fremde Rechnung vornehmen sowie Sicherheiten für Verbindlichkeiten verbundener Gesellschaften abgeben. Stammkapital: CHF 20&apos;000.00. Publikationsorgan: SHAB. Mitteilungen der Geschäftsführung an die Gesellschafter erfolgen per Brief oder E-Mail an die im Anteilbuch verzeichneten Adressen. Gemäss Erklärung anlässlich der Gründung der Rechtseinheit wird auf eine eingeschränkte Revision verzichtet. Eingetragene Personen: Seker, Tahir, türkischer Staatsangehöriger, in Schaffhausen, Gesellschafter und Geschäftsführer, mit Einzelunterschrift, mit 10 Stammanteilen zu je CHF 1&apos;000.00; Tasyurdu, Elif, deutsche Staatsangehörige, in Neuhausen am Rheinfall, Gesellschafterin, mit Einzelunterschrift, mit 10 Stammanteilen zu je CHF 1&apos;000.00. | status | status.neu | BRO URBAN GmbH | CHE226094908 | CH29040227854 | Schaffhausen | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limi",
+    "categories": [
+      "allgemein",
+      "handel_vertrieb"
+    ],
+    "confidence": 95,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "040227854"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-04",
+        "sogcId": 1006559585,
+        "registryOfCommerceId": 290,
+        "registryOfCommerceCanton": "SH",
+        "registryOfCommerceJournalId": 217,
+        "registryOfCommerceJournalDate": "2026-01-30",
+        "message": "<FT TYPE=\"N\">BRO URBAN GmbH</FT>, in <FT TYPE=\"5\">Schaffhausen</FT>, <FT TYPE=\"A\">CHE-226.094.908</FT>, Mühlentalstrasse 255, 8200 Schaffhausen, Gesellschaft mit beschränkter Haftung (Neueintragung). Statutendatum: 08.01.2026. Zweck: Die Gesellschaft bezweckt die Führung von Restaurants und Gastronomiebetrieben. Herstellung, Verarbeitung, Handel und Verkauf von Lebensmitteln. Verkauf von alkoholischen und nicht alkoholischen Getränken. Erbringung von Catering-Take Away und Lieferdienstleistungen. Organisation von Veranstaltungen sowie Ausübung aller damit direkt oder indirekt zusammenhängenden Tätigkeiten. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle Geschäfte tätigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, veräussern und verwalten. Sie kann auch Finanzierungen für eigene oder fremde Rechnung vornehmen sowie Sicherheiten für Verbindlichkeiten verbundener Gesellschaften abgeben. Stammkapital: CHF 20&apos;000.00. Publikationsorgan: SHAB. Mitteilungen der Geschäftsführung an die Gesellschafter erfolgen per Brief oder E-Mail an die im Anteilbuch verzeichneten Adressen. Gemäss Erklärung anlässlich der Gründung der Rechtseinheit wird auf eine eingeschränkte Revision verzichtet. Eingetragene Personen: Seker, Tahir, türkischer Staatsangehöriger, in Schaffhausen, Gesellschafter und Geschäftsführer, mit Einzelunterschrift, mit 10 Stammanteilen zu je CHF 1&apos;000.00; Tasyurdu, Elif, deutsche Staatsangehörige, in Neuhausen am Rheinfall, Gesellschafterin, mit Einzelunterschrift, mit 10 Stammanteilen zu je CHF 1&apos;000.00.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "BRO URBAN GmbH",
+        "ehraid": 1733313,
+        "uid": "CHE226094908",
+        "chid": "CH29040227854",
+        "legalSeatId": 2939,
+        "legalSeat": "Schaffhausen",
+        "registryOfCommerceId": 290,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-06-04",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "2a045233fad275cb427b0f27",
+    "publication_date": "2026-02-04",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-04 | GR | 2026-01-30 | <FT TYPE=\"N\">Bündner Hopfenglück KlG</FT>, in <FT TYPE=\"5\">Trimmis</FT>, <FT TYPE=\"A\">CHE-244.706.589</FT>, Valtanna 3, 7202 Says, Kollektivgesellschaft (Neueintragung). Beginn: 01.01.2026. Zweck: Handwerklicher Betrieb einer Brauerei sowie alle damit zusammenhängende Tätigkeiten. Eingetragene Personen: Rinke, Oliver, deutscher Staatsangehöriger, in Trimmis, Gesellschafter, mit Einzelunterschrift; Schmidt, Valentin, deutscher Staatsangehöriger, in Fläsch, Gesellschafter, mit Einzelunterschrift. | status | status.neu | Bündner Hopfenglück KlG | CHE244706589 | CH35020021736 | Trimmis | 0103 | Kollektivgesellschaft | Société en nom collectif | Società in nome collettivo | General Partnership | KlG | SNC | SNC | GP | ACTIVE | 2026-02-04",
+    "categories": [
+      "bier"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "020021736"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-04",
+        "sogcId": 1006559674,
+        "registryOfCommerceId": 350,
+        "registryOfCommerceCanton": "GR",
+        "registryOfCommerceJournalId": 505,
+        "registryOfCommerceJournalDate": "2026-01-30",
+        "message": "<FT TYPE=\"N\">Bündner Hopfenglück KlG</FT>, in <FT TYPE=\"5\">Trimmis</FT>, <FT TYPE=\"A\">CHE-244.706.589</FT>, Valtanna 3, 7202 Says, Kollektivgesellschaft (Neueintragung). Beginn: 01.01.2026. Zweck: Handwerklicher Betrieb einer Brauerei sowie alle damit zusammenhängende Tätigkeiten. Eingetragene Personen: Rinke, Oliver, deutscher Staatsangehöriger, in Trimmis, Gesellschafter, mit Einzelunterschrift; Schmidt, Valentin, deutscher Staatsangehöriger, in Fläsch, Gesellschafter, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Bündner Hopfenglück KlG",
+        "ehraid": 1733282,
+        "uid": "CHE244706589",
+        "chid": "CH35020021736",
+        "legalSeatId": 3945,
+        "legalSeat": "Trimmis",
+        "registryOfCommerceId": 350,
+        "legalForm": {
+          "id": 2,
+          "uid": "0103",
+          "name": {
+            "de": "Kollektivgesellschaft",
+            "fr": "Société en nom collectif",
+            "it": "Società in nome collettivo",
+            "en": "General Partnership"
+          },
+          "shortName": {
+            "de": "KlG",
+            "fr": "SNC",
+            "it": "SNC",
+            "en": "GP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-02-04",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "0aacf6f05b9930384ab141e3",
+    "publication_date": "2026-02-04",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-04 | TG | 2026-01-30 | <FT TYPE=\"F\">Businesscard-Plus GmbH</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-302.900.560</FT>, Gesellschaft mit beschränkter Haftung (SHAB Nr. 43 vom 03.03.2021, Publ. 1005114511). Domizil neu: Frauenfelderstrasse 49, 8570 Weinfelden. | adressaenderung | Businesscard-Plus GmbH | CHE302900560 | CH44040366684 | Weinfelden | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-02-04",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "005114511)",
+      "040366684"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-04",
+        "sogcId": 1006559778,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 704,
+        "registryOfCommerceJournalDate": "2026-01-30",
+        "message": "<FT TYPE=\"F\">Businesscard-Plus GmbH</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-302.900.560</FT>, Gesellschaft mit beschränkter Haftung (SHAB Nr. 43 vom 03.03.2021, Publ. 1005114511). Domizil neu: Frauenfelderstrasse 49, 8570 Weinfelden.",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Businesscard-Plus GmbH",
+        "ehraid": 1475880,
+        "uid": "CHE302900560",
+        "chid": "CH44040366684",
+        "legalSeatId": 4946,
+        "legalSeat": "Weinfelden",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-02-04",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "63bd9a3d93001c8fb7ef8952",
+    "publication_date": "2026-02-04",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-04 | NE | 2026-01-30 | <FT TYPE=\"F\">Café Villa Castellane Sàrl</FT>, à <FT TYPE=\"S\">Neuchâtel</FT>, <FT TYPE=\"A\">CHE-381.005.592</FT> (FOSC du 02.12.2022, p. 0/1005618799). Ramqaj Riad, maintenant originaire de Laténa, n&apos;est plus associé; ses 66 parts sociales de CHF 100 ont été cédées à &quot;RAM Asset Management SA&quot; (<FT TYPE=\"B\">CHE-228.107.634</FT>), à Laténa, nouvelle associée. | aenderungorgane | Café Villa Castellane Sàrl | CHE381005592 | CH64541206285 | Neuchâtel | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-02-04",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "005618799)"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-04",
+        "sogcId": 1006560100,
+        "registryOfCommerceId": 645,
+        "registryOfCommerceCanton": "NE",
+        "registryOfCommerceJournalId": 432,
+        "registryOfCommerceJournalDate": "2026-01-30",
+        "message": "<FT TYPE=\"F\">Café Villa Castellane Sàrl</FT>, à <FT TYPE=\"S\">Neuchâtel</FT>, <FT TYPE=\"A\">CHE-381.005.592</FT> (FOSC du 02.12.2022, p. 0/1005618799). Ramqaj Riad, maintenant originaire de Laténa, n&apos;est plus associé; ses 66 parts sociales de CHF 100 ont été cédées à &quot;RAM Asset Management SA&quot; (<FT TYPE=\"B\">CHE-228.107.634</FT>), à Laténa, nouvelle associée.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Café Villa Castellane Sàrl",
+        "ehraid": 1423690,
+        "uid": "CHE381005592",
+        "chid": "CH64541206285",
+        "legalSeatId": 6458,
+        "legalSeat": "Neuchâtel",
+        "registryOfCommerceId": 645,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-02-04",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "6c24f27a4fc7d7a0a04f6b9d",
+    "publication_date": "2026-02-04",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-04 | SG | 2026-01-30 | <FT TYPE=\"F\">Claustrophobia GmbH</FT>, bisher in <FT TYPE=\"S\">Zürich</FT>, <FT TYPE=\"A\">CHE-298.625.199</FT>, Gesellschaft mit beschränkter Haftung (SHAB Nr. 136 vom 16.07.2024, Publ. 1006085170). Statutenänderung: 23.01.2026. Sitz neu: <FT TYPE=\"5\">St. Gallen</FT>. Domizil neu: Bohl 9, 9000 St. Gallen. Weitere Adressen: Hohlstrasse 465, 8048 Zürich [bisher: Bohl 9, 9000 St. Gallen]. Zweck neu: Die Gesellschaft bezweckt Dienstleistungen im Event- Unterhaltungs- Personalentwicklungs- und Vergnügungsbereich, insbesondere die Veranstaltung von , , Live Escape Games&quot;, Gruppenspielen zur Unterhaltung von Jugendlichen und Erwachsenen sowie Teambildungsveranstaltungen. Die Gesellschaft kann Getränke und Lebensmittel zur Verköstigung sowie Waren zum Verkauf anbieten. Die Gesellschaft kann Management- und Marketingaufgaben erfüllen. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle Geschäfte tätigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, veräussern und verwalten. Sie kann auch Finanzierungen für eigene oder fremde Rechnung vornehmen sowie Sicherheiten für Verbindlichkeiten verbundener Gesellschaften abgeben. [gestrichen: Nebenleistungspflichten, Vorhand-, Vorkaufs- oder Kaufrechte gemäss näherer Umschreibung in den Statuten.]. Mitteilungen neu: Mitteilungen der Geschäftsführung an die Gesellschafter erfolgen per Brief oder E-Mail an die im Anteilbuch verzeichneten Adressen. | zweckaenderung | adressaenderung | Claustrophobia GmbH | CHE298625199 | CH40044420102 | St. Gallen | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-02-04",
+    "categories": [
+      "allgemein"
+    ],
+    "confidence": 60,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006085170)",
+      "0044420102"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-04",
+        "sogcId": 1006559630,
+        "registryOfCommerceId": 320,
+        "registryOfCommerceCanton": "SG",
+        "registryOfCommerceJournalId": 1376,
+        "registryOfCommerceJournalDate": "2026-01-30",
+        "message": "<FT TYPE=\"F\">Claustrophobia GmbH</FT>, bisher in <FT TYPE=\"S\">Zürich</FT>, <FT TYPE=\"A\">CHE-298.625.199</FT>, Gesellschaft mit beschränkter Haftung (SHAB Nr. 136 vom 16.07.2024, Publ. 1006085170). Statutenänderung: 23.01.2026. Sitz neu: <FT TYPE=\"5\">St. Gallen</FT>. Domizil neu: Bohl 9, 9000 St. Gallen. Weitere Adressen: Hohlstrasse 465, 8048 Zürich [bisher: Bohl 9, 9000 St. Gallen]. Zweck neu: Die Gesellschaft bezweckt Dienstleistungen im Event- Unterhaltungs- Personalentwicklungs- und Vergnügungsbereich, insbesondere die Veranstaltung von , , Live Escape Games&quot;, Gruppenspielen zur Unterhaltung von Jugendlichen und Erwachsenen sowie Teambildungsveranstaltungen. Die Gesellschaft kann Getränke und Lebensmittel zur Verköstigung sowie Waren zum Verkauf anbieten. Die Gesellschaft kann Management- und Marketingaufgaben erfüllen. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle Geschäfte tätigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, veräussern und verwalten. Sie kann auch Finanzierungen für eigene oder fremde Rechnung vornehmen sowie Sicherheiten für Verbindlichkeiten verbundener Gesellschaften abgeben. [gestrichen: Nebenleistungspflichten, Vorhand-, Vorkaufs- oder Kaufrechte gemäss näherer Umschreibung in den Statuten.]. Mitteilungen neu: Mitteilungen der Geschäftsführung an die Gesellschafter erfolgen per Brief oder E-Mail an die im Anteilbuch verzeichneten Adressen.",
+        "mutationTypes": [
+          {
+            "id": 11,
+            "key": "zweckaenderung"
+          },
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Claustrophobia GmbH",
+        "ehraid": 1286519,
+        "uid": "CHE298625199",
+        "chid": "CH40044420102",
+        "legalSeatId": 3203,
+        "legalSeat": "St. Gallen",
+        "registryOfCommerceId": 320,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-02-04",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "600e4615eef1a05f56a5dbbf",
+    "publication_date": "2026-02-04",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-04 | ZH | 2026-01-30 | <FT TYPE=\"F\">Confident GmbH</FT>, in <FT TYPE=\"S\">Winterthur</FT>, <FT TYPE=\"A\">CHE-112.337.731</FT>, Gesellschaft mit beschränkter Haftung (SHAB Nr. 146 vom 31.07.2023, Publ. 1005806948). Eingetragene Personen neu oder mutierend: Bieri, Simone, von Lommis, in Eschlikon, mit Kollektivunterschrift zu zweien; Wüthrich, Andreas, von Trub, in St. Gallen, mit Kollektivunterschrift zu zweien. | aenderungorgane | Confident GmbH | CHE112337731 | CH02040309184 | Winterthur | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-02-04",
+    "categories": [
+      "bier"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "005806948)",
+      "02040309184"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-04",
+        "sogcId": 1006558969,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 5399,
+        "registryOfCommerceJournalDate": "2026-01-30",
+        "message": "<FT TYPE=\"F\">Confident GmbH</FT>, in <FT TYPE=\"S\">Winterthur</FT>, <FT TYPE=\"A\">CHE-112.337.731</FT>, Gesellschaft mit beschränkter Haftung (SHAB Nr. 146 vom 31.07.2023, Publ. 1005806948). Eingetragene Personen neu oder mutierend: Bieri, Simone, von Lommis, in Eschlikon, mit Kollektivunterschrift zu zweien; Wüthrich, Andreas, von Trub, in St. Gallen, mit Kollektivunterschrift zu zweien.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Confident GmbH",
+        "ehraid": 790638,
+        "uid": "CHE112337731",
+        "chid": "CH02040309184",
+        "legalSeatId": 230,
+        "legalSeat": "Winterthur",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-02-04",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "0468c5b7624e08901e7e8b86",
+    "publication_date": "2026-02-04",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-04 | ZH | 2026-01-30 | <FT TYPE=\"F\">Ziko Sàrl</FT>, bisher in <FT TYPE=\"S\">Genève</FT>, <FT TYPE=\"A\">CHE-438.599.607</FT>, Gesellschaft mit beschränkter Haftung (SHAB Nr. 214 vom 05.11.2025). Statutenänderung: 18.12.2025. 20.01.2026. Firma neu: <FT TYPE=\"N\">D.K.E.M Partners-Group GmbH</FT>. Sitz neu: <FT TYPE=\"5\">Illnau-Effretikon</FT>. Domizil neu: Usterstrasse 23, 8308 Illnau. Zweck neu: Der Vertrieb oder die Bewertung von Gegenständen. Alle Dienstleistungen oder Nebentätigkeiten, insbesondere in den Bereichen Gesellschaftsrecht, Steuerrecht, Marketing, Werbung und Informatik für Unternehmen und Banken, sowie die Teilnahme an Finanzvermittlungen, mit Ausnahme aller von der FINMA in der Schweiz und im Ausland verbotenen Aktivitäten. Vermittlung, Verkauf und andere damit verbundene Tätigkeiten (einschliesslich, aber nicht beschränkt auf jede Form des freihändigen Verkaufs). Die Verwaltung und die Bewirtschaftung aller beweglichen und unbeweglichen Güter, alle Dienstleistungen und Beratungen im Immobilienbereich (Kauf, Verkauf = Maklergeschäft), Vermietung, Umzug. Entwicklung, Förderung, Umbau, Renovierung (Anstrich, Aussenisolierung, Verputz, Parkett, Fliesen), Aufwertung und Instandhaltung, mit Ausnahme aller von der FAIE verbotenen Tätigkeiten. Import-Export, Vertrieb und Vermarktung aller Lebensmittel und Non-Food-Produkte. Alkoholische und alkoholfreie Getränke mit Betrieb, Verwaltung und Entwicklung von öffentlichen Einrichtungen wie Restaurants, Cafés, Hotels, Snackbars, Kaffeebars, Teestuben oder ähnlichen Unternehmen. Von Material im Zusammenhang mit dem Zweck der GmbH. Sowohl auf eigene Rechnung als auch auf Rechnung Dritter oder verbundener Unternehmen in der Schweiz oder im Ausland. Beteiligung an Organisationen und Ausstellungen im In- und Ausland. Beratung, Verwaltung und Entwicklung von Unternehmen. Die Gesellschaft kann Beteiligungen halten und in alle Unternehmen oder Aktivitäten in der Schweiz und im Ausland investieren, die zur Förderung di",
+    "categories": [
+      "allgemein",
+      "kaffee_tee",
+      "handel_vertrieb"
+    ],
+    "confidence": 95,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "025. 20.01.2026",
+      "029290246"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-04",
+        "sogcId": 1006559075,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 5505,
+        "registryOfCommerceJournalDate": "2026-01-30",
+        "message": "<FT TYPE=\"F\">Ziko Sàrl</FT>, bisher in <FT TYPE=\"S\">Genève</FT>, <FT TYPE=\"A\">CHE-438.599.607</FT>, Gesellschaft mit beschränkter Haftung (SHAB Nr. 214 vom 05.11.2025). Statutenänderung: 18.12.2025. 20.01.2026. Firma neu: <FT TYPE=\"N\">D.K.E.M Partners-Group GmbH</FT>. Sitz neu: <FT TYPE=\"5\">Illnau-Effretikon</FT>. Domizil neu: Usterstrasse 23, 8308 Illnau. Zweck neu: Der Vertrieb oder die Bewertung von Gegenständen. Alle Dienstleistungen oder Nebentätigkeiten, insbesondere in den Bereichen Gesellschaftsrecht, Steuerrecht, Marketing, Werbung und Informatik für Unternehmen und Banken, sowie die Teilnahme an Finanzvermittlungen, mit Ausnahme aller von der FINMA in der Schweiz und im Ausland verbotenen Aktivitäten. Vermittlung, Verkauf und andere damit verbundene Tätigkeiten (einschliesslich, aber nicht beschränkt auf jede Form des freihändigen Verkaufs). Die Verwaltung und die Bewirtschaftung aller beweglichen und unbeweglichen Güter, alle Dienstleistungen und Beratungen im Immobilienbereich (Kauf, Verkauf = Maklergeschäft), Vermietung, Umzug. Entwicklung, Förderung, Umbau, Renovierung (Anstrich, Aussenisolierung, Verputz, Parkett, Fliesen), Aufwertung und Instandhaltung, mit Ausnahme aller von der FAIE verbotenen Tätigkeiten. Import-Export, Vertrieb und Vermarktung aller Lebensmittel und Non-Food-Produkte. Alkoholische und alkoholfreie Getränke mit Betrieb, Verwaltung und Entwicklung von öffentlichen Einrichtungen wie Restaurants, Cafés, Hotels, Snackbars, Kaffeebars, Teestuben oder ähnlichen Unternehmen. Von Material im Zusammenhang mit dem Zweck der GmbH. Sowohl auf eigene Rechnung als auch auf Rechnung Dritter oder verbundener Unternehmen in der Schweiz oder im Ausland. Beteiligung an Organisationen und Ausstellungen im In- und Ausland. Beratung, Verwaltung und Entwicklung von Unternehmen. Die Gesellschaft kann Beteiligungen halten und in alle Unternehmen oder Aktivitäten in der Schweiz und im Ausland investieren, die zur Förderung dieser Aktivitäten geeignet sind, mit Ausnahme von Geschäften, die nach dem Bundesgesetz über den Erwerb von Grundstücken durch Personen im Ausland verboten sind. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften in der Schweiz oder im Ausland gründen. Die Gesellschaft kann auch Immobilien erwerben, halten und veräussern, mit Ausnahme von Transaktionen, die nach dem Bundesgesetz über den Erwerb von Grundstücken durch Personen im Ausland verboten sind, sowie alle Rechte an geistigem Eigentum, Marken, Modellen und/oder Designs in jeglicher Form erwerben, verwerten, nutzen und geltend machen. Die Gesellschaft kann finanzielle Unterstützung leisten, einschliesslich Darlehen, Vorschüsse, Garantien oder Sicherheiten jeglicher Art (einschliesslich Bürgschaften, Pfandrechte, Gesamtabtretungen, Eigentumsübertragungen oder Abtretungen als Sicherheit und Garantieerklärungen) an ihre Tochtergesellschaften, Schwesterunternehmen, Muttergesellschaft oder andere verbundene Unternehmen (einschliesslich deren direkter oder indirekter Aktionäre und direkter oder indirekter Tochtergesellschaften dieser Aktionäre) gegen Entgelt oder unentgeltlich leisten. Sie kann auch Darlehen, Vorschüsse, Garantien oder Sicherheiten jeglicher Art an Dritte gewähren. Nebenleistungspflichten, Vorhand-, Vorkaufs- oder Kaufsrechte gemäss näherer Umschreibung in den Statuten. [bisher: Obligation de fournir des prestations accessoires, droits de préférence, de préemption ou d&apos;emption: pour les détails, voir les statuts.]. Publikationsorgan neu: SHAB. Mitteilungen neu: Die Mitteilungen der Gesellschaft an die Gesellschafter erfolgen per Brief, Fax oder E-Mail. Gemäss Erklärung vom 30.07.2024 wird auf die eingeschränkte Revision verzichtet, [bisher: Selon déclaration du 30.07.2024, il est renoncé à un contrôle restreint.]",
+        "mutationTypes": [
+          {
+            "id": 9,
+            "key": "firmenaenderung"
+          },
+          {
+            "id": 11,
+            "key": "zweckaenderung"
+          },
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          },
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "D.K.E.M Partners-Group GmbH",
+        "ehraid": 1661952,
+        "uid": "CHE438599607",
+        "chid": "CH66029290246",
+        "legalSeatId": 296,
+        "legalSeat": "Illnau-Effretikon",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-02-04",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "ffdb96a7afa05843d20e591a",
+    "publication_date": "2026-02-04",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-04 | LU | 2026-01-30 | <FT TYPE=\"N\">excellente cigars Paulick</FT>, in <FT TYPE=\"5\">Hitzkirch</FT>, <FT TYPE=\"A\">CHE-147.340.521</FT>, Steiacherweg 6, 6289 Müswangen, Einzelunternehmen (Neueintragung). Zweck: Import von und Handel mit Tabakwaren, Spirituosen, Weine und anderen Genussmitteln. Eingetragene Personen: Paulick, Jens, deutscher Staatsangehöriger, in Hitzkirch, Inhaber, mit Einzelunterschrift. | status | status.neu | excellente cigars Paulick | CHE147340521 | CH10018229185 | Hitzkirch | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-02-04",
+    "categories": [
+      "wein",
+      "spirituosen"
+    ],
+    "confidence": 95,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "0018229185"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-04",
+        "sogcId": 1006559206,
+        "registryOfCommerceId": 100,
+        "registryOfCommerceCanton": "LU",
+        "registryOfCommerceJournalId": 1105,
+        "registryOfCommerceJournalDate": "2026-01-30",
+        "message": "<FT TYPE=\"N\">excellente cigars Paulick</FT>, in <FT TYPE=\"5\">Hitzkirch</FT>, <FT TYPE=\"A\">CHE-147.340.521</FT>, Steiacherweg 6, 6289 Müswangen, Einzelunternehmen (Neueintragung). Zweck: Import von und Handel mit Tabakwaren, Spirituosen, Weine und anderen Genussmitteln. Eingetragene Personen: Paulick, Jens, deutscher Staatsangehöriger, in Hitzkirch, Inhaber, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "excellente cigars Paulick",
+        "ehraid": 1733286,
+        "uid": "CHE147340521",
+        "chid": "CH10018229185",
+        "legalSeatId": 1030,
+        "legalSeat": "Hitzkirch",
+        "registryOfCommerceId": 100,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-02-04",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "292dd08a8aabbd02ebf0dd3e",
+    "publication_date": "2026-02-04",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-04 | VS | 2026-01-30 | <FT TYPE=\"N\">Fabrice Carron Sàrl</FT>, à <FT TYPE=\"5\">Fully</FT>, <FT TYPE=\"A\">CHE-245.382.420</FT>, Chemin de Provence 15, 1926 Fully, société à responsabilité limitée (Nouvelle inscription). Date des statuts: 22.01.2026. But: La société a pour but la gestion et l&apos;exploitation d&apos;un domaine agricole et viticole, notamment la vinification et la vente de vin (bouteilles et vrac). Elle peut créer des succursales en Suisse et à l&apos;étranger, participer à d&apos;autres entreprises en Suisse et à l&apos;étranger, acquérir des entreprises visant un but identique ou analogue, ou fusionner avec de telles entreprises, faire toutes opérations et conclure tous contrats propres à développer et à étendre son but ou s&apos;y rapportant directement ou indirectement, à l&apos;exclusion des opérations prohibées par la LFAIE. Capital social: CHF 20&apos;000.00. Obligations de fournir des prestations accessoires, droits de préférence, de préemption ou d&apos;emption: pour les détails, voir les statuts. Organe de publication: FOSC. Communications aux associés: par écrit ou par courriel. Selon déclaration à la constitution de la société, il est renoncé à un contrôle restreint. Personne(s) inscrite(s): Carron, Fabrice, de Fully, à Fully, associé et gérant, avec signature individuelle, pour 200 parts sociales de CHF 100.00. | status | status.neu | Fabrice Carron Sàrl | CHE245382420 | CH62140131741 | Fully | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-02-04",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": []
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-04",
+        "sogcId": 1006560034,
+        "registryOfCommerceId": 621,
+        "registryOfCommerceCanton": "VS",
+        "registryOfCommerceJournalId": 381,
+        "registryOfCommerceJournalDate": "2026-01-30",
+        "message": "<FT TYPE=\"N\">Fabrice Carron Sàrl</FT>, à <FT TYPE=\"5\">Fully</FT>, <FT TYPE=\"A\">CHE-245.382.420</FT>, Chemin de Provence 15, 1926 Fully, société à responsabilité limitée (Nouvelle inscription). Date des statuts: 22.01.2026. But: La société a pour but la gestion et l&apos;exploitation d&apos;un domaine agricole et viticole, notamment la vinification et la vente de vin (bouteilles et vrac). Elle peut créer des succursales en Suisse et à l&apos;étranger, participer à d&apos;autres entreprises en Suisse et à l&apos;étranger, acquérir des entreprises visant un but identique ou analogue, ou fusionner avec de telles entreprises, faire toutes opérations et conclure tous contrats propres à développer et à étendre son but ou s&apos;y rapportant directement ou indirectement, à l&apos;exclusion des opérations prohibées par la LFAIE. Capital social: CHF 20&apos;000.00. Obligations de fournir des prestations accessoires, droits de préférence, de préemption ou d&apos;emption: pour les détails, voir les statuts. Organe de publication: FOSC. Communications aux associés: par écrit ou par courriel. Selon déclaration à la constitution de la société, il est renoncé à un contrôle restreint. Personne(s) inscrite(s): Carron, Fabrice, de Fully, à Fully, associé et gérant, avec signature individuelle, pour 200 parts sociales de CHF 100.00.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Fabrice Carron Sàrl",
+        "ehraid": 1733319,
+        "uid": "CHE245382420",
+        "chid": "CH62140131741",
+        "legalSeatId": 6133,
+        "legalSeat": "Fully",
+        "registryOfCommerceId": 621,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-02-04",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "68610a1e436c462c19329c5a",
+    "publication_date": "2026-02-04",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-04 | LU | 2026-01-30 | <FT TYPE=\"F\">Funk Insurance Brokers AG</FT>, in <FT TYPE=\"S\">Luzern</FT>, <FT TYPE=\"A\">CHE-103.747.426</FT>, Aktiengesellschaft (SHAB Nr. 109 vom 10.06.2025, Publ. 1006351180). Eingetragene Personen neu oder mutierend: Bleisch, Urs Andreas, von Mels, in Teufen (AR), Präsident des Verwaltungsrates, mit Kollektivunterschrift zu zweien [bisher: Präsident des Verwaltungsrates, Delegierter des Verwaltungsrates, mit Kollektivunterschrift zu zweien]; Gabriel, Marco, von Breil/Brigels, in Oberuzwil, mit Kollektivunterschrift zu zweien; Jufer, Rolf Thomas, von Melchnau, in Hünenberg, mit Kollektivunterschrift zu zweien [bisher: in Zürich]; Weinstock, Ron, von Zürich, in Uitikon, mit Kollektivunterschrift zu zweien. | aenderungorgane | Funk Gruppe AG | CHE103747426 | CH10030200076 | Luzern | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-06-19",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006351180)",
+      "0030200076"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-04",
+        "sogcId": 1006559233,
+        "registryOfCommerceId": 100,
+        "registryOfCommerceCanton": "LU",
+        "registryOfCommerceJournalId": 1133,
+        "registryOfCommerceJournalDate": "2026-01-30",
+        "message": "<FT TYPE=\"F\">Funk Insurance Brokers AG</FT>, in <FT TYPE=\"S\">Luzern</FT>, <FT TYPE=\"A\">CHE-103.747.426</FT>, Aktiengesellschaft (SHAB Nr. 109 vom 10.06.2025, Publ. 1006351180). Eingetragene Personen neu oder mutierend: Bleisch, Urs Andreas, von Mels, in Teufen (AR), Präsident des Verwaltungsrates, mit Kollektivunterschrift zu zweien [bisher: Präsident des Verwaltungsrates, Delegierter des Verwaltungsrates, mit Kollektivunterschrift zu zweien]; Gabriel, Marco, von Breil/Brigels, in Oberuzwil, mit Kollektivunterschrift zu zweien; Jufer, Rolf Thomas, von Melchnau, in Hünenberg, mit Kollektivunterschrift zu zweien [bisher: in Zürich]; Weinstock, Ron, von Zürich, in Uitikon, mit Kollektivunterschrift zu zweien.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Funk Gruppe AG",
+        "ehraid": 400610,
+        "uid": "CHE103747426",
+        "chid": "CH10030200076",
+        "legalSeatId": 1061,
+        "legalSeat": "Luzern",
+        "registryOfCommerceId": 100,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-06-19",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "380ee850785d4e8316c0d752",
+    "publication_date": "2026-02-04",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-04 | BE | 2026-01-30 | <FT TYPE=\"F\">Getränkehandel Sven Klädtke</FT>, in <FT TYPE=\"S\">Münchenbuchsee</FT>, <FT TYPE=\"A\">CHE-269.873.252</FT>, Einzelunternehmen (SHAB Nr. 36 vom 21.02.2025, Publ. 1006263450). Sitz neu: <FT TYPE=\"5\">Wohlen bei Bern</FT>. Domizil neu: Möriswilstrasse 51, 3043 Uettligen. Eingetragene Personen neu oder mutierend: Klädtke, Sven, von Heimiswil, in Uettligen (Wohlen bei Bern), Inhaber, mit Einzelunterschrift [bisher: in Münchenbuchsee]. | adressaenderung | aenderungorgane | Getränkehandel Sven Klädtke | CHE269873252 | CH03611019099 | Wohlen bei Bern | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-02-04",
+    "categories": [
+      "allgemein",
+      "handel_vertrieb"
+    ],
+    "confidence": 95,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006263450)",
+      "03611019099"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-04",
+        "sogcId": 1006559154,
+        "registryOfCommerceId": 36,
+        "registryOfCommerceCanton": "BE",
+        "registryOfCommerceJournalId": 2503,
+        "registryOfCommerceJournalDate": "2026-01-30",
+        "message": "<FT TYPE=\"F\">Getränkehandel Sven Klädtke</FT>, in <FT TYPE=\"S\">Münchenbuchsee</FT>, <FT TYPE=\"A\">CHE-269.873.252</FT>, Einzelunternehmen (SHAB Nr. 36 vom 21.02.2025, Publ. 1006263450). Sitz neu: <FT TYPE=\"5\">Wohlen bei Bern</FT>. Domizil neu: Möriswilstrasse 51, 3043 Uettligen. Eingetragene Personen neu oder mutierend: Klädtke, Sven, von Heimiswil, in Uettligen (Wohlen bei Bern), Inhaber, mit Einzelunterschrift [bisher: in Münchenbuchsee].",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          },
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Getränkehandel Sven Klädtke",
+        "ehraid": 1680208,
+        "uid": "CHE269873252",
+        "chid": "CH03611019099",
+        "legalSeatId": 360,
+        "legalSeat": "Wohlen bei Bern",
+        "registryOfCommerceId": 36,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-02-04",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "bad45762797ef80c0e1e2ba6",
+    "publication_date": "2026-02-04",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-04 | GE | 2026-01-30 | <FT TYPE=\"F\">Global Coffee Platform</FT>, à <FT TYPE=\"S\">Genève</FT>, <FT TYPE=\"A\">CHE-113.345.638</FT> (FOSC du 14.01.2026, p. 0/1006538897). L&apos;inscription numéro 760 du 09.01.2026 est complétée en ce sens: nouvelle adresse: Rue de l&apos;Est 8, c/o CR Gestion et Fiduciaire SA, 1207 Genève. | adressaenderung | Global Coffee Platform | CHE113345638 | CH66029280064 | Genève | 0109 | Verein | Association | Associazione | Association | Verein | Asso | Asso | Asso | ACTIVE | 2026-02-04",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006538897)",
+      "029280064"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-04",
+        "sogcId": 1006560210,
+        "registryOfCommerceId": 660,
+        "registryOfCommerceCanton": "GE",
+        "registryOfCommerceJournalId": 2938,
+        "registryOfCommerceJournalDate": "2026-01-30",
+        "message": "<FT TYPE=\"F\">Global Coffee Platform</FT>, à <FT TYPE=\"S\">Genève</FT>, <FT TYPE=\"A\">CHE-113.345.638</FT> (FOSC du 14.01.2026, p. 0/1006538897). L&apos;inscription numéro 760 du 09.01.2026 est complétée en ce sens: nouvelle adresse: Rue de l&apos;Est 8, c/o CR Gestion et Fiduciaire SA, 1207 Genève.",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Global Coffee Platform",
+        "ehraid": 858068,
+        "uid": "CHE113345638",
+        "chid": "CH66029280064",
+        "legalSeatId": 6621,
+        "legalSeat": "Genève",
+        "registryOfCommerceId": 660,
+        "legalForm": {
+          "id": 6,
+          "uid": "0109",
+          "name": {
+            "de": "Verein",
+            "fr": "Association",
+            "it": "Associazione",
+            "en": "Association"
+          },
+          "shortName": {
+            "de": "Verein",
+            "fr": "Asso",
+            "it": "Asso",
+            "en": "Asso"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-02-04",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "6a71268a371f89d950806391",
+    "publication_date": "2026-02-04",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-04 | AG | 2026-01-30 | <FT TYPE=\"N\">Gloor Beverage Operations</FT>, in <FT TYPE=\"5\">Zetzwil</FT>, <FT TYPE=\"A\">CHE-141.040.380</FT>, Libellenstrasse 395, 5732 Zetzwil, Einzelunternehmen (Neueintragung). Zweck: Betrieb und Management von Brauereien. Herstellung, Abfüllung und Vertrieb von Bier und Getränken. Einkauf von Rohstoffen und Produktionsmaterial. Marketing, Markenführung und Verkaufsförderung. Organisation von Events, Degustationen und Ausschank. Wartung und Service von Geräten und Ausrüstung. Allgemeine kaufmännische und administrative Dienstleistungen. Lizenznehmer, Vertragspartner und Arbeitgeber. Eingetragene Personen: Gloor, Christoph, von Seon, in Zetzwil, Inhaber, mit Einzelunterschrift. | status | status.neu | Gloor Beverage Operations | CHE141040380 | CH40016137019 | Zetzwil | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-02-04",
+    "categories": [
+      "allgemein",
+      "bier"
+    ],
+    "confidence": 95,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "0016137019"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-04",
+        "sogcId": 1006559716,
+        "registryOfCommerceId": 400,
+        "registryOfCommerceCanton": "AG",
+        "registryOfCommerceJournalId": 1817,
+        "registryOfCommerceJournalDate": "2026-01-30",
+        "message": "<FT TYPE=\"N\">Gloor Beverage Operations</FT>, in <FT TYPE=\"5\">Zetzwil</FT>, <FT TYPE=\"A\">CHE-141.040.380</FT>, Libellenstrasse 395, 5732 Zetzwil, Einzelunternehmen (Neueintragung). Zweck: Betrieb und Management von Brauereien. Herstellung, Abfüllung und Vertrieb von Bier und Getränken. Einkauf von Rohstoffen und Produktionsmaterial. Marketing, Markenführung und Verkaufsförderung. Organisation von Events, Degustationen und Ausschank. Wartung und Service von Geräten und Ausrüstung. Allgemeine kaufmännische und administrative Dienstleistungen. Lizenznehmer, Vertragspartner und Arbeitgeber. Eingetragene Personen: Gloor, Christoph, von Seon, in Zetzwil, Inhaber, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Gloor Beverage Operations",
+        "ehraid": 1733198,
+        "uid": "CHE141040380",
+        "chid": "CH40016137019",
+        "legalSeatId": 4147,
+        "legalSeat": "Zetzwil",
+        "registryOfCommerceId": 400,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-02-04",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "be14eb44ab7a6085553e7198",
+    "publication_date": "2026-02-04",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-04 | ZH | 2026-01-30 | <FT TYPE=\"N\">Hoi An Delight GmbH</FT>, in <FT TYPE=\"5\">Dietikon</FT>, <FT TYPE=\"A\">CHE-420.793.334</FT>, Oberdorfstrasse 1, 8953 Dietikon, Gesellschaft mit beschränkter Haftung (Neueintragung). Statutendatum: 28.01.2026. Zweck: Die Gesellschaft bezweckt den Betrieb eines Restaurants und Take-aways sowie den Verkauf von alkoholischen Getränken, Bier und Cocktails. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle Geschäfte tätigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, veräussern und verwalten. Sie kann auch Finanzierungen für eigene oder fremde Rechnung vornehmen sowie Garantien und Bürgschaften für Tochtergesellschaften und Dritte eingehen. Stammkapital: CHF 20&apos;000.00. Nebenleistungspflichten, Vorhand-, Vorkaufs- oder Kaufsrechte gemäss näherer Umschreibung in den Statuten. Publikationsorgan: SHAB. Mitteilungen an die Gesellschafter erfolgen per Brief oder E-Mail. Gemäss Erklärung bei der Gründung der Gesellschaft wird auf eine eingeschränkte Revision verzichtet. Eingetragene Personen: Ãang, Thi Hoàng Diêm, vietnamesische Staatsangehörige, in Pfäffikon, Gesellschafterin und Geschäftsführerin, mit Einzelunterschrift, mit 200 Stammanteilen zu je CHF 100.00. | status | status.neu | Hoi An Delight GmbH | CHE420793334 | CH02040909758 | Dietikon | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-02-04",
+    "categories": [
+      "allgemein",
+      "bier"
+    ],
+    "confidence": 95,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "02040909758"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-04",
+        "sogcId": 1006558917,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 5347,
+        "registryOfCommerceJournalDate": "2026-01-30",
+        "message": "<FT TYPE=\"N\">Hoi An Delight GmbH</FT>, in <FT TYPE=\"5\">Dietikon</FT>, <FT TYPE=\"A\">CHE-420.793.334</FT>, Oberdorfstrasse 1, 8953 Dietikon, Gesellschaft mit beschränkter Haftung (Neueintragung). Statutendatum: 28.01.2026. Zweck: Die Gesellschaft bezweckt den Betrieb eines Restaurants und Take-aways sowie den Verkauf von alkoholischen Getränken, Bier und Cocktails. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle Geschäfte tätigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, veräussern und verwalten. Sie kann auch Finanzierungen für eigene oder fremde Rechnung vornehmen sowie Garantien und Bürgschaften für Tochtergesellschaften und Dritte eingehen. Stammkapital: CHF 20&apos;000.00. Nebenleistungspflichten, Vorhand-, Vorkaufs- oder Kaufsrechte gemäss näherer Umschreibung in den Statuten. Publikationsorgan: SHAB. Mitteilungen an die Gesellschafter erfolgen per Brief oder E-Mail. Gemäss Erklärung bei der Gründung der Gesellschaft wird auf eine eingeschränkte Revision verzichtet. Eingetragene Personen: Ãang, Thi Hoàng Diêm, vietnamesische Staatsangehörige, in Pfäffikon, Gesellschafterin und Geschäftsführerin, mit Einzelunterschrift, mit 200 Stammanteilen zu je CHF 100.00.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Hoi An Delight GmbH",
+        "ehraid": 1733107,
+        "uid": "CHE420793334",
+        "chid": "CH02040909758",
+        "legalSeatId": 243,
+        "legalSeat": "Dietikon",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-02-04",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "decebaa554ba09eb78f82122",
+    "publication_date": "2026-02-04",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-04 | BE | 2026-01-30 | <FT TYPE=\"F\">Kunz Kunath AG</FT>, in <FT TYPE=\"S\">Burgdorf</FT>, <FT TYPE=\"A\">CHE-111.783.051</FT>, Aktiengesellschaft (SHAB Nr. 227 vom 20.11.2020, Publ. 1005027687). Domizil neu: Kirchbergstrasse 245, 3400 Burgdorf. Ausgeschiedene Personen und erloschene Unterschriften: Aellig, Felix Johannes, von Zürich, in Weinfelden, Mitglied der Geschäftsleitung, mit Kollektivunterschrift zu zweien; Reinhard, Christoph, von Sumiswald, in Kriegstetten, Mitglied der Geschäftsleitung, mit Kollektivunterschrift zu zweien. Eingetragene Personen neu oder mutierend: Stadelmann, Peter, von Escholzmatt-Marbach und Entlebuch, in Horw, Mitglied des Verwaltungsrates, ohne Zeichnungsberechtigung [bisher: von Entlebuch und Escholzmatt, Geschäftsführer, mit Kollektivunterschrift zu zweien]; Savary, Philippe Olivier, von Wynigen und Payerne, in Wynigen, Geschäftsführer, mit Kollektivunterschrift zu zweien [bisher: Mitglied der Geschäftsleitung, mit Kollektivunterschrift zu zweien]; Kauter, Vincent Jérémie, von St. Gallen, in Nidau, Mitglied der Geschäftsleitung, mit Kollektivunterschrift zu zweien. | adressaenderung | aenderungorgane | Kunz Kunath AG | CHE111783051 | CH05330169159 | Burgdorf | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-02-04",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "005027687)",
+      "05330169159"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-04",
+        "sogcId": 1006559162,
+        "registryOfCommerceId": 36,
+        "registryOfCommerceCanton": "BE",
+        "registryOfCommerceJournalId": 2511,
+        "registryOfCommerceJournalDate": "2026-01-30",
+        "message": "<FT TYPE=\"F\">Kunz Kunath AG</FT>, in <FT TYPE=\"S\">Burgdorf</FT>, <FT TYPE=\"A\">CHE-111.783.051</FT>, Aktiengesellschaft (SHAB Nr. 227 vom 20.11.2020, Publ. 1005027687). Domizil neu: Kirchbergstrasse 245, 3400 Burgdorf. Ausgeschiedene Personen und erloschene Unterschriften: Aellig, Felix Johannes, von Zürich, in Weinfelden, Mitglied der Geschäftsleitung, mit Kollektivunterschrift zu zweien; Reinhard, Christoph, von Sumiswald, in Kriegstetten, Mitglied der Geschäftsleitung, mit Kollektivunterschrift zu zweien. Eingetragene Personen neu oder mutierend: Stadelmann, Peter, von Escholzmatt-Marbach und Entlebuch, in Horw, Mitglied des Verwaltungsrates, ohne Zeichnungsberechtigung [bisher: von Entlebuch und Escholzmatt, Geschäftsführer, mit Kollektivunterschrift zu zweien]; Savary, Philippe Olivier, von Wynigen und Payerne, in Wynigen, Geschäftsführer, mit Kollektivunterschrift zu zweien [bisher: Mitglied der Geschäftsleitung, mit Kollektivunterschrift zu zweien]; Kauter, Vincent Jérémie, von St. Gallen, in Nidau, Mitglied der Geschäftsleitung, mit Kollektivunterschrift zu zweien.",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          },
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Kunz Kunath AG",
+        "ehraid": 763509,
+        "uid": "CHE111783051",
+        "chid": "CH05330169159",
+        "legalSeatId": 404,
+        "legalSeat": "Burgdorf",
+        "registryOfCommerceId": 36,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-02-04",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "62730ecb086776d72a952bb5",
+    "publication_date": "2026-02-04",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-04 | FR | 2026-01-30 | <FT TYPE=\"F\">MYLABOX Moreira Lopes</FT>, à <FT TYPE=\"S\">Les Montets</FT>, <FT TYPE=\"A\">CHE-470.592.482</FT> (FOSC du 09.12.2025, p. 0/1006507481). Nouveau but: exploitation d&apos;une entreprise de production, de conditionnement, de vente et de livraison de repas cuisinés, principalement sous forme de barquettes livrées à froid destinées à une régénération ultérieure, ainsi que la promotion d&apos;une alimentation saine, équilibrée et locale. L&apos;activité comprend la préparation et la vente de plats du jour à emporter, le transport de denrées alimentaires, la vente de boissons, l&apos;organisation de prestations culinaires ponctuelles, l&apos;exploitation de concepts alimentaires ainsi que toute activité connexe ou complémentaire en lien avec l&apos;alimentation. L&apos;entreprise peut effectuer toutes opérations commerciales, financières, mobilières et immobilières en rapport direct ou indirect avec son but. | zweckaenderung | MYLABOX Moreira Lopes | CHE470592482 | CH21735951560 | Les Montets | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-02-04",
+    "categories": [
+      "allgemein"
+    ],
+    "confidence": 60,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006507481)"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-04",
+        "sogcId": 1006559469,
+        "registryOfCommerceId": 217,
+        "registryOfCommerceCanton": "FR",
+        "registryOfCommerceJournalId": 1013,
+        "registryOfCommerceJournalDate": "2026-01-30",
+        "message": "<FT TYPE=\"F\">MYLABOX Moreira Lopes</FT>, à <FT TYPE=\"S\">Les Montets</FT>, <FT TYPE=\"A\">CHE-470.592.482</FT> (FOSC du 09.12.2025, p. 0/1006507481). Nouveau but: exploitation d&apos;une entreprise de production, de conditionnement, de vente et de livraison de repas cuisinés, principalement sous forme de barquettes livrées à froid destinées à une régénération ultérieure, ainsi que la promotion d&apos;une alimentation saine, équilibrée et locale. L&apos;activité comprend la préparation et la vente de plats du jour à emporter, le transport de denrées alimentaires, la vente de boissons, l&apos;organisation de prestations culinaires ponctuelles, l&apos;exploitation de concepts alimentaires ainsi que toute activité connexe ou complémentaire en lien avec l&apos;alimentation. L&apos;entreprise peut effectuer toutes opérations commerciales, financières, mobilières et immobilières en rapport direct ou indirect avec son but.",
+        "mutationTypes": [
+          {
+            "id": 11,
+            "key": "zweckaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "MYLABOX Moreira Lopes",
+        "ehraid": 1724484,
+        "uid": "CHE470592482",
+        "chid": "CH21735951560",
+        "legalSeatId": 2050,
+        "legalSeat": "Les Montets",
+        "registryOfCommerceId": 217,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-02-04",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "576a8633f7007ecbbe8957ab",
+    "publication_date": "2026-02-04",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-04 | ZH | 2026-01-30 | <FT TYPE=\"F\">Dani&apos;s Juice Market AG</FT>, in <FT TYPE=\"S\">Zürich</FT>, <FT TYPE=\"A\">CHE-108.381.048</FT>, Aktiengesellschaft (SHAB Nr. 92 vom 14.05.2025, Publ. 1006330931). Ausgeschiedene Personen und erloschene Unterschriften: Schaltegger, Alois, von Ermatingen, in Zürich, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien. Eingetragene Personen neu oder mutierend: Wechsler, Jacqueline, von Zell (LU), in Zürich, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien; Bowers, Aryan, philippinischer Staatsangehöriger, in Zürich, Mitglied der Geschäftsleitung, mit Kollektivunterschrift zu zweien. | aenderungorgane | NEIGHBOR AG | CHE108381048 | CH02030065477 | Zürich | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-05-11",
+    "categories": [
+      "alkoholfrei"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006330931)",
+      "02030065477"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-04",
+        "sogcId": 1006558973,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 5403,
+        "registryOfCommerceJournalDate": "2026-01-30",
+        "message": "<FT TYPE=\"F\">Dani&apos;s Juice Market AG</FT>, in <FT TYPE=\"S\">Zürich</FT>, <FT TYPE=\"A\">CHE-108.381.048</FT>, Aktiengesellschaft (SHAB Nr. 92 vom 14.05.2025, Publ. 1006330931). Ausgeschiedene Personen und erloschene Unterschriften: Schaltegger, Alois, von Ermatingen, in Zürich, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien. Eingetragene Personen neu oder mutierend: Wechsler, Jacqueline, von Zell (LU), in Zürich, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien; Bowers, Aryan, philippinischer Staatsangehöriger, in Zürich, Mitglied der Geschäftsleitung, mit Kollektivunterschrift zu zweien.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "NEIGHBOR AG",
+        "ehraid": 363530,
+        "uid": "CHE108381048",
+        "chid": "CH02030065477",
+        "legalSeatId": 261,
+        "legalSeat": "Zürich",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-05-11",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "1eb610909f0241c99abd53f8",
+    "publication_date": "2026-02-04",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-04 | LU | 2026-01-30 | <FT TYPE=\"N\">Sabrina Lindegger Kreativ Bistro</FT>, in <FT TYPE=\"5\">Ballwil</FT>, <FT TYPE=\"A\">CHE-333.033.427</FT>, Margrethenhof 6, 6275 Ballwil, Einzelunternehmen (Neueintragung). Zweck: Kreativatelier, Kreativkurse, kleiner Cafébetrieb, Handel mit und Herstellung von Dekorationsartikel. Eingetragene Personen: Lindegger, Sabrina , von Appenzell, in Ballwil, Inhaberin, mit Einzelunterschrift. | status | status.neu | Sabrina Lindegger Kreativ Bistro | CHE333033427 | CH10018229313 | Ballwil | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-02-04",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "0018229313"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-04",
+        "sogcId": 1006559211,
+        "registryOfCommerceId": 100,
+        "registryOfCommerceCanton": "LU",
+        "registryOfCommerceJournalId": 1110,
+        "registryOfCommerceJournalDate": "2026-01-30",
+        "message": "<FT TYPE=\"N\">Sabrina Lindegger Kreativ Bistro</FT>, in <FT TYPE=\"5\">Ballwil</FT>, <FT TYPE=\"A\">CHE-333.033.427</FT>, Margrethenhof 6, 6275 Ballwil, Einzelunternehmen (Neueintragung). Zweck: Kreativatelier, Kreativkurse, kleiner Cafébetrieb, Handel mit und Herstellung von Dekorationsartikel. Eingetragene Personen: Lindegger, Sabrina , von Appenzell, in Ballwil, Inhaberin, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Sabrina Lindegger Kreativ Bistro",
+        "ehraid": 1733294,
+        "uid": "CHE333033427",
+        "chid": "CH10018229313",
+        "legalSeatId": 1023,
+        "legalSeat": "Ballwil",
+        "registryOfCommerceId": 100,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-02-04",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "b2edddbe1fd0e9eb7c774a66",
+    "publication_date": "2026-02-04",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-04 | TG | 2026-01-30 | <FT TYPE=\"F\">Schweizerische Mobiliar, Versicherungsgesellschaft, Generalagentur Mittelthurgau, Franz Koller</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-110.467.848</FT>, Einzelunternehmen (SHAB Nr. 137 vom 18.07.2025, Publ. 1006388958). Ausgeschiedene Personen und erloschene Unterschriften: Schoppmann, Jeanette, von Uttwil, in Hauptwil (Hauptwil-Gottshaus), mit Kollektivunterschrift zu zweien. Eingetragene Personen neu oder mutierend: Scalabrin, Marco Peter, von Gommiswald, in Altnau, mit Kollektivunterschrift zu zweien. | aenderungorgane | Schweizerische Mobiliar, Versicherungsgesellschaft, Generalagentur Mittelthurgau, Franz Koller | CHE110467848 | CH44010168159 | Weinfelden | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-02-04",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006388958)",
+      "010168159"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-04",
+        "sogcId": 1006559798,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 724,
+        "registryOfCommerceJournalDate": "2026-01-30",
+        "message": "<FT TYPE=\"F\">Schweizerische Mobiliar, Versicherungsgesellschaft, Generalagentur Mittelthurgau, Franz Koller</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-110.467.848</FT>, Einzelunternehmen (SHAB Nr. 137 vom 18.07.2025, Publ. 1006388958). Ausgeschiedene Personen und erloschene Unterschriften: Schoppmann, Jeanette, von Uttwil, in Hauptwil (Hauptwil-Gottshaus), mit Kollektivunterschrift zu zweien. Eingetragene Personen neu oder mutierend: Scalabrin, Marco Peter, von Gommiswald, in Altnau, mit Kollektivunterschrift zu zweien.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Schweizerische Mobiliar, Versicherungsgesellschaft, Generalagentur Mittelthurgau, Franz Koller",
+        "ehraid": 731723,
+        "uid": "CHE110467848",
+        "chid": "CH44010168159",
+        "legalSeatId": 4946,
+        "legalSeat": "Weinfelden",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-02-04",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "c765ca928b000b2e56e5b491",
+    "publication_date": "2026-02-04",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-04 | ZH | 2026-01-30 | <FT TYPE=\"N\">Stapfer Entwässerungssysteme GmbH</FT>, in <FT TYPE=\"5\">Dietikon</FT>, <FT TYPE=\"A\">CHE-187.738.930</FT>, Giessenstrasse 15, 8953 Dietikon, Gesellschaft mit beschränkter Haftung (Neueintragung). Statutendatum: 28.01.2026. Zweck: Die Gesellschaft bezweckt Planung, Produktion und Montagen von Chrom-Nickelstahl Entwässerungssystemen, sowie allgemeine Metallbauarbeiten aus Chrom-Nickelstahl. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle Geschäfte tätigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, veräussern und verwalten. Sie kann auch Finanzierungen für eigene oder fremde Rechnung vornehmen sowie Sicherheiten für Verbindlichkeiten verbundener Gesellschaften abgeben. Stammkapital: CHF 20&apos;000.00. Publikationsorgan: SHAB. Mitteilungen der Geschäftsführung an die Gesellschafter erfolgen per Brief oder E-Mail an die im Anteilbuch verzeichneten Adressen. Gemäss Erklärung bei der Gründung der Gesellschaft wird auf eine eingeschränkte Revision verzichtet. Eingetragene Personen: Stapfer, Luca, von Horgen, in Weiningen (ZH), Gesellschafter und Geschäftsführer, mit Einzelunterschrift, mit 8 Stammanteilen zu je CHF 1&apos;000.00; Pfister, Michelle, von Zürich, in Oetwil an der Limmat, Gesellschafterin, mit Einzelunterschrift, mit 4 Stammanteilen zu je CHF 1&apos;000.00; Stapfer, Peter, von Dietikon, in Oetwil an der Limmat, Gesellschafter, mit Einzelunterschrift, mit 8 Stammanteilen zu je CHF 1&apos;000.00. | status | status.neu | Stapfer Entwässerungssysteme GmbH | CHE187738930 | CH02040909795 | Dietikon | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-02-04",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "02040909795"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-04",
+        "sogcId": 1006558936,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 5366,
+        "registryOfCommerceJournalDate": "2026-01-30",
+        "message": "<FT TYPE=\"N\">Stapfer Entwässerungssysteme GmbH</FT>, in <FT TYPE=\"5\">Dietikon</FT>, <FT TYPE=\"A\">CHE-187.738.930</FT>, Giessenstrasse 15, 8953 Dietikon, Gesellschaft mit beschränkter Haftung (Neueintragung). Statutendatum: 28.01.2026. Zweck: Die Gesellschaft bezweckt Planung, Produktion und Montagen von Chrom-Nickelstahl Entwässerungssystemen, sowie allgemeine Metallbauarbeiten aus Chrom-Nickelstahl. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle Geschäfte tätigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, veräussern und verwalten. Sie kann auch Finanzierungen für eigene oder fremde Rechnung vornehmen sowie Sicherheiten für Verbindlichkeiten verbundener Gesellschaften abgeben. Stammkapital: CHF 20&apos;000.00. Publikationsorgan: SHAB. Mitteilungen der Geschäftsführung an die Gesellschafter erfolgen per Brief oder E-Mail an die im Anteilbuch verzeichneten Adressen. Gemäss Erklärung bei der Gründung der Gesellschaft wird auf eine eingeschränkte Revision verzichtet. Eingetragene Personen: Stapfer, Luca, von Horgen, in Weiningen (ZH), Gesellschafter und Geschäftsführer, mit Einzelunterschrift, mit 8 Stammanteilen zu je CHF 1&apos;000.00; Pfister, Michelle, von Zürich, in Oetwil an der Limmat, Gesellschafterin, mit Einzelunterschrift, mit 4 Stammanteilen zu je CHF 1&apos;000.00; Stapfer, Peter, von Dietikon, in Oetwil an der Limmat, Gesellschafter, mit Einzelunterschrift, mit 8 Stammanteilen zu je CHF 1&apos;000.00.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Stapfer Entwässerungssysteme GmbH",
+        "ehraid": 1733126,
+        "uid": "CHE187738930",
+        "chid": "CH02040909795",
+        "legalSeatId": 243,
+        "legalSeat": "Dietikon",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-02-04",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "0fdb0c592bbc9844efc01e67",
+    "publication_date": "2026-02-04",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-04 | GE | 2026-01-30 | <FT TYPE=\"F\">Tea Room Boulangerie Todesco Natacha &amp; Santiago Fernandes Teresa SNC</FT>, à <FT TYPE=\"S\">Dardagny</FT>, <FT TYPE=\"A\">CHE-113.401.225</FT> (FOSC du 23.01.2026, p. 0/1006548847). Nouvelle raison de commerce: <FT TYPE=\"N\">Tea Room Boulangerie Todesco &amp; Cana SNC</FT>. | firmenaenderung | Tea Room Boulangerie Todesco & Cana SNC | CHE113401225 | CH66000870072 | Dardagny | 0103 | Kollektivgesellschaft | Société en nom collectif | Società in nome collettivo | General Partnership | KlG | SNC | SNC | GP | ACTIVE | 2007-02-01",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006548847)",
+      "000870072"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-04",
+        "sogcId": 1006560118,
+        "registryOfCommerceId": 660,
+        "registryOfCommerceCanton": "GE",
+        "registryOfCommerceJournalId": 2981,
+        "registryOfCommerceJournalDate": "2026-01-30",
+        "message": "<FT TYPE=\"F\">Tea Room Boulangerie Todesco Natacha &amp; Santiago Fernandes Teresa SNC</FT>, à <FT TYPE=\"S\">Dardagny</FT>, <FT TYPE=\"A\">CHE-113.401.225</FT> (FOSC du 23.01.2026, p. 0/1006548847). Nouvelle raison de commerce: <FT TYPE=\"N\">Tea Room Boulangerie Todesco &amp; Cana SNC</FT>.",
+        "mutationTypes": [
+          {
+            "id": 9,
+            "key": "firmenaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Tea Room Boulangerie Todesco & Cana SNC",
+        "ehraid": 861216,
+        "uid": "CHE113401225",
+        "chid": "CH66000870072",
+        "legalSeatId": 6620,
+        "legalSeat": "Dardagny",
+        "registryOfCommerceId": 660,
+        "legalForm": {
+          "id": 2,
+          "uid": "0103",
+          "name": {
+            "de": "Kollektivgesellschaft",
+            "fr": "Société en nom collectif",
+            "it": "Società in nome collettivo",
+            "en": "General Partnership"
+          },
+          "shortName": {
+            "de": "KlG",
+            "fr": "SNC",
+            "it": "SNC",
+            "en": "GP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2007-02-01",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "adcc666c500673526bb3f2ec",
+    "publication_date": "2026-02-04",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-04 | ZH | 2026-01-30 | <FT TYPE=\"N\">Yaay Fun Land GmbH</FT>, in <FT TYPE=\"5\">Bubikon</FT>, <FT TYPE=\"A\">CHE-314.529.225</FT>, Ritterhausstrasse 7, 8608 Bubikon, Gesellschaft mit beschränkter Haftung (Neueintragung). Statutendatum: 27.01.2026. Zweck: Die Gesellschaft bezweckt den Betrieb eines lndoor-Spielplatzes mit einem Familiencafé, in dem Speisen und Getränke verkauft werden, die Organisation und Durchführung von Geburtstagsfeiern und Workshops sowie den Verkauf von Secondhand- und handgefertigten Artikeln. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle Geschäfte tätigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, veräussern und verwalten. Sie kann auch Finanzierungen für eigene oder fremde Rechnung vornehmen sowie Garantien und Bürgschaften für Tochtergesellschaften und Dritte eingehen. Stammkapital: CHF 20&apos;000.00. Publikationsorgan: SHAB. Mitteilungen der Geschäftsführung an die Gesellschafter erfolgen per Brief oder E-Mail an die im Anteilbuch verzeichneten Adressen. Gemäss Erklärung bei der Gründung der Gesellschaft wird auf eine eingeschränkte Revision verzichtet. Eingetragene Personen: Verdeti-Rai, Ioana-Cristina, rumänische Staatsangehörige, in Dürnten, Gesellschafterin und Geschäftsführerin, mit Einzelunterschrift, mit 20&apos;000 Stammanteilen zu je CHF 1.00. | status | status.neu | Yaay Fun Land GmbH | CHE314529225 | CH02040909873 | Bubikon | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-02-04",
+    "categories": [
+      "allgemein",
+      "kaffee_tee"
+    ],
+    "confidence": 95,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "02040909873"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-04",
+        "sogcId": 1006558942,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 5372,
+        "registryOfCommerceJournalDate": "2026-01-30",
+        "message": "<FT TYPE=\"N\">Yaay Fun Land GmbH</FT>, in <FT TYPE=\"5\">Bubikon</FT>, <FT TYPE=\"A\">CHE-314.529.225</FT>, Ritterhausstrasse 7, 8608 Bubikon, Gesellschaft mit beschränkter Haftung (Neueintragung). Statutendatum: 27.01.2026. Zweck: Die Gesellschaft bezweckt den Betrieb eines lndoor-Spielplatzes mit einem Familiencafé, in dem Speisen und Getränke verkauft werden, die Organisation und Durchführung von Geburtstagsfeiern und Workshops sowie den Verkauf von Secondhand- und handgefertigten Artikeln. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle Geschäfte tätigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, veräussern und verwalten. Sie kann auch Finanzierungen für eigene oder fremde Rechnung vornehmen sowie Garantien und Bürgschaften für Tochtergesellschaften und Dritte eingehen. Stammkapital: CHF 20&apos;000.00. Publikationsorgan: SHAB. Mitteilungen der Geschäftsführung an die Gesellschafter erfolgen per Brief oder E-Mail an die im Anteilbuch verzeichneten Adressen. Gemäss Erklärung bei der Gründung der Gesellschaft wird auf eine eingeschränkte Revision verzichtet. Eingetragene Personen: Verdeti-Rai, Ioana-Cristina, rumänische Staatsangehörige, in Dürnten, Gesellschafterin und Geschäftsführerin, mit Einzelunterschrift, mit 20&apos;000 Stammanteilen zu je CHF 1.00.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Yaay Fun Land GmbH",
+        "ehraid": 1733132,
+        "uid": "CHE314529225",
+        "chid": "CH02040909873",
+        "legalSeatId": 112,
+        "legalSeat": "Bubikon",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-02-04",
+        "deletionDate": null
+      }
+    }
+  }
+]

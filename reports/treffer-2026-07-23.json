@@ -1,0 +1,771 @@
+[
+  {
+    "publication_id": "d4eb83932ef885800d30a4ad",
+    "publication_date": "2026-07-23",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-07-23 | TG | 2026-07-20 | <FT TYPE=\"F\">EKT Holding AG</FT>, in <FT TYPE=\"S\">Arbon</FT>, <FT TYPE=\"A\">CHE-112.758.966</FT>, Aktiengesellschaft (SHAB Nr. 142 vom 25.07.2025, Publ. 1006394675). Ausgeschiedene Personen und erloschene Unterschriften: SchÃ¼tz, Peter, von Sumiswald, in Wigoltingen, PrÃ¤sident, mit Kollektivunterschrift zu zweien; Gemperle, Josef, von Degersheim, in Fischingen, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien. Eingetragene Personen neu oder mutierend: Sigrist, Thomas, von Meggen, in Frauenfeld, PrÃ¤sident des Verwaltungsrates, mit Kollektivunterschrift zu zweien [bisher: Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien]; Feuerstein-Felix, Mevina, von Val MÃ¼stair, in ZÃ¼rich, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien; Keller, Dr. Roland, von Weinfelden, in TÃ¤gerwilen, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien. | aenderungorgane | EKT Holding AG | CHE112758966 | CH44030188929 | Arbon | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-07-23",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006394675)",
+      "030188929"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-07-23",
+        "sogcId": 1006714892,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 4623,
+        "registryOfCommerceJournalDate": "2026-07-20",
+        "message": "<FT TYPE=\"F\">EKT Holding AG</FT>, in <FT TYPE=\"S\">Arbon</FT>, <FT TYPE=\"A\">CHE-112.758.966</FT>, Aktiengesellschaft (SHAB Nr. 142 vom 25.07.2025, Publ. 1006394675). Ausgeschiedene Personen und erloschene Unterschriften: SchÃ¼tz, Peter, von Sumiswald, in Wigoltingen, PrÃ¤sident, mit Kollektivunterschrift zu zweien; Gemperle, Josef, von Degersheim, in Fischingen, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien. Eingetragene Personen neu oder mutierend: Sigrist, Thomas, von Meggen, in Frauenfeld, PrÃ¤sident des Verwaltungsrates, mit Kollektivunterschrift zu zweien [bisher: Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien]; Feuerstein-Felix, Mevina, von Val MÃ¼stair, in ZÃ¼rich, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien; Keller, Dr. Roland, von Weinfelden, in TÃ¤gerwilen, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "EKT Holding AG",
+        "ehraid": 828053,
+        "uid": "CHE112758966",
+        "chid": "CH44030188929",
+        "legalSeatId": 4401,
+        "legalSeat": "Arbon",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-07-23",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "3e08c5537b8561a9f96ca4b3",
+    "publication_date": "2026-07-23",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-07-23 | AG | 2026-07-20 | <FT TYPE=\"F\">ERD Baumanagement GmbH</FT>, in <FT TYPE=\"S\">Spreitenbach</FT>, <FT TYPE=\"A\">CHE-342.838.068</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 239 vom 09.12.2024, Publ. 1006198966). Firma neu: <FT TYPE=\"N\">ERD Baumanagement GmbH in Liquidation</FT>. Die Gesellschaft ist mit Beschluss der Gesellschafterversammlung vom 03.06.2026 aufgelÃ¶st. Eingetragene Personen neu oder mutierend: Bieri, RenÃ©, von Schangnau, in Elsau, Liquidator, mit Einzelunterschrift als Liquidator [bisher: ohne eingetragene Funktion, mit Einzelunterschrift]. | status | status.aufl | status.aufl.liq | aenderungorgane | ERD Baumanagement GmbH in Liquidation | CHE342838068 | CH40044543774 | Spreitenbach | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | BEING_CANCELLED | 2026-07-23",
+    "categories": [
+      "bier"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006198966)",
+      "0044543774"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-07-23",
+        "sogcId": 1006714806,
+        "registryOfCommerceId": 400,
+        "registryOfCommerceCanton": "AG",
+        "registryOfCommerceJournalId": 10537,
+        "registryOfCommerceJournalDate": "2026-07-20",
+        "message": "<FT TYPE=\"F\">ERD Baumanagement GmbH</FT>, in <FT TYPE=\"S\">Spreitenbach</FT>, <FT TYPE=\"A\">CHE-342.838.068</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 239 vom 09.12.2024, Publ. 1006198966). Firma neu: <FT TYPE=\"N\">ERD Baumanagement GmbH in Liquidation</FT>. Die Gesellschaft ist mit Beschluss der Gesellschafterversammlung vom 03.06.2026 aufgelÃ¶st. Eingetragene Personen neu oder mutierend: Bieri, RenÃ©, von Schangnau, in Elsau, Liquidator, mit Einzelunterschrift als Liquidator [bisher: ohne eingetragene Funktion, mit Einzelunterschrift].",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 3,
+            "key": "status.aufl"
+          },
+          {
+            "id": 4,
+            "key": "status.aufl.liq"
+          },
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "ERD Baumanagement GmbH in Liquidation",
+        "ehraid": 1626271,
+        "uid": "CHE342838068",
+        "chid": "CH40044543774",
+        "legalSeatId": 4040,
+        "legalSeat": "Spreitenbach",
+        "registryOfCommerceId": 400,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "BEING_CANCELLED",
+        "sogcDate": "2026-07-23",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "72b45225dc286b5557884147",
+    "publication_date": "2026-07-23",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-07-23 | GL | 2026-07-20 | <FT TYPE=\"F\">Josef Weinberger AG</FT>, in <FT TYPE=\"S\">Glarus</FT>, <FT TYPE=\"A\">CHE-102.705.193</FT>, Aktiengesellschaft (SHAB Nr. 4 vom 08.01.2024, Publ. 1005927428). Eingetragene Personen neu oder mutierend: Dedic, Hrvoje, kroatischer StaatsangehÃ¶riger, in ZÃ¼rich, mit Kollektivprokura zu zweien. | aenderungorgane | Josef Weinberger AG | CHE102705193 | CH16030016228 | Glarus | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-07-23",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "005927428)",
+      "030016228"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-07-23",
+        "sogcId": 1006714491,
+        "registryOfCommerceId": 160,
+        "registryOfCommerceCanton": "GL",
+        "registryOfCommerceJournalId": 728,
+        "registryOfCommerceJournalDate": "2026-07-20",
+        "message": "<FT TYPE=\"F\">Josef Weinberger AG</FT>, in <FT TYPE=\"S\">Glarus</FT>, <FT TYPE=\"A\">CHE-102.705.193</FT>, Aktiengesellschaft (SHAB Nr. 4 vom 08.01.2024, Publ. 1005927428). Eingetragene Personen neu oder mutierend: Dedic, Hrvoje, kroatischer StaatsangehÃ¶riger, in ZÃ¼rich, mit Kollektivprokura zu zweien.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Josef Weinberger AG",
+        "ehraid": 206624,
+        "uid": "CHE102705193",
+        "chid": "CH16030016228",
+        "legalSeatId": 1632,
+        "legalSeat": "Glarus",
+        "registryOfCommerceId": 160,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-07-23",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "99c1eadc733b15a14854acce",
+    "publication_date": "2026-07-23",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-07-23 | NE | 2026-07-20 | <FT TYPE=\"N\">Le Passage NeuchÃ¢tel SÃ rl</FT>, Ã  <FT TYPE=\"5\">NeuchÃ¢tel</FT>, Passage Max-Meuron 4, 2000 NeuchÃ¢tel, <FT TYPE=\"A\">CHE-201.259.205</FT>. Nouvelle sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e. Statuts du 17.07.2026. But: la sociÃ©tÃ© a pour but: exploitation et gestion d&apos;une brasserie proposant notamment, une cuisine traditionnelle; vente de boissons alcoolisÃ©es et non alcoolisÃ©es, ainsi que toutes activitÃ©s dans le domaine de la restauration; organisation d&apos;Ã©vÃ©nements et d&apos;animations Toutes prestations de services et toutes opÃ©rations convergentes Ã  ces buts. Les statuts comportent une clause d&apos;arbitrage; pour les dÃ©tails, voir les statuts. Prestations accessoires, droits de prÃ©fÃ©rence, de prÃ©emption ou d&apos;emption: selon statuts. Capital social: CHF 20&apos;000. AssociÃ©s: Terlier Florian, avec 16&apos;000 parts sociales de CHF 1, et Diener Luc, avec 4&apos;000 parts sociales de CHF 1, tous deux de France, Ã  NeuchÃ¢tel. Terlier Florian AndrÃ© Ghislain est gÃ©rant unique avec signature individuelle. Signature collective Ã  deux a Ã©tÃ© confÃ©rÃ©e Ã  l&apos;associÃ© Diener Luc Emmanuel. Organe de publication: Feuille officielle suisse du commerce. Communications aux associÃ©s: par lettre recommandÃ©e ou courrier Ã©lectronique. Selon dÃ©claration Ã  la constitution de la sociÃ©tÃ©, il est renoncÃ© Ã  un contrÃ´le restreint. | status | status.neu | Le Passage Neuchâtel Sàrl | CHE201259205 | CH64541326184 | Neuchâtel | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-07-23",
+    "categories": [
+      "allgemein",
+      "bier"
+    ],
+    "confidence": 95,
+    "contact_names": [],
+    "emails": [],
+    "phones": [],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": []
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-07-23",
+        "sogcId": 1006715075,
+        "registryOfCommerceId": 645,
+        "registryOfCommerceCanton": "NE",
+        "registryOfCommerceJournalId": 2887,
+        "registryOfCommerceJournalDate": "2026-07-20",
+        "message": "<FT TYPE=\"N\">Le Passage NeuchÃ¢tel SÃ rl</FT>, Ã  <FT TYPE=\"5\">NeuchÃ¢tel</FT>, Passage Max-Meuron 4, 2000 NeuchÃ¢tel, <FT TYPE=\"A\">CHE-201.259.205</FT>. Nouvelle sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e. Statuts du 17.07.2026. But: la sociÃ©tÃ© a pour but: exploitation et gestion d&apos;une brasserie proposant notamment, une cuisine traditionnelle; vente de boissons alcoolisÃ©es et non alcoolisÃ©es, ainsi que toutes activitÃ©s dans le domaine de la restauration; organisation d&apos;Ã©vÃ©nements et d&apos;animations Toutes prestations de services et toutes opÃ©rations convergentes Ã  ces buts. Les statuts comportent une clause d&apos;arbitrage; pour les dÃ©tails, voir les statuts. Prestations accessoires, droits de prÃ©fÃ©rence, de prÃ©emption ou d&apos;emption: selon statuts. Capital social: CHF 20&apos;000. AssociÃ©s: Terlier Florian, avec 16&apos;000 parts sociales de CHF 1, et Diener Luc, avec 4&apos;000 parts sociales de CHF 1, tous deux de France, Ã  NeuchÃ¢tel. Terlier Florian AndrÃ© Ghislain est gÃ©rant unique avec signature individuelle. Signature collective Ã  deux a Ã©tÃ© confÃ©rÃ©e Ã  l&apos;associÃ© Diener Luc Emmanuel. Organe de publication: Feuille officielle suisse du commerce. Communications aux associÃ©s: par lettre recommandÃ©e ou courrier Ã©lectronique. Selon dÃ©claration Ã  la constitution de la sociÃ©tÃ©, il est renoncÃ© Ã  un contrÃ´le restreint.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Le Passage Neuchâtel Sàrl",
+        "ehraid": 1760184,
+        "uid": "CHE201259205",
+        "chid": "CH64541326184",
+        "legalSeatId": 6458,
+        "legalSeat": "Neuchâtel",
+        "registryOfCommerceId": 645,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-07-23",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "0e0e24f938e7559fa2923a11",
+    "publication_date": "2026-07-23",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-07-23 | BE | 2026-07-20 | <FT TYPE=\"N\">PS Grill &amp; Go GmbH</FT> <FT TYPE=\"V\">(PS Grill &amp; Go SÃ rl) (PS Grill &amp; Go Sagl) (PS Grill &amp; Go Ltd liab Co)</FT>, in <FT TYPE=\"5\">Ostermundigen</FT>, <FT TYPE=\"A\">CHE-475.387.558</FT>, RÃ¼tiweg 98a, 3072 Ostermundigen, Gesellschaft mit beschrÃ¤nkter Haftung (Neueintragung). Statutendatum: 15.07.2026. Zweck: Die Gesellschaft bezweckt den Betrieb und die FÃ¼hrung von Gastronomiebetrieben, insbesondere von Restaurants, Bars, Take-away-Betrieben und Cateringunternehmen. Sie betreibt den Handel mit Lebensmitteln, GetrÃ¤nken, Wein und verwandten Produkten sowie deren Import und Export. Die Gesellschaft erbringt zudem Dienstleistungen im Bereich der Organisation und DurchfÃ¼hrung von Veranstaltungen und Events. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten, sich an anderen Unternehmen im In- und Ausland beteiligen, gleichartige oder verwandte Unternehmen erwerben, grÃ¼nden oder mit solchen zusammenarbeiten. Sie kann sÃ¤mtliche GeschÃ¤fte tÃ¤tigen und VertrÃ¤ge abschliessen, die geeignet sind, den Gesellschaftszweck direkt oder indirekt zu fÃ¶rdern. Ferner kann sie GrundstÃ¼cke sowie ImmaterialgÃ¼terrechte, insbesondere Patente, Marken und Lizenzen, erwerben, halten, verwalten, belasten und verÃ¤ussern. Stammkapital: CHF 20&apos;000.00. Nebenleistungspflichten, Vorhand-, Vorkaufs- oder Kaufsrechte: gemÃ¤ss nÃ¤herer Umschreibung in den Statuten. Publikationsorgan: SHAB. Mitteilungen an die Gesellschafter: schriftlich oder per E-Mail. GemÃ¤ss ErklÃ¤rung bei der GrÃ¼ndung der Gesellschaft wird auf eine eingeschrÃ¤nkte Revision verzichtet. Eingetragene Personen: Almeida Sousa da Silva, Ana Raquel, portugiesische StaatsangehÃ¶rige, in Belp, Gesellschafterin und GeschÃ¤ftsfÃ¼hrerin, mit Einzelunterschrift, mit 99 Stammanteilen zu je CHF 100.00; Antunes da Silva, Paulo Alexandre, von Schwarzenberg, in Belp, Gesellschafter, mit Einzelunterschrift, mit 101 Stammanteilen zu",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "03641084487"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-07-23",
+        "sogcId": 1006714303,
+        "registryOfCommerceId": 36,
+        "registryOfCommerceCanton": "BE",
+        "registryOfCommerceJournalId": 13780,
+        "registryOfCommerceJournalDate": "2026-07-20",
+        "message": "<FT TYPE=\"N\">PS Grill &amp; Go GmbH</FT> <FT TYPE=\"V\">(PS Grill &amp; Go SÃ rl) (PS Grill &amp; Go Sagl) (PS Grill &amp; Go Ltd liab Co)</FT>, in <FT TYPE=\"5\">Ostermundigen</FT>, <FT TYPE=\"A\">CHE-475.387.558</FT>, RÃ¼tiweg 98a, 3072 Ostermundigen, Gesellschaft mit beschrÃ¤nkter Haftung (Neueintragung). Statutendatum: 15.07.2026. Zweck: Die Gesellschaft bezweckt den Betrieb und die FÃ¼hrung von Gastronomiebetrieben, insbesondere von Restaurants, Bars, Take-away-Betrieben und Cateringunternehmen. Sie betreibt den Handel mit Lebensmitteln, GetrÃ¤nken, Wein und verwandten Produkten sowie deren Import und Export. Die Gesellschaft erbringt zudem Dienstleistungen im Bereich der Organisation und DurchfÃ¼hrung von Veranstaltungen und Events. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten, sich an anderen Unternehmen im In- und Ausland beteiligen, gleichartige oder verwandte Unternehmen erwerben, grÃ¼nden oder mit solchen zusammenarbeiten. Sie kann sÃ¤mtliche GeschÃ¤fte tÃ¤tigen und VertrÃ¤ge abschliessen, die geeignet sind, den Gesellschaftszweck direkt oder indirekt zu fÃ¶rdern. Ferner kann sie GrundstÃ¼cke sowie ImmaterialgÃ¼terrechte, insbesondere Patente, Marken und Lizenzen, erwerben, halten, verwalten, belasten und verÃ¤ussern. Stammkapital: CHF 20&apos;000.00. Nebenleistungspflichten, Vorhand-, Vorkaufs- oder Kaufsrechte: gemÃ¤ss nÃ¤herer Umschreibung in den Statuten. Publikationsorgan: SHAB. Mitteilungen an die Gesellschafter: schriftlich oder per E-Mail. GemÃ¤ss ErklÃ¤rung bei der GrÃ¼ndung der Gesellschaft wird auf eine eingeschrÃ¤nkte Revision verzichtet. Eingetragene Personen: Almeida Sousa da Silva, Ana Raquel, portugiesische StaatsangehÃ¶rige, in Belp, Gesellschafterin und GeschÃ¤ftsfÃ¼hrerin, mit Einzelunterschrift, mit 99 Stammanteilen zu je CHF 100.00; Antunes da Silva, Paulo Alexandre, von Schwarzenberg, in Belp, Gesellschafter, mit Einzelunterschrift, mit 101 Stammanteilen zu je CHF 100.00.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "PS Grill & Go GmbH",
+        "ehraid": 1760215,
+        "uid": "CHE475387558",
+        "chid": "CH03641084487",
+        "legalSeatId": 363,
+        "legalSeat": "Ostermundigen",
+        "registryOfCommerceId": 36,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-07-23",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "1551fe7ea38858c34556ac52",
+    "publication_date": "2026-07-23",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-07-23 | BE | 2026-07-20 | <FT TYPE=\"F\">Sigrist Weinbau Holding GmbH</FT>, in <FT TYPE=\"S\">Wilderswil</FT>, <FT TYPE=\"A\">CHE-476.956.016</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 134 vom 15.07.2026, Publ. 1006707178). Aktiven und Passiven (Fremdkapital) gehen infolge Fusion auf die Sigrist Treuhand &amp; Revision AG, in Wilderswil (<FT TYPE=\"B\">CHE-456.109.970</FT>), Ã¼ber. Die Gesellschaft wird gelÃ¶scht. | status | status.loeschung | fusion | Sigrist Weinbau Holding GmbH | CHE476956016 | CH03640632938 | Wilderswil | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | CANCELLED | 2026-07-23 | 2026-07-23",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006707178)",
+      "03640632938"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-07-23",
+        "sogcId": 1006714369,
+        "registryOfCommerceId": 36,
+        "registryOfCommerceCanton": "BE",
+        "registryOfCommerceJournalId": 13847,
+        "registryOfCommerceJournalDate": "2026-07-20",
+        "message": "<FT TYPE=\"F\">Sigrist Weinbau Holding GmbH</FT>, in <FT TYPE=\"S\">Wilderswil</FT>, <FT TYPE=\"A\">CHE-476.956.016</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 134 vom 15.07.2026, Publ. 1006707178). Aktiven und Passiven (Fremdkapital) gehen infolge Fusion auf die Sigrist Treuhand &amp; Revision AG, in Wilderswil (<FT TYPE=\"B\">CHE-456.109.970</FT>), Ã¼ber. Die Gesellschaft wird gelÃ¶scht.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 7,
+            "key": "status.loeschung"
+          },
+          {
+            "id": 19,
+            "key": "fusion"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Sigrist Weinbau Holding GmbH",
+        "ehraid": 1218570,
+        "uid": "CHE476956016",
+        "chid": "CH03640632938",
+        "legalSeatId": 594,
+        "legalSeat": "Wilderswil",
+        "registryOfCommerceId": 36,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "CANCELLED",
+        "sogcDate": "2026-07-23",
+        "deletionDate": "2026-07-23"
+      }
+    }
+  },
+  {
+    "publication_id": "f9ad08f699658257d5dea51c",
+    "publication_date": "2026-07-23",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-07-23 | SZ | 2026-07-20 | <FT TYPE=\"F\">Tobias KÃ¤lin AG</FT>, in <FT TYPE=\"S\">Einsiedeln</FT>, <FT TYPE=\"A\">CHE-106.899.860</FT>, Aktiengesellschaft (SHAB Nr. 35 vom 20.02.2026, Publ. 1006575437). Ausgeschiedene Personen und erloschene Unterschriften: Lienert, Arne, von Einsiedeln, in Euthal, Mitglied, mit Einzelunterschrift. Eingetragene Personen neu oder mutierend: Marrocu, Renato, von Weinfelden, in Einsiedeln, Mitglied, mit Einzelunterschrift. | aenderungorgane | Tobias Kälin AG | CHE106899860 | CH13000039771 | Einsiedeln | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-07-23",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006575437)",
+      "000039771"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-07-23",
+        "sogcId": 1006714452,
+        "registryOfCommerceId": 130,
+        "registryOfCommerceCanton": "SZ",
+        "registryOfCommerceJournalId": 5055,
+        "registryOfCommerceJournalDate": "2026-07-20",
+        "message": "<FT TYPE=\"F\">Tobias KÃ¤lin AG</FT>, in <FT TYPE=\"S\">Einsiedeln</FT>, <FT TYPE=\"A\">CHE-106.899.860</FT>, Aktiengesellschaft (SHAB Nr. 35 vom 20.02.2026, Publ. 1006575437). Ausgeschiedene Personen und erloschene Unterschriften: Lienert, Arne, von Einsiedeln, in Euthal, Mitglied, mit Einzelunterschrift. Eingetragene Personen neu oder mutierend: Marrocu, Renato, von Weinfelden, in Einsiedeln, Mitglied, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Tobias Kälin AG",
+        "ehraid": 95683,
+        "uid": "CHE106899860",
+        "chid": "CH13000039771",
+        "legalSeatId": 1301,
+        "legalSeat": "Einsiedeln",
+        "registryOfCommerceId": 130,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-07-23",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "0910de1345c21f2e3cc8ddba",
+    "publication_date": "2026-07-23",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-07-23 | ZH | 2026-07-20 | <FT TYPE=\"F\">Vanini Analytics</FT>, in <FT TYPE=\"S\">Weiningen (ZH)</FT>, <FT TYPE=\"A\">CHE-278.918.698</FT>, Einzelunternehmen (SHAB Nr. 38 vom 25.02.2025, Publ. 1006265987). Das Einzelunternehmen ist infolge Aufgabe der GeschÃ¤ftstÃ¤tigkeit erloschen. | status | status.loeschung | Vanini Analytics | CHE278918698 | CH02020091358 | Weiningen (ZH) | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | CANCELLED | 2026-07-23 | 2026-07-23",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006265987)",
+      "02020091358"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-07-23",
+        "sogcId": 1006714286,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 35135,
+        "registryOfCommerceJournalDate": "2026-07-20",
+        "message": "<FT TYPE=\"F\">Vanini Analytics</FT>, in <FT TYPE=\"S\">Weiningen (ZH)</FT>, <FT TYPE=\"A\">CHE-278.918.698</FT>, Einzelunternehmen (SHAB Nr. 38 vom 25.02.2025, Publ. 1006265987). Das Einzelunternehmen ist infolge Aufgabe der GeschÃ¤ftstÃ¤tigkeit erloschen.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 7,
+            "key": "status.loeschung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Vanini Analytics",
+        "ehraid": 1532390,
+        "uid": "CHE278918698",
+        "chid": "CH02020091358",
+        "legalSeatId": 251,
+        "legalSeat": "Weiningen (ZH)",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "CANCELLED",
+        "sogcDate": "2026-07-23",
+        "deletionDate": "2026-07-23"
+      }
+    }
+  },
+  {
+    "publication_id": "f01a28b31ba9b0b17dca1d8a",
+    "publication_date": "2026-07-23",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-07-23 | ZH | 2026-07-20 | <FT TYPE=\"F\">VinoArte GmbH</FT>, in <FT TYPE=\"S\">BÃ¼lach</FT>, <FT TYPE=\"A\">CHE-114.766.356</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 53 vom 18.03.2009, S.24, Publ. 4931614). Ausgeschiedene Personen und erloschene Unterschriften: Tuor, Peter Alois, von Sumvitg, in BÃ¼lach, Gesellschafter und GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift, mit einem Stammanteil von CHF 20&apos;000.00. Eingetragene Personen neu oder mutierend: Casellini, Angela Kristina, von Arogno, in Winterthur, Gesellschafterin und GeschÃ¤ftsfÃ¼hrerin, mit Einzelunterschrift, mit einem Stammanteil von CHF 20&apos;000.00. | aenderungorgane | VinoArte GmbH | CHE114766356 | CH02040397247 | Bülach | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-07-23",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "02040397247"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-07-23",
+        "sogcId": 1006714261,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 35110,
+        "registryOfCommerceJournalDate": "2026-07-20",
+        "message": "<FT TYPE=\"F\">VinoArte GmbH</FT>, in <FT TYPE=\"S\">BÃ¼lach</FT>, <FT TYPE=\"A\">CHE-114.766.356</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 53 vom 18.03.2009, S.24, Publ. 4931614). Ausgeschiedene Personen und erloschene Unterschriften: Tuor, Peter Alois, von Sumvitg, in BÃ¼lach, Gesellschafter und GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift, mit einem Stammanteil von CHF 20&apos;000.00. Eingetragene Personen neu oder mutierend: Casellini, Angela Kristina, von Arogno, in Winterthur, Gesellschafterin und GeschÃ¤ftsfÃ¼hrerin, mit Einzelunterschrift, mit einem Stammanteil von CHF 20&apos;000.00.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "VinoArte GmbH",
+        "ehraid": 938852,
+        "uid": "CHE114766356",
+        "chid": "CH02040397247",
+        "legalSeatId": 53,
+        "legalSeat": "Bülach",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-07-23",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "b815d0d912b6cb0d965fba3f",
+    "publication_date": "2026-07-23",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-07-23 | VD | 2026-07-20 | <FT TYPE=\"N\">Yong Seng SÃ rl</FT>, Ã  <FT TYPE=\"5\">Sainte-Croix</FT>, Rue de la Charmille 1, 1450 Ste-Croix, <FT TYPE=\"A\">CHE-294.950.068</FT>. Nouvelle sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e. Statuts: 08.07.2026. But: la sociÃ©tÃ© a pour but l&apos;exploitation d&apos;Ã©tablissements publics, notamment de restaurants, cafÃ©s, bars et Ã©tablissements similaires, ainsi que la fourniture de toutes prestations de services dans les domaines de la restauration, de la vente de boissons et de denrÃ©es alimentaires, et de toutes activitÃ©s accessoires en lien avec ce but. La sociÃ©tÃ© peut effectuer toutes opÃ©rations financiÃ¨res, commerciales ou industrielles, mobiliÃ¨res ou immobiliÃ¨res, Ã  l&apos;exception de toute opÃ©ration prohibÃ©e par la LFAIE , crÃ©er des succursales ou des filiales en Suisse et Ã  l&apos;Ã©tranger, participer Ã  toutes entreprises ayant un rapport direct ou indirect avec son but et accorder des prÃªts ou des garanties Ã  des associÃ©s ou des tiers, si cela favorise ses intÃ©rÃªts. Obligation de fournir des prestations accessoires, droits de prÃ©fÃ©rence, de prÃ©emption ou d&apos;emption: pour les dÃ©tails, voir les statuts. Capital social: CHF 20&apos;000. AssociÃ©e-gÃ©rante avec signature individuelle: Yue Sze Wing, de Chine, Ã  Sainte-Croix, avec 20 parts de CHF 1&apos;000. Organe de publication: Feuille officielle suisse du commerce. Communications aux associÃ©s: par Ã©crit ou par courriel. Selon dÃ©claration Ã  la constitution de la sociÃ©tÃ©, il est renoncÃ© Ã  un contrÃ´le restreint. | status | status.neu | Yong Seng Sàrl | CHE294950068 | CH55012583014 | Sainte-Croix | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-07-23",
+    "categories": [
+      "allgemein"
+    ],
+    "confidence": 60,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "012583014"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-07-23",
+        "sogcId": 1006714958,
+        "registryOfCommerceId": 550,
+        "registryOfCommerceCanton": "VD",
+        "registryOfCommerceJournalId": 15300,
+        "registryOfCommerceJournalDate": "2026-07-20",
+        "message": "<FT TYPE=\"N\">Yong Seng SÃ rl</FT>, Ã  <FT TYPE=\"5\">Sainte-Croix</FT>, Rue de la Charmille 1, 1450 Ste-Croix, <FT TYPE=\"A\">CHE-294.950.068</FT>. Nouvelle sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e. Statuts: 08.07.2026. But: la sociÃ©tÃ© a pour but l&apos;exploitation d&apos;Ã©tablissements publics, notamment de restaurants, cafÃ©s, bars et Ã©tablissements similaires, ainsi que la fourniture de toutes prestations de services dans les domaines de la restauration, de la vente de boissons et de denrÃ©es alimentaires, et de toutes activitÃ©s accessoires en lien avec ce but. La sociÃ©tÃ© peut effectuer toutes opÃ©rations financiÃ¨res, commerciales ou industrielles, mobiliÃ¨res ou immobiliÃ¨res, Ã  l&apos;exception de toute opÃ©ration prohibÃ©e par la LFAIE , crÃ©er des succursales ou des filiales en Suisse et Ã  l&apos;Ã©tranger, participer Ã  toutes entreprises ayant un rapport direct ou indirect avec son but et accorder des prÃªts ou des garanties Ã  des associÃ©s ou des tiers, si cela favorise ses intÃ©rÃªts. Obligation de fournir des prestations accessoires, droits de prÃ©fÃ©rence, de prÃ©emption ou d&apos;emption: pour les dÃ©tails, voir les statuts. Capital social: CHF 20&apos;000. AssociÃ©e-gÃ©rante avec signature individuelle: Yue Sze Wing, de Chine, Ã  Sainte-Croix, avec 20 parts de CHF 1&apos;000. Organe de publication: Feuille officielle suisse du commerce. Communications aux associÃ©s: par Ã©crit ou par courriel. Selon dÃ©claration Ã  la constitution de la sociÃ©tÃ©, il est renoncÃ© Ã  un contrÃ´le restreint.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Yong Seng Sàrl",
+        "ehraid": 1760312,
+        "uid": "CHE294950068",
+        "chid": "CH55012583014",
+        "legalSeatId": 5568,
+        "legalSeat": "Sainte-Croix",
+        "registryOfCommerceId": 550,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-07-23",
+        "deletionDate": null
+      }
+    }
+  }
+]

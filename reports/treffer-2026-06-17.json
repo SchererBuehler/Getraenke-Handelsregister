@@ -1,0 +1,1706 @@
+[
+  {
+    "publication_id": "9fd5cd601769794444ba292b",
+    "publication_date": "2026-06-17",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-17 | BL | 2026-06-12 | <FT TYPE=\"F\">Advicenna GmbH</FT>, bisher in <FT TYPE=\"S\">Basel</FT>, <FT TYPE=\"A\">CHE-493.686.792</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 167 vom 30.08.2022, Publ. 1005550491). StatutenÃ¤nderung: 27.05.2026. Sitz neu: <FT TYPE=\"5\">Binningen</FT>. Domizil neu: c/o Patrick Raboisson, Schafmattweg 31, 4102 Binningen. Eingetragene Personen neu oder mutierend: Raboisson, Patrick, franzÃ¶sischer StaatsangehÃ¶riger, in Binningen, Gesellschafter und GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift, mit 20 Stammanteilen zu je CHF 1&apos;000.00 [bisher: in Basel]. | adressaenderung | aenderungorgane | Advicenna GmbH | CHE493686792 | CH27040082157 | Binningen | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-06-17",
+    "categories": [
+      "allgemein"
+    ],
+    "confidence": 60,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "005550491)",
+      "040082157"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-17",
+        "sogcId": 1006679712,
+        "registryOfCommerceId": 280,
+        "registryOfCommerceCanton": "BL",
+        "registryOfCommerceJournalId": 3630,
+        "registryOfCommerceJournalDate": "2026-06-12",
+        "message": "<FT TYPE=\"F\">Advicenna GmbH</FT>, bisher in <FT TYPE=\"S\">Basel</FT>, <FT TYPE=\"A\">CHE-493.686.792</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 167 vom 30.08.2022, Publ. 1005550491). StatutenÃ¤nderung: 27.05.2026. Sitz neu: <FT TYPE=\"5\">Binningen</FT>. Domizil neu: c/o Patrick Raboisson, Schafmattweg 31, 4102 Binningen. Eingetragene Personen neu oder mutierend: Raboisson, Patrick, franzÃ¶sischer StaatsangehÃ¶riger, in Binningen, Gesellschafter und GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift, mit 20 Stammanteilen zu je CHF 1&apos;000.00 [bisher: in Basel].",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          },
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Advicenna GmbH",
+        "ehraid": 1550706,
+        "uid": "CHE493686792",
+        "chid": "CH27040082157",
+        "legalSeatId": 2765,
+        "legalSeat": "Binningen",
+        "registryOfCommerceId": 280,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-06-17",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "11db1ce9f4e27b2d45d46d64",
+    "publication_date": "2026-06-17",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-17 | TG | 2026-06-12 | <FT TYPE=\"F\">BÃ¼hler Hartmann Treuhand AG</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-107.565.953</FT>, Aktiengesellschaft (SHAB Nr. 67 vom 07.04.2025, Publ. 1006302168). Ausgeschiedene Personen und erloschene Unterschriften: Frischknecht-Eisenegger, Manuela, von Aadorf, in Mettendorf TG (HÃ¼ttlingen), mit Kollektivprokura zu zweien. | aenderungorgane | Bühler Hartmann Treuhand AG | CHE107565953 | CH44030094017 | Weinfelden | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-06-17",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006302168)",
+      "030094017"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-17",
+        "sogcId": 1006679935,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 3820,
+        "registryOfCommerceJournalDate": "2026-06-12",
+        "message": "<FT TYPE=\"F\">BÃ¼hler Hartmann Treuhand AG</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-107.565.953</FT>, Aktiengesellschaft (SHAB Nr. 67 vom 07.04.2025, Publ. 1006302168). Ausgeschiedene Personen und erloschene Unterschriften: Frischknecht-Eisenegger, Manuela, von Aadorf, in Mettendorf TG (HÃ¼ttlingen), mit Kollektivprokura zu zweien.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Bühler Hartmann Treuhand AG",
+        "ehraid": 369859,
+        "uid": "CHE107565953",
+        "chid": "CH44030094017",
+        "legalSeatId": 4946,
+        "legalSeat": "Weinfelden",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-06-17",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "98eacdfe0385207032ba8728",
+    "publication_date": "2026-06-17",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-17 | NW | 2026-06-12 | <FT TYPE=\"F\">Buholzer Weine Buholzer Reisen GmbH</FT>, in <FT TYPE=\"S\">Buochs</FT>, <FT TYPE=\"A\">CHE-270.430.364</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 13 vom 21.01.2019, Publ. 1004546355). Domizil neu: StÃ¤delihof 5, 6374 Buochs. | adressaenderung | Buholzer Weine Buholzer Reisen GmbH | CHE270430364 | CH15044769115 | Buochs | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-06-17",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "004546355)",
+      "044769115"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-17",
+        "sogcId": 1006679467,
+        "registryOfCommerceId": 150,
+        "registryOfCommerceCanton": "NW",
+        "registryOfCommerceJournalId": 933,
+        "registryOfCommerceJournalDate": "2026-06-12",
+        "message": "<FT TYPE=\"F\">Buholzer Weine Buholzer Reisen GmbH</FT>, in <FT TYPE=\"S\">Buochs</FT>, <FT TYPE=\"A\">CHE-270.430.364</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 13 vom 21.01.2019, Publ. 1004546355). Domizil neu: StÃ¤delihof 5, 6374 Buochs.",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Buholzer Weine Buholzer Reisen GmbH",
+        "ehraid": 1377905,
+        "uid": "CHE270430364",
+        "chid": "CH15044769115",
+        "legalSeatId": 1502,
+        "legalSeat": "Buochs",
+        "registryOfCommerceId": 150,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-06-17",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "fc34aaa0c59ddfef409fc7b1",
+    "publication_date": "2026-06-17",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-17 | BE | 2026-06-12 | <FT TYPE=\"N\">Burger Garage + Drink Station Inh. Zollinger</FT>, in <FT TYPE=\"5\">Rumisberg</FT>, <FT TYPE=\"A\">CHE-354.579.749</FT>, Gummenweg 17, 4539 Rumisberg, Einzelunternehmen (Neueintragung). Zweck: Betrieb von Gastronomieunternehmen, insbesondere eines Food Trucks, sowie Erbringung von Catering- und Eventdienstleistungen, Herstellung, Verkauf und Vertrieb von Speisen und GetrÃ¤nken aller Art. Eingetragene Personen: Zollinger, Gerd CÃ¤sar, von RÃ¼mlang, in Rumisberg, Inhaber, mit Einzelunterschrift; Eugster, Morena Juanita, von Wassen, in Rumisberg, mit Einzelunterschrift. | status | status.neu | Burger Garage + Drink Station Inh. Zollinger | CHE354579749 | CH03611079556 | Rumisberg | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-06-17",
+    "categories": [
+      "allgemein"
+    ],
+    "confidence": 60,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "03611079556"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-17",
+        "sogcId": 1006679256,
+        "registryOfCommerceId": 36,
+        "registryOfCommerceCanton": "BE",
+        "registryOfCommerceJournalId": 11133,
+        "registryOfCommerceJournalDate": "2026-06-12",
+        "message": "<FT TYPE=\"N\">Burger Garage + Drink Station Inh. Zollinger</FT>, in <FT TYPE=\"5\">Rumisberg</FT>, <FT TYPE=\"A\">CHE-354.579.749</FT>, Gummenweg 17, 4539 Rumisberg, Einzelunternehmen (Neueintragung). Zweck: Betrieb von Gastronomieunternehmen, insbesondere eines Food Trucks, sowie Erbringung von Catering- und Eventdienstleistungen, Herstellung, Verkauf und Vertrieb von Speisen und GetrÃ¤nken aller Art. Eingetragene Personen: Zollinger, Gerd CÃ¤sar, von RÃ¼mlang, in Rumisberg, Inhaber, mit Einzelunterschrift; Eugster, Morena Juanita, von Wassen, in Rumisberg, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Burger Garage + Drink Station Inh. Zollinger",
+        "ehraid": 1754276,
+        "uid": "CHE354579749",
+        "chid": "CH03611079556",
+        "legalSeatId": 987,
+        "legalSeat": "Rumisberg",
+        "registryOfCommerceId": 36,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-06-17",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "733e6ae64fad54082c0f8aba",
+    "publication_date": "2026-06-17",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-17 | BE | 2026-06-12 | <FT TYPE=\"F\">CASA BELÃ‰N GmbH</FT>, bisher in <FT TYPE=\"S\">Dallenwil</FT>, <FT TYPE=\"A\">CHE-153.253.238</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 41 vom 28.02.2025, Publ. 1006270010). StatutenÃ¤nderung: 18.05.2026. Sitz neu: <FT TYPE=\"5\">Hasliberg</FT>. Domizil neu: Sattel 34c, 6083 Hasliberg Hohfluh. Zweck neu: Die Gesellschaft bezweckt den Import, Export und Handel mit Kaffee, Kaffeeprodukten und entsprechendem ZubehÃ¶r, Lebensmitteln und Waren aller Art. Sie erbringt TÃ¤tigkeiten in den Bereichen Tourismus, Gastronomie und Landwirtschaft, insbesondere Betrieb und Organisation von gastronomischen und touristischen Angeboten, DurchfÃ¼hrung von Kursen, Schulungen und Beratungen sowie Produktion, Verarbeitung und Vermarktung landwirtschaftlicher Produkte. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten, sich an anderen Unternehmen beteiligen, Grundeigentum erwerben, halten, belasten und verÃ¤ussern sowie alle GeschÃ¤fte tÃ¤tigen, die direkt oder indirekt mit ihrem Zweck ZusammenhÃ¤ngen. Nebenleistungspflichten, Vorhand-, Vorkaufs- oder Kaufsrechte: gemÃ¤ss nÃ¤herer Umschreibung in den Statuten. Mitteilungen neu: Mitteilungen an die Gesellschafter: schriftlich oder per E-Mail. Ausgeschiedene Personen und erloschene Unterschriften: Achermann, Franz Josef, von Beckenried, in Dallenwil, Gesellschafter und Vorsitzender der GeschÃ¤ftsfÃ¼hrung, mit Einzelunterschrift, mit 200 Stammanteilen zu je CHF 100.00; Egloff, Josua, von Wettingen, in Stammheim, GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift. Eingetragene Personen neu oder mutierend: Hausammann, Michael, von Stammheim, in Hasliberg Hohfluh (Hasliberg), Gesellschafter und Vorsitzender der GeschÃ¤ftsfÃ¼hrung, mit Einzelunterschrift, mit 100 Stammanteilen zu je CHF 100.00 [bisher: GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift, ohne Stammanteil]; Dionisio Ore, Joel David, peruanischer StaatsangehÃ¶riger, in San Borja (PE), Gesellschafter u",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006270010)",
+      "044778031"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-17",
+        "sogcId": 1006679288,
+        "registryOfCommerceId": 36,
+        "registryOfCommerceCanton": "BE",
+        "registryOfCommerceJournalId": 11165,
+        "registryOfCommerceJournalDate": "2026-06-12",
+        "message": "<FT TYPE=\"F\">CASA BELÃ‰N GmbH</FT>, bisher in <FT TYPE=\"S\">Dallenwil</FT>, <FT TYPE=\"A\">CHE-153.253.238</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 41 vom 28.02.2025, Publ. 1006270010). StatutenÃ¤nderung: 18.05.2026. Sitz neu: <FT TYPE=\"5\">Hasliberg</FT>. Domizil neu: Sattel 34c, 6083 Hasliberg Hohfluh. Zweck neu: Die Gesellschaft bezweckt den Import, Export und Handel mit Kaffee, Kaffeeprodukten und entsprechendem ZubehÃ¶r, Lebensmitteln und Waren aller Art. Sie erbringt TÃ¤tigkeiten in den Bereichen Tourismus, Gastronomie und Landwirtschaft, insbesondere Betrieb und Organisation von gastronomischen und touristischen Angeboten, DurchfÃ¼hrung von Kursen, Schulungen und Beratungen sowie Produktion, Verarbeitung und Vermarktung landwirtschaftlicher Produkte. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten, sich an anderen Unternehmen beteiligen, Grundeigentum erwerben, halten, belasten und verÃ¤ussern sowie alle GeschÃ¤fte tÃ¤tigen, die direkt oder indirekt mit ihrem Zweck ZusammenhÃ¤ngen. Nebenleistungspflichten, Vorhand-, Vorkaufs- oder Kaufsrechte: gemÃ¤ss nÃ¤herer Umschreibung in den Statuten. Mitteilungen neu: Mitteilungen an die Gesellschafter: schriftlich oder per E-Mail. Ausgeschiedene Personen und erloschene Unterschriften: Achermann, Franz Josef, von Beckenried, in Dallenwil, Gesellschafter und Vorsitzender der GeschÃ¤ftsfÃ¼hrung, mit Einzelunterschrift, mit 200 Stammanteilen zu je CHF 100.00; Egloff, Josua, von Wettingen, in Stammheim, GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift. Eingetragene Personen neu oder mutierend: Hausammann, Michael, von Stammheim, in Hasliberg Hohfluh (Hasliberg), Gesellschafter und Vorsitzender der GeschÃ¤ftsfÃ¼hrung, mit Einzelunterschrift, mit 100 Stammanteilen zu je CHF 100.00 [bisher: GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift, ohne Stammanteil]; Dionisio Ore, Joel David, peruanischer StaatsangehÃ¶riger, in San Borja (PE), Gesellschafter und GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift, mit 100 Stammanteilen zu je CHF 100.00; Alarcon Ortega, Yessie, peruanische StaatsangehÃ¶rige, in San Borja (PE), GeschÃ¤ftsfÃ¼hrerin, mit Einzelunterschrift; Hausammann, Doris, von Uetikon am See, in Hasliberg Hohfluh (Hasliberg), GeschÃ¤ftsfÃ¼hrerin, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 11,
+            "key": "zweckaenderung"
+          },
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          },
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "CASA BELÉN GmbH",
+        "ehraid": 1532244,
+        "uid": "CHE153253238",
+        "chid": "CH15044778031",
+        "legalSeatId": 783,
+        "legalSeat": "Hasliberg",
+        "registryOfCommerceId": 36,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-06-17",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "6373187652e443bc7e29c00b",
+    "publication_date": "2026-06-17",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-17 | BE | 2026-06-12 | <FT TYPE=\"N\">Coffee Bucket GmbH</FT>, in <FT TYPE=\"5\">Ringgenberg (BE)</FT>, <FT TYPE=\"A\">CHE-379.709.181</FT>, Hauptstrasse 138, 3852 Ringgenberg BE, Gesellschaft mit beschrÃ¤nkter Haftung (Neueintragung). Statutendatum: 03.06.2026. Zweck: Erbringung von Dienstleistungen im Gastronomiegewerbe sowie Herstellung von Lebensmitteln und GetrÃ¤nken als auch Handel mit Waren aller Art, insbesondere mit Gastronomiebedarf und ZubehÃ¶r. Weiter bezweckt die Gesellschaft die Planung, Organisation und DurchfÃ¼hrung von Veranstaltungen sowie Erbringung von weiteren damit zusammenhÃ¤ngenden Dienstleistungen als auch Erbringung von Beratungsdienstleistungen, insbesondere in den Bereichen Gastronomie, Hotellerie und BetriebsfÃ¼hrung. Zudem bezweckt die Gesellschaft die Haltung sowie die fachgerechte Betreuung und Pflege von Tieren. Die Gesellschaft kann Zweigniederlassungen in der Schweiz und im Ausland errichten, sich an anderen Unternehmungen des In- und des Auslandes beteiligen, gleichartige oder verwandte Unternehmen erwerben oder sich mit solchen zusammenschliessen sowie alle GeschÃ¤fte eingehen und VertrÃ¤ge abschliessen, die geeignet sind, den Zweck der Gesellschaft zu fÃ¶rdern oder die direkt oder indirekt damit im Zusammenhang stehen. Sie kann GrundstÃ¼cke, ImmaterialgÃ¼terrechte und Lizenzen aller Art erwerben, verwalten, belasten und verÃ¤ussern. Stammkapital: CHF 20&apos;000.00. Nebenleistungspflichten, Vorhand-, Vorkaufs- oder Kaufsrechte: gemÃ¤ss nÃ¤herer Umschreibung in den Statuten. Publikationsorgan: SHAB. Mitteilungen an die Gesellschafter: schriftlich oder per E-Mail. GemÃ¤ss ErklÃ¤rung bei der GrÃ¼ndung der Gesellschaft wird auf eine eingeschrÃ¤nkte Revision verzichtet. Eingetragene Personen: Karavaieva, Yuliia, ukrainische StaatsangehÃ¶rige, in Ringgenberg BE, Gesellschafterin und GeschÃ¤ftsfÃ¼hrerin, mit Einzelunterschrift, mit 200 Stammanteilen zu je CHF 100.00; Karavaiev, Dmytro, ukrainischer StaatsangehÃ¶riger, in Ringgenberg ",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "03641079755"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-17",
+        "sogcId": 1006679258,
+        "registryOfCommerceId": 36,
+        "registryOfCommerceCanton": "BE",
+        "registryOfCommerceJournalId": 11135,
+        "registryOfCommerceJournalDate": "2026-06-12",
+        "message": "<FT TYPE=\"N\">Coffee Bucket GmbH</FT>, in <FT TYPE=\"5\">Ringgenberg (BE)</FT>, <FT TYPE=\"A\">CHE-379.709.181</FT>, Hauptstrasse 138, 3852 Ringgenberg BE, Gesellschaft mit beschrÃ¤nkter Haftung (Neueintragung). Statutendatum: 03.06.2026. Zweck: Erbringung von Dienstleistungen im Gastronomiegewerbe sowie Herstellung von Lebensmitteln und GetrÃ¤nken als auch Handel mit Waren aller Art, insbesondere mit Gastronomiebedarf und ZubehÃ¶r. Weiter bezweckt die Gesellschaft die Planung, Organisation und DurchfÃ¼hrung von Veranstaltungen sowie Erbringung von weiteren damit zusammenhÃ¤ngenden Dienstleistungen als auch Erbringung von Beratungsdienstleistungen, insbesondere in den Bereichen Gastronomie, Hotellerie und BetriebsfÃ¼hrung. Zudem bezweckt die Gesellschaft die Haltung sowie die fachgerechte Betreuung und Pflege von Tieren. Die Gesellschaft kann Zweigniederlassungen in der Schweiz und im Ausland errichten, sich an anderen Unternehmungen des In- und des Auslandes beteiligen, gleichartige oder verwandte Unternehmen erwerben oder sich mit solchen zusammenschliessen sowie alle GeschÃ¤fte eingehen und VertrÃ¤ge abschliessen, die geeignet sind, den Zweck der Gesellschaft zu fÃ¶rdern oder die direkt oder indirekt damit im Zusammenhang stehen. Sie kann GrundstÃ¼cke, ImmaterialgÃ¼terrechte und Lizenzen aller Art erwerben, verwalten, belasten und verÃ¤ussern. Stammkapital: CHF 20&apos;000.00. Nebenleistungspflichten, Vorhand-, Vorkaufs- oder Kaufsrechte: gemÃ¤ss nÃ¤herer Umschreibung in den Statuten. Publikationsorgan: SHAB. Mitteilungen an die Gesellschafter: schriftlich oder per E-Mail. GemÃ¤ss ErklÃ¤rung bei der GrÃ¼ndung der Gesellschaft wird auf eine eingeschrÃ¤nkte Revision verzichtet. Eingetragene Personen: Karavaieva, Yuliia, ukrainische StaatsangehÃ¶rige, in Ringgenberg BE, Gesellschafterin und GeschÃ¤ftsfÃ¼hrerin, mit Einzelunterschrift, mit 200 Stammanteilen zu je CHF 100.00; Karavaiev, Dmytro, ukrainischer StaatsangehÃ¶riger, in Ringgenberg BE, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Coffee Bucket GmbH",
+        "ehraid": 1754278,
+        "uid": "CHE379709181",
+        "chid": "CH03641079755",
+        "legalSeatId": 590,
+        "legalSeat": "Ringgenberg (BE)",
+        "registryOfCommerceId": 36,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-06-17",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "9db59da3cb63b89bd7a60c92",
+    "publication_date": "2026-06-17",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-17 | TG | 2026-06-12 | <FT TYPE=\"F\">Coiffeur Vilma Inhaberin Vilma Dushaj</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-112.499.523</FT>, Einzelunternehmen (SHAB Nr. 195 vom 08.10.2012, S.0, Publ. 6879254). Das Einzelunternehmen ist infolge GeschÃ¤ftsÃ¼berganges an Coiffeur Vilma GmbH (<FT TYPE=\"B\">CHE-112.499.523</FT>) erloschen. | status | status.loeschung | Coiffeur Vilma Inhaberin Vilma Dushaj | CHE112499523 | CH44010184230 | Weinfelden | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | CANCELLED | 2026-06-17 | 2026-06-17",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "010184230"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-17",
+        "sogcId": 1006679958,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 3844,
+        "registryOfCommerceJournalDate": "2026-06-12",
+        "message": "<FT TYPE=\"F\">Coiffeur Vilma Inhaberin Vilma Dushaj</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-112.499.523</FT>, Einzelunternehmen (SHAB Nr. 195 vom 08.10.2012, S.0, Publ. 6879254). Das Einzelunternehmen ist infolge GeschÃ¤ftsÃ¼berganges an Coiffeur Vilma GmbH (<FT TYPE=\"B\">CHE-112.499.523</FT>) erloschen.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 7,
+            "key": "status.loeschung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Coiffeur Vilma Inhaberin Vilma Dushaj",
+        "ehraid": 801600,
+        "uid": "CHE112499523",
+        "chid": "CH44010184230",
+        "legalSeatId": 4946,
+        "legalSeat": "Weinfelden",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "CANCELLED",
+        "sogcDate": "2026-06-17",
+        "deletionDate": "2026-06-17"
+      }
+    }
+  },
+  {
+    "publication_id": "d38d4cc0ca9473eabf9e3947",
+    "publication_date": "2026-06-17",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-17 | ZH | 2026-06-12 | <FT TYPE=\"F\">Drink Matic, Santo Fede</FT>, in <FT TYPE=\"S\">RÃ¼mlang</FT>, <FT TYPE=\"A\">CHE-107.409.945</FT>, Einzelunternehmen (SHAB Nr. 120 vom 26.06.2003, S.21, Publ. 1052496). Domizil neu: Oberdorfstrasse 14, 8153 RÃ¼mlang. | adressaenderung | Drink Matic, Santo Fede | CHE107409945 | CH02010027932 | Rümlang | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-06-17",
+    "categories": [
+      "allgemein"
+    ],
+    "confidence": 60,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "02010027932"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-17",
+        "sogcId": 1006679066,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 28045,
+        "registryOfCommerceJournalDate": "2026-06-12",
+        "message": "<FT TYPE=\"F\">Drink Matic, Santo Fede</FT>, in <FT TYPE=\"S\">RÃ¼mlang</FT>, <FT TYPE=\"A\">CHE-107.409.945</FT>, Einzelunternehmen (SHAB Nr. 120 vom 26.06.2003, S.21, Publ. 1052496). Domizil neu: Oberdorfstrasse 14, 8153 RÃ¼mlang.",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Drink Matic, Santo Fede",
+        "ehraid": 302775,
+        "uid": "CHE107409945",
+        "chid": "CH02010027932",
+        "legalSeatId": 97,
+        "legalSeat": "Rümlang",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-06-17",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "2ed078111cd8f931f0b692d1",
+    "publication_date": "2026-06-17",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-17 | VD | 2026-06-12 | <FT TYPE=\"F\">ForvÃ© CafÃ© SÃ rl</FT>, Ã  <FT TYPE=\"S\">BiÃ¨re</FT>, <FT TYPE=\"A\">CHE-485.024.979</FT> (FOSC du 19.03.2015, p. 0/2051949). Selon dÃ©cision de son assemblÃ©e des associÃ©s du 08.06.2026, la sociÃ©tÃ© a prononcÃ© sa dissolution. La liquidation est opÃ©rÃ©e sous la raison de commerce: <FT TYPE=\"N\">ForvÃ© CafÃ© SÃ rl, en liquidation</FT>. Wurlod Alain est nommÃ© liquidateur. Nouvelle adresse: Rue de la Cheneau 8, c/o Alain Wurlod, 1145 BiÃ¨re. | status | status.aufl | status.aufl.liq | adressaenderung | aenderungorgane | Forvé Café Sàrl, en liquidation | CHE485024979 | CH55011600872 | Bière | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | BEING_CANCELLED | 2026-06-17",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "011600872"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-17",
+        "sogcId": 1006680115,
+        "registryOfCommerceId": 550,
+        "registryOfCommerceCanton": "VD",
+        "registryOfCommerceJournalId": 12266,
+        "registryOfCommerceJournalDate": "2026-06-12",
+        "message": "<FT TYPE=\"F\">ForvÃ© CafÃ© SÃ rl</FT>, Ã  <FT TYPE=\"S\">BiÃ¨re</FT>, <FT TYPE=\"A\">CHE-485.024.979</FT> (FOSC du 19.03.2015, p. 0/2051949). Selon dÃ©cision de son assemblÃ©e des associÃ©s du 08.06.2026, la sociÃ©tÃ© a prononcÃ© sa dissolution. La liquidation est opÃ©rÃ©e sous la raison de commerce: <FT TYPE=\"N\">ForvÃ© CafÃ© SÃ rl, en liquidation</FT>. Wurlod Alain est nommÃ© liquidateur. Nouvelle adresse: Rue de la Cheneau 8, c/o Alain Wurlod, 1145 BiÃ¨re.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 3,
+            "key": "status.aufl"
+          },
+          {
+            "id": 4,
+            "key": "status.aufl.liq"
+          },
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          },
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Forvé Café Sàrl, en liquidation",
+        "ehraid": 1215723,
+        "uid": "CHE485024979",
+        "chid": "CH55011600872",
+        "legalSeatId": 5425,
+        "legalSeat": "Bière",
+        "registryOfCommerceId": 550,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "BEING_CANCELLED",
+        "sogcDate": "2026-06-17",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "aa75bd05233d1a01a3684e27",
+    "publication_date": "2026-06-17",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-17 | ZH | 2026-06-12 | <FT TYPE=\"F\">Job Solution AG</FT>, in <FT TYPE=\"S\">ZÃ¼rich</FT>, <FT TYPE=\"A\">CHE-109.892.268</FT>, Aktiengesellschaft (SHAB Nr. 103 vom 30.05.2024, Publ. 1006043346). Ausgeschiedene Personen und erloschene Unterschriften: Tobler, RenÃ©, von Heiden, in Weiningen ZH, Mitglied des Verwaltungsrates, mit Einzelunterschrift. | aenderungorgane | Job Solution AG | CHE109892268 | CH02030265181 | Zürich | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-06-17",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006043346)",
+      "02030265181"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-17",
+        "sogcId": 1006679102,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 28081,
+        "registryOfCommerceJournalDate": "2026-06-12",
+        "message": "<FT TYPE=\"F\">Job Solution AG</FT>, in <FT TYPE=\"S\">ZÃ¼rich</FT>, <FT TYPE=\"A\">CHE-109.892.268</FT>, Aktiengesellschaft (SHAB Nr. 103 vom 30.05.2024, Publ. 1006043346). Ausgeschiedene Personen und erloschene Unterschriften: Tobler, RenÃ©, von Heiden, in Weiningen ZH, Mitglied des Verwaltungsrates, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Job Solution AG",
+        "ehraid": 699181,
+        "uid": "CHE109892268",
+        "chid": "CH02030265181",
+        "legalSeatId": 261,
+        "legalSeat": "Zürich",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-06-17",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "1040cef1f268f871ef5b9625",
+    "publication_date": "2026-06-17",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-17 | ZH | 2026-06-12 | <FT TYPE=\"F\">Kalyssa Coffee GmbH</FT>, in <FT TYPE=\"S\">MÃ¶nchaltorf</FT>, <FT TYPE=\"A\">CHE-249.135.524</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 145 vom 28.07.2023, Publ. 1005805797). Firma neu: <FT TYPE=\"N\">Kalyssa Coffee GmbH in Liquidation</FT>. Uebersetzungen der Firma neu: <FT TYPE=\"V\">(Kalyssa Coffee SÃ rl en liquidation) (Kalyssa Coffee Sagl in liquidazione) (Kalyssa Coffee Ltd liab Co in liquidation)</FT>. Die Gesellschaft ist mit Beschluss der Gesellschafterversammlung vom 03.06.2026 aufgelÃ¶st. Eingetragene Personen neu oder mutierend: Sebastian, Anastasia, von Schwarzenburg, in SeegrÃ¤ben, Gesellschafterin, Liquidatorin, mit Einzelunterschrift, mit 120 Stammanteilen zu je CHF 100.00 [bisher: in Gossau (ZH), Gesellschafterin, mit Einzelunterschrift]. | status | status.aufl | status.aufl.liq | aenderungorgane | Kalyssa Coffee GmbH in Liquidation | CHE249135524 | CH02040816542 | Mönchaltorf | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | BEING_CANCELLED | 2026-06-17",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "005805797)",
+      "02040816542"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-17",
+        "sogcId": 1006679106,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 28085,
+        "registryOfCommerceJournalDate": "2026-06-12",
+        "message": "<FT TYPE=\"F\">Kalyssa Coffee GmbH</FT>, in <FT TYPE=\"S\">MÃ¶nchaltorf</FT>, <FT TYPE=\"A\">CHE-249.135.524</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 145 vom 28.07.2023, Publ. 1005805797). Firma neu: <FT TYPE=\"N\">Kalyssa Coffee GmbH in Liquidation</FT>. Uebersetzungen der Firma neu: <FT TYPE=\"V\">(Kalyssa Coffee SÃ rl en liquidation) (Kalyssa Coffee Sagl in liquidazione) (Kalyssa Coffee Ltd liab Co in liquidation)</FT>. Die Gesellschaft ist mit Beschluss der Gesellschafterversammlung vom 03.06.2026 aufgelÃ¶st. Eingetragene Personen neu oder mutierend: Sebastian, Anastasia, von Schwarzenburg, in SeegrÃ¤ben, Gesellschafterin, Liquidatorin, mit Einzelunterschrift, mit 120 Stammanteilen zu je CHF 100.00 [bisher: in Gossau (ZH), Gesellschafterin, mit Einzelunterschrift].",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 3,
+            "key": "status.aufl"
+          },
+          {
+            "id": 4,
+            "key": "status.aufl.liq"
+          },
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Kalyssa Coffee GmbH in Liquidation",
+        "ehraid": 1598483,
+        "uid": "CHE249135524",
+        "chid": "CH02040816542",
+        "legalSeatId": 196,
+        "legalSeat": "Mönchaltorf",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "BEING_CANCELLED",
+        "sogcDate": "2026-06-17",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "4d33cde7c7cc76faeefebeab",
+    "publication_date": "2026-06-17",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-17 | LU | 2026-06-12 | <FT TYPE=\"N\">L. Krasniqi Weinfelden GmbH, mit Sitz in Luzern</FT>, in <FT TYPE=\"5\">Luzern</FT>, <FT TYPE=\"A\">CHE-397.613.231</FT>, c/o Lunix Services AG, Alpenstrasse 1, 6004 Luzern, Gesellschaft mit beschrÃ¤nkter Haftung (Neueintragung). Statutendatum: 09.06.2026. Zweck: Die Gesellschaft bezweckt die FÃ¼hrung und den Betrieb des Coop Pronto-Shops mit Tankstelle der Coop Pronto AG an der Fichtenstrasse 18 in 8570 Weinfelden. Sie kann Agenturen, Zweigniederlassungen, VerkaufsbÃ¼ros und Tochtergesellschaften im In- und Ausland errichten sowie Ã¼berhaupt jede TÃ¤tigkeit ausÃ¼ben, die geeignet ist, den Zweck der Gesellschaft zu fÃ¶rdern, insbesondere auch Beteiligungen, Immobilien und immaterielle Schutzrechte erwerben, verwalten, belasten und verÃ¤ussern. Sie kann Finanzierungen fÃ¼r sich und Dritte vornehmen sowie Garantien und andere Sicherheiten stellen. Stammkapital: CHF 50&apos;000.00. Publikationsorgan: SHAB. Mitteilungen erfolgen durch Briefe oder E-Mail. GemÃ¤ss ErklÃ¤rung bei der GrÃ¼ndung der Gesellschaft wird auf eine eingeschrÃ¤nkte Revision verzichtet. Eingetragene Personen: Krasniqi, Lulzim, von Amriswil, in Amriswil, Gesellschafter und GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift, mit einem Stammanteil von CHF 50&apos;000.00. | status | status.neu | L. Krasniqi Weinfelden GmbH, mit Sitz in Luzern | CHE397613231 | CH10048238677 | Luzern | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-06-17",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "0048238677"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-17",
+        "sogcId": 1006679383,
+        "registryOfCommerceId": 100,
+        "registryOfCommerceCanton": "LU",
+        "registryOfCommerceJournalId": 5924,
+        "registryOfCommerceJournalDate": "2026-06-12",
+        "message": "<FT TYPE=\"N\">L. Krasniqi Weinfelden GmbH, mit Sitz in Luzern</FT>, in <FT TYPE=\"5\">Luzern</FT>, <FT TYPE=\"A\">CHE-397.613.231</FT>, c/o Lunix Services AG, Alpenstrasse 1, 6004 Luzern, Gesellschaft mit beschrÃ¤nkter Haftung (Neueintragung). Statutendatum: 09.06.2026. Zweck: Die Gesellschaft bezweckt die FÃ¼hrung und den Betrieb des Coop Pronto-Shops mit Tankstelle der Coop Pronto AG an der Fichtenstrasse 18 in 8570 Weinfelden. Sie kann Agenturen, Zweigniederlassungen, VerkaufsbÃ¼ros und Tochtergesellschaften im In- und Ausland errichten sowie Ã¼berhaupt jede TÃ¤tigkeit ausÃ¼ben, die geeignet ist, den Zweck der Gesellschaft zu fÃ¶rdern, insbesondere auch Beteiligungen, Immobilien und immaterielle Schutzrechte erwerben, verwalten, belasten und verÃ¤ussern. Sie kann Finanzierungen fÃ¼r sich und Dritte vornehmen sowie Garantien und andere Sicherheiten stellen. Stammkapital: CHF 50&apos;000.00. Publikationsorgan: SHAB. Mitteilungen erfolgen durch Briefe oder E-Mail. GemÃ¤ss ErklÃ¤rung bei der GrÃ¼ndung der Gesellschaft wird auf eine eingeschrÃ¤nkte Revision verzichtet. Eingetragene Personen: Krasniqi, Lulzim, von Amriswil, in Amriswil, Gesellschafter und GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift, mit einem Stammanteil von CHF 50&apos;000.00.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "L. Krasniqi Weinfelden GmbH, mit Sitz in Luzern",
+        "ehraid": 1754327,
+        "uid": "CHE397613231",
+        "chid": "CH10048238677",
+        "legalSeatId": 1061,
+        "legalSeat": "Luzern",
+        "registryOfCommerceId": 100,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-06-17",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "df4b18f8bbcc3961dfa431c1",
+    "publication_date": "2026-06-17",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-17 | SZ | 2026-06-12 | <FT TYPE=\"F\">LoipencafÃ© Michaela Schuler</FT>, in <FT TYPE=\"S\">Alpthal</FT>, <FT TYPE=\"A\">CHE-260.846.059</FT>, Einzelunternehmen (SHAB Nr. 203 vom 21.10.2025, Publ. 1006463179). Das Einzelunternehmen ist infolge GeschÃ¤ftsaufgabe erloschen. | status | status.loeschung | Loipencafé Michaela Schuler | CHE260846059 | CH13010349300 | Alpthal | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | CANCELLED | 2026-06-17 | 2026-06-17",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006463179)",
+      "010349300"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-17",
+        "sogcId": 1006679456,
+        "registryOfCommerceId": 130,
+        "registryOfCommerceCanton": "SZ",
+        "registryOfCommerceJournalId": 3902,
+        "registryOfCommerceJournalDate": "2026-06-12",
+        "message": "<FT TYPE=\"F\">LoipencafÃ© Michaela Schuler</FT>, in <FT TYPE=\"S\">Alpthal</FT>, <FT TYPE=\"A\">CHE-260.846.059</FT>, Einzelunternehmen (SHAB Nr. 203 vom 21.10.2025, Publ. 1006463179). Das Einzelunternehmen ist infolge GeschÃ¤ftsaufgabe erloschen.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 7,
+            "key": "status.loeschung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Loipencafé Michaela Schuler",
+        "ehraid": 1681804,
+        "uid": "CHE260846059",
+        "chid": "CH13010349300",
+        "legalSeatId": 1361,
+        "legalSeat": "Alpthal",
+        "registryOfCommerceId": 130,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "CANCELLED",
+        "sogcDate": "2026-06-17",
+        "deletionDate": "2026-06-17"
+      }
+    }
+  },
+  {
+    "publication_id": "31e71c0a4b164c6f03ee6618",
+    "publication_date": "2026-06-17",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-17 | TG | 2026-06-12 | <FT TYPE=\"F\">NJOY GmbH in Liquidation</FT>, in <FT TYPE=\"S\">BÃ¼rglen (TG)</FT>, <FT TYPE=\"A\">CHE-207.346.624</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 26 vom 09.02.2026, Publ. 1006564105). Mit Entscheid des Bezirksgerichts Weinfelden vom 11.06.2026 wurde Ã¼ber die bereits aufgelÃ¶ste Gesellschaft der Konkurs erÃ¶ffnet und mangels Aktiven eingestellt. | status | status.wiederrufliq | NJOY GmbH in Liquidation | CHE207346624 | CH44040385311 | Bürglen (TG) | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | BEING_CANCELLED | 2026-06-17",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006564105)",
+      "040385311"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-17",
+        "sogcId": 1006679947,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 3833,
+        "registryOfCommerceJournalDate": "2026-06-12",
+        "message": "<FT TYPE=\"F\">NJOY GmbH in Liquidation</FT>, in <FT TYPE=\"S\">BÃ¼rglen (TG)</FT>, <FT TYPE=\"A\">CHE-207.346.624</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 26 vom 09.02.2026, Publ. 1006564105). Mit Entscheid des Bezirksgerichts Weinfelden vom 11.06.2026 wurde Ã¼ber die bereits aufgelÃ¶ste Gesellschaft der Konkurs erÃ¶ffnet und mangels Aktiven eingestellt.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 6,
+            "key": "status.wiederrufliq"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "NJOY GmbH in Liquidation",
+        "ehraid": 1539640,
+        "uid": "CHE207346624",
+        "chid": "CH44040385311",
+        "legalSeatId": 4911,
+        "legalSeat": "Bürglen (TG)",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "BEING_CANCELLED",
+        "sogcDate": "2026-06-17",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "7fbafd966e1f3a4799c3dead",
+    "publication_date": "2026-06-17",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-17 | VD | 2026-06-12 | <FT TYPE=\"F\">Piguet Galland &amp; Cie SA</FT>, Ã  <FT TYPE=\"S\">Yverdon-les-Bains</FT>, <FT TYPE=\"A\">CHE-105.759.512</FT> (FOSC du 09.06.2026, p. 0/1006671881). La signature de Badel Poitras GÃ©raldine est radiÃ©e. Signature collective Ã  deux est confÃ©rÃ©e Ã  Berton KÃ©vin Thomas, de France, Ã  GenÃ¨ve, sous-directeur. | aenderungorgane | Piguet Galland & Cie SA | CHE105759512 | CH55010000849 | Yverdon-les-Bains | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-06-26",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006671881)",
+      "010000849"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-17",
+        "sogcId": 1006680027,
+        "registryOfCommerceId": 550,
+        "registryOfCommerceCanton": "VD",
+        "registryOfCommerceJournalId": 12302,
+        "registryOfCommerceJournalDate": "2026-06-12",
+        "message": "<FT TYPE=\"F\">Piguet Galland &amp; Cie SA</FT>, Ã  <FT TYPE=\"S\">Yverdon-les-Bains</FT>, <FT TYPE=\"A\">CHE-105.759.512</FT> (FOSC du 09.06.2026, p. 0/1006671881). La signature de Badel Poitras GÃ©raldine est radiÃ©e. Signature collective Ã  deux est confÃ©rÃ©e Ã  Berton KÃ©vin Thomas, de France, Ã  GenÃ¨ve, sous-directeur.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Piguet Galland & Cie SA",
+        "ehraid": 279898,
+        "uid": "CHE105759512",
+        "chid": "CH55010000849",
+        "legalSeatId": 5938,
+        "legalSeat": "Yverdon-les-Bains",
+        "registryOfCommerceId": 550,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-06-26",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "22c059c903a6b20812f6681e",
+    "publication_date": "2026-06-17",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-17 | SZ | 2026-06-12 | <FT TYPE=\"N\">RAMS Holding AG</FT>, in <FT TYPE=\"5\">Einsiedeln</FT>, <FT TYPE=\"A\">CHE-150.343.307</FT>, c/o Renato und Aya Marrocu, Hintere Luegeten 3, 8840 Einsiedeln, Aktiengesellschaft (Neueintragung). Statutendatum: 03.06.2026. Zweck: Die Gesellschaft bezweckt den Erwerb, das Halten, die Verwaltung, die Finanzierung und den Verkauf von Beteiligungen an anderen Unternehmen in der Schweiz und im Ausland. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle GeschÃ¤fte tÃ¤tigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, verÃ¤ussern und verwalten. Sie kann auch Finanzierungen fÃ¼r eigene oder fremde Rechnung vornehmen sowie Sicherheiten fÃ¼r Verbindlichkeiten verbundener Gesellschaften und Dritter abgeben. Aktienkapital: CHF 200&apos;000.00. Liberierung Aktienkapital: CHF 200&apos;000.00. Aktien: 200 Namenaktien zu CHF 1&apos;000.00. Publikationsorgan: SHAB. Mitteilungen an die AktionÃ¤re erfolgen schriftlich oder per E-Mail an die im Aktienbuch verzeichneten Adressen. Vinkulierung: Die Ãœbertragbarkeit der Namenaktien ist nach Massgabe der Statuten beschrÃ¤nkt. GemÃ¤ss ErklÃ¤rung bei der GrÃ¼ndung der Gesellschaft wird auf eine eingeschrÃ¤nkte Revision verzichtet. Eingetragene Personen: Marrocu, Renato, von Weinfelden, in Einsiedeln, PrÃ¤sident, mit Einzelunterschrift; Marrocu, Aya, japanische StaatsangehÃ¶rige, in Einsiedeln, Mitglied, mit Einzelunterschrift. | status | status.neu | RAMS Holding AG | CHE150343307 | CH13030370625 | Einsiedeln | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-06-17",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "030370625"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-17",
+        "sogcId": 1006679440,
+        "registryOfCommerceId": 130,
+        "registryOfCommerceCanton": "SZ",
+        "registryOfCommerceJournalId": 3886,
+        "registryOfCommerceJournalDate": "2026-06-12",
+        "message": "<FT TYPE=\"N\">RAMS Holding AG</FT>, in <FT TYPE=\"5\">Einsiedeln</FT>, <FT TYPE=\"A\">CHE-150.343.307</FT>, c/o Renato und Aya Marrocu, Hintere Luegeten 3, 8840 Einsiedeln, Aktiengesellschaft (Neueintragung). Statutendatum: 03.06.2026. Zweck: Die Gesellschaft bezweckt den Erwerb, das Halten, die Verwaltung, die Finanzierung und den Verkauf von Beteiligungen an anderen Unternehmen in der Schweiz und im Ausland. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle GeschÃ¤fte tÃ¤tigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, verÃ¤ussern und verwalten. Sie kann auch Finanzierungen fÃ¼r eigene oder fremde Rechnung vornehmen sowie Sicherheiten fÃ¼r Verbindlichkeiten verbundener Gesellschaften und Dritter abgeben. Aktienkapital: CHF 200&apos;000.00. Liberierung Aktienkapital: CHF 200&apos;000.00. Aktien: 200 Namenaktien zu CHF 1&apos;000.00. Publikationsorgan: SHAB. Mitteilungen an die AktionÃ¤re erfolgen schriftlich oder per E-Mail an die im Aktienbuch verzeichneten Adressen. Vinkulierung: Die Ãœbertragbarkeit der Namenaktien ist nach Massgabe der Statuten beschrÃ¤nkt. GemÃ¤ss ErklÃ¤rung bei der GrÃ¼ndung der Gesellschaft wird auf eine eingeschrÃ¤nkte Revision verzichtet. Eingetragene Personen: Marrocu, Renato, von Weinfelden, in Einsiedeln, PrÃ¤sident, mit Einzelunterschrift; Marrocu, Aya, japanische StaatsangehÃ¶rige, in Einsiedeln, Mitglied, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "RAMS Holding AG",
+        "ehraid": 1754225,
+        "uid": "CHE150343307",
+        "chid": "CH13030370625",
+        "legalSeatId": 1301,
+        "legalSeat": "Einsiedeln",
+        "registryOfCommerceId": 130,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-06-17",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "b6a1e5652d7e2d1294e290d9",
+    "publication_date": "2026-06-17",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-17 | ZH | 2026-06-12 | <FT TYPE=\"N\">Soceanu-Luta Catering &amp; Services</FT>, in <FT TYPE=\"5\">Bassersdorf</FT>, <FT TYPE=\"A\">CHE-216.985.958</FT>, c/o Laura Soceanu, Klotenerstrasse 8, 8303 Bassersdorf, Einzelunternehmen (Neueintragung). Zweck: Das Unternehmen bezweckt den Betrieb eines Kaffee-Shops mit Verkauf von KaffeespezialitÃ¤ten, Tee, kalten GetrÃ¤nken, Backwaren, Sandwiches sowie weiteren Lebensmitteln und GetrÃ¤nken sowie die Erbringung von Gastronomie- und Cateringdienstleistungen. Eingetragene Personen: Soceanu-Luta, Laura Mariana, von ZÃ¼rich, in Bassersdorf, Inhaberin, mit Einzelunterschrift. | status | status.neu | Soceanu-Luta Catering & Services | CHE216985958 | CH02011065523 | Bassersdorf | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-06-17",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "02011065523"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-17",
+        "sogcId": 1006679024,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 28003,
+        "registryOfCommerceJournalDate": "2026-06-12",
+        "message": "<FT TYPE=\"N\">Soceanu-Luta Catering &amp; Services</FT>, in <FT TYPE=\"5\">Bassersdorf</FT>, <FT TYPE=\"A\">CHE-216.985.958</FT>, c/o Laura Soceanu, Klotenerstrasse 8, 8303 Bassersdorf, Einzelunternehmen (Neueintragung). Zweck: Das Unternehmen bezweckt den Betrieb eines Kaffee-Shops mit Verkauf von KaffeespezialitÃ¤ten, Tee, kalten GetrÃ¤nken, Backwaren, Sandwiches sowie weiteren Lebensmitteln und GetrÃ¤nken sowie die Erbringung von Gastronomie- und Cateringdienstleistungen. Eingetragene Personen: Soceanu-Luta, Laura Mariana, von ZÃ¼rich, in Bassersdorf, Inhaberin, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Soceanu-Luta Catering & Services",
+        "ehraid": 1754376,
+        "uid": "CHE216985958",
+        "chid": "CH02011065523",
+        "legalSeatId": 52,
+        "legalSeat": "Bassersdorf",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-06-17",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "211facbca6ad184c279f2252",
+    "publication_date": "2026-06-17",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-17 | ZH | 2026-06-12 | <FT TYPE=\"F\">T&amp;N Telekom &amp; Netzwerk AG</FT>, in <FT TYPE=\"S\">Dietlikon</FT>, <FT TYPE=\"A\">CHE-108.464.384</FT>, Aktiengesellschaft (SHAB Nr. 28 vom 11.02.2026, Publ. 1006566136). Fusion: Ãœbernahme der Aktiven und Passiven der BrainConsult AG, in Olten (<FT TYPE=\"B\">CHE-109.866.489</FT>), gemÃ¤ss Fusionsvertrag vom 28.05.2026 und Bilanz per 31.12.2025. Aktiven von CHF 822&apos;837.27 und Passiven (Fremdkapital) von CHF 46&apos;014.81 gehen auf die Ã¼bernehmende Gesellschaft Ã¼ber. Da die Ã¼bernehmende Gesellschaft sÃ¤mtliche Aktien der Ã¼bertragenden Gesellschaft hÃ¤lt, findet weder eine KapitalerhÃ¶hung noch eine Aktienzuteilung statt. Ausgeschiedene Personen und erloschene Unterschriften: Graf, Hermann, von Turbenthal und Opfikon, in Warth-Weiningen, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien. | aenderungorgane | fusion | T&N AG | CHE108464384 | CH02030076622 | Dietlikon | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-06-30",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006566136)",
+      "02030076622"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-17",
+        "sogcId": 1006679173,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 28152,
+        "registryOfCommerceJournalDate": "2026-06-12",
+        "message": "<FT TYPE=\"F\">T&amp;N Telekom &amp; Netzwerk AG</FT>, in <FT TYPE=\"S\">Dietlikon</FT>, <FT TYPE=\"A\">CHE-108.464.384</FT>, Aktiengesellschaft (SHAB Nr. 28 vom 11.02.2026, Publ. 1006566136). Fusion: Ãœbernahme der Aktiven und Passiven der BrainConsult AG, in Olten (<FT TYPE=\"B\">CHE-109.866.489</FT>), gemÃ¤ss Fusionsvertrag vom 28.05.2026 und Bilanz per 31.12.2025. Aktiven von CHF 822&apos;837.27 und Passiven (Fremdkapital) von CHF 46&apos;014.81 gehen auf die Ã¼bernehmende Gesellschaft Ã¼ber. Da die Ã¼bernehmende Gesellschaft sÃ¤mtliche Aktien der Ã¼bertragenden Gesellschaft hÃ¤lt, findet weder eine KapitalerhÃ¶hung noch eine Aktienzuteilung statt. Ausgeschiedene Personen und erloschene Unterschriften: Graf, Hermann, von Turbenthal und Opfikon, in Warth-Weiningen, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          },
+          {
+            "id": 19,
+            "key": "fusion"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "T&N AG",
+        "ehraid": 382603,
+        "uid": "CHE108464384",
+        "chid": "CH02030076622",
+        "legalSeatId": 54,
+        "legalSeat": "Dietlikon",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-06-30",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "cc41883d8663a89cc612bec2",
+    "publication_date": "2026-06-17",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-17 | TG | 2026-06-12 | <FT TYPE=\"F\">UÃ¤li&apos;s CrÃªpe by Stucki Gastro</FT>, in <FT TYPE=\"S\">Sulgen</FT>, <FT TYPE=\"A\">CHE-334.649.571</FT>, Einzelunternehmen (SHAB Nr. 164 vom 27.08.2025, Publ. 1006418223). Mit Entscheid des Bezirksgerichts Weinfelden vom 09.06.2026 wurde das Konkursverfahren als geschlossen erklÃ¤rt. | Uäli's Crêpe by Stucki Gastro | CHE334649571 | CH44010411738 | Sulgen | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | CANCELLED | 2026-07-22 | 2026-07-22",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006418223)",
+      "010411738"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-17",
+        "sogcId": 1006679955,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 3841,
+        "registryOfCommerceJournalDate": "2026-06-12",
+        "message": "<FT TYPE=\"F\">UÃ¤li&apos;s CrÃªpe by Stucki Gastro</FT>, in <FT TYPE=\"S\">Sulgen</FT>, <FT TYPE=\"A\">CHE-334.649.571</FT>, Einzelunternehmen (SHAB Nr. 164 vom 27.08.2025, Publ. 1006418223). Mit Entscheid des Bezirksgerichts Weinfelden vom 09.06.2026 wurde das Konkursverfahren als geschlossen erklÃ¤rt.",
+        "mutationTypes": []
+      },
+      "companyShort": {
+        "name": "Uäli's Crêpe by Stucki Gastro",
+        "ehraid": 1630545,
+        "uid": "CHE334649571",
+        "chid": "CH44010411738",
+        "legalSeatId": 4506,
+        "legalSeat": "Sulgen",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "CANCELLED",
+        "sogcDate": "2026-07-22",
+        "deletionDate": "2026-07-22"
+      }
+    }
+  },
+  {
+    "publication_id": "a2d37775a00f0941856635e3",
+    "publication_date": "2026-06-17",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-17 | TG | 2026-06-12 | <FT TYPE=\"F\">Vehapi Data Services</FT>, in <FT TYPE=\"S\">Zihlschlacht-Sitterdorf</FT>, <FT TYPE=\"A\">CHE-448.761.022</FT>, Einzelunternehmen (SHAB Nr. 17 vom 25.01.2024, Publ. 1005944258). Ãœber den Inhaber dieses Einzelunternehmens wurde mit Entscheid des Bezirksgerichts Weinfelden vom 09.06.2026, mit Wirkung ab dem 09.06.2026, 09.15 Uhr, der Konkurs erÃ¶ffnet. | status | status.aufl | status.aufl.konk | Vehapi Data Services | CHE448761022 | CH44010409319 | Zihlschlacht-Sitterdorf | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-07-09",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "005944258)",
+      "010409319"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-17",
+        "sogcId": 1006679956,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 3842,
+        "registryOfCommerceJournalDate": "2026-06-12",
+        "message": "<FT TYPE=\"F\">Vehapi Data Services</FT>, in <FT TYPE=\"S\">Zihlschlacht-Sitterdorf</FT>, <FT TYPE=\"A\">CHE-448.761.022</FT>, Einzelunternehmen (SHAB Nr. 17 vom 25.01.2024, Publ. 1005944258). Ãœber den Inhaber dieses Einzelunternehmens wurde mit Entscheid des Bezirksgerichts Weinfelden vom 09.06.2026, mit Wirkung ab dem 09.06.2026, 09.15 Uhr, der Konkurs erÃ¶ffnet.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 3,
+            "key": "status.aufl"
+          },
+          {
+            "id": 5,
+            "key": "status.aufl.konk"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Vehapi Data Services",
+        "ehraid": 1622747,
+        "uid": "CHE448761022",
+        "chid": "CH44010409319",
+        "legalSeatId": 4511,
+        "legalSeat": "Zihlschlacht-Sitterdorf",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-07-09",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "a88cf22b0abbdde22465ddd5",
+    "publication_date": "2026-06-17",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-17 | ZG | 2026-06-12 | <FT TYPE=\"F\">Weinberg Liegenschaften AG</FT>, in <FT TYPE=\"S\">Zug</FT>, <FT TYPE=\"A\">CHE-317.660.815</FT>, Aktiengesellschaft (SHAB Nr. 102 vom 28.05.2025, Publ. 1006343197). Die Rechtseinheit wird infolge Verlegung des Sitzes nach Hergiswil (NW) im Handelsregister des Kantons Nidwalden eingetragen und im Handelsregister des Kantons Zug von Amtes wegen gelÃ¶scht. | adressaenderung | Weinberg Liegenschaften AG | CHE317660815 | CH17030446868 | Hergiswil (NW) | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-06-17",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006343197)",
+      "030446868"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-17",
+        "sogcId": 1006679604,
+        "registryOfCommerceId": 170,
+        "registryOfCommerceCanton": "ZG",
+        "registryOfCommerceJournalId": 11648,
+        "registryOfCommerceJournalDate": "2026-06-12",
+        "message": "<FT TYPE=\"F\">Weinberg Liegenschaften AG</FT>, in <FT TYPE=\"S\">Zug</FT>, <FT TYPE=\"A\">CHE-317.660.815</FT>, Aktiengesellschaft (SHAB Nr. 102 vom 28.05.2025, Publ. 1006343197). Die Rechtseinheit wird infolge Verlegung des Sitzes nach Hergiswil (NW) im Handelsregister des Kantons Nidwalden eingetragen und im Handelsregister des Kantons Zug von Amtes wegen gelÃ¶scht.",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Weinberg Liegenschaften AG",
+        "ehraid": 1442640,
+        "uid": "CHE317660815",
+        "chid": "CH17030446868",
+        "legalSeatId": 1507,
+        "legalSeat": "Hergiswil (NW)",
+        "registryOfCommerceId": 150,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-06-17",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "8ba1143fd1dfa92a9d0c36b6",
+    "publication_date": "2026-06-17",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-17 | NW | 2026-06-12 | <FT TYPE=\"F\">Weinberg Liegenschaften AG</FT>, bisher in <FT TYPE=\"S\">Zug</FT>, <FT TYPE=\"A\">CHE-317.660.815</FT>, Aktiengesellschaft (SHAB Nr. 102 vom 28.05.2025, Publ. 1006343197). StatutenÃ¤nderung: 07.05.2026. 12.05.2026. Sitz neu: <FT TYPE=\"5\">Hergiswil (NW)</FT>. Domizil neu: Seestrasse 91, 6052 Hergiswil NW. Zweck neu: Die Gesellschaft bezweckt das Erbringen von Dienstleistungen insbesondere im Bereich Neubau, Umbau, Kauf, Renovation, Verkauf, Vermittlung, Verwaltung, Finanzierung, Bautreuhand, Generalunternehmung von Immobilien aller Art sowie allen dazugehÃ¶rigen TÃ¤tigkeiten. Die Gesellschaft kann im In- und Ausland Zweigniederlassungen und Tochtergesellschaften errichten sowie Beteiligungen erwerben, verwalten und verÃ¤ussern. Des Weiteren kann die Gesellschaft Finanzierungen jeglicher Art auf eigene oder fremde Rechnung vornehmen und/oder in Anspruch nehmen und insbesondere Darlehens- oder SicherungsgeschÃ¤fte mit oder fÃ¼r direkte oder indirekte Mutter-, Tochter- und andere(n) Konzerngesellschaften eingehen, selbst wenn solche Finanzierungen und SicherungsgeschÃ¤fte im ausschliesslichen Interesse dieser Tochter- und anderen Konzerngesellschaften liegen. Die Gesellschaft kann zudem Management-Dienstleistungen fÃ¼r Mutter-, Tochter- oder andere Konzerngesellschaften erbringen. Ferner bezweckt die Gesellschaft das Halten und Handeln mit verschiedenen WertgÃ¼tern, insb. Rohstoffe, Marken &amp; Patente, Kunst &amp; Fahrzeuge aller Art. Ebenso bezweckt die Gesellschaft Finanz- &amp; DarlehensgeschÃ¤fte, insb. im Bereich Immobilien und Ausbildung. Die Gesellschaft kann im In- und Ausland GrundstÃ¼cke sowie Patent-, Marken-, Urheber-, Design und alle Ã¼brigen ImmaterialgÃ¼terrechte erwerben, halten und verÃ¤ussern. Die Gesellschaft kann alle weiteren GeschÃ¤fte tÃ¤tigen und Massnahmen ergreifen, die geeignet erscheinen, den Zweck der Gesellschaft zu fÃ¶rdern oder mit diesem direkt oder indirekt zusammenhÃ¤ngen. | zweckaenderung | a",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006343197)",
+      "07.05.2026. 12.05.2",
+      "030446868"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-17",
+        "sogcId": 1006679468,
+        "registryOfCommerceId": 150,
+        "registryOfCommerceCanton": "NW",
+        "registryOfCommerceJournalId": 934,
+        "registryOfCommerceJournalDate": "2026-06-12",
+        "message": "<FT TYPE=\"F\">Weinberg Liegenschaften AG</FT>, bisher in <FT TYPE=\"S\">Zug</FT>, <FT TYPE=\"A\">CHE-317.660.815</FT>, Aktiengesellschaft (SHAB Nr. 102 vom 28.05.2025, Publ. 1006343197). StatutenÃ¤nderung: 07.05.2026. 12.05.2026. Sitz neu: <FT TYPE=\"5\">Hergiswil (NW)</FT>. Domizil neu: Seestrasse 91, 6052 Hergiswil NW. Zweck neu: Die Gesellschaft bezweckt das Erbringen von Dienstleistungen insbesondere im Bereich Neubau, Umbau, Kauf, Renovation, Verkauf, Vermittlung, Verwaltung, Finanzierung, Bautreuhand, Generalunternehmung von Immobilien aller Art sowie allen dazugehÃ¶rigen TÃ¤tigkeiten. Die Gesellschaft kann im In- und Ausland Zweigniederlassungen und Tochtergesellschaften errichten sowie Beteiligungen erwerben, verwalten und verÃ¤ussern. Des Weiteren kann die Gesellschaft Finanzierungen jeglicher Art auf eigene oder fremde Rechnung vornehmen und/oder in Anspruch nehmen und insbesondere Darlehens- oder SicherungsgeschÃ¤fte mit oder fÃ¼r direkte oder indirekte Mutter-, Tochter- und andere(n) Konzerngesellschaften eingehen, selbst wenn solche Finanzierungen und SicherungsgeschÃ¤fte im ausschliesslichen Interesse dieser Tochter- und anderen Konzerngesellschaften liegen. Die Gesellschaft kann zudem Management-Dienstleistungen fÃ¼r Mutter-, Tochter- oder andere Konzerngesellschaften erbringen. Ferner bezweckt die Gesellschaft das Halten und Handeln mit verschiedenen WertgÃ¼tern, insb. Rohstoffe, Marken &amp; Patente, Kunst &amp; Fahrzeuge aller Art. Ebenso bezweckt die Gesellschaft Finanz- &amp; DarlehensgeschÃ¤fte, insb. im Bereich Immobilien und Ausbildung. Die Gesellschaft kann im In- und Ausland GrundstÃ¼cke sowie Patent-, Marken-, Urheber-, Design und alle Ã¼brigen ImmaterialgÃ¼terrechte erwerben, halten und verÃ¤ussern. Die Gesellschaft kann alle weiteren GeschÃ¤fte tÃ¤tigen und Massnahmen ergreifen, die geeignet erscheinen, den Zweck der Gesellschaft zu fÃ¶rdern oder mit diesem direkt oder indirekt zusammenhÃ¤ngen.",
+        "mutationTypes": [
+          {
+            "id": 11,
+            "key": "zweckaenderung"
+          },
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Weinberg Liegenschaften AG",
+        "ehraid": 1442640,
+        "uid": "CHE317660815",
+        "chid": "CH17030446868",
+        "legalSeatId": 1507,
+        "legalSeat": "Hergiswil (NW)",
+        "registryOfCommerceId": 150,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-06-17",
+        "deletionDate": null
+      }
+    }
+  }
+]

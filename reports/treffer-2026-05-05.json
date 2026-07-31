@@ -1,0 +1,621 @@
+[
+  {
+    "publication_id": "01a02f5ab6e4b2f64ab79e2b",
+    "publication_date": "2026-05-05",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-05-05 | ZG | 2026-04-30 | <FT TYPE=\"N\">ALPINE EXPLORERS SAVILE</FT>, in <FT TYPE=\"5\">Baar</FT>, <FT TYPE=\"A\">CHE-416.752.935</FT>, Weinbergstrasse 5, 6340 Baar, Einzelunternehmen (Neueintragung). Zweck: Organisation von Touren fÃ¼r Touristen und BetriebsausflÃ¼gen fÃ¼r Unternehmen. Eingetragene Personen: Savile, Mark, britischer StaatsangehÃ¶riger, in Baar, Inhaber, mit Einzelunterschrift. | status | status.neu | ALPINE EXPLORERS SAVILE | CHE416752935 | CH17010128946 | Baar | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-05-05",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "010128946"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-05-05",
+        "sogcId": 1006642934,
+        "registryOfCommerceId": 170,
+        "registryOfCommerceCanton": "ZG",
+        "registryOfCommerceJournalId": 8528,
+        "registryOfCommerceJournalDate": "2026-04-30",
+        "message": "<FT TYPE=\"N\">ALPINE EXPLORERS SAVILE</FT>, in <FT TYPE=\"5\">Baar</FT>, <FT TYPE=\"A\">CHE-416.752.935</FT>, Weinbergstrasse 5, 6340 Baar, Einzelunternehmen (Neueintragung). Zweck: Organisation von Touren fÃ¼r Touristen und BetriebsausflÃ¼gen fÃ¼r Unternehmen. Eingetragene Personen: Savile, Mark, britischer StaatsangehÃ¶riger, in Baar, Inhaber, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "ALPINE EXPLORERS SAVILE",
+        "ehraid": 1748038,
+        "uid": "CHE416752935",
+        "chid": "CH17010128946",
+        "legalSeatId": 1701,
+        "legalSeat": "Baar",
+        "registryOfCommerceId": 170,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-05-05",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "9206d276180ce7d942dcb559",
+    "publication_date": "2026-05-05",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-05-05 | LU | 2026-04-30 | <FT TYPE=\"F\">Bierisisters KlG</FT>, in <FT TYPE=\"S\">Neuenkirch</FT>, <FT TYPE=\"A\">CHE-397.738.200</FT>, Kollektivgesellschaft (SHAB Nr. 177 vom 11.09.2020, Publ. 1004976783). Die Gesellschaft hat sich aufgelÃ¶st. Die Liquidation ist durchgefÃ¼hrt. Die Gesellschaft wird gelÃ¶scht. | status | status.loeschung | Bierisisters KlG | CHE397738200 | CH10028104058 | Neuenkirch | 0103 | Kollektivgesellschaft | Société en nom collectif | Società in nome collettivo | General Partnership | KlG | SNC | SNC | GP | CANCELLED | 2026-05-05 | 2026-05-05",
+    "categories": [
+      "bier"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "004976783)",
+      "0028104058"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-05-05",
+        "sogcId": 1006642873,
+        "registryOfCommerceId": 100,
+        "registryOfCommerceCanton": "LU",
+        "registryOfCommerceJournalId": 4240,
+        "registryOfCommerceJournalDate": "2026-04-30",
+        "message": "<FT TYPE=\"F\">Bierisisters KlG</FT>, in <FT TYPE=\"S\">Neuenkirch</FT>, <FT TYPE=\"A\">CHE-397.738.200</FT>, Kollektivgesellschaft (SHAB Nr. 177 vom 11.09.2020, Publ. 1004976783). Die Gesellschaft hat sich aufgelÃ¶st. Die Liquidation ist durchgefÃ¼hrt. Die Gesellschaft wird gelÃ¶scht.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 7,
+            "key": "status.loeschung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Bierisisters KlG",
+        "ehraid": 1451817,
+        "uid": "CHE397738200",
+        "chid": "CH10028104058",
+        "legalSeatId": 1093,
+        "legalSeat": "Neuenkirch",
+        "registryOfCommerceId": 100,
+        "legalForm": {
+          "id": 2,
+          "uid": "0103",
+          "name": {
+            "de": "Kollektivgesellschaft",
+            "fr": "Société en nom collectif",
+            "it": "Società in nome collettivo",
+            "en": "General Partnership"
+          },
+          "shortName": {
+            "de": "KlG",
+            "fr": "SNC",
+            "it": "SNC",
+            "en": "GP"
+          }
+        },
+        "status": "CANCELLED",
+        "sogcDate": "2026-05-05",
+        "deletionDate": "2026-05-05"
+      }
+    }
+  },
+  {
+    "publication_id": "76c332a189821ea1fa64e98d",
+    "publication_date": "2026-05-05",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-05-05 | ZH | 2026-04-30 | <FT TYPE=\"F\">D-Vino Weinbars AG</FT>, in <FT TYPE=\"S\">Maur</FT>, <FT TYPE=\"A\">CHE-114.862.706</FT>, Aktiengesellschaft (SHAB Nr. 46 vom 07.03.2023, Publ. 1005694252). StatutenÃ¤nderung: 21.04.2026. Aktienkapital neu: CHF 100&apos;000.00 [bisher: CHF 500&apos;000.00]. Liberierung Aktienkapital neu: CHF 100&apos;000.00 [bisher: CHF 500&apos;000.00]. Aktien neu: 500&apos;000 Namenaktien zu CHF 0.20 [bisher: 500&apos;000 Namenaktien zu CHF 1.00]. Bei der Kapitalherabsetzung vom 21.04.2026 wird der Nennwert der 500&apos;000 Namenaktien zu CHF 1.00 auf CHF 0.20 herabgesetzt und je CHF 0.80 pro Aktie zurÃ¼ckbezahlt; die Beachtung der gesetzlichen Vorschriften von Art. 653o OR wird mit Ã¶ffentlicher Urkunde des Verwaltungsrates vom 21.04.2026 festgestellt. Mitteilungen neu: Mitteilungen an die AktionÃ¤re erfolgen per Brief oder E-Mail an die im Aktienbuch verzeichneten Adressen. | kapitalaenderung | kapitalaenderung.libriert | kapitalaenderung.nominell | kapitalaenderung.stueckelung | D-Vino Weinbars AG | CHE114862706 | CH02030338094 | Maur | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-05-05",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "005694252)",
+      "02030338094"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-05-05",
+        "sogcId": 1006642576,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 21621,
+        "registryOfCommerceJournalDate": "2026-04-30",
+        "message": "<FT TYPE=\"F\">D-Vino Weinbars AG</FT>, in <FT TYPE=\"S\">Maur</FT>, <FT TYPE=\"A\">CHE-114.862.706</FT>, Aktiengesellschaft (SHAB Nr. 46 vom 07.03.2023, Publ. 1005694252). StatutenÃ¤nderung: 21.04.2026. Aktienkapital neu: CHF 100&apos;000.00 [bisher: CHF 500&apos;000.00]. Liberierung Aktienkapital neu: CHF 100&apos;000.00 [bisher: CHF 500&apos;000.00]. Aktien neu: 500&apos;000 Namenaktien zu CHF 0.20 [bisher: 500&apos;000 Namenaktien zu CHF 1.00]. Bei der Kapitalherabsetzung vom 21.04.2026 wird der Nennwert der 500&apos;000 Namenaktien zu CHF 1.00 auf CHF 0.20 herabgesetzt und je CHF 0.80 pro Aktie zurÃ¼ckbezahlt; die Beachtung der gesetzlichen Vorschriften von Art. 653o OR wird mit Ã¶ffentlicher Urkunde des Verwaltungsrates vom 21.04.2026 festgestellt. Mitteilungen neu: Mitteilungen an die AktionÃ¤re erfolgen per Brief oder E-Mail an die im Aktienbuch verzeichneten Adressen.",
+        "mutationTypes": [
+          {
+            "id": 12,
+            "key": "kapitalaenderung"
+          },
+          {
+            "id": 14,
+            "key": "kapitalaenderung.libriert"
+          },
+          {
+            "id": 13,
+            "key": "kapitalaenderung.nominell"
+          },
+          {
+            "id": 15,
+            "key": "kapitalaenderung.stueckelung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "D-Vino Weinbars AG",
+        "ehraid": 944534,
+        "uid": "CHE114862706",
+        "chid": "CH02030338094",
+        "legalSeatId": 195,
+        "legalSeat": "Maur",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-05-05",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "3990d87f675da58af0d97208",
+    "publication_date": "2026-05-05",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-05-05 | ZH | 2026-04-30 | <FT TYPE=\"N\">Kontaro Consulting GmbH</FT>, in <FT TYPE=\"5\">ZÃ¼rich</FT>, <FT TYPE=\"A\">CHE-256.091.375</FT>, c/o Tureva Treuhand AG, Weinbergstrasse 131, 8006 ZÃ¼rich, Gesellschaft mit beschrÃ¤nkter Haftung (Neueintragung). Statutendatum: 27.04.2026. Zweck: Zweck der Gesellschaft ist die Erbringung von Treuhand-, BuchfÃ¼hrungs-, Steuerberatungs- sowie administrativen Dienstleistungen fÃ¼r Unternehmen und Privatpersonen. Zudem erbringt die Gesellschaft allgemeine Beratungsdienstleistungen fÃ¼r Unternehmen und Privatpersonen. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle GeschÃ¤fte tÃ¤tigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, verÃ¤ussern und verwalten. Sie kann auch Finanzierungen fÃ¼r eigene oder fremde Rechnung vor-nehmen sowie Garantien und BÃ¼rgschaften fÃ¼r Tochtergesellschaften und Dritte eingehen. Stammkapital: CHF 20&apos;000.00. Publikationsorgan: SHAB. Mitteilungen der GeschÃ¤ftsfÃ¼hrung an die Gesellschafter erfolgen per Brief oder E-Mail an die im Anteilbuch verzeichneten Adressen. GemÃ¤ss ErklÃ¤rung bei der GrÃ¼ndung der Gesellschaft wird auf eine eingeschrÃ¤nkte Revision verzichtet. Eingetragene Personen: Salgado da Silva, Claudio, von ZÃ¼rich, in Hombrechtikon, Gesellschafter und GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift, mit 20&apos;000 Stammanteilen zu je CHF 1.00. | status | status.neu | Kontaro Consulting GmbH | CHE256091375 | CH02040920707 | Zürich | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-05-05",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "02040920707"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-05-05",
+        "sogcId": 1006642525,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 21570,
+        "registryOfCommerceJournalDate": "2026-04-30",
+        "message": "<FT TYPE=\"N\">Kontaro Consulting GmbH</FT>, in <FT TYPE=\"5\">ZÃ¼rich</FT>, <FT TYPE=\"A\">CHE-256.091.375</FT>, c/o Tureva Treuhand AG, Weinbergstrasse 131, 8006 ZÃ¼rich, Gesellschaft mit beschrÃ¤nkter Haftung (Neueintragung). Statutendatum: 27.04.2026. Zweck: Zweck der Gesellschaft ist die Erbringung von Treuhand-, BuchfÃ¼hrungs-, Steuerberatungs- sowie administrativen Dienstleistungen fÃ¼r Unternehmen und Privatpersonen. Zudem erbringt die Gesellschaft allgemeine Beratungsdienstleistungen fÃ¼r Unternehmen und Privatpersonen. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle GeschÃ¤fte tÃ¤tigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, verÃ¤ussern und verwalten. Sie kann auch Finanzierungen fÃ¼r eigene oder fremde Rechnung vor-nehmen sowie Garantien und BÃ¼rgschaften fÃ¼r Tochtergesellschaften und Dritte eingehen. Stammkapital: CHF 20&apos;000.00. Publikationsorgan: SHAB. Mitteilungen der GeschÃ¤ftsfÃ¼hrung an die Gesellschafter erfolgen per Brief oder E-Mail an die im Anteilbuch verzeichneten Adressen. GemÃ¤ss ErklÃ¤rung bei der GrÃ¼ndung der Gesellschaft wird auf eine eingeschrÃ¤nkte Revision verzichtet. Eingetragene Personen: Salgado da Silva, Claudio, von ZÃ¼rich, in Hombrechtikon, Gesellschafter und GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift, mit 20&apos;000 Stammanteilen zu je CHF 1.00.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Kontaro Consulting GmbH",
+        "ehraid": 1747992,
+        "uid": "CHE256091375",
+        "chid": "CH02040920707",
+        "legalSeatId": 261,
+        "legalSeat": "Zürich",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-05-05",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "1f42377ab9354110c2e1ec36",
+    "publication_date": "2026-05-05",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-05-05 | VS | 2026-04-30 | <FT TYPE=\"F\">Le DÃ©li Sandwich &amp; CafÃ© SÃ rl</FT>, Ã  <FT TYPE=\"S\">Sion</FT>, <FT TYPE=\"A\">CHE-450.838.898</FT>, sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e (No. FOSC 214 du 03.11.2017, Publ. 3850025). Nouvelle adresse: c/o Lynvia SÃ rl, Avenue de Tourbillon 34, 1950 Sion. Inscription ou modification de personne(s): Lynvia SÃ rl (<FT TYPE=\"B\">CHE-281.372.558</FT>), Ã  Sion, associÃ©e, pour 20 parts sociales de CHF 1&apos;000.00; Picado Laranjeiro, LÃ­dia Maria, ressortissante portugaise, Ã  Sierre, prÃ©sidente des gÃ©rants, avec signature individuelle [prÃ©cÃ©demment: associÃ©e et prÃ©sidente des gÃ©rants, avec signature individuelle, pour 16 parts sociales de CHF 1&apos;000.00]; da Silva Neto, Jorge Daniel, ressortissant portugais, Ã  Sion, gÃ©rant, avec signature collective Ã  deux [prÃ©cÃ©demment: associÃ© et gÃ©rant, avec signature collective Ã  deux, pour 4 parts sociales de CHF 1&apos;000.00]. | adressaenderung | aenderungorgane | Le Déli Sandwich & Café Sàrl | CHE450838898 | CH62640183078 | Sion | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-05-19",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": []
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-05-05",
+        "sogcId": 1006643639,
+        "registryOfCommerceId": 626,
+        "registryOfCommerceCanton": "VS",
+        "registryOfCommerceJournalId": 1874,
+        "registryOfCommerceJournalDate": "2026-04-30",
+        "message": "<FT TYPE=\"F\">Le DÃ©li Sandwich &amp; CafÃ© SÃ rl</FT>, Ã  <FT TYPE=\"S\">Sion</FT>, <FT TYPE=\"A\">CHE-450.838.898</FT>, sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e (No. FOSC 214 du 03.11.2017, Publ. 3850025). Nouvelle adresse: c/o Lynvia SÃ rl, Avenue de Tourbillon 34, 1950 Sion. Inscription ou modification de personne(s): Lynvia SÃ rl (<FT TYPE=\"B\">CHE-281.372.558</FT>), Ã  Sion, associÃ©e, pour 20 parts sociales de CHF 1&apos;000.00; Picado Laranjeiro, LÃ­dia Maria, ressortissante portugaise, Ã  Sierre, prÃ©sidente des gÃ©rants, avec signature individuelle [prÃ©cÃ©demment: associÃ©e et prÃ©sidente des gÃ©rants, avec signature individuelle, pour 16 parts sociales de CHF 1&apos;000.00]; da Silva Neto, Jorge Daniel, ressortissant portugais, Ã  Sion, gÃ©rant, avec signature collective Ã  deux [prÃ©cÃ©demment: associÃ© et gÃ©rant, avec signature collective Ã  deux, pour 4 parts sociales de CHF 1&apos;000.00].",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          },
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Le Déli Sandwich & Café Sàrl",
+        "ehraid": 1325136,
+        "uid": "CHE450838898",
+        "chid": "CH62640183078",
+        "legalSeatId": 6266,
+        "legalSeat": "Sion",
+        "registryOfCommerceId": 626,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-05-19",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "787c53cfa5c31c995c2547e4",
+    "publication_date": "2026-05-05",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-05-05 | LU | 2026-04-30 | <FT TYPE=\"F\">R. Worni - Weine AG</FT>, in <FT TYPE=\"S\">SchÃ¼pfheim</FT>, <FT TYPE=\"A\">CHE-261.043.494</FT>, Aktiengesellschaft (SHAB Nr. 120 vom 25.06.2015, S.0, Publ. 2228889). Eingetragene Personen neu oder mutierend: Worni-Fluder, Nadja, von Entlebuch, in Buttisholz, mit Einzelunterschrift. | aenderungorgane | R. Worni - Weine AG | CHE261043494 | CH10038002007 | Schüpfheim | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-05-05",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "0038002007"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-05-05",
+        "sogcId": 1006642862,
+        "registryOfCommerceId": 100,
+        "registryOfCommerceCanton": "LU",
+        "registryOfCommerceJournalId": 4229,
+        "registryOfCommerceJournalDate": "2026-04-30",
+        "message": "<FT TYPE=\"F\">R. Worni - Weine AG</FT>, in <FT TYPE=\"S\">SchÃ¼pfheim</FT>, <FT TYPE=\"A\">CHE-261.043.494</FT>, Aktiengesellschaft (SHAB Nr. 120 vom 25.06.2015, S.0, Publ. 2228889). Eingetragene Personen neu oder mutierend: Worni-Fluder, Nadja, von Entlebuch, in Buttisholz, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "R. Worni - Weine AG",
+        "ehraid": 1225924,
+        "uid": "CHE261043494",
+        "chid": "CH10038002007",
+        "legalSeatId": 1008,
+        "legalSeat": "Schüpfheim",
+        "registryOfCommerceId": 100,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-05-05",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "94bbe13dd88fc603c8c841a8",
+    "publication_date": "2026-05-05",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-05-05 | ZH | 2026-04-30 | <FT TYPE=\"N\">Sunrise Frequencies, Inh. Radnai</FT>, in <FT TYPE=\"5\">ZÃ¼rich</FT>, <FT TYPE=\"A\">CHE-332.449.498</FT>, Loorenstrasse 31, 8053 ZÃ¼rich, Einzelunternehmen (Neueintragung). Zweck: Betrieb einer KaffeerÃ¶sterei und Handel mit Kaffeeprodukten. Eingetragene Personen: Radnai, Boris Nathan Eric, franzÃ¶sischer StaatsangehÃ¶riger, in ZÃ¼rich, Inhaber, mit Einzelunterschrift. | status | status.neu | Sunrise Frequencies, Inh. Radnai | CHE332449498 | CH02011061626 | Zürich | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-05-05",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "02011061626"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-05-05",
+        "sogcId": 1006642533,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 21578,
+        "registryOfCommerceJournalDate": "2026-04-30",
+        "message": "<FT TYPE=\"N\">Sunrise Frequencies, Inh. Radnai</FT>, in <FT TYPE=\"5\">ZÃ¼rich</FT>, <FT TYPE=\"A\">CHE-332.449.498</FT>, Loorenstrasse 31, 8053 ZÃ¼rich, Einzelunternehmen (Neueintragung). Zweck: Betrieb einer KaffeerÃ¶sterei und Handel mit Kaffeeprodukten. Eingetragene Personen: Radnai, Boris Nathan Eric, franzÃ¶sischer StaatsangehÃ¶riger, in ZÃ¼rich, Inhaber, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Sunrise Frequencies, Inh. Radnai",
+        "ehraid": 1748004,
+        "uid": "CHE332449498",
+        "chid": "CH02011061626",
+        "legalSeatId": 261,
+        "legalSeat": "Zürich",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-05-05",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "3363306df2a7de0f802b8280",
+    "publication_date": "2026-05-05",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-05-05 | ZG | 2026-04-30 | <FT TYPE=\"F\">WZM WEINE GMBH in Liquidation</FT>, in <FT TYPE=\"S\">Baar</FT>, <FT TYPE=\"A\">CHE-462.419.628</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 49 vom 11.03.2024, Publ. 1005982164). LÃ¶schung von Amtes wegen gemÃ¤ss Art. 159a HRegV, nachdem kein begrÃ¼ndeter Einspruch gegen die LÃ¶schung erhoben wurde. | status | status.loeschung | WZM WEINE GMBH in Liquidation | CHE462419628 | CH02040457705 | Baar | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | CANCELLED | 2026-05-05 | 2026-05-05",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "005982164)",
+      "02040457705"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-05-05",
+        "sogcId": 1006643097,
+        "registryOfCommerceId": 170,
+        "registryOfCommerceCanton": "ZG",
+        "registryOfCommerceJournalId": 8692,
+        "registryOfCommerceJournalDate": "2026-04-30",
+        "message": "<FT TYPE=\"F\">WZM WEINE GMBH in Liquidation</FT>, in <FT TYPE=\"S\">Baar</FT>, <FT TYPE=\"A\">CHE-462.419.628</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 49 vom 11.03.2024, Publ. 1005982164). LÃ¶schung von Amtes wegen gemÃ¤ss Art. 159a HRegV, nachdem kein begrÃ¼ndeter Einspruch gegen die LÃ¶schung erhoben wurde.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 7,
+            "key": "status.loeschung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "WZM WEINE GMBH in Liquidation",
+        "ehraid": 1031807,
+        "uid": "CHE462419628",
+        "chid": "CH02040457705",
+        "legalSeatId": 1701,
+        "legalSeat": "Baar",
+        "registryOfCommerceId": 170,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "CANCELLED",
+        "sogcDate": "2026-05-05",
+        "deletionDate": "2026-05-05"
+      }
+    }
+  }
+]

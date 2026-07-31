@@ -1,0 +1,1143 @@
+[
+  {
+    "publication_id": "17d4b45882dc002cbfd9280e",
+    "publication_date": "2026-05-08",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-05-08 | ZH | 2026-05-05 | <FT TYPE=\"N\">Bubu Drinks und CafÃ©, Kristyraj</FT>, in <FT TYPE=\"5\">Bonstetten</FT>, <FT TYPE=\"A\">CHE-137.204.224</FT>, c/o Sujanika Kristyraj, Friedhofstrasse 55, 8906 Bonstetten, Einzelunternehmen (Neueintragung). Zweck: Cafeteria und Bistro. Eingetragene Personen: Kristyraj, Sujanika, sri-lankische StaatsangehÃ¶rige, in Bonstetten, Inhaberin, mit Einzelunterschrift. | status | status.neu | Bubu Drinks und Café, Kristyraj | CHE137204224 | CH02011061773 | Bonstetten | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-05-08",
+    "categories": [
+      "allgemein",
+      "kaffee_tee"
+    ],
+    "confidence": 95,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "02011061773"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-05-08",
+        "sogcId": 1006645675,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 21998,
+        "registryOfCommerceJournalDate": "2026-05-05",
+        "message": "<FT TYPE=\"N\">Bubu Drinks und CafÃ©, Kristyraj</FT>, in <FT TYPE=\"5\">Bonstetten</FT>, <FT TYPE=\"A\">CHE-137.204.224</FT>, c/o Sujanika Kristyraj, Friedhofstrasse 55, 8906 Bonstetten, Einzelunternehmen (Neueintragung). Zweck: Cafeteria und Bistro. Eingetragene Personen: Kristyraj, Sujanika, sri-lankische StaatsangehÃ¶rige, in Bonstetten, Inhaberin, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Bubu Drinks und Café, Kristyraj",
+        "ehraid": 1748473,
+        "uid": "CHE137204224",
+        "chid": "CH02011061773",
+        "legalSeatId": 3,
+        "legalSeat": "Bonstetten",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-05-08",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "c3e885be66ff5a9095509fe8",
+    "publication_date": "2026-05-08",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-05-08 | FR | 2026-05-05 | <FT TYPE=\"F\">CafÃ© Bar du Bourg, SÃ³nia da Piedade Ramos Alves</FT>, Ã  <FT TYPE=\"S\">Broc</FT>, <FT TYPE=\"A\">CHE-387.149.143</FT> (FOSC du 10.03.2017, p. 0/3396311). L&apos;entreprise individuelle est radiÃ©e par suite de cessation d&apos;activitÃ©. | status | status.loeschung | Café Bar du Bourg, Sónia da Piedade Ramos Alves | CHE387149143 | CH21735632745 | Broc | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | CANCELLED | 2026-05-08 | 2026-05-08",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": []
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-05-08",
+        "sogcId": 1006646273,
+        "registryOfCommerceId": 217,
+        "registryOfCommerceCanton": "FR",
+        "registryOfCommerceJournalId": 3428,
+        "registryOfCommerceJournalDate": "2026-05-05",
+        "message": "<FT TYPE=\"F\">CafÃ© Bar du Bourg, SÃ³nia da Piedade Ramos Alves</FT>, Ã  <FT TYPE=\"S\">Broc</FT>, <FT TYPE=\"A\">CHE-387.149.143</FT> (FOSC du 10.03.2017, p. 0/3396311). L&apos;entreprise individuelle est radiÃ©e par suite de cessation d&apos;activitÃ©.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 7,
+            "key": "status.loeschung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Café Bar du Bourg, Sónia da Piedade Ramos Alves",
+        "ehraid": 1297339,
+        "uid": "CHE387149143",
+        "chid": "CH21735632745",
+        "legalSeatId": 2124,
+        "legalSeat": "Broc",
+        "registryOfCommerceId": 217,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "CANCELLED",
+        "sogcDate": "2026-05-08",
+        "deletionDate": "2026-05-08"
+      }
+    }
+  },
+  {
+    "publication_id": "8052d1c64c0e463da1f8dc2f",
+    "publication_date": "2026-05-08",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-05-08 | ZG | 2026-05-05 | <FT TYPE=\"F\">CB INTERIORS, Senft</FT>, bisher in <FT TYPE=\"S\">Zollikon</FT>, <FT TYPE=\"A\">CHE-114.697.175</FT>, Einzelunternehmen (SHAB Nr. 113 vom 14.06.2023, Publ. 1005767715). Sitz neu: <FT TYPE=\"5\">Walchwil</FT>. Domizil neu: Lauihofrain 1, 6318 Walchwil. Eingetragene Personen neu oder mutierend: Senft-Boissonnas, Chantal, von GenÃ¨ve und ZÃ¼rich, in Walchwil, Inhaberin, mit Einzelunterschrift [bisher: in Zollikon]. | adressaenderung | aenderungorgane | CB INTERIORS, Senft | CHE114697175 | CH02010559196 | Walchwil | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-05-08",
+    "categories": [
+      "allgemein"
+    ],
+    "confidence": 60,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "005767715)",
+      "02010559196"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-05-08",
+        "sogcId": 1006646182,
+        "registryOfCommerceId": 170,
+        "registryOfCommerceCanton": "ZG",
+        "registryOfCommerceJournalId": 8900,
+        "registryOfCommerceJournalDate": "2026-05-05",
+        "message": "<FT TYPE=\"F\">CB INTERIORS, Senft</FT>, bisher in <FT TYPE=\"S\">Zollikon</FT>, <FT TYPE=\"A\">CHE-114.697.175</FT>, Einzelunternehmen (SHAB Nr. 113 vom 14.06.2023, Publ. 1005767715). Sitz neu: <FT TYPE=\"5\">Walchwil</FT>. Domizil neu: Lauihofrain 1, 6318 Walchwil. Eingetragene Personen neu oder mutierend: Senft-Boissonnas, Chantal, von GenÃ¨ve und ZÃ¼rich, in Walchwil, Inhaberin, mit Einzelunterschrift [bisher: in Zollikon].",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          },
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "CB INTERIORS, Senft",
+        "ehraid": 934550,
+        "uid": "CHE114697175",
+        "chid": "CH02010559196",
+        "legalSeatId": 1710,
+        "legalSeat": "Walchwil",
+        "registryOfCommerceId": 170,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-05-08",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "b2b54e3be326cb68f5810527",
+    "publication_date": "2026-05-08",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-05-08 | GE | 2026-05-04 | <FT TYPE=\"N\">DOKI DOKI GenÃ¨ve SÃ rl</FT>, Ã  <FT TYPE=\"5\">GenÃ¨ve</FT>, Rue Pierre-FATIO 1, 1204 GenÃ¨ve, <FT TYPE=\"A\">CHE-247.799.251</FT>. Nouvelle sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e. Statuts du 23.04.2026. But: l&apos;exploitation d&apos;Ã©tablissements de restauration, notamment de restaurants proposant une cuisine japonaise et asiatique, ainsi que la prÃ©paration, lo vente et la distribution de mets et de boissons Ã  consommer sur place et Ã  l&apos;emporter. La SociÃ©tÃ© peut crÃ©er des succursales et des filiales en Suisse et Ã  l&apos;Ã©tranger. Elle peut acquÃ©rir, dÃ©tenir, gÃ©rer et vendre des biens immobiliers en Suisse et Ã  l&apos;Ã©tranger, en Suisse uniquement ceux Ã  affectation exclusivement commerciale. La SociÃ©tÃ© peut acquÃ©rir, exploiter, utiliser et exercer tous droits de propriÃ©tÃ© intellectuelle, marques, modÃ¨les et/ou designs, de quelque maniÃ¨re que ce soit. La SociÃ©tÃ© peut fournir des services de gestion Ã  toutes les sociÃ©tÃ©s qui lui sont affiliÃ©es. La SociÃ©tÃ© peut fournir de l&apos;assistance financiÃ¨re, y compris des prÃªts, des avances, des garanties ou des sÃ»retÃ©s de toutes formes, Ã  ses filiales, sociÃ©tÃ©s sÅ“urs, sociÃ©tÃ© mÃ¨re ou Ã  toute autre sociÃ©tÃ© affiliÃ©e, contre rÃ©munÃ©ration ou Ã  titre gratuit. La SociÃ©tÃ© peut Ã©galement octroyer des prÃªts, des avances, des garanties ou des sÃ»retÃ©s de toutes formes Ã  des tiers. La SociÃ©tÃ© peut en outre effectuer toutes les opÃ©rations qui se rapportent directement ou indirectement Ã  son but social ou qui favorisent ou facilitent son dÃ©veloppement. Obligation de fournir des prestations accessoires, droits de prÃ©fÃ©rence, de prÃ©emption ou d&apos;emption: pour les dÃ©tails, voir les statuts. Capital: CHF 20&apos;000. Organe de publication: Feuille Officielle Suisse du Commerce. Communication aux associÃ©s: par Ã©crit (lettre ou courrier Ã©lectronique). AssociÃ©e: NEW DOKI DOKI HOLDING (981 980 782 R.C.S. Paris), Ã  Paris, FRA",
+    "categories": [
+      "allgemein",
+      "handel_vertrieb"
+    ],
+    "confidence": 95,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "017150267"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-05-08",
+        "sogcId": 1006646994,
+        "registryOfCommerceId": 660,
+        "registryOfCommerceCanton": "GE",
+        "registryOfCommerceJournalId": 12067,
+        "registryOfCommerceJournalDate": "2026-05-04",
+        "message": "<FT TYPE=\"N\">DOKI DOKI GenÃ¨ve SÃ rl</FT>, Ã  <FT TYPE=\"5\">GenÃ¨ve</FT>, Rue Pierre-FATIO 1, 1204 GenÃ¨ve, <FT TYPE=\"A\">CHE-247.799.251</FT>. Nouvelle sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e. Statuts du 23.04.2026. But: l&apos;exploitation d&apos;Ã©tablissements de restauration, notamment de restaurants proposant une cuisine japonaise et asiatique, ainsi que la prÃ©paration, lo vente et la distribution de mets et de boissons Ã  consommer sur place et Ã  l&apos;emporter. La SociÃ©tÃ© peut crÃ©er des succursales et des filiales en Suisse et Ã  l&apos;Ã©tranger. Elle peut acquÃ©rir, dÃ©tenir, gÃ©rer et vendre des biens immobiliers en Suisse et Ã  l&apos;Ã©tranger, en Suisse uniquement ceux Ã  affectation exclusivement commerciale. La SociÃ©tÃ© peut acquÃ©rir, exploiter, utiliser et exercer tous droits de propriÃ©tÃ© intellectuelle, marques, modÃ¨les et/ou designs, de quelque maniÃ¨re que ce soit. La SociÃ©tÃ© peut fournir des services de gestion Ã  toutes les sociÃ©tÃ©s qui lui sont affiliÃ©es. La SociÃ©tÃ© peut fournir de l&apos;assistance financiÃ¨re, y compris des prÃªts, des avances, des garanties ou des sÃ»retÃ©s de toutes formes, Ã  ses filiales, sociÃ©tÃ©s sÅ“urs, sociÃ©tÃ© mÃ¨re ou Ã  toute autre sociÃ©tÃ© affiliÃ©e, contre rÃ©munÃ©ration ou Ã  titre gratuit. La SociÃ©tÃ© peut Ã©galement octroyer des prÃªts, des avances, des garanties ou des sÃ»retÃ©s de toutes formes Ã  des tiers. La SociÃ©tÃ© peut en outre effectuer toutes les opÃ©rations qui se rapportent directement ou indirectement Ã  son but social ou qui favorisent ou facilitent son dÃ©veloppement. Obligation de fournir des prestations accessoires, droits de prÃ©fÃ©rence, de prÃ©emption ou d&apos;emption: pour les dÃ©tails, voir les statuts. Capital: CHF 20&apos;000. Organe de publication: Feuille Officielle Suisse du Commerce. Communication aux associÃ©s: par Ã©crit (lettre ou courrier Ã©lectronique). AssociÃ©e: NEW DOKI DOKI HOLDING (981 980 782 R.C.S. Paris), Ã  Paris, FRA, pour 200 parts de CHF 100. GÃ©rants: Lunardo Daniela, de Prilly, Ã  Nyon, et Taieb Romain, de France, Ã  Paris, FRA, prÃ©sident, tous deux avec signature individuelle. Selon dÃ©claration Ã  la constitution de la sociÃ©tÃ©, il est renoncÃ© Ã  un contrÃ´le restreint.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "DOKI DOKI Genève Sàrl",
+        "ehraid": 1748436,
+        "uid": "CHE247799251",
+        "chid": "CH66017150267",
+        "legalSeatId": 6621,
+        "legalSeat": "Genève",
+        "registryOfCommerceId": 660,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-05-08",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "a4f9a107db0ef0ea578640e7",
+    "publication_date": "2026-05-08",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-05-08 | TG | 2026-05-05 | <FT TYPE=\"F\">EIKA Eisenring Bau 5 Grad</FT>, in <FT TYPE=\"S\">Sulgen</FT>, <FT TYPE=\"A\">CHE-334.581.157</FT>, Einzelunternehmen (SHAB Nr. 16 vom 26.01.2026, Publ. 1006549976). Mit Entscheid des Bezirksgerichts Weinfelden vom 22.04.2026 wurde das Konkursverfahren mangels Aktiven eingestellt. | status | status.wiederrufliq | EIKA Eisenring Bau 5 Grad | CHE334581157 | CH44010428846 | Sulgen | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | CANCELLED | 2026-06-15 | 2026-06-15",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006549976)",
+      "010428846"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-05-08",
+        "sogcId": 1006646608,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 2967,
+        "registryOfCommerceJournalDate": "2026-05-05",
+        "message": "<FT TYPE=\"F\">EIKA Eisenring Bau 5 Grad</FT>, in <FT TYPE=\"S\">Sulgen</FT>, <FT TYPE=\"A\">CHE-334.581.157</FT>, Einzelunternehmen (SHAB Nr. 16 vom 26.01.2026, Publ. 1006549976). Mit Entscheid des Bezirksgerichts Weinfelden vom 22.04.2026 wurde das Konkursverfahren mangels Aktiven eingestellt.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 6,
+            "key": "status.wiederrufliq"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "EIKA Eisenring Bau 5 Grad",
+        "ehraid": 1700032,
+        "uid": "CHE334581157",
+        "chid": "CH44010428846",
+        "legalSeatId": 4506,
+        "legalSeat": "Sulgen",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "CANCELLED",
+        "sogcDate": "2026-06-15",
+        "deletionDate": "2026-06-15"
+      }
+    }
+  },
+  {
+    "publication_id": "1439737003b7255a2c988710",
+    "publication_date": "2026-05-08",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-05-08 | TG | 2026-05-05 | <FT TYPE=\"F\">ENZ Premium SpezialitÃ¤ten</FT>, in <FT TYPE=\"S\">SchÃ¶nholzerswilen</FT>, <FT TYPE=\"A\">CHE-210.034.088</FT>, Einzelunternehmen (SHAB Nr. 126 vom 03.07.2023, Publ. 1005784863). Ãœber den Inhaber dieses Einzelunternehmens wurde mit Entscheid des Bezirksgerichts Weinfelden vom 24.04.2026, mit Wirkung ab dem 24.04.2026, 09.15 Uhr, der Konkurs erÃ¶ffnet. | status | status.aufl | status.aufl.konk | ENZ Premium Spezialitäten | CHE210034088 | CH44010400725 | Schönholzerswilen | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | BEING_CANCELLED | 2026-05-08",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "005784863)",
+      "010400725"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-05-08",
+        "sogcId": 1006646610,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 2969,
+        "registryOfCommerceJournalDate": "2026-05-05",
+        "message": "<FT TYPE=\"F\">ENZ Premium SpezialitÃ¤ten</FT>, in <FT TYPE=\"S\">SchÃ¶nholzerswilen</FT>, <FT TYPE=\"A\">CHE-210.034.088</FT>, Einzelunternehmen (SHAB Nr. 126 vom 03.07.2023, Publ. 1005784863). Ãœber den Inhaber dieses Einzelunternehmens wurde mit Entscheid des Bezirksgerichts Weinfelden vom 24.04.2026, mit Wirkung ab dem 24.04.2026, 09.15 Uhr, der Konkurs erÃ¶ffnet.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 3,
+            "key": "status.aufl"
+          },
+          {
+            "id": 5,
+            "key": "status.aufl.konk"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "ENZ Premium Spezialitäten",
+        "ehraid": 1594500,
+        "uid": "CHE210034088",
+        "chid": "CH44010400725",
+        "legalSeatId": 4756,
+        "legalSeat": "Schönholzerswilen",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "BEING_CANCELLED",
+        "sogcDate": "2026-05-08",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "d39bc51d765a861fce9823ac",
+    "publication_date": "2026-05-08",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-05-08 | ZH | 2026-05-05 | <FT TYPE=\"F\">Ganeos AG</FT>, in <FT TYPE=\"S\">ZÃ¼rich</FT>, <FT TYPE=\"A\">CHE-107.831.362</FT>, Aktiengesellschaft (SHAB Nr. 177 vom 15.09.2025, Publ. 1006432542). Ausgeschiedene Personen und erloschene Unterschriften: Breitenmoser, Andreas, von Appenzell und Wil (SG), in Wil (SG), Mitglied des Verwaltungsrates, ohne Zeichnungsberechtigung; Gabathuler, Marco, von Chur, in Chur, Mitglied des Verwaltungsrates, ohne Zeichnungsberechtigung; Wild, JÃ¶rg Jakob, von Wattwil, in Altdorf UR, Mitglied des Verwaltungsrates, ohne Zeichnungsberechtigung. Eingetragene Personen neu oder mutierend: Deplazes, Romeo, von Sumvitg, in Kloten, Mitglied des Verwaltungsrates, ohne Zeichnungsberechtigung; Emmenegger, Martin, von SchÃ¼pfheim, in ZÃ¼rich, Mitglied des Verwaltungsrates, ohne Zeichnungsberechtigung; Keller, Roland, von Amriswil, in Weinfelden, Mitglied des Verwaltungsrates, ohne Zeichnungsberechtigung. | aenderungorgane | Ganeos AG | CHE107831362 | CH02039098617 | Zürich | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-05-08",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006432542)",
+      "02039098617"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-05-08",
+        "sogcId": 1006645778,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 22101,
+        "registryOfCommerceJournalDate": "2026-05-05",
+        "message": "<FT TYPE=\"F\">Ganeos AG</FT>, in <FT TYPE=\"S\">ZÃ¼rich</FT>, <FT TYPE=\"A\">CHE-107.831.362</FT>, Aktiengesellschaft (SHAB Nr. 177 vom 15.09.2025, Publ. 1006432542). Ausgeschiedene Personen und erloschene Unterschriften: Breitenmoser, Andreas, von Appenzell und Wil (SG), in Wil (SG), Mitglied des Verwaltungsrates, ohne Zeichnungsberechtigung; Gabathuler, Marco, von Chur, in Chur, Mitglied des Verwaltungsrates, ohne Zeichnungsberechtigung; Wild, JÃ¶rg Jakob, von Wattwil, in Altdorf UR, Mitglied des Verwaltungsrates, ohne Zeichnungsberechtigung. Eingetragene Personen neu oder mutierend: Deplazes, Romeo, von Sumvitg, in Kloten, Mitglied des Verwaltungsrates, ohne Zeichnungsberechtigung; Emmenegger, Martin, von SchÃ¼pfheim, in ZÃ¼rich, Mitglied des Verwaltungsrates, ohne Zeichnungsberechtigung; Keller, Roland, von Amriswil, in Weinfelden, Mitglied des Verwaltungsrates, ohne Zeichnungsberechtigung.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Ganeos AG",
+        "ehraid": 328845,
+        "uid": "CHE107831362",
+        "chid": "CH02039098617",
+        "legalSeatId": 261,
+        "legalSeat": "Zürich",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-05-08",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "ea0227fb6a1be56464183d28",
+    "publication_date": "2026-05-08",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-05-08 | GE | 2026-05-04 | <FT TYPE=\"N\">La Chaumaz SÃ rl</FT>, Ã  <FT TYPE=\"5\">Russin</FT>, Route des Baillets 42, 1281 Russin, <FT TYPE=\"A\">CHE-289.747.082</FT>. Nouvelle sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e. Statuts du 22.04.2026. But: en Suisse et Ã  l&apos;Ã©tranger, l&apos;exploitation de tous types d&apos;Ã©tablissements publics dans le domaine de la restauration, notamment cafÃ©s, bars, restaurants, ainsi que toute activitÃ© liÃ©e Ã  l&apos;accueil, Ã  la prÃ©paration et Ã  la vente de denrÃ©es alimentaires et de boissons. Elle peut Ã©galement exercer des activitÃ©s d&apos;importation, d&apos;exportation et de commerce de tous types de produits, en lien direct ou indirect avec son activitÃ© principale. La sociÃ©tÃ© peut, en outre, exercer toute activitÃ© commerciale, financiÃ¨re ou industrielle en rapport direct ou indirect avec son but, notamment crÃ©er des succursales en Suisse et Ã  l&apos;Ã©tranger, participer Ã  d&apos;autres entreprises, acquÃ©rir ou fonder des sociÃ©tÃ©s poursuivant un but analogue, ou fusionner avec de telles sociÃ©tÃ©s. Elle peut effectuer toutes opÃ©rations et conclure tous contrats propres Ã  dÃ©velopper son activitÃ© ou s&apos;y rapportant directement ou indirectement. La sociÃ©tÃ© peut Ã©galement accorder des prÃªts ou toute autre forme de financement Ã  ses associÃ©s, Ã  des sociÃ©tÃ©s du mÃªme groupe ou Ã  des tiers, et octroyer des sÃ»retÃ©s de tout genre, notamment sous forme de garanties, gages ou sÃ»retÃ©s sur ses actifs. Obligation de fournir des prestations accessoires, droits de prÃ©fÃ©rence, de prÃ©emption ou d&apos;emption: pour les dÃ©tails, voir les statuts. Capital: CHF 20&apos;000. Organe de publication: Feuille Officielle Suisse du Commerce. Communication aux associÃ©s: par Ã©crit (courrier, fax, email ou autre moyen de communication Ã©lectronique). AssociÃ©s: Bejinaru Florin-Valentin, de Roumanie, Ã  GenÃ¨ve, pour 10 parts de CHF 1&apos;000, Bejinaru Ionela-Andreea, de Roumanie, Ã  GenÃ¨ve, pour 10 parts de ",
+    "categories": [
+      "allgemein"
+    ],
+    "confidence": 60,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "017440263"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-05-08",
+        "sogcId": 1006646927,
+        "registryOfCommerceId": 660,
+        "registryOfCommerceCanton": "GE",
+        "registryOfCommerceJournalId": 12075,
+        "registryOfCommerceJournalDate": "2026-05-04",
+        "message": "<FT TYPE=\"N\">La Chaumaz SÃ rl</FT>, Ã  <FT TYPE=\"5\">Russin</FT>, Route des Baillets 42, 1281 Russin, <FT TYPE=\"A\">CHE-289.747.082</FT>. Nouvelle sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e. Statuts du 22.04.2026. But: en Suisse et Ã  l&apos;Ã©tranger, l&apos;exploitation de tous types d&apos;Ã©tablissements publics dans le domaine de la restauration, notamment cafÃ©s, bars, restaurants, ainsi que toute activitÃ© liÃ©e Ã  l&apos;accueil, Ã  la prÃ©paration et Ã  la vente de denrÃ©es alimentaires et de boissons. Elle peut Ã©galement exercer des activitÃ©s d&apos;importation, d&apos;exportation et de commerce de tous types de produits, en lien direct ou indirect avec son activitÃ© principale. La sociÃ©tÃ© peut, en outre, exercer toute activitÃ© commerciale, financiÃ¨re ou industrielle en rapport direct ou indirect avec son but, notamment crÃ©er des succursales en Suisse et Ã  l&apos;Ã©tranger, participer Ã  d&apos;autres entreprises, acquÃ©rir ou fonder des sociÃ©tÃ©s poursuivant un but analogue, ou fusionner avec de telles sociÃ©tÃ©s. Elle peut effectuer toutes opÃ©rations et conclure tous contrats propres Ã  dÃ©velopper son activitÃ© ou s&apos;y rapportant directement ou indirectement. La sociÃ©tÃ© peut Ã©galement accorder des prÃªts ou toute autre forme de financement Ã  ses associÃ©s, Ã  des sociÃ©tÃ©s du mÃªme groupe ou Ã  des tiers, et octroyer des sÃ»retÃ©s de tout genre, notamment sous forme de garanties, gages ou sÃ»retÃ©s sur ses actifs. Obligation de fournir des prestations accessoires, droits de prÃ©fÃ©rence, de prÃ©emption ou d&apos;emption: pour les dÃ©tails, voir les statuts. Capital: CHF 20&apos;000. Organe de publication: Feuille Officielle Suisse du Commerce. Communication aux associÃ©s: par Ã©crit (courrier, fax, email ou autre moyen de communication Ã©lectronique). AssociÃ©s: Bejinaru Florin-Valentin, de Roumanie, Ã  GenÃ¨ve, pour 10 parts de CHF 1&apos;000, Bejinaru Ionela-Andreea, de Roumanie, Ã  GenÃ¨ve, pour 10 parts de CHF 1&apos;000. GÃ©rants: Bejinaru Florin-Valentin, prÃ©sent, Bejinaru Ionela-Andreea, tous deux avec signature individuelle. Selon dÃ©claration Ã  la constitution de la sociÃ©tÃ©, il est renoncÃ© Ã  un contrÃ´le restreint.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "La Chaumaz Sàrl",
+        "ehraid": 1748443,
+        "uid": "CHE289747082",
+        "chid": "CH66017440263",
+        "legalSeatId": 6637,
+        "legalSeat": "Russin",
+        "registryOfCommerceId": 660,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-05-08",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "d8623ca88ef1c289c877342a",
+    "publication_date": "2026-05-08",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-05-08 | VS | 2026-05-05 | <FT TYPE=\"N\">Larbaye SA</FT>, Ã  <FT TYPE=\"5\">Saillon</FT>, <FT TYPE=\"A\">CHE-469.265.361</FT>, Route de Tobrouk 14, 1913 Saillon, sociÃ©tÃ© anonyme (Nouvelle inscription). Date des statuts: 30.03.2026. Autre adresse: Case postale 2, 1913 Saillon. But: La sociÃ©tÃ© a pour but l&apos;exploitation de vignes, la vinification et la vente de vins, l&apos;achat, la vente et la location d&apos;immeubles, ainsi que toute activitÃ© en rapport avec la promotion du vin, l&apos;Å“notourisme et la vente de produits agricoles et viticoles. La sociÃ©tÃ© peut Ã©galement procÃ©der Ã  toutes transactions commerciales, financiÃ¨res, mobiliÃ¨res ou immobiliÃ¨res conformes Ã  la loi fÃ©dÃ©rale sur l&apos;acquisition d&apos;immeubles par des personnes Ã  l&apos;Ã©tranger (LFAIE). Elle peut aussi prendre des participations Ã  d&apos;autres sociÃ©tÃ©s, octroyer des prÃªts financiers et, d&apos;une maniÃ¨re gÃ©nÃ©rale, faire toutes opÃ©rations ayant un rapport direct ou indirect avec le but social en Suisse et Ã  l&apos;Ã©tranger. Capital-actions: CHF 100&apos;000.00. Capital-actions libÃ©rÃ©: CHF 100&apos;000.00. Actions: 100 actions nominatives de CHF 1&apos;000.00 avec restriction de transmissibilitÃ© selon statuts. Faits qualifiÃ©s: apports en nature: selon contrat authentique de transfert de patrimoine du 30.03.2026 et inventaire au 30.09.2025, la sociÃ©tÃ© reprend une partie des actifs Ã  hauteur de CHF 2&apos;025&apos;669.03 et des passifs envers les tiers pour CHF 1&apos;024&apos;828.53 de l&apos;entreprise individuelle &quot;Pierre-Antoine Crettenand&quot; Ã  Saillon (<FT TYPE=\"B\">CHE-111.442.868</FT>), contre remise de 100 actions de CHF 1&apos;000.00. Organe de publication: FOSC. Communications aux actionnaires: par Ã©crit ou par courriel. Selon dÃ©claration Ã  la constitution de la sociÃ©tÃ©, il est renoncÃ© Ã  un contrÃ´le restreint. Personne(s) inscrite(s): Crettenand, Pierre Antoine, de Leytron, Ã  Saillon, administrateur unique, avec signature i",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": []
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-05-08",
+        "sogcId": 1006646833,
+        "registryOfCommerceId": 621,
+        "registryOfCommerceCanton": "VS",
+        "registryOfCommerceJournalId": 1752,
+        "registryOfCommerceJournalDate": "2026-05-05",
+        "message": "<FT TYPE=\"N\">Larbaye SA</FT>, Ã  <FT TYPE=\"5\">Saillon</FT>, <FT TYPE=\"A\">CHE-469.265.361</FT>, Route de Tobrouk 14, 1913 Saillon, sociÃ©tÃ© anonyme (Nouvelle inscription). Date des statuts: 30.03.2026. Autre adresse: Case postale 2, 1913 Saillon. But: La sociÃ©tÃ© a pour but l&apos;exploitation de vignes, la vinification et la vente de vins, l&apos;achat, la vente et la location d&apos;immeubles, ainsi que toute activitÃ© en rapport avec la promotion du vin, l&apos;Å“notourisme et la vente de produits agricoles et viticoles. La sociÃ©tÃ© peut Ã©galement procÃ©der Ã  toutes transactions commerciales, financiÃ¨res, mobiliÃ¨res ou immobiliÃ¨res conformes Ã  la loi fÃ©dÃ©rale sur l&apos;acquisition d&apos;immeubles par des personnes Ã  l&apos;Ã©tranger (LFAIE). Elle peut aussi prendre des participations Ã  d&apos;autres sociÃ©tÃ©s, octroyer des prÃªts financiers et, d&apos;une maniÃ¨re gÃ©nÃ©rale, faire toutes opÃ©rations ayant un rapport direct ou indirect avec le but social en Suisse et Ã  l&apos;Ã©tranger. Capital-actions: CHF 100&apos;000.00. Capital-actions libÃ©rÃ©: CHF 100&apos;000.00. Actions: 100 actions nominatives de CHF 1&apos;000.00 avec restriction de transmissibilitÃ© selon statuts. Faits qualifiÃ©s: apports en nature: selon contrat authentique de transfert de patrimoine du 30.03.2026 et inventaire au 30.09.2025, la sociÃ©tÃ© reprend une partie des actifs Ã  hauteur de CHF 2&apos;025&apos;669.03 et des passifs envers les tiers pour CHF 1&apos;024&apos;828.53 de l&apos;entreprise individuelle &quot;Pierre-Antoine Crettenand&quot; Ã  Saillon (<FT TYPE=\"B\">CHE-111.442.868</FT>), contre remise de 100 actions de CHF 1&apos;000.00. Organe de publication: FOSC. Communications aux actionnaires: par Ã©crit ou par courriel. Selon dÃ©claration Ã  la constitution de la sociÃ©tÃ©, il est renoncÃ© Ã  un contrÃ´le restreint. Personne(s) inscrite(s): Crettenand, Pierre Antoine, de Leytron, Ã  Saillon, administrateur unique, avec signature individuelle.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          },
+          {
+            "id": 21,
+            "key": "vermoegenstransfer"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Larbaye SA",
+        "ehraid": 1748623,
+        "uid": "CHE469265361",
+        "chid": "CH62130107919",
+        "legalSeatId": 6140,
+        "legalSeat": "Saillon",
+        "registryOfCommerceId": 621,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-05-08",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "a5ef5de63e1b7551186f1826",
+    "publication_date": "2026-05-08",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-05-08 | ZG | 2026-05-05 | <FT TYPE=\"F\">Mamos AG</FT>, in <FT TYPE=\"S\">Zug</FT>, <FT TYPE=\"A\">CHE-318.573.219</FT>, Aktiengesellschaft (SHAB Nr. 35 vom 20.02.2023, Publ. 1005682412). Ausgeschiedene Personen und erloschene Unterschriften: Moses, Matityahu, israelischer StaatsangehÃ¶riger, in Herzlia (IL), Mitglied des Verwaltungsrates, mit Einzelunterschrift. Eingetragene Personen neu oder mutierend: Weinberg, FrÃ©dÃ©ric, von Lutry, in Altendorf, Mitglied des Verwaltungsrates, mit Einzelunterschrift [bisher: in Wollerau, PrÃ¤sident des Verwaltungsrates, mit Einzelunterschrift]. | aenderungorgane | Mamos AG | CHE318573219 | CH17030474749 | Zug | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-05-08",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "005682412)",
+      "030474749"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-05-08",
+        "sogcId": 1006646199,
+        "registryOfCommerceId": 170,
+        "registryOfCommerceCanton": "ZG",
+        "registryOfCommerceJournalId": 8918,
+        "registryOfCommerceJournalDate": "2026-05-05",
+        "message": "<FT TYPE=\"F\">Mamos AG</FT>, in <FT TYPE=\"S\">Zug</FT>, <FT TYPE=\"A\">CHE-318.573.219</FT>, Aktiengesellschaft (SHAB Nr. 35 vom 20.02.2023, Publ. 1005682412). Ausgeschiedene Personen und erloschene Unterschriften: Moses, Matityahu, israelischer StaatsangehÃ¶riger, in Herzlia (IL), Mitglied des Verwaltungsrates, mit Einzelunterschrift. Eingetragene Personen neu oder mutierend: Weinberg, FrÃ©dÃ©ric, von Lutry, in Altendorf, Mitglied des Verwaltungsrates, mit Einzelunterschrift [bisher: in Wollerau, PrÃ¤sident des Verwaltungsrates, mit Einzelunterschrift].",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Mamos AG",
+        "ehraid": 1546099,
+        "uid": "CHE318573219",
+        "chid": "CH17030474749",
+        "legalSeatId": 1711,
+        "legalSeat": "Zug",
+        "registryOfCommerceId": 170,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-05-08",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "0a37443d1005aa2a80eb7e76",
+    "publication_date": "2026-05-08",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-05-08 | LU | 2026-05-05 | <FT TYPE=\"N\">Peter&apos;s Braukeller KlG</FT>, in <FT TYPE=\"5\">Geuensee</FT>, <FT TYPE=\"A\">CHE-185.847.519</FT>, c/o Peter MÃ¼ller, Kantonsstrasse 39a, 6232 Geuensee, Kollektivgesellschaft (Neueintragung). Beginn: 01.03.2026. Zweck: Betrieb einer Brauerei. Herstellung, Handel und Vermarktung von Bier sowie Erbringung damit zusammenhÃ¤ngender Dienstleistungen, Schulungen und Events. Eingetragene Personen: Hammer, Simon, von Malters, in Nebikon, Gesellschafter, mit Einzelunterschrift; MÃ¼ller, Peter, von BeromÃ¼nster, in Geuensee, Gesellschafter, mit Einzelunterschrift. | status | status.neu | Peter's Braukeller KlG | CHE185847519 | CH10028235661 | Geuensee | 0103 | Kollektivgesellschaft | Société en nom collectif | Società in nome collettivo | General Partnership | KlG | SNC | SNC | GP | ACTIVE | 2026-05-08",
+    "categories": [
+      "bier"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "0028235661"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-05-08",
+        "sogcId": 1006646060,
+        "registryOfCommerceId": 100,
+        "registryOfCommerceCanton": "LU",
+        "registryOfCommerceJournalId": 4368,
+        "registryOfCommerceJournalDate": "2026-05-05",
+        "message": "<FT TYPE=\"N\">Peter&apos;s Braukeller KlG</FT>, in <FT TYPE=\"5\">Geuensee</FT>, <FT TYPE=\"A\">CHE-185.847.519</FT>, c/o Peter MÃ¼ller, Kantonsstrasse 39a, 6232 Geuensee, Kollektivgesellschaft (Neueintragung). Beginn: 01.03.2026. Zweck: Betrieb einer Brauerei. Herstellung, Handel und Vermarktung von Bier sowie Erbringung damit zusammenhÃ¤ngender Dienstleistungen, Schulungen und Events. Eingetragene Personen: Hammer, Simon, von Malters, in Nebikon, Gesellschafter, mit Einzelunterschrift; MÃ¼ller, Peter, von BeromÃ¼nster, in Geuensee, Gesellschafter, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Peter's Braukeller KlG",
+        "ehraid": 1748655,
+        "uid": "CHE185847519",
+        "chid": "CH10028235661",
+        "legalSeatId": 1085,
+        "legalSeat": "Geuensee",
+        "registryOfCommerceId": 100,
+        "legalForm": {
+          "id": 2,
+          "uid": "0103",
+          "name": {
+            "de": "Kollektivgesellschaft",
+            "fr": "Société en nom collectif",
+            "it": "Società in nome collettivo",
+            "en": "General Partnership"
+          },
+          "shortName": {
+            "de": "KlG",
+            "fr": "SNC",
+            "it": "SNC",
+            "en": "GP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-05-08",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "805483aae6f0b6f64e444540",
+    "publication_date": "2026-05-08",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-05-08 | TG | 2026-05-05 | <FT TYPE=\"F\">Room4u AG</FT>, in <FT TYPE=\"S\">Salenstein</FT>, <FT TYPE=\"A\">CHE-326.744.078</FT>, Aktiengesellschaft (SHAB Nr. 150 vom 06.08.2015, S.0, Publ. 2309333). [Aktualisierung der Funktionsbezeichnung.]. Eingetragene Personen neu oder mutierend: Campbell, Robert John, kanadischer StaatsangehÃ¶riger, in Fruthwilen (Salenstein), PrÃ¤sident des Verwaltungsrates, mit Einzelunterschrift [bisher: PrÃ¤sident, mit Einzelunterschrift]; Krattiger, Urs, von SchÃ¼pfen, in Langrickenbach, Mitglied des Verwaltungsrates, mit Einzelunterschrift [bisher: in Amriswil, Mitglied, mit Einzelunterschrift]; Krattiger-MÃ¼nger, Monika, von SchÃ¼pfen, in Langrickenbach, mit Einzelunterschrift [bisher: in Amriswil]; Campbell, Megan, von Salenstein, in Weinfelden (Berg (TG)), mit Kollektivunterschrift zu zweien; Krattiger, Reto, von SchÃ¼pfen, in Amriswil, mit Kollektivunterschrift zu zweien. | aenderungorgane | Room4u AG | CHE326744078 | CH44030297845 | Salenstein | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-05-08",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "030297845"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-05-08",
+        "sogcId": 1006646625,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 2985,
+        "registryOfCommerceJournalDate": "2026-05-05",
+        "message": "<FT TYPE=\"F\">Room4u AG</FT>, in <FT TYPE=\"S\">Salenstein</FT>, <FT TYPE=\"A\">CHE-326.744.078</FT>, Aktiengesellschaft (SHAB Nr. 150 vom 06.08.2015, S.0, Publ. 2309333). [Aktualisierung der Funktionsbezeichnung.]. Eingetragene Personen neu oder mutierend: Campbell, Robert John, kanadischer StaatsangehÃ¶riger, in Fruthwilen (Salenstein), PrÃ¤sident des Verwaltungsrates, mit Einzelunterschrift [bisher: PrÃ¤sident, mit Einzelunterschrift]; Krattiger, Urs, von SchÃ¼pfen, in Langrickenbach, Mitglied des Verwaltungsrates, mit Einzelunterschrift [bisher: in Amriswil, Mitglied, mit Einzelunterschrift]; Krattiger-MÃ¼nger, Monika, von SchÃ¼pfen, in Langrickenbach, mit Einzelunterschrift [bisher: in Amriswil]; Campbell, Megan, von Salenstein, in Weinfelden (Berg (TG)), mit Kollektivunterschrift zu zweien; Krattiger, Reto, von SchÃ¼pfen, in Amriswil, mit Kollektivunterschrift zu zweien.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Room4u AG",
+        "ehraid": 1231601,
+        "uid": "CHE326744078",
+        "chid": "CH44030297845",
+        "legalSeatId": 4851,
+        "legalSeat": "Salenstein",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-05-08",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "cf38c40e5e217cce3fa3a3b2",
+    "publication_date": "2026-05-08",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-05-08 | ZH | 2026-05-05 | <FT TYPE=\"F\">Simple Weiss GmbH</FT>, in <FT TYPE=\"S\">Uster</FT>, <FT TYPE=\"A\">CHE-116.162.181</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 74 vom 16.04.2025, Publ. 1006310397). Domizil neu: Brauereistrasse 12, 8610 Uster. | adressaenderung | Simple Weiss GmbH | CHE116162181 | CH02040436669 | Uster | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-07-24",
+    "categories": [
+      "bier"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006310397)",
+      "02040436669"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-05-08",
+        "sogcId": 1006645851,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 22174,
+        "registryOfCommerceJournalDate": "2026-05-05",
+        "message": "<FT TYPE=\"F\">Simple Weiss GmbH</FT>, in <FT TYPE=\"S\">Uster</FT>, <FT TYPE=\"A\">CHE-116.162.181</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 74 vom 16.04.2025, Publ. 1006310397). Domizil neu: Brauereistrasse 12, 8610 Uster.",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Simple Weiss GmbH",
+        "ehraid": 998218,
+        "uid": "CHE116162181",
+        "chid": "CH02040436669",
+        "legalSeatId": 198,
+        "legalSeat": "Uster",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-07-24",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "96aa90163d1a9669d8727910",
+    "publication_date": "2026-05-08",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-05-08 | ZH | 2026-05-05 | <FT TYPE=\"F\">SwissDrink Genossenschaft</FT>, in <FT TYPE=\"S\">Regensdorf</FT>, <FT TYPE=\"A\">CHE-102.255.586</FT>, Genossenschaft (SHAB Nr. 138 vom 21.07.2025, Publ. 1006389490). StatutenÃ¤nderung: 22.04.2026. [Die publikationspflichtigen Tatsachen haben keine Ã„nderung erfahren.]. Ausgeschiedene Personen und erloschene Unterschriften: Bucher, Josef, von Luzern, in Alpnach, Mitglied der Verwaltung, ohne Zeichnungsberechtigung. Eingetragene Personen neu oder mutierend: Dillier Clavien, Andrea, von Sarnen und Kerns, in Sarnen, Mitglied der Verwaltung, ohne Zeichnungsberechtigung. | aenderungorgane | SwissDrink Genossenschaft | CHE102255586 | CH02050002244 | Regensdorf | 0108 | Genossenschaft | Société coopérative | Cooperativa | Cooperative | Gen | Scoop | Scoop | Coop | ACTIVE | 2026-05-08",
+    "categories": [
+      "allgemein"
+    ],
+    "confidence": 60,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006389490)",
+      "02050002244"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-05-08",
+        "sogcId": 1006645859,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 22182,
+        "registryOfCommerceJournalDate": "2026-05-05",
+        "message": "<FT TYPE=\"F\">SwissDrink Genossenschaft</FT>, in <FT TYPE=\"S\">Regensdorf</FT>, <FT TYPE=\"A\">CHE-102.255.586</FT>, Genossenschaft (SHAB Nr. 138 vom 21.07.2025, Publ. 1006389490). StatutenÃ¤nderung: 22.04.2026. [Die publikationspflichtigen Tatsachen haben keine Ã„nderung erfahren.]. Ausgeschiedene Personen und erloschene Unterschriften: Bucher, Josef, von Luzern, in Alpnach, Mitglied der Verwaltung, ohne Zeichnungsberechtigung. Eingetragene Personen neu oder mutierend: Dillier Clavien, Andrea, von Sarnen und Kerns, in Sarnen, Mitglied der Verwaltung, ohne Zeichnungsberechtigung.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "SwissDrink Genossenschaft",
+        "ehraid": 372281,
+        "uid": "CHE102255586",
+        "chid": "CH02050002244",
+        "legalSeatId": 96,
+        "legalSeat": "Regensdorf",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 5,
+          "uid": "0108",
+          "name": {
+            "de": "Genossenschaft",
+            "fr": "Société coopérative",
+            "it": "Cooperativa",
+            "en": "Cooperative"
+          },
+          "shortName": {
+            "de": "Gen",
+            "fr": "Scoop",
+            "it": "Scoop",
+            "en": "Coop"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-05-08",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "2eeaf4e112ceead8d0aaa1a2",
+    "publication_date": "2026-05-08",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-05-08 | AG | 2026-05-05 | <FT TYPE=\"F\">Coffee and Wash AG</FT>, in <FT TYPE=\"S\">Dintikon</FT>, <FT TYPE=\"A\">CHE-307.080.964</FT>, Aktiengesellschaft (SHAB Nr. 225 vom 19.11.2024, Publ. 1006182403). StatutenÃ¤nderung: 29.04.2026. Firma neu: <FT TYPE=\"N\">Waschcenter Dintikon AG</FT>. | firmenaenderung | Waschcenter Dintikon AG | CHE307080964 | CH10037972368 | Dintikon | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-05-08",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006182403)",
+      "0037972368"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-05-08",
+        "sogcId": 1006646555,
+        "registryOfCommerceId": 400,
+        "registryOfCommerceCanton": "AG",
+        "registryOfCommerceJournalId": 6611,
+        "registryOfCommerceJournalDate": "2026-05-05",
+        "message": "<FT TYPE=\"F\">Coffee and Wash AG</FT>, in <FT TYPE=\"S\">Dintikon</FT>, <FT TYPE=\"A\">CHE-307.080.964</FT>, Aktiengesellschaft (SHAB Nr. 225 vom 19.11.2024, Publ. 1006182403). StatutenÃ¤nderung: 29.04.2026. Firma neu: <FT TYPE=\"N\">Waschcenter Dintikon AG</FT>.",
+        "mutationTypes": [
+          {
+            "id": 9,
+            "key": "firmenaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Waschcenter Dintikon AG",
+        "ehraid": 1160887,
+        "uid": "CHE307080964",
+        "chid": "CH10037972368",
+        "legalSeatId": 4194,
+        "legalSeat": "Dintikon",
+        "registryOfCommerceId": 400,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-05-08",
+        "deletionDate": null
+      }
+    }
+  }
+]

@@ -1,0 +1,1598 @@
+[
+  {
+    "publication_id": "7137365220e4847b2a4ddb24",
+    "publication_date": "2026-02-23",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-23 | TG | 2026-02-18 | <FT TYPE=\"F\">All in One Personal Ost AG</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-183.179.629</FT>, Aktiengesellschaft (SHAB Nr. 220 vom 13.11.2025, Publ. 1006483989). Ausgeschiedene Personen und erloschene Unterschriften: Galati, Marco, von Winterthur, in Münchwilen TG, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien. | aenderungorgane | All in One Personal Ost AG | CHE183179629 | CH29030196022 | Weinfelden | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-06-05",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006483989)",
+      "030196022"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-23",
+        "sogcId": 1006577183,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 1220,
+        "registryOfCommerceJournalDate": "2026-02-18",
+        "message": "<FT TYPE=\"F\">All in One Personal Ost AG</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-183.179.629</FT>, Aktiengesellschaft (SHAB Nr. 220 vom 13.11.2025, Publ. 1006483989). Ausgeschiedene Personen und erloschene Unterschriften: Galati, Marco, von Winterthur, in Münchwilen TG, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "All in One Personal Ost AG",
+        "ehraid": 1342237,
+        "uid": "CHE183179629",
+        "chid": "CH29030196022",
+        "legalSeatId": 4946,
+        "legalSeat": "Weinfelden",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-06-05",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "b406a9f1ac3f8565b15930dd",
+    "publication_date": "2026-02-23",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-23 | VS | 2026-02-18 | <FT TYPE=\"F\">Brauerei Heidnischbier AG</FT>, in <FT TYPE=\"S\">Raron</FT>, <FT TYPE=\"A\">CHE-465.761.000</FT>, Aktiengesellschaft (SHAB Nr. 127 vom 03.07.2024, Publ. 1006074878). Ausgeschiedene Personen und erloschene Unterschriften: Kalbermatter, Christian Germann, von Niedergesteln, in Bern, Präsident des Verwaltungsrates, mit Einzelunterschrift; Kummer, Pierre Alain, von Riederalp, in Niedergesteln, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien; Noti, Philipp, von Eisten, in Susten (Leuk), Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien; Theler, Jens Thomas, von Raron, in Raron, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien; Zenhäusern, Diego, von Raron, in Raron, mit Kollektivunterschrift zu zweien. Eingetragene Personen neu oder mutierend: Rädler, Ralph Herbert, von Boudry, in Urtenen-Schönbühl, Präsident des Verwaltungsrates, mit Einzelunterschrift; Schmid, Michael Sandro, von Raron, in Bern, Mitglied des Verwaltungsrates, mit Einzelunterschrift [bisher: ohne eingetragene Funktion, mit Einzelunterschrift]; Jullier, Dominique Pierre, von Varen, in Zürich, Mitglied des Verwaltungsrates, ohne Zeichnungsberechtigung; Schorter, Marc Pierre, französischer Staatsangehöriger, in Villars-sur-Glâne, Mitglied des Verwaltungsrates, ohne Zeichnungsberechtigung. | aenderungorgane | Brauerei Heidnischbier AG in Liquidation | CHE465761000 | CH60030183091 | Raron | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | BEING_CANCELLED | 2026-06-22",
+    "categories": [
+      "bier"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006074878)",
+      "0030183091"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-23",
+        "sogcId": 1006577378,
+        "registryOfCommerceId": 600,
+        "registryOfCommerceCanton": "VS",
+        "registryOfCommerceJournalId": 358,
+        "registryOfCommerceJournalDate": "2026-02-18",
+        "message": "<FT TYPE=\"F\">Brauerei Heidnischbier AG</FT>, in <FT TYPE=\"S\">Raron</FT>, <FT TYPE=\"A\">CHE-465.761.000</FT>, Aktiengesellschaft (SHAB Nr. 127 vom 03.07.2024, Publ. 1006074878). Ausgeschiedene Personen und erloschene Unterschriften: Kalbermatter, Christian Germann, von Niedergesteln, in Bern, Präsident des Verwaltungsrates, mit Einzelunterschrift; Kummer, Pierre Alain, von Riederalp, in Niedergesteln, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien; Noti, Philipp, von Eisten, in Susten (Leuk), Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien; Theler, Jens Thomas, von Raron, in Raron, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien; Zenhäusern, Diego, von Raron, in Raron, mit Kollektivunterschrift zu zweien. Eingetragene Personen neu oder mutierend: Rädler, Ralph Herbert, von Boudry, in Urtenen-Schönbühl, Präsident des Verwaltungsrates, mit Einzelunterschrift; Schmid, Michael Sandro, von Raron, in Bern, Mitglied des Verwaltungsrates, mit Einzelunterschrift [bisher: ohne eingetragene Funktion, mit Einzelunterschrift]; Jullier, Dominique Pierre, von Varen, in Zürich, Mitglied des Verwaltungsrates, ohne Zeichnungsberechtigung; Schorter, Marc Pierre, französischer Staatsangehöriger, in Villars-sur-Glâne, Mitglied des Verwaltungsrates, ohne Zeichnungsberechtigung.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Brauerei Heidnischbier AG in Liquidation",
+        "ehraid": 1466331,
+        "uid": "CHE465761000",
+        "chid": "CH60030183091",
+        "legalSeatId": 6199,
+        "legalSeat": "Raron",
+        "registryOfCommerceId": 600,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "BEING_CANCELLED",
+        "sogcDate": "2026-06-22",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "9a66fd1ab7ea4f1e7dbe9044",
+    "publication_date": "2026-02-23",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-23 | BE | 2026-02-18 | <FT TYPE=\"F\">Café Intermezzo Bruckdorfer</FT>, in <FT TYPE=\"S\">Erlach</FT>, <FT TYPE=\"A\">CHE-202.151.846</FT>, Einzelunternehmen (SHAB Nr. 36 vom 21.02.2023, Publ. 1005683288). Das Einzelunternehmen ist infolge Geschäftsaufgabe erloschen. | status | status.loeschung | Café Intermezzo Bruckdorfer | CHE202151846 | CH03610931342 | Erlach | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | CANCELLED | 2026-02-23 | 2026-02-23",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "005683288)",
+      "03610931342"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-23",
+        "sogcId": 1006576661,
+        "registryOfCommerceId": 36,
+        "registryOfCommerceCanton": "BE",
+        "registryOfCommerceJournalId": 3880,
+        "registryOfCommerceJournalDate": "2026-02-18",
+        "message": "<FT TYPE=\"F\">Café Intermezzo Bruckdorfer</FT>, in <FT TYPE=\"S\">Erlach</FT>, <FT TYPE=\"A\">CHE-202.151.846</FT>, Einzelunternehmen (SHAB Nr. 36 vom 21.02.2023, Publ. 1005683288). Das Einzelunternehmen ist infolge Geschäftsaufgabe erloschen.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 7,
+            "key": "status.loeschung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Café Intermezzo Bruckdorfer",
+        "ehraid": 1575324,
+        "uid": "CHE202151846",
+        "chid": "CH03610931342",
+        "legalSeatId": 492,
+        "legalSeat": "Erlach",
+        "registryOfCommerceId": 36,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "CANCELLED",
+        "sogcDate": "2026-02-23",
+        "deletionDate": "2026-02-23"
+      }
+    }
+  },
+  {
+    "publication_id": "57f0503e01d75e28511a5f52",
+    "publication_date": "2026-02-23",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-23 | ZG | 2026-02-18 | <FT TYPE=\"N\">CDSA Holding AG</FT> <FT TYPE=\"V\">(CDSA Holding Ltd) (CDSA Holding SA)</FT>, in <FT TYPE=\"5\">Zug</FT>, <FT TYPE=\"A\">CHE-256.889.864</FT>, Dammstrasse 16, 6300 Zug, Aktiengesellschaft (Neueintragung). Statutendatum: 11.02.2026. Zweck: Die Gesellschaft ist eine Holdinggesellschaft mit dem Zweck des Kaufs, Haltens und Verkaufs von Beteiligungen an anderen Gesellschaften. Sie kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle Geschäfte tätigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Sie kann Immaterialgüterrechte, Lizenzen und andere Rechte, insbesondere Daten, halten, erwerben und verwerten. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, veräussern und verwalten. Sie kann auch Finanzierungen für eigene oder fremde Rechnung vornehmen sowie Garantien und Bürgschaften für Tochtergesellschaften und Dritte eingehen. Sie kann auch Dienstleistungen aller Art für Gruppengesellschaften erbringen. Aktienkapital: CHF 100&apos;000.00. Liberierung Aktienkapital: CHF 100&apos;000.00. Aktien: 1&apos;000&apos;000 vinkulierte Namenaktien zu CHF 0.10. Kapitalband gemäss näherer Umschreibung in den Statuten. Die Gründungsversammlung hat mit Beschluss vom 11.02.2026 ein bedingtes Kapital gemäss näherer Umschreibung in den Statuten eingeführt. Publikationsorgan: SHAB. Mitteilungen an die Aktionäre erfolgen per Brief oder E-Mail an die im Aktienbuch verzeichneten Adressen oder durch Publikation im SHAB. Vinkulierung: Die Übertragbarkeit der Namenaktien ist nach Massgabe der Statuten beschränkt. Eingetragene Personen: Zinetti, Giorgio, italienischer Staatsangehöriger, in Zürich, Präsident des Verwaltungsrates, mit Kollektivunterschrift zu zweien; Jacquemart, Nicolas Yannick, von Schwarzenburg, in Andelfingen, Vizepräsident des Verwaltungsrates, mit Kollektivunterschrift zu zweien; Blankson-Greg",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "030523119"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-23",
+        "sogcId": 1006576787,
+        "registryOfCommerceId": 170,
+        "registryOfCommerceCanton": "ZG",
+        "registryOfCommerceJournalId": 3354,
+        "registryOfCommerceJournalDate": "2026-02-18",
+        "message": "<FT TYPE=\"N\">CDSA Holding AG</FT> <FT TYPE=\"V\">(CDSA Holding Ltd) (CDSA Holding SA)</FT>, in <FT TYPE=\"5\">Zug</FT>, <FT TYPE=\"A\">CHE-256.889.864</FT>, Dammstrasse 16, 6300 Zug, Aktiengesellschaft (Neueintragung). Statutendatum: 11.02.2026. Zweck: Die Gesellschaft ist eine Holdinggesellschaft mit dem Zweck des Kaufs, Haltens und Verkaufs von Beteiligungen an anderen Gesellschaften. Sie kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle Geschäfte tätigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Sie kann Immaterialgüterrechte, Lizenzen und andere Rechte, insbesondere Daten, halten, erwerben und verwerten. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, veräussern und verwalten. Sie kann auch Finanzierungen für eigene oder fremde Rechnung vornehmen sowie Garantien und Bürgschaften für Tochtergesellschaften und Dritte eingehen. Sie kann auch Dienstleistungen aller Art für Gruppengesellschaften erbringen. Aktienkapital: CHF 100&apos;000.00. Liberierung Aktienkapital: CHF 100&apos;000.00. Aktien: 1&apos;000&apos;000 vinkulierte Namenaktien zu CHF 0.10. Kapitalband gemäss näherer Umschreibung in den Statuten. Die Gründungsversammlung hat mit Beschluss vom 11.02.2026 ein bedingtes Kapital gemäss näherer Umschreibung in den Statuten eingeführt. Publikationsorgan: SHAB. Mitteilungen an die Aktionäre erfolgen per Brief oder E-Mail an die im Aktienbuch verzeichneten Adressen oder durch Publikation im SHAB. Vinkulierung: Die Übertragbarkeit der Namenaktien ist nach Massgabe der Statuten beschränkt. Eingetragene Personen: Zinetti, Giorgio, italienischer Staatsangehöriger, in Zürich, Präsident des Verwaltungsrates, mit Kollektivunterschrift zu zweien; Jacquemart, Nicolas Yannick, von Schwarzenburg, in Andelfingen, Vizepräsident des Verwaltungsrates, mit Kollektivunterschrift zu zweien; Blankson-Gregaard, Frederik, von Weiningen (ZH), in Weiningen (ZH), Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien; Grant Thornton AG (<FT TYPE=\"B\">CHE-107.841.337</FT>), in Zürich, Revisionsstelle.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          },
+          {
+            "id": 22,
+            "key": "aenderungkapitalband"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "CDSA Holding AG",
+        "ehraid": 1736471,
+        "uid": "CHE256889864",
+        "chid": "CH17030523119",
+        "legalSeatId": 1711,
+        "legalSeat": "Zug",
+        "registryOfCommerceId": 170,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-07-20",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "49c8da3a74ab80ec8465545c",
+    "publication_date": "2026-02-23",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-23 | TI | 2026-02-18 | <FT TYPE=\"F\">Coffee Line Sagl in liquidazione</FT>, in <FT TYPE=\"S\">Lugano</FT>, <FT TYPE=\"A\">CHE-222.350.834</FT>, società a garanzia limitata (Nr. FUSC 235 del 04.12.2025, Pubbl. 1006503314). La società è cancellata, avendo le autorità fiscali federali e cantonali dato il loro consenso. | status | status.loeschung | Coffee Line Sagl in liquidazione | CHE222350834 | CH50140194247 | Lugano | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | CANCELLED | 2026-02-23 | 2026-02-23",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006503314)",
+      "0140194247"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-23",
+        "sogcId": 1006577255,
+        "registryOfCommerceId": 501,
+        "registryOfCommerceCanton": "TI",
+        "registryOfCommerceJournalId": 2576,
+        "registryOfCommerceJournalDate": "2026-02-18",
+        "message": "<FT TYPE=\"F\">Coffee Line Sagl in liquidazione</FT>, in <FT TYPE=\"S\">Lugano</FT>, <FT TYPE=\"A\">CHE-222.350.834</FT>, società a garanzia limitata (Nr. FUSC 235 del 04.12.2025, Pubbl. 1006503314). La società è cancellata, avendo le autorità fiscali federali e cantonali dato il loro consenso.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 7,
+            "key": "status.loeschung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Coffee Line Sagl in liquidazione",
+        "ehraid": 1202347,
+        "uid": "CHE222350834",
+        "chid": "CH50140194247",
+        "legalSeatId": 5192,
+        "legalSeat": "Lugano",
+        "registryOfCommerceId": 501,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "CANCELLED",
+        "sogcDate": "2026-02-23",
+        "deletionDate": "2026-02-23"
+      }
+    }
+  },
+  {
+    "publication_id": "6b6a6f009066a867090b7ce2",
+    "publication_date": "2026-02-23",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-23 | ZH | 2026-02-18 | <FT TYPE=\"N\">Coiffeur Saleh Morgental GmbH</FT>, in <FT TYPE=\"5\">Zürich</FT>, <FT TYPE=\"A\">CHE-246.277.493</FT>, Albisstrasse 46, 8038 Zürich, Gesellschaft mit beschränkter Haftung (Neueintragung). Statutendatum: 12.02.2026. Zweck: Die Gesellschaft bezweckt den Betrieb eines Coiffeur- und Schönheitssalons für Damen und Herren, Handel mit Haar- und Kosmetikprodukten sowie Accessoires, Durchführung von Mode- und Schönheitsveranstaltungen im In- und Ausland. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle Geschäfte tätigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, veräussern und verwalten. Sie kann auch Finanzierungen für eigene oder fremde Rechnung vornehmen sowie Garantien und Bürgschaften für Tochtergesellschaften und Dritte eingehen. Stammkapital: CHF 20&apos;000.00. Publikationsorgan: SHAB. Die Mitteilungen der Geschäftsführung an die Gesellschafter erfolgen per Brief oder E-Mail. Gemäss Erklärung bei der Gründung der Gesellschaft wird auf eine eingeschränkte Revision verzichtet. Eingetragene Personen: Saleh, Berjes, von Zürich, in Weiningen (ZH), Gesellschafter und Vorsitzender der Geschäftsführung, mit Einzelunterschrift, mit 20&apos;000 Stammanteilen zu je CHF 1.00; Moktarmohamad, Mohamad, syrischer Staatsangehöriger, in Dietikon, Geschäftsführer, mit Einzelunterschrift. | status | status.neu | Coiffeur Saleh Morgental GmbH | CHE246277493 | CH02040912181 | Zürich | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-02-23",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "02040912181"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-23",
+        "sogcId": 1006576323,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 8502,
+        "registryOfCommerceJournalDate": "2026-02-18",
+        "message": "<FT TYPE=\"N\">Coiffeur Saleh Morgental GmbH</FT>, in <FT TYPE=\"5\">Zürich</FT>, <FT TYPE=\"A\">CHE-246.277.493</FT>, Albisstrasse 46, 8038 Zürich, Gesellschaft mit beschränkter Haftung (Neueintragung). Statutendatum: 12.02.2026. Zweck: Die Gesellschaft bezweckt den Betrieb eines Coiffeur- und Schönheitssalons für Damen und Herren, Handel mit Haar- und Kosmetikprodukten sowie Accessoires, Durchführung von Mode- und Schönheitsveranstaltungen im In- und Ausland. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle Geschäfte tätigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, veräussern und verwalten. Sie kann auch Finanzierungen für eigene oder fremde Rechnung vornehmen sowie Garantien und Bürgschaften für Tochtergesellschaften und Dritte eingehen. Stammkapital: CHF 20&apos;000.00. Publikationsorgan: SHAB. Die Mitteilungen der Geschäftsführung an die Gesellschafter erfolgen per Brief oder E-Mail. Gemäss Erklärung bei der Gründung der Gesellschaft wird auf eine eingeschränkte Revision verzichtet. Eingetragene Personen: Saleh, Berjes, von Zürich, in Weiningen (ZH), Gesellschafter und Vorsitzender der Geschäftsführung, mit Einzelunterschrift, mit 20&apos;000 Stammanteilen zu je CHF 1.00; Moktarmohamad, Mohamad, syrischer Staatsangehöriger, in Dietikon, Geschäftsführer, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Coiffeur Saleh Morgental GmbH",
+        "ehraid": 1736435,
+        "uid": "CHE246277493",
+        "chid": "CH02040912181",
+        "legalSeatId": 261,
+        "legalSeat": "Zürich",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-02-23",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "53986d18bb11938381ad0aa1",
+    "publication_date": "2026-02-23",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-23 | TG | 2026-02-18 | <FT TYPE=\"F\">Elisabeth Ullmann-Stiftung</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-112.800.344</FT>, Stiftung (SHAB Nr. 205 vom 23.10.2025, Publ. 1006465808). Ausgeschiedene Personen und erloschene Unterschriften: TWS Confides AG (<FT TYPE=\"B\">CHE-476.374.989</FT>), in Frauenfeld, Revisionsstelle. Eingetragene Personen neu oder mutierend: SRG Schweizerische Revisionsgesellschaft AG (<FT TYPE=\"B\">CHE-321.523.618</FT>) [ CH-440.9.042.590-2], in Frauenfeld, Revisionsstelle. | aenderungorgane | Elisabeth Ullmann-Stiftung | CHE112800344 | CH44070189357 | Weinfelden | 0110 | Stiftung | Fondation | Fondazione | Foundation | Stift | Fond | Fond | Found | ACTIVE | 2026-04-08",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006465808)",
+      "070189357"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-23",
+        "sogcId": 1006577187,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 1224,
+        "registryOfCommerceJournalDate": "2026-02-18",
+        "message": "<FT TYPE=\"F\">Elisabeth Ullmann-Stiftung</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-112.800.344</FT>, Stiftung (SHAB Nr. 205 vom 23.10.2025, Publ. 1006465808). Ausgeschiedene Personen und erloschene Unterschriften: TWS Confides AG (<FT TYPE=\"B\">CHE-476.374.989</FT>), in Frauenfeld, Revisionsstelle. Eingetragene Personen neu oder mutierend: SRG Schweizerische Revisionsgesellschaft AG (<FT TYPE=\"B\">CHE-321.523.618</FT>) [ CH-440.9.042.590-2], in Frauenfeld, Revisionsstelle.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Elisabeth Ullmann-Stiftung",
+        "ehraid": 830318,
+        "uid": "CHE112800344",
+        "chid": "CH44070189357",
+        "legalSeatId": 4946,
+        "legalSeat": "Weinfelden",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 7,
+          "uid": "0110",
+          "name": {
+            "de": "Stiftung",
+            "fr": "Fondation",
+            "it": "Fondazione",
+            "en": "Foundation"
+          },
+          "shortName": {
+            "de": "Stift",
+            "fr": "Fond",
+            "it": "Fond",
+            "en": "Found"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-04-08",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "709f4c029f2ca19f79646a44",
+    "publication_date": "2026-02-23",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-23 | NE | 2026-02-18 | <FT TYPE=\"N\">FIMU Sàrl</FT>, à <FT TYPE=\"5\">Neuchâtel</FT>, Rue du Plan 30, 2000 Neuchâtel, <FT TYPE=\"A\">CHE-242.124.293</FT>. Nouvelle société à responsabilité limitée. Statuts du 11.02.2026. But: la société a pour but l&apos;exploitation d&apos;établissements publics de restauration et de débit de boissons, proposant tant la restauration sur place, à l&apos;emporter ou par livraison. Elle peut également fournir des prestations de traiteurs, en lien avec l&apos;organisation d&apos;évènements et commercialiser des produits alimentaires et boissons. La société peut accorder des prêts ou des garanties à des détenteurs de parts sociales ou des tiers, dans l&apos;intérêt de la société. Prestations accessoires, droits de préférence, de préemption ou d&apos;emption: selon statuts. Les modalités de transfert des parts sociales dérogent à la loi selon les statuts. Capital social: CHF 20&apos;000. Associés: Mondor Murielle Chantal, de France, à Sainte-Maxime, France, et Guichard Philippe Edouard, de France, à Courtételle, chacun d&apos;eux avec 10&apos;000 parts sociales de CHF 1. Gérants: Mondor Murielle Chantal, présidente, et Guichard Philippe Edouard, lesquels signent individuellement. Organe de publication: Feuille officielle suisse du commerce. Communications aux associés: tous moyens de transmission écrits y compris électroniques. Selon déclaration à la constitution de la société, il est renoncé à un contrôle restreint. | status | status.neu | FIMU Sàrl | CHE242124293 | CH64541317124 | Neuchâtel | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-02-23",
+    "categories": [
+      "allgemein"
+    ],
+    "confidence": 60,
+    "contact_names": [],
+    "emails": [],
+    "phones": [],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": []
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-23",
+        "sogcId": 1006577445,
+        "registryOfCommerceId": 645,
+        "registryOfCommerceCanton": "NE",
+        "registryOfCommerceJournalId": 712,
+        "registryOfCommerceJournalDate": "2026-02-18",
+        "message": "<FT TYPE=\"N\">FIMU Sàrl</FT>, à <FT TYPE=\"5\">Neuchâtel</FT>, Rue du Plan 30, 2000 Neuchâtel, <FT TYPE=\"A\">CHE-242.124.293</FT>. Nouvelle société à responsabilité limitée. Statuts du 11.02.2026. But: la société a pour but l&apos;exploitation d&apos;établissements publics de restauration et de débit de boissons, proposant tant la restauration sur place, à l&apos;emporter ou par livraison. Elle peut également fournir des prestations de traiteurs, en lien avec l&apos;organisation d&apos;évènements et commercialiser des produits alimentaires et boissons. La société peut accorder des prêts ou des garanties à des détenteurs de parts sociales ou des tiers, dans l&apos;intérêt de la société. Prestations accessoires, droits de préférence, de préemption ou d&apos;emption: selon statuts. Les modalités de transfert des parts sociales dérogent à la loi selon les statuts. Capital social: CHF 20&apos;000. Associés: Mondor Murielle Chantal, de France, à Sainte-Maxime, France, et Guichard Philippe Edouard, de France, à Courtételle, chacun d&apos;eux avec 10&apos;000 parts sociales de CHF 1. Gérants: Mondor Murielle Chantal, présidente, et Guichard Philippe Edouard, lesquels signent individuellement. Organe de publication: Feuille officielle suisse du commerce. Communications aux associés: tous moyens de transmission écrits y compris électroniques. Selon déclaration à la constitution de la société, il est renoncé à un contrôle restreint.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "FIMU Sàrl",
+        "ehraid": 1736554,
+        "uid": "CHE242124293",
+        "chid": "CH64541317124",
+        "legalSeatId": 6458,
+        "legalSeat": "Neuchâtel",
+        "registryOfCommerceId": 645,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-02-23",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "412fd309aa11c0fffe3b1ed4",
+    "publication_date": "2026-02-23",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-23 | ZH | 2026-02-18 | <FT TYPE=\"N\">GetRates GmbH</FT> <FT TYPE=\"V\">(GetRates Sàrl) (GetRates Sagl) (GetRates Ltd liab Co)</FT>, in <FT TYPE=\"5\">Zürich</FT>, <FT TYPE=\"A\">CHE-424.714.291</FT>, Weinbergstrasse 152, 8006 Zürich, Gesellschaft mit beschränkter Haftung (Neueintragung). Statutendatum: 10.02.2026. Zweck: Zweck der Gesellschaft ist die Entwicklung, der Betrieb und die Vermarktung von Softwarelösungen und Online-Plattformen, insbesondere von Vergleichs- und Entscheidungsunterstützungstools für Dienstleistungen und Produkte, sowie die Erbringung damit verbundener digitaler Dienstleistungen und Inhalte. Die Gesellschaft kann Zweigniederlassungen in der Schweiz und im Ausland errichten, sich an anderen Unternehmungen des In- und des Auslandes beteiligen, gleichartige oder verwandte Unternehmen erwerben oder sich mit solchen zusammenschliessen sowie alle Geschäfte eingehen und Verträge abschliessen, die geeignet sind, den Zweck der Gesellschaft zu fördern oder die direkt oder indirekt damit im Zusammenhang stehen. Sie kann Grundstücke, Immaterialgüterrechte und Lizenzen aller Art erwerben, verwalten, belasten und veräussern. Stammkapital: CHF 20&apos;000.00. Nebenleistungspflichten, Vorhand-, Vorkaufs- oder Kaufsrechte gemäss näherer Umschreibung in den Statuten. Publikationsorgan: SHAB. Die Mitteilungen der Geschäftsführung an die Gesellschafter erfolgen schriftlich oder per E-Mail. Gemäss Erklärung bei der Gründung der Gesellschaft wird auf eine eingeschränkte Revision verzichtet. Eingetragene Personen: Missioux, Adrien Pierre Daniel, französischer Staatsangehöriger, in Zürich, Gesellschafter und Geschäftsführer, mit Einzelunterschrift, mit 200 Stammanteilen zu je CHF 100.00. | status | status.neu | GetRates GmbH | CHE424714291 | CH02040912326 | Zürich | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-02-23",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "02040912326"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-23",
+        "sogcId": 1006576328,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 8507,
+        "registryOfCommerceJournalDate": "2026-02-18",
+        "message": "<FT TYPE=\"N\">GetRates GmbH</FT> <FT TYPE=\"V\">(GetRates Sàrl) (GetRates Sagl) (GetRates Ltd liab Co)</FT>, in <FT TYPE=\"5\">Zürich</FT>, <FT TYPE=\"A\">CHE-424.714.291</FT>, Weinbergstrasse 152, 8006 Zürich, Gesellschaft mit beschränkter Haftung (Neueintragung). Statutendatum: 10.02.2026. Zweck: Zweck der Gesellschaft ist die Entwicklung, der Betrieb und die Vermarktung von Softwarelösungen und Online-Plattformen, insbesondere von Vergleichs- und Entscheidungsunterstützungstools für Dienstleistungen und Produkte, sowie die Erbringung damit verbundener digitaler Dienstleistungen und Inhalte. Die Gesellschaft kann Zweigniederlassungen in der Schweiz und im Ausland errichten, sich an anderen Unternehmungen des In- und des Auslandes beteiligen, gleichartige oder verwandte Unternehmen erwerben oder sich mit solchen zusammenschliessen sowie alle Geschäfte eingehen und Verträge abschliessen, die geeignet sind, den Zweck der Gesellschaft zu fördern oder die direkt oder indirekt damit im Zusammenhang stehen. Sie kann Grundstücke, Immaterialgüterrechte und Lizenzen aller Art erwerben, verwalten, belasten und veräussern. Stammkapital: CHF 20&apos;000.00. Nebenleistungspflichten, Vorhand-, Vorkaufs- oder Kaufsrechte gemäss näherer Umschreibung in den Statuten. Publikationsorgan: SHAB. Die Mitteilungen der Geschäftsführung an die Gesellschafter erfolgen schriftlich oder per E-Mail. Gemäss Erklärung bei der Gründung der Gesellschaft wird auf eine eingeschränkte Revision verzichtet. Eingetragene Personen: Missioux, Adrien Pierre Daniel, französischer Staatsangehöriger, in Zürich, Gesellschafter und Geschäftsführer, mit Einzelunterschrift, mit 200 Stammanteilen zu je CHF 100.00.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "GetRates GmbH",
+        "ehraid": 1736440,
+        "uid": "CHE424714291",
+        "chid": "CH02040912326",
+        "legalSeatId": 261,
+        "legalSeat": "Zürich",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-02-23",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "3f2e7caac25f4d41768d6638",
+    "publication_date": "2026-02-23",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-23 | TG | 2026-02-18 | <FT TYPE=\"F\">linea architekten ag</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-435.650.123</FT>, Aktiengesellschaft (SHAB Nr. 178 vom 13.09.2024, Publ. 1006129393). Domizil neu: Bahnhofstrasse 24, 8570 Weinfelden. | adressaenderung | linea architekten ag | CHE435650123 | CH44030418811 | Weinfelden | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-02-23",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006129393)",
+      "030418811"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-23",
+        "sogcId": 1006577200,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 1237,
+        "registryOfCommerceJournalDate": "2026-02-18",
+        "message": "<FT TYPE=\"F\">linea architekten ag</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-435.650.123</FT>, Aktiengesellschaft (SHAB Nr. 178 vom 13.09.2024, Publ. 1006129393). Domizil neu: Bahnhofstrasse 24, 8570 Weinfelden.",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "linea architekten ag",
+        "ehraid": 1656560,
+        "uid": "CHE435650123",
+        "chid": "CH44030418811",
+        "legalSeatId": 4946,
+        "legalSeat": "Weinfelden",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-02-23",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "3c0c68f6c96bc149358b821c",
+    "publication_date": "2026-02-23",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-23 | VD | 2026-02-18 | <FT TYPE=\"N\">NextTrend Distribution SA</FT>, à <FT TYPE=\"5\">Lausanne</FT>, Avenue Victor-Ruffy 57, 1012 Lausanne, <FT TYPE=\"A\">CHE-203.981.543</FT>. Nouvelle société anonyme. Statuts: 10.02.2026. But: la société a pour but l&apos;achat, la vente, la promotion et la distribution de tous types de dispositifs et de consommables liés au domaine des cigarettes électroniques et des produits de vapotage. Elle exerce également des activités d&apos;importation, d&apos;exportation et de commerce de toutes marchandises, notamment des produits alimentaires, des boissons et des denrées de consommation. La société peut exploiter des points de vente physique ainsi que des sites internet destinés à la vente de ses produits. Elle peut acquérir, gérer et vendre des droits de propriété intellectuelle ainsi que des licences de toute sorte. Elle peut, de manière générale, effectuer toutes opérations commerciales ou financières en lien direct ou indirect avec son but, créer des succursale ou des filiales en Suisse et à l&apos;étranger, et prendre des participations dans d&apos;autres sociétés. Capital-actions: CHF 100&apos;000, entièrement libéré, divisé en 1&apos;000 actions nominatives de CHF 100, avec restrictions quant à la transmissibilité selon statuts. Apport en nature selon contrat du 19.01.2026: un stock de cigarettes électroniques rechargeables; en contreparite desquelles il est remis 1&apos;000 actions de CHF 100. Organe de publication: Feuille officielle suisse du commerce. Communications aux actionnaires: en forme écrite ou par courriel. Administration: Hamlili Youssef, de et à Lausanne, président, avec signature individuelle, et Alaaeldin Said Aly Loulou Ahmed, de Egypte, à Orex (France), avec signature collective à deux, sont membres du conseil d&apos;administration. Selon déclaration à la constitution de la société, il est renoncé à un contrôle restreint. | status | status.neu | NextTrend Distribution SA | CHE203981543 | CH55012556822 | Laus",
+    "categories": [
+      "allgemein",
+      "handel_vertrieb"
+    ],
+    "confidence": 95,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "012556822"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-23",
+        "sogcId": 1006577282,
+        "registryOfCommerceId": 550,
+        "registryOfCommerceCanton": "VD",
+        "registryOfCommerceJournalId": 3954,
+        "registryOfCommerceJournalDate": "2026-02-18",
+        "message": "<FT TYPE=\"N\">NextTrend Distribution SA</FT>, à <FT TYPE=\"5\">Lausanne</FT>, Avenue Victor-Ruffy 57, 1012 Lausanne, <FT TYPE=\"A\">CHE-203.981.543</FT>. Nouvelle société anonyme. Statuts: 10.02.2026. But: la société a pour but l&apos;achat, la vente, la promotion et la distribution de tous types de dispositifs et de consommables liés au domaine des cigarettes électroniques et des produits de vapotage. Elle exerce également des activités d&apos;importation, d&apos;exportation et de commerce de toutes marchandises, notamment des produits alimentaires, des boissons et des denrées de consommation. La société peut exploiter des points de vente physique ainsi que des sites internet destinés à la vente de ses produits. Elle peut acquérir, gérer et vendre des droits de propriété intellectuelle ainsi que des licences de toute sorte. Elle peut, de manière générale, effectuer toutes opérations commerciales ou financières en lien direct ou indirect avec son but, créer des succursale ou des filiales en Suisse et à l&apos;étranger, et prendre des participations dans d&apos;autres sociétés. Capital-actions: CHF 100&apos;000, entièrement libéré, divisé en 1&apos;000 actions nominatives de CHF 100, avec restrictions quant à la transmissibilité selon statuts. Apport en nature selon contrat du 19.01.2026: un stock de cigarettes électroniques rechargeables; en contreparite desquelles il est remis 1&apos;000 actions de CHF 100. Organe de publication: Feuille officielle suisse du commerce. Communications aux actionnaires: en forme écrite ou par courriel. Administration: Hamlili Youssef, de et à Lausanne, président, avec signature individuelle, et Alaaeldin Said Aly Loulou Ahmed, de Egypte, à Orex (France), avec signature collective à deux, sont membres du conseil d&apos;administration. Selon déclaration à la constitution de la société, il est renoncé à un contrôle restreint.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "NextTrend Distribution SA",
+        "ehraid": 1736492,
+        "uid": "CHE203981543",
+        "chid": "CH55012556822",
+        "legalSeatId": 5586,
+        "legalSeat": "Lausanne",
+        "registryOfCommerceId": 550,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-02-23",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "f0ebd48f1bb871d0680cc752",
+    "publication_date": "2026-02-23",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-23 | ZH | 2026-02-18 | <FT TYPE=\"F\">Online Stores GmbH</FT>, in <FT TYPE=\"S\">Ottenbach</FT>, <FT TYPE=\"A\">CHE-320.611.295</FT>, Gesellschaft mit beschränkter Haftung (SHAB Nr. 41 vom 28.02.2022, Publ. 1005415279). Eingetragene Personen neu oder mutierend: Bachmann, Martin, von Entlebuch, in Warth-Weiningen, Gesellschafter, ohne Zeichnungsberechtigung, mit 70 Stammanteilen zu je CHF 100.00 [bisher: Gesellschafter, mit Einzelunterschrift]. | aenderungorgane | Online Stores GmbH | CHE320611295 | CH02040767202 | Ottenbach | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-02-23",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "005415279)",
+      "02040767202"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-23",
+        "sogcId": 1006576444,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 8624,
+        "registryOfCommerceJournalDate": "2026-02-18",
+        "message": "<FT TYPE=\"F\">Online Stores GmbH</FT>, in <FT TYPE=\"S\">Ottenbach</FT>, <FT TYPE=\"A\">CHE-320.611.295</FT>, Gesellschaft mit beschränkter Haftung (SHAB Nr. 41 vom 28.02.2022, Publ. 1005415279). Eingetragene Personen neu oder mutierend: Bachmann, Martin, von Entlebuch, in Warth-Weiningen, Gesellschafter, ohne Zeichnungsberechtigung, mit 70 Stammanteilen zu je CHF 100.00 [bisher: Gesellschafter, mit Einzelunterschrift].",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Online Stores GmbH",
+        "ehraid": 1525862,
+        "uid": "CHE320611295",
+        "chid": "CH02040767202",
+        "legalSeatId": 11,
+        "legalSeat": "Ottenbach",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-02-23",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "1a8c1642aa5958b625972ebb",
+    "publication_date": "2026-02-23",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-23 | BE | 2026-02-18 | <FT TYPE=\"F\">ourGlobe GmbH</FT>, in <FT TYPE=\"S\">Thun</FT>, <FT TYPE=\"A\">CHE-233.701.441</FT>, Gesellschaft mit beschränkter Haftung (SHAB Nr. 99 vom 26.05.2021, Publ. 1005192049). Domizil neu: Bierigut-Strasse 1, 3608 Thun. | adressaenderung | ourGlobe GmbH | CHE233701441 | CH03640584119 | Thun | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-02-23",
+    "categories": [
+      "bier"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "005192049)",
+      "03640584119"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-23",
+        "sogcId": 1006576622,
+        "registryOfCommerceId": 36,
+        "registryOfCommerceCanton": "BE",
+        "registryOfCommerceJournalId": 3841,
+        "registryOfCommerceJournalDate": "2026-02-18",
+        "message": "<FT TYPE=\"F\">ourGlobe GmbH</FT>, in <FT TYPE=\"S\">Thun</FT>, <FT TYPE=\"A\">CHE-233.701.441</FT>, Gesellschaft mit beschränkter Haftung (SHAB Nr. 99 vom 26.05.2021, Publ. 1005192049). Domizil neu: Bierigut-Strasse 1, 3608 Thun.",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "ourGlobe GmbH",
+        "ehraid": 1156371,
+        "uid": "CHE233701441",
+        "chid": "CH03640584119",
+        "legalSeatId": 942,
+        "legalSeat": "Thun",
+        "registryOfCommerceId": 36,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-02-23",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "8f276acdc6a06c53f9c235cc",
+    "publication_date": "2026-02-23",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-23 | TG | 2026-02-18 | <FT TYPE=\"N\">Royal - BFF GmbH</FT>, in <FT TYPE=\"5\">Frauenfeld</FT>, <FT TYPE=\"A\">CHE-216.568.508</FT>, Altweg 10, 8500 Frauenfeld, Gesellschaft mit beschränkter Haftung (Neueintragung). Statutendatum: 27.01.2026. Zweck: Die Gesellschaft bezweckt die Führung von Restaurationsbetrieben sowie die Organisation und Durchführung von kulturellen Veranstaltungen. Stammkapital: CHF 20&apos;000.00. Publikationsorgan: SHAB. Mitteilungen der Geschäftsführung an die Gesellschafter erfolgen per Brief oder E-Mail an die im Anteilbuch verzeichneten Adressen. Gemäss Erklärung bei der Gründung der Gesellschaft wird auf eine eingeschränkte Revision verzichtet. Eingetragene Personen: Reinhard, Silvio, von Rüegsau, in Niederneunforn (Neunforn), Gesellschafter und Vorsitzender der Geschäftsführung, mit Einzelunterschrift, mit einem Stammanteil von CHF 100.00; Reinhard, Elvira, von Rüegsau, in Weingarten-Kalthäusern (Lommis), Gesellschafterin und Geschäftsführerin, mit Einzelunterschrift, mit 199 Stammanteilen zu je CHF 100.00. | status | status.neu | Royal - BFF GmbH | CHE216568508 | CH44040439992 | Frauenfeld | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-02-23",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "040439992"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-23",
+        "sogcId": 1006577182,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 1219,
+        "registryOfCommerceJournalDate": "2026-02-18",
+        "message": "<FT TYPE=\"N\">Royal - BFF GmbH</FT>, in <FT TYPE=\"5\">Frauenfeld</FT>, <FT TYPE=\"A\">CHE-216.568.508</FT>, Altweg 10, 8500 Frauenfeld, Gesellschaft mit beschränkter Haftung (Neueintragung). Statutendatum: 27.01.2026. Zweck: Die Gesellschaft bezweckt die Führung von Restaurationsbetrieben sowie die Organisation und Durchführung von kulturellen Veranstaltungen. Stammkapital: CHF 20&apos;000.00. Publikationsorgan: SHAB. Mitteilungen der Geschäftsführung an die Gesellschafter erfolgen per Brief oder E-Mail an die im Anteilbuch verzeichneten Adressen. Gemäss Erklärung bei der Gründung der Gesellschaft wird auf eine eingeschränkte Revision verzichtet. Eingetragene Personen: Reinhard, Silvio, von Rüegsau, in Niederneunforn (Neunforn), Gesellschafter und Vorsitzender der Geschäftsführung, mit Einzelunterschrift, mit einem Stammanteil von CHF 100.00; Reinhard, Elvira, von Rüegsau, in Weingarten-Kalthäusern (Lommis), Gesellschafterin und Geschäftsführerin, mit Einzelunterschrift, mit 199 Stammanteilen zu je CHF 100.00.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Royal - BFF GmbH",
+        "ehraid": 1736544,
+        "uid": "CHE216568508",
+        "chid": "CH44040439992",
+        "legalSeatId": 4566,
+        "legalSeat": "Frauenfeld",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-02-23",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "a7874d83df3d6b0193ec9a24",
+    "publication_date": "2026-02-23",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-23 | AG | 2026-02-18 | <FT TYPE=\"F\">Sport Dreams GmbH</FT>, in <FT TYPE=\"S\">Seengen</FT>, <FT TYPE=\"A\">CHE-103.681.454</FT>, Gesellschaft mit beschränkter Haftung (SHAB Nr. 96 vom 20.05.2021, Publ. 1005187426). Domizil neu: Weingartenstrasse 49b, 5707 Seengen. | adressaenderung | Sport Dreams GmbH | CHE103681454 | CH44040113121 | Seengen | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-02-23",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "005187426)",
+      "040113121"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-23",
+        "sogcId": 1006577128,
+        "registryOfCommerceId": 400,
+        "registryOfCommerceCanton": "AG",
+        "registryOfCommerceJournalId": 2789,
+        "registryOfCommerceJournalDate": "2026-02-18",
+        "message": "<FT TYPE=\"F\">Sport Dreams GmbH</FT>, in <FT TYPE=\"S\">Seengen</FT>, <FT TYPE=\"A\">CHE-103.681.454</FT>, Gesellschaft mit beschränkter Haftung (SHAB Nr. 96 vom 20.05.2021, Publ. 1005187426). Domizil neu: Weingartenstrasse 49b, 5707 Seengen.",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Sport Dreams GmbH",
+        "ehraid": 322239,
+        "uid": "CHE103681454",
+        "chid": "CH44040113121",
+        "legalSeatId": 4208,
+        "legalSeat": "Seengen",
+        "registryOfCommerceId": 400,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-02-23",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "154ab68eb2ce686fa49b5b3d",
+    "publication_date": "2026-02-23",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-23 | SG | 2026-02-18 | <FT TYPE=\"F\">aL Kaffee GmbH</FT>, bisher in <FT TYPE=\"S\">Port</FT>, <FT TYPE=\"A\">CHE-234.361.419</FT>, Gesellschaft mit beschränkter Haftung (SHAB Nr. 27 vom 10.02.2026, Publ. 1006564834). Statutenänderung: 04.02.2026. Firma neu: <FT TYPE=\"N\">Swiss R Montage GmbH</FT>. Uebersetzungen der Firma neu: <FT TYPE=\"V\"> [Die Übersetzungen werden im Handelsregister gelöscht]</FT>. Sitz neu: <FT TYPE=\"5\">St. Gallen</FT>. Domizil neu: Ahornstrasse 29, 9000 St. Gallen. Zweck neu: Die Gesellschaft bezweckt die Fenstermontage sowie die Ausführung von Plattenlegerarbeiten. Die Gesellschaft kann Zweigniederlassungen errichten, sich an anderen Unternehmungen des In- und Auslands beteiligen, gleichartige oder verwandte Unternehmen erwerben oder sich mit solchen zusammenschliessen, Grundstücke, Wertschriften, Patente und andere Schutzrechte erwerben oder weiterveräussern, sowie alle Geschäfte eingehen und Verträge abschliessen, die geeignet sind, den Zweck der Gesellschaft zu fördern oder die direkt oder indirekt damit im Zusammenhang stehen. [gestrichen: Nebenleistungspflichten, Vorhand-, Vorkaufs- oder Kaufsrechte: gemäss näherer Umschreibung in den Statuten.]. Mitteilungen neu: Mitteilungen an die Gesellschafter erfolgen schriftlich oder mit elektronischer Post an die im Anteilbuch verzeichneten Adressen. Ausgeschiedene Personen und erloschene Unterschriften: Aliji, Lirim, von Biel/Bienne, in Port, Gesellschafter und Geschäftsführer, mit Einzelunterschrift, mit 200 Stammanteilen zu je CHF 100.00. Eingetragene Personen neu oder mutierend: Hyseni, Rinor, deutscher Staatsangehöriger, in St. Gallen, Gesellschafter und Vorsitzender der Geschäftsführung, mit Kollektivunterschrift zu zweien, mit 100 Stammanteilen zu je CHF 100.00; Reshani, Qendrim, italienischer Staatsangehöriger, in St. Gallen, Gesellschafter und Geschäftsführer, mit Kollektivunterschrift zu zweien, mit 100 Stammanteilen zu je CHF 100.00. | firmenaenderung | zweckaenderung | adressaenderung",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006564834)",
+      "03640920019"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-23",
+        "sogcId": 1006577065,
+        "registryOfCommerceId": 320,
+        "registryOfCommerceCanton": "SG",
+        "registryOfCommerceJournalId": 2143,
+        "registryOfCommerceJournalDate": "2026-02-18",
+        "message": "<FT TYPE=\"F\">aL Kaffee GmbH</FT>, bisher in <FT TYPE=\"S\">Port</FT>, <FT TYPE=\"A\">CHE-234.361.419</FT>, Gesellschaft mit beschränkter Haftung (SHAB Nr. 27 vom 10.02.2026, Publ. 1006564834). Statutenänderung: 04.02.2026. Firma neu: <FT TYPE=\"N\">Swiss R Montage GmbH</FT>. Uebersetzungen der Firma neu: <FT TYPE=\"V\"> [Die Übersetzungen werden im Handelsregister gelöscht]</FT>. Sitz neu: <FT TYPE=\"5\">St. Gallen</FT>. Domizil neu: Ahornstrasse 29, 9000 St. Gallen. Zweck neu: Die Gesellschaft bezweckt die Fenstermontage sowie die Ausführung von Plattenlegerarbeiten. Die Gesellschaft kann Zweigniederlassungen errichten, sich an anderen Unternehmungen des In- und Auslands beteiligen, gleichartige oder verwandte Unternehmen erwerben oder sich mit solchen zusammenschliessen, Grundstücke, Wertschriften, Patente und andere Schutzrechte erwerben oder weiterveräussern, sowie alle Geschäfte eingehen und Verträge abschliessen, die geeignet sind, den Zweck der Gesellschaft zu fördern oder die direkt oder indirekt damit im Zusammenhang stehen. [gestrichen: Nebenleistungspflichten, Vorhand-, Vorkaufs- oder Kaufsrechte: gemäss näherer Umschreibung in den Statuten.]. Mitteilungen neu: Mitteilungen an die Gesellschafter erfolgen schriftlich oder mit elektronischer Post an die im Anteilbuch verzeichneten Adressen. Ausgeschiedene Personen und erloschene Unterschriften: Aliji, Lirim, von Biel/Bienne, in Port, Gesellschafter und Geschäftsführer, mit Einzelunterschrift, mit 200 Stammanteilen zu je CHF 100.00. Eingetragene Personen neu oder mutierend: Hyseni, Rinor, deutscher Staatsangehöriger, in St. Gallen, Gesellschafter und Vorsitzender der Geschäftsführung, mit Kollektivunterschrift zu zweien, mit 100 Stammanteilen zu je CHF 100.00; Reshani, Qendrim, italienischer Staatsangehöriger, in St. Gallen, Gesellschafter und Geschäftsführer, mit Kollektivunterschrift zu zweien, mit 100 Stammanteilen zu je CHF 100.00.",
+        "mutationTypes": [
+          {
+            "id": 9,
+            "key": "firmenaenderung"
+          },
+          {
+            "id": 11,
+            "key": "zweckaenderung"
+          },
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          },
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Swiss R Montage GmbH",
+        "ehraid": 1563684,
+        "uid": "CHE234361419",
+        "chid": "CH03640920019",
+        "legalSeatId": 3203,
+        "legalSeat": "St. Gallen",
+        "registryOfCommerceId": 320,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-06-25",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "01cc593fdede0c5d0406a96e",
+    "publication_date": "2026-02-23",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-23 | BE | 2026-02-18 | <FT TYPE=\"F\">aL Kaffee GmbH</FT>, in <FT TYPE=\"S\">Port</FT>, <FT TYPE=\"A\">CHE-234.361.419</FT>, Gesellschaft mit beschränkter Haftung (SHAB Nr. 27 vom 10.02.2026, Publ. 1006564834). Die Rechtseinheit (neu: Swiss R Montage GmbH) wird infolge Verlegung des Sitzes nach St. Gallen im Handelsregister des Kantons St. Gallen eingetragen und im Handelsregister des Kantons Bern von Amtes wegen gelöscht. | adressaenderung | Swiss R Montage GmbH | CHE234361419 | CH03640920019 | St. Gallen | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-06-25",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006564834)",
+      "03640920019"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-23",
+        "sogcId": 1006576659,
+        "registryOfCommerceId": 36,
+        "registryOfCommerceCanton": "BE",
+        "registryOfCommerceJournalId": 3878,
+        "registryOfCommerceJournalDate": "2026-02-18",
+        "message": "<FT TYPE=\"F\">aL Kaffee GmbH</FT>, in <FT TYPE=\"S\">Port</FT>, <FT TYPE=\"A\">CHE-234.361.419</FT>, Gesellschaft mit beschränkter Haftung (SHAB Nr. 27 vom 10.02.2026, Publ. 1006564834). Die Rechtseinheit (neu: Swiss R Montage GmbH) wird infolge Verlegung des Sitzes nach St. Gallen im Handelsregister des Kantons St. Gallen eingetragen und im Handelsregister des Kantons Bern von Amtes wegen gelöscht.",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Swiss R Montage GmbH",
+        "ehraid": 1563684,
+        "uid": "CHE234361419",
+        "chid": "CH03640920019",
+        "legalSeatId": 3203,
+        "legalSeat": "St. Gallen",
+        "registryOfCommerceId": 320,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-06-25",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "c552c09ca55107a086cf8fd7",
+    "publication_date": "2026-02-23",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-23 | SG | 2026-02-18 | <FT TYPE=\"N\">THE COFFEE HUS GmbH</FT>, in <FT TYPE=\"5\">Weesen</FT>, <FT TYPE=\"A\">CHE-287.458.477</FT>, Hauptstrasse 10, 8872 Weesen, Gesellschaft mit beschränkter Haftung (Neueintragung). Statutendatum: 28.01.2026. Zweck: Die Gesellschaft bezweckt den Erwerb, das Halten, die Entwicklung, Nutzung, Vermietung, Verwaltung und Veräusserung von Immobilien sowie die Realisierung von immobilienbezogenen Projekten. Zudem bezweckt sie den Betrieb von Café-, Gastronomie- und Begegnungsbetrieben sowie den Handel, die Produktion und den Vertrieb von Waren und damit zusammenhängenden Dienstleistungen im Bereich Gastronomie und Handel. Die Gesellschaft kann Konzepte entwickeln, Events durchführen sowie Dienstleistungen in angrenzenden Bereichen anbieten. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle Geschäfte tätigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, veräussern und verwalten. Sie kann auch Finanzierungen für eigene oder fremde Rechnung vornehmen sowie Garantien und Bürgschaften für Tochtergesellschaften und Dritte eingehen. Stammkapital: CHF 20&apos;000.00. Publikationsorgan: SHAB. Mitteilungen der Geschäftsführung an die Gesellschafter erfolgen per Brief oder E-Mail an die im Anteilbuch verzeichneten Adressen. Gemäss Erklärung bei der Gründung der Gesellschaft wird auf eine eingeschränkte Revision verzichtet. Eingetragene Personen: Hilti-Zingg, Anouk Seraphine Bintou, von Busswil bei Melchnau, in Weesen (Amden), Gesellschafterin und Vorsitzende der Geschäftsführung, mit Einzelunterschrift, mit 666&apos;667 Stammanteilen zu je CHF 0.01; Hilti, Rudolf Dieter, liechtensteinischer Staatsangehöriger, in Weesen (Amden), Gesellschafter und Geschäftsführer, mit Einzelunterschrift, mit 666&apos;666 Stammanteilen zu je CHF 0.01; Z",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "041051451"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-23",
+        "sogcId": 1006577061,
+        "registryOfCommerceId": 320,
+        "registryOfCommerceCanton": "SG",
+        "registryOfCommerceJournalId": 2139,
+        "registryOfCommerceJournalDate": "2026-02-18",
+        "message": "<FT TYPE=\"N\">THE COFFEE HUS GmbH</FT>, in <FT TYPE=\"5\">Weesen</FT>, <FT TYPE=\"A\">CHE-287.458.477</FT>, Hauptstrasse 10, 8872 Weesen, Gesellschaft mit beschränkter Haftung (Neueintragung). Statutendatum: 28.01.2026. Zweck: Die Gesellschaft bezweckt den Erwerb, das Halten, die Entwicklung, Nutzung, Vermietung, Verwaltung und Veräusserung von Immobilien sowie die Realisierung von immobilienbezogenen Projekten. Zudem bezweckt sie den Betrieb von Café-, Gastronomie- und Begegnungsbetrieben sowie den Handel, die Produktion und den Vertrieb von Waren und damit zusammenhängenden Dienstleistungen im Bereich Gastronomie und Handel. Die Gesellschaft kann Konzepte entwickeln, Events durchführen sowie Dienstleistungen in angrenzenden Bereichen anbieten. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle Geschäfte tätigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, veräussern und verwalten. Sie kann auch Finanzierungen für eigene oder fremde Rechnung vornehmen sowie Garantien und Bürgschaften für Tochtergesellschaften und Dritte eingehen. Stammkapital: CHF 20&apos;000.00. Publikationsorgan: SHAB. Mitteilungen der Geschäftsführung an die Gesellschafter erfolgen per Brief oder E-Mail an die im Anteilbuch verzeichneten Adressen. Gemäss Erklärung bei der Gründung der Gesellschaft wird auf eine eingeschränkte Revision verzichtet. Eingetragene Personen: Hilti-Zingg, Anouk Seraphine Bintou, von Busswil bei Melchnau, in Weesen (Amden), Gesellschafterin und Vorsitzende der Geschäftsführung, mit Einzelunterschrift, mit 666&apos;667 Stammanteilen zu je CHF 0.01; Hilti, Rudolf Dieter, liechtensteinischer Staatsangehöriger, in Weesen (Amden), Gesellschafter und Geschäftsführer, mit Einzelunterschrift, mit 666&apos;666 Stammanteilen zu je CHF 0.01; Zingg, Camille Aline Aicha, von Busswil bei Melchnau, in Tann (Dürnten), Gesellschafterin und Geschäftsführerin, mit Einzelunterschrift, mit 666&apos;667 Stammanteilen zu je CHF 0.01.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "THE COFFEE HUS GmbH",
+        "ehraid": 1736535,
+        "uid": "CHE287458477",
+        "chid": "CH32041051451",
+        "legalSeatId": 3316,
+        "legalSeat": "Weesen",
+        "registryOfCommerceId": 320,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-02-23",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "5aeee348b1e05f56094fe0e0",
+    "publication_date": "2026-02-23",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-23 | BS | 2026-02-18 | <FT TYPE=\"F\">UBS AG</FT>, in <FT TYPE=\"S\">Basel</FT> + <FT TYPE=\"S\">Zürich</FT>, <FT TYPE=\"A\">CHE-101.329.561</FT>, Aktiengesellschaft (SHAB Nr. 28 vom 11.02.2026, Publ. 1006566660). Ausgeschiedene Personen und erloschene Unterschriften: Abderhalden, Patricia Denise, von Ebnat-Kappel, in Opfikon, mit Kollektivunterschrift zu zweien; Abresch, Chantal, von St. Gallen, in Wädenswil, mit Kollektivunterschrift zu zweien; Adams, Jayne Amanda, britische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Aepli, Nina Sibylle, von Meilen, in Uster, mit Kollektivunterschrift zu zweien; Allner, Sven, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Allum, Paul John David, britischer Staatsangehöriger, in Wädenswil, mit Kollektivunterschrift zu zweien; Almeida Soares, Bruno, portugiesischer Staatsangehöriger, in Schlieren, mit Kollektivunterschrift zu zweien; Alves Segundo, Ricardo, portugiesischer Staatsangehöriger, in Hombrechtikon, mit Kollektivunterschrift zu zweien; Ang, Dorothy, singapurische Staatsangehörige, in Unterseen, mit Kollektivunterschrift zu zweien; Aregger, Adrian, von Romoos, in Zürich, mit Kollektivunterschrift zu zweien; Askins, Marsha, amerikanische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Baines, Ian Brendan, britischer Staatsangehöriger, in Freienbach, mit Kollektivunterschrift zu zweien; Balan, Florentina-Daniela, rumänische Staatsangehörige, in Buchs (AG), mit Kollektivunterschrift zu zweien; Barnes, Marcus Clifton, amerikanischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Basler, Ulrich, von Bottenwil, in Affoltern am Albis, mit Kollektivunterschrift zu zweien; Bastianpillai, Shalini, britische Staatsangehörige, in Kilchberg (ZH), mit Kollektivunterschrift zu zweien; Baumann, Niklaus, genannt Nik, von Horgen, in Holziken, mit Kollektivunterschrift zu zweien; Baumgartner-Egloff, Susana Elizabeth, von Oberrieden, in Bülach, mit Kolle",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006566660)",
+      "030046464"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-23",
+        "sogcId": 1006576976,
+        "registryOfCommerceId": 270,
+        "registryOfCommerceCanton": "BS",
+        "registryOfCommerceJournalId": 1348,
+        "registryOfCommerceJournalDate": "2026-02-18",
+        "message": "<FT TYPE=\"F\">UBS AG</FT>, in <FT TYPE=\"S\">Basel</FT> + <FT TYPE=\"S\">Zürich</FT>, <FT TYPE=\"A\">CHE-101.329.561</FT>, Aktiengesellschaft (SHAB Nr. 28 vom 11.02.2026, Publ. 1006566660). Ausgeschiedene Personen und erloschene Unterschriften: Abderhalden, Patricia Denise, von Ebnat-Kappel, in Opfikon, mit Kollektivunterschrift zu zweien; Abresch, Chantal, von St. Gallen, in Wädenswil, mit Kollektivunterschrift zu zweien; Adams, Jayne Amanda, britische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Aepli, Nina Sibylle, von Meilen, in Uster, mit Kollektivunterschrift zu zweien; Allner, Sven, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Allum, Paul John David, britischer Staatsangehöriger, in Wädenswil, mit Kollektivunterschrift zu zweien; Almeida Soares, Bruno, portugiesischer Staatsangehöriger, in Schlieren, mit Kollektivunterschrift zu zweien; Alves Segundo, Ricardo, portugiesischer Staatsangehöriger, in Hombrechtikon, mit Kollektivunterschrift zu zweien; Ang, Dorothy, singapurische Staatsangehörige, in Unterseen, mit Kollektivunterschrift zu zweien; Aregger, Adrian, von Romoos, in Zürich, mit Kollektivunterschrift zu zweien; Askins, Marsha, amerikanische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Baines, Ian Brendan, britischer Staatsangehöriger, in Freienbach, mit Kollektivunterschrift zu zweien; Balan, Florentina-Daniela, rumänische Staatsangehörige, in Buchs (AG), mit Kollektivunterschrift zu zweien; Barnes, Marcus Clifton, amerikanischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Basler, Ulrich, von Bottenwil, in Affoltern am Albis, mit Kollektivunterschrift zu zweien; Bastianpillai, Shalini, britische Staatsangehörige, in Kilchberg (ZH), mit Kollektivunterschrift zu zweien; Baumann, Niklaus, genannt Nik, von Horgen, in Holziken, mit Kollektivunterschrift zu zweien; Baumgartner-Egloff, Susana Elizabeth, von Oberrieden, in Bülach, mit Kollektivunterschrift zu zweien; Beeler, Martin, von Alpthal und Luzern, in Zürich, mit Kollektivunterschrift zu zweien; Bell, William, britischer Staatsangehöriger, in Meilen, mit Kollektivunterschrift zu zweien; Bernet, Markus, von Gommiswald, in Wilen (TG), mit Kollektivunterschrift zu zweien; Bhattacharya, Aakash, indischer Staatsangehöriger, in Opfikon, mit Kollektivunterschrift zu zweien; Billington, Andrew Mark, britischer Staatsangehöriger, in Freienbach, mit Kollektivunterschrift zu zweien; Bisig, Roman, von Einsiedeln, in Lachen, mit Kollektivunterschrift zu zweien; Blaja, Matei, von Wallisellen, in Wallisellen, mit Kollektivunterschrift zu zweien; Blaser, Stefan Daniel, von Langnau im Emmental, in Hedingen, mit Kollektivunterschrift zu zweien; Blättler, Stefanie Dominique, von Wolfenschiessen, in Kilchberg (ZH), mit Kollektivunterschrift zu zweien; Boniello, Bonita Alexandria, von Zürich, in Paradiso, mit Kollektivunterschrift zu zweien; Bonsted, Petter, norwegischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Borla, Claudio Francesco, von Monteceneri, in Küsnacht (ZH), mit Kollektivunterschrift zu zweien; Boucetta, Mohamed, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Bougioura, Vasiliki, griechische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Boussié, Laurence, französische Staatsangehörige, in Lausanne, mit Kollektivunterschrift zu zweien; Bradvic Hatibovic, Kerensa, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien; Bragoli, Luigi Emilio Matteo, britischer Staatsangehöriger, in Horgen, mit Kollektivunterschrift zu zweien; Brandenberg, Milena, von Lausanne, in Zürich, mit Kollektivunterschrift zu zweien; Brennwalder, Ueli, von Lommis, in Winterthur, mit Kollektivunterschrift zu zweien; Brignoli, Paolo, von Minusio, in Bellinzona, mit Kollektivunterschrift zu zweien; Brockett, Neil Haddon, von Oberrohrdorf, in Eglisau, mit Kollektivunterschrift zu zweien; Brookes, Beverly Ann, britische Staatsangehörige, in Wettswil am Albis, mit Kollektivunterschrift zu zweien; Bruen, Robin, genannt Rob, von Horgen, in Horgen, mit Kollektivunterschrift zu zweien; Brundish, David Keith, britischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Brunner, Julian, von Rain, in Steinhausen, mit Kollektivunterschrift zu zweien; Brydone, Nicole, von Menznau, in Wädenswil, mit Kollektivunterschrift zu zweien; Brüssow, Oliver, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Butler, Mathew, genannt Mat, britischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Butzerin, Peter, von Landquart, in Cham, mit Kollektivunterschrift zu zweien; Bähr, Sabine, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien; Cachej, Monty, deutscher Staatsangehöriger, in Adliswil, mit Kollektivunterschrift zu zweien; Canepa, Carolina, italienische Staatsangehörige, in Dübendorf, mit Kollektivunterschrift zu zweien; Casio, Madeleine, von Zollikon, in Volketswil, mit Kollektivunterschrift zu zweien; Cecere, Riccardo, italienischer Staatsangehöriger, in Lugano, mit Kollektivunterschrift zu zweien; Chani, Ajay, indischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Chellavadivunadar, Ramana, indischer Staatsangehöriger, in Muri bei Bern, mit Kollektivunterschrift zu zweien; Chernyaev, Andrey, russischer Staatsangehöriger, in Cham, mit Kollektivunterschrift zu zweien; Chouaki, Selma Yasmine, französische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Christen, Elisabeth Andrea, von Lützelflüh, in Winterthur, mit Kollektivunterschrift zu zweien; Christen, Thomas, von Freienbach, in Hinwil, mit Kollektivunterschrift zu zweien; Christen Buchli, Antoinette Maria, von Ebikon, in Kriens, mit Kollektivunterschrift zu zweien; Christopoulos, Paraskevas, griechischer Staatsangehöriger, in Meilen, mit Kollektivunterschrift zu zweien; Cocciolo, Michele, von Adliswil, in Adliswil, mit Kollektivunterschrift zu zweien; Coe, Gareth, britischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Conkling, Page, amerikanischer Staatsangehöriger, in Basel, mit Kollektivunterschrift zu zweien; Coppens, Jasper, niederländischer Staatsangehöriger, in Rüfenach, mit Kollektivunterschrift zu zweien; Courtois, Jean-Michel Gérard, von Genève, in Lachen, mit Kollektivunterschrift zu zweien; Cusack, Eoghan, irischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Cwik, Aleksandra, polnische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Da Silva Subtil Ladeira, Hugo, portugiesischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Daftari, Mayur, indischer Staatsangehöriger, in Opfikon, mit Kollektivunterschrift zu zweien; De Almeida Tovar Faro, Luiz, portugiesischer Staatsangehöriger, in Nürnberg (DE), mit Kollektivunterschrift zu zweien; De Gioia, Marco, italienischer Staatsangehöriger, in Wetzikon (ZH), mit Kollektivunterschrift zu zweien; De Nadai, Claudio, italienischer Staatsangehöriger, in Rapperswil-Jona, mit Kollektivunterschrift zu zweien; De Nardi, Gulnur, russische Staatsangehörige, in Winterthur, mit Kollektivunterschrift zu zweien; De Vecchi, Claudia, von Zürich, in Rüschlikon, mit Kollektivunterschrift zu zweien; Deck, Laura, französische Staatsangehörige, in Eschenbach (SG), mit Kollektivunterschrift zu zweien; Decker, Alexandra, deutsche Staatsangehörige, in Erlenbach (ZH), mit Kollektivunterschrift zu zweien; Demo Panic, Jasmina, von Winterthur, in Richterswil, mit Kollektivunterschrift zu zweien; Dennehy, Andrew, irischer Staatsangehöriger, in Walchwil, mit Kollektivunterschrift zu zweien; Diaz Ubeda, Gerard Daniel, spanischer Staatsangehöriger, in Mettmenstetten, mit Kollektivunterschrift zu zweien; Dill, Christian Arno Alexander, deutscher Staatsangehöriger, in Zollikon, mit Kollektivunterschrift zu zweien; Donati, Marco, von Arosa, in Horgen, mit Kollektivunterschrift zu zweien; Donovan, Barry, irischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Dowhanycz, Hanna, polnische Staatsangehörige, in Mellingen, mit Kollektivunterschrift zu zweien; Drevon, Candice Fleur Marion, französische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Dreyfus, Sarah Hélène Marie Angélique, von Ebikon, in Ottenbach, mit Kollektivunterschrift zu zweien; Dubacher Amrhein, Gertrud, genannt Trudy, von Gurtnellen, in Hünenberg, mit Kollektivunterschrift zu zweien; Duggan, Mary, irische Staatsangehörige, in Thalwil, mit Kollektivunterschrift zu zweien; Dätwiler, Andreas, von Bözberg, in Mettmenstetten, mit Kollektivunterschrift zu zweien; Dîrla, Mihaela-Teodora, rumänische Staatsangehörige, in Fällanden, mit Kollektivunterschrift zu zweien; Dütsch, Jacqueline Lessa, von Winterthur, in Thalwil, mit Kollektivunterschrift zu zweien; Edel, Alexander, österreichischer Staatsangehöriger, in Uster, mit Kollektivunterschrift zu zweien; Edelmann, Severine, von Basel, in Wettswil am Albis, mit Kollektivunterschrift zu zweien; Eisele, Bernhard Björn, von Bern, in Kilchberg (ZH), mit Kollektivunterschrift zu zweien; Ellmann, Markus Josef, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Emmenegger, Anita, von Sargans, in Aarau, mit Kollektivunterschrift zu zweien; Emmenegger, Roman, von Hasle (LU), in Bülach, mit Kollektivunterschrift zu zweien; Eng, Thomas Michael, von Zürich, in Bülach, mit Kollektivunterschrift zu zweien; Engeler, David, von Aadorf, in Zürich, mit Kollektivunterschrift zu zweien; Erb, Ernst, von Basel, in Kriens, mit Kollektivunterschrift zu zweien; Erdt, Susanne, deutsche Staatsangehörige, in Romanshorn, mit Kollektivunterschrift zu zweien; Etter, Silvan, von Schnottwil, in Zürich, mit Kollektivunterschrift zu zweien; Fabbian, Elena, italienische Staatsangehörige, in Zug, mit Kollektivunterschrift zu zweien; Fagotto, Tiziana, italienische Staatsangehörige, in Küsnacht (ZH), mit Kollektivunterschrift zu zweien; Falco, Mario, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien; Fawehinmi, Abimbola, genannt Bimbola, britischer Staatsangehöriger, in Freienbach, mit Kollektivunterschrift zu zweien; Feige, Golo, deutscher Staatsangehöriger, in Küsnacht (ZH), mit Kollektivunterschrift zu zweien; Feratovic, Lana, neuseeländische Staatsangehörige, in Bassersdorf, mit Kollektivunterschrift zu zweien; Ferraz Gil, Sergio, von Etoy, in Etoy, mit Kollektivunterschrift zu zweien; Fischbacher, Marco Peter, von Neckertal, in Wangen-Brüttisellen, mit Kollektivunterschrift zu zweien; Flek, Hotimir Dragan, deutscher Staatsangehöriger, in Herrliberg, mit Kollektivunterschrift zu zweien; Franchi, Dominic, deutscher Staatsangehöriger, in Horgen, mit Kollektivunterschrift zu zweien; Frankel, Alexandra, amerikanische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Franz, Thomas Christian, von Frick, in Hausen (AG), mit Kollektivunterschrift zu zweien; Frei, Tobias, von Basel, in Zürich, mit Kollektivunterschrift zu zweien; Frei-Sarmiento, Dian, von Herdern, in Quarten, mit Kollektivunterschrift zu zweien; Freiherr von Schröder, Mirko Hendrik Martin, deutscher Staatsangehöriger, in Birmensdorf (ZH), mit Kollektivunterschrift zu zweien; Freiin von dem Bussche-Haddenhausen, Verena, deutsche Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Fresenga, Patrick Dante, von Merenschwand, in Winterthur, mit Kollektivunterschrift zu zweien; Frey, Jan Gerhard, deutscher Staatsangehöriger, in Thalwil, mit Kollektivunterschrift zu zweien; Fritsch, Horst, von Oberburg, in Wettingen, mit Kollektivunterschrift zu zweien; Früh, Jan, von Neckertal, in Unterentfelden, mit Kollektivunterschrift zu zweien; Fuchs, Norbert, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Furrer, Thomas, von Gossau (ZH), in St. Gallen, mit Kollektivunterschrift zu zweien; Furrer-Turcic, Tanja, von Kreuzlingen, in Hinwil, mit Kollektivunterschrift zu zweien; Förster, Michael, von Basel, in Meilen, mit Kollektivunterschrift zu zweien; Ganter, Cristina, von Birmensdorf (ZH), in Unterlunkhofen, mit Kollektivunterschrift zu zweien; Gash, Elgadaf, von Urdorf, in Zürich, mit Kollektivunterschrift zu zweien; Gasser, Philipp, genannt Philippe, von Rüschegg, in Wettswil am Albis, mit Kollektivunterschrift zu zweien; Gaurilcikas, Martynas, litauischer Staatsangehöriger, in Wettswil am Albis, mit Kollektivunterschrift zu zweien; Gba, Michel, französischer Staatsangehöriger, in Oberentfelden, mit Kollektivunterschrift zu zweien; Gehr, Marcus Karl, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Gessner, Nathalie, von Lutry, in Maur, mit Kollektivunterschrift zu zweien; Gfeller, Martin, von Lützelflüh, in Volketswil, mit Kollektivunterschrift zu zweien; Giannios, Nikolaos, griechischer Staatsangehöriger, in Stallikon, mit Kollektivunterschrift zu zweien; Giebel, Lars Peter, von Lyss, in Zufikon, mit Kollektivunterschrift zu zweien; Giovanoli, Carlo Andrea, von Bregaglia, in Fällanden, mit Kollektivunterschrift zu zweien; Gnielinski, Florian Volker Kurt, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Gonzalez Torres, Humberto Raimundo, von Frauenfeld, in Frauenfeld, mit Kollektivunterschrift zu zweien; Gonçalves Ferreira, Márcia, portugiesische Staatsangehörige, in Männedorf, mit Kollektivunterschrift zu zweien; Graziani, Fabio, italienischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Gredenhoff, Mikael, von Baar, in Baar, mit Kollektivunterschrift zu zweien; Grimm, Thomas Martin, von Langnau im Emmental, in Altendorf, mit Kollektivunterschrift zu zweien; Grippa, Filippo, italienischer Staatsangehöriger, in Horgen, mit Kollektivunterschrift zu zweien; Grob, Melanie, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien; Grünenfelder, Stefanie, von Klingnau, in Leuggern, mit Kollektivunterschrift zu zweien; Guha, Soma, indische Staatsangehörige, in Baar, mit Kollektivunterschrift zu zweien; Gupta, Shilpa, indische Staatsangehörige, in Basel, mit Kollektivunterschrift zu zweien; Gurwell, Gordon Birger, deutscher Staatsangehöriger, in Uetikon am See, mit Kollektivunterschrift zu zweien; Güllner, Pascale, von Marly, in Freienbach, mit Kollektivunterschrift zu zweien; Haas, Alexandra, von Romoos, in Zürich, mit Kollektivunterschrift zu zweien; Hagelganz, Kai-Uwe, von Horgen, in Horgen, mit Kollektivunterschrift zu zweien; Hagens, Michiel, von Uebeschi, in Stäfa, mit Kollektivunterschrift zu zweien; Halter, Ralph, von Marbach (SG), in Meilen, mit Kollektivunterschrift zu zweien; Hampson Staples, Marianne, britische Staatsangehörige, in Thalwil, mit Kollektivunterschrift zu zweien; Haralalka, Neeraj, singapurischer Staatsangehöriger, in Thalwil, mit Kollektivunterschrift zu zweien; Harnisch, Peter, von Wahlern, in Münsingen, mit Kollektivunterschrift zu zweien; Hauenstein, Nette, von Ehrendingen, in Hüntwangen, mit Kollektivunterschrift zu zweien; Hausheer, Markus, von Affoltern am Albis, in Aeugst am Albis, mit Kollektivunterschrift zu zweien; Hehle, Raphaela, österreichische Staatsangehörige, in Horgen, mit Kollektivunterschrift zu zweien; Heinzmann, Livia, von Visperterminen, in Zürich, mit Kollektivunterschrift zu zweien; Held, Julia, von Rüegsau, in Wohlen (AG), mit Kollektivunterschrift zu zweien; Hempen, Stefan, deutscher Staatsangehöriger, in Ingenbohl, mit Kollektivunterschrift zu zweien; Henry, Mark Robert, britischer Staatsangehöriger, in Männedorf, mit Kollektivunterschrift zu zweien; Henshaw, Craig, kanadischer Staatsangehöriger, in Zug, mit Kollektivunterschrift zu zweien; Heshusius Ahrens, Alex, von Rothrist, in Horgen, mit Kollektivunterschrift zu zweien; Hess, Christine, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Heyne, Gregor, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Himmelsbach, Steven, von Basel, in Herrliberg, mit Kollektivunterschrift zu zweien; Hirst, Mark Stefan, von Zunzgen, in Wölflinswil, mit Kollektivunterschrift zu zweien; Hirzel, Christoph, von Uster, in Wädenswil, mit Kollektivunterschrift zu zweien; Hjeltnes, Ken, norwegischer Staatsangehöriger, in Seuzach, mit Kollektivunterschrift zu zweien; Ho, Teck Min, singapurischer Staatsangehöriger, in Wallisellen, mit Kollektivunterschrift zu zweien; Hoffmann, Riccarda, deutsche Staatsangehörige, in Thalwil, mit Kollektivunterschrift zu zweien; Hrvol&apos;ová, Kristína, slowakische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Huber, Caroline Barbara, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien; Huber, Isabelle Christa, von Alberswil, in Winterthur, mit Kollektivunterschrift zu zweien; Huberty, Nicolas, französischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Hug, Dovile, litauische Staatsangehörige, in Geroldswil, mit Kollektivunterschrift zu zweien; Hug, Isidor, von Quarten, in Bonstetten, mit Kollektivunterschrift zu zweien; Hugentobler, Christoph, von Uzwil, in Zufikon, mit Kollektivunterschrift zu zweien; Hulliger, Thomas, von Heimiswil, in Zürich, mit Kollektivunterschrift zu zweien; Hunn, Christian, von Egliswil, in Zollikon, mit Kollektivunterschrift zu zweien; Häcki, Anna, von Zürich, in Küsnacht (ZH), mit Kollektivunterschrift zu zweien; Hälg, Lukas, von Niederhelfenschwil, in Zürich, mit Kollektivunterschrift zu zweien; Hänni, Frank, von Wengi, in Zürich, mit Kollektivunterschrift zu zweien; Höhn, David, von Wädenswil, in Wädenswil, mit Kollektivunterschrift zu zweien; Hüsser, Urban Ivo, von Rudolfstetten-Friedlisberg, in Steinhausen, mit Kollektivunterschrift zu zweien; Iselin, Thais, von Küsnacht (ZH), in Stäfa, mit Kollektivunterschrift zu zweien; Iseppi, Tanja, von Brusio, in Aarau, mit Kollektivunterschrift zu zweien; Issner, Laurent, französischer Staatsangehöriger, in Baar, mit Kollektivunterschrift zu zweien; Jaggi, Cyril Philippe Urs, von Lenk, in Fällanden, mit Kollektivunterschrift zu zweien; Jajesniak, Mariusz, polnischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Jarak, Drazen, von Weinfelden, in Zürich, mit Kollektivunterschrift zu zweien; Jayaprakash, Lekshmi, indische Staatsangehörige, in Adliswil, mit Kollektivunterschrift zu zweien; Jegi Caballero, Marlon, von Arosa, in Zürich, mit Kollektivunterschrift zu zweien; Jones, Simon, britischer Staatsangehöriger, in Zumikon, mit Kollektivunterschrift zu zweien; Jung, Helen, österreichische Staatsangehörige, in Uetikon am See, mit Kollektivunterschrift zu zweien; Jäggi, Stefan, von Niederbuchsiten, in Buchs (AG), mit Kollektivunterschrift zu zweien; Kaiser, Camila, von Zürich, in Fällanden, mit Kollektivunterschrift zu zweien; Kaiser, Martin Daniel, deutscher Staatsangehöriger, in Luzern, mit Kollektivunterschrift zu zweien; Karanovic, Dragan, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Karic, Ermina, von Zug, in Brütten, mit Kollektivunterschrift zu zweien; Karpinski, Pawel, polnischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Karthik Kuendig, Deepthi, indische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Karvellas, John Alexander, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien; Kasten, Norman Vincent, deutscher Staatsangehöriger, in Wädenswil, mit Kollektivunterschrift zu zweien; Keidel, Sandra, von Zürich, in Wädenswil, mit Kollektivunterschrift zu zweien; Kemp, Oksana, ukrainische Staatsangehörige, in Frauenfeld, mit Kollektivunterschrift zu zweien; Khokhar, Nafay, von Ehrendingen, in Regensdorf, mit Kollektivunterschrift zu zweien; Kienzi, Florian Carlo, von Zürich, in Horgen, mit Kollektivunterschrift zu zweien; Kis, Dorottya, ungarische Staatsangehörige, in Birmensdorf (ZH), mit Kollektivunterschrift zu zweien; Knöpfli, Daniel, von Roggwil (TG), in Richterswil, mit Kollektivunterschrift zu zweien; Koller, Matthias Christian, von Meierskappel, in Baar, mit Kollektivunterschrift zu zweien; Kotomanova, Mariia, deutsche Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Kotov, Mikhail, britischer Staatsangehöriger, in Zug, mit Kollektivunterschrift zu zweien; Kramer, Chimie, von Volketswil, in Zürich, mit Kollektivunterschrift zu zweien; Krefft, Wojciech, polnischer Staatsangehöriger, in Adliswil, mit Kollektivunterschrift zu zweien; Kruse, Henning, deutscher Staatsangehöriger, in Stallikon, mit Kollektivunterschrift zu zweien; Kuhlee, Katrin, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien; Kuhlen, Michel Christian, von Langnau im Emmental, in Lenzburg, mit Kollektivunterschrift zu zweien; Kukic, Ana, von Zürich, in Wallisellen, mit Kollektivunterschrift zu zweien; Kunz, Christian, von Regensberg, in Oberrieden, mit Kollektivunterschrift zu zweien; Kunze, Frank, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Lacalle Goytre, Javier, spanischer Staatsangehöriger, in Kilchberg (ZH), mit Kollektivunterschrift zu zweien; Ladu, Stefano, von Winterthur, in Winterthur, mit Kollektivunterschrift zu zweien; Lakhani, Kinner, britischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Landolt, Peter, von Glarus Nord, in Zürich, mit Kollektivunterschrift zu zweien; Laplace, Edwige Marguerite, französische Staatsangehörige, in Dübendorf, mit Kollektivunterschrift zu zweien; Lehmann, André, von Eggiwil, in Zürich, mit Kollektivunterschrift zu zweien; Lein, Claudia Anette, deutsche Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Leu, Dominique, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien; Leuck, Aymon Dieter Ernst, deutscher Staatsangehöriger, in Urdorf, mit Kollektivunterschrift zu zweien; Lieff, Alexander, schwedischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Liekmeier, Ralf Christian, deutscher Staatsangehöriger, in Horgen, mit Kollektivunterschrift zu zweien; Lin, Hsiu-Fen, von Zürich, in Meilen, mit Kollektivunterschrift zu zweien; Linder, Jürg, von Linden, in Zürich, mit Kollektivunterschrift zu zweien; Lo, Ka Yiu Hercus, singapurischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Loh, Terence, singapurischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Lohéac, Aloïs Pierre-Michel Marie, französischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Loiodice, Matteo, von Buchs (ZH), in Hagenbuch, mit Kollektivunterschrift zu zweien; Lubarda, Franziska, deutsche Staatsangehörige, in Stäfa, mit Kollektivunterschrift zu zweien; Luisoli, Roger, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien; Lynch, Nigel, irischer Staatsangehöriger, in Zug, mit Kollektivunterschrift zu zweien; Lékai, Bianka, ungarische Staatsangehörige, in Pfäffikon, mit Kollektivunterschrift zu zweien; López Carnero, Carmen Rosa, spanische Staatsangehörige, in Horgen, mit Kollektivunterschrift zu zweien; Lüscher, Marc, von Gondiswil, in Winterthur, mit Kollektivunterschrift zu zweien; Ma Willi, Lori, von Domat/Ems, in Richterswil, mit Kollektivunterschrift zu zweien; Magne, Thérèse, von Vuisternens-devant-Romont, in Uetikon am See, mit Kollektivunterschrift zu zweien; Mailhes, Christian Erwin Paul, französischer Staatsangehöriger, in Annecy-le-Vieux (FR), mit Kollektivunterschrift zu zweien; Mani, Hans-Peter, von Diemtigen, in Uster, mit Kollektivunterschrift zu zweien; Mani, Sibylle, von Andeer, in Hedingen, mit Kollektivunterschrift zu zweien; Marais, Charl Pierre, von Rüschlikon, in Zollikon, mit Kollektivunterschrift zu zweien; Marais, Thelo, von Rüschlikon, in Zollikon, mit Kollektivunterschrift zu zweien; Margelist-Brogli, Renée, von Zeiningen, in Herrliberg, mit Kollektivunterschrift zu zweien; Marra, Sandro Antonio, von Schaffhausen, in Seuzach, mit Kollektivunterschrift zu zweien; Marti, Florian, von Basel und Ruppoldsried, in Zürich, mit Kollektivunterschrift zu zweien; Martini, Marta, italienische Staatsangehörige, in Dietlikon, mit Kollektivunterschrift zu zweien; Martschke, Rainer, deutscher Staatsangehöriger, in Dübendorf, mit Kollektivunterschrift zu zweien; Marutyan Scherrer, Naira, von Willisau, in Volketswil, mit Kollektivunterschrift zu zweien; Massie, Andrew Ian, britischer Staatsangehöriger, in Basel, mit Kollektivunterschrift zu zweien; Mazaira Martinez, David, spanischer Staatsangehöriger, in Kilchberg (ZH), mit Kollektivunterschrift zu zweien; Mc Gilvray, Alessandro, italienischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; McLachlan, Ewan, britischer Staatsangehöriger, in Horgen, mit Kollektivunterschrift zu zweien; McNulty, Karen, iranische Staatsangehörige, in Oberägeri, mit Kollektivunterschrift zu zweien; Meier, Pascal Marc, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien; Mellioret, Fabienne Valérie, von Montpreveyres, in Erlenbach (ZH), mit Kollektivunterschrift zu zweien; Menges, Georg, deutscher Staatsangehöriger, in Wangen-Brüttisellen, mit Kollektivunterschrift zu zweien; Micheli, Alessandro, italienischer Staatsangehöriger, in Erlenbach (ZH), mit Kollektivunterschrift zu zweien; Morillon, Julien, französischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Moser, Jérôme Colin, von Zäziwil, in Zürich, mit Kollektivunterschrift zu zweien; Moser, Thomas, von Untereggen, in Wangen-Brüttisellen, mit Kollektivunterschrift zu zweien; Mukhija, Arun, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien; Munaretto, Sophie, von Porza, in Zürich, mit Kollektivunterschrift zu zweien; Mwandembe, Ebed Melech, von Dietlikon, in Wallisellen, mit Kollektivunterschrift zu zweien; Müller, Christian, deutscher Staatsangehöriger, in Freienwil, mit Kollektivunterschrift zu zweien; Müller, Ekaterina, deutsche Staatsangehörige, in Freienwil, mit Kollektivunterschrift zu zweien; Müller, Milan, von Baar, in Feusisberg, mit Kollektivunterschrift zu zweien; Münstermann, Dr. Matthias, deutscher Staatsangehöriger, in Freienbach, mit Kollektivunterschrift zu zweien; Naborczyk, Iwona, polnische Staatsangehörige, in Uster, mit Kollektivunterschrift zu zweien; Nacheva, Maria, von Küsnacht (ZH), in Küsnacht (ZH), mit Kollektivunterschrift zu zweien; Nanzer, Olivier, von Brig-Glis, in Sion, mit Kollektivunterschrift zu zweien; Natividade Martins Pereira, Maria João, portugiesische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Necas, Martin, von Zug, in Baar, mit Kollektivunterschrift zu zweien; Neumann, Daniel, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Nguyen, Mimi T., amerikanische Staatsangehörige, in Thalwil, mit Kollektivunterschrift zu zweien; Nguyen Reid, Hong Anne, genannt Anh, französische Staatsangehörige, in Genève, mit Kollektivunterschrift zu zweien; Ni, Ming-Qiang, deutscher Staatsangehöriger, in Lachen, mit Kollektivunterschrift zu zweien; Nick, Patrick Konrad, von Oetwil an der Limmat, in Obersiggenthal, mit Kollektivunterschrift zu zweien; Nicod, Jean-David, von Vulliens, in Zürich, mit Kollektivunterschrift zu zweien; Niederer-Koller, Hildegard, von St. Gallen, in Eschlikon, mit Kollektivunterschrift zu zweien; Niedermann, Agata, von Zürich, in Männedorf, mit Kollektivunterschrift zu zweien; Nikkel, Bruce, kanadischer Staatsangehöriger, in Grenchen, mit Kollektivunterschrift zu zweien; Nitsak, Anton, ukrainischer Staatsangehöriger, in Wädenswil, mit Kollektivunterschrift zu zweien; Nützi, Michael, von Wolfwil, in Olten, mit Kollektivunterschrift zu zweien; O&apos;Neill, Brian, irischer Staatsangehöriger, in Küsnacht (ZH), mit Kollektivunterschrift zu zweien; Oblinger, Caroll Petra, von Langendorf, in Erlinsbach (AG), mit Kollektivunterschrift zu zweien; Oehler, Fabian, von Arboldswil, in Zürich, mit Kollektivunterschrift zu zweien; Ottonello Alchera, Matteo, italienischer Staatsangehöriger, in Lugano, mit Kollektivunterschrift zu zweien; Paciorek, Janina, deutsche Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Paganin, Anna Caroline, schwedische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Palladino, Vito, italienischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Paluselli, Claudia, von Zürich, in Fischbach-Göslikon, mit Kollektivunterschrift zu zweien; Pandya, Mansi, britische Staatsangehörige, in Uetikon am See, mit Kollektivunterschrift zu zweien; Papapoulios, Konstantinos, von St. Gallen, in Oberrohrdorf, mit Kollektivunterschrift zu zweien; Parasuraman, Balaji, indischer Staatsangehöriger, in Opfikon, mit Kollektivunterschrift zu zweien; Peacock, Jo-Wayne Lorraine, von Zollikon, in Zumikon, mit Kollektivunterschrift zu zweien; Pegram, Mark, britischer Staatsangehöriger, in Kappel am Albis, mit Kollektivunterschrift zu zweien; Peier, Anxhelina, albanische Staatsangehörige, in Wiesendangen, mit Kollektivunterschrift zu zweien; Pereira, Merlyn, portugiesische Staatsangehörige, in Dübendorf, mit Kollektivunterschrift zu zweien; Pergjokaj, Alfred, von Schafisheim, in Zürich, mit Kollektivunterschrift zu zweien; Pesek, Peter, von Zürich, in Birmensdorf (ZH), mit Kollektivunterschrift zu zweien; Peters, Wolfram Detlev Bernhard, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Pilo de la Fuente, Pablo, spanischer Staatsangehöriger, in Genève, mit Kollektivunterschrift zu zweien; Pollmann, Sarah, deutsche Staatsangehörige, in Stäfa, mit Kollektivunterschrift zu zweien; Poole, Deirdre Mary, von Schlieren, in Wetzikon (ZH), mit Kollektivunterschrift zu zweien; Popov, Egor, russischer Staatsangehöriger, in Luzern, mit Kollektivunterschrift zu zweien; Pottage, John, britischer Staatsangehöriger, in Beaconsfield (UK) (GB), mit Kollektivunterschrift zu zweien; Povolny, Katrin, österreichische Staatsangehörige, in Oetwil am See, mit Kollektivunterschrift zu zweien; Prasad, Rishi Raj, irischer Staatsangehöriger, in Adliswil, mit Kollektivunterschrift zu zweien; Preuss, Olivier, von Ursy, in Wädenswil, mit Kollektivunterschrift zu zweien; Pulinckx, Dora, belgische Staatsangehörige, in Meilen, mit Kollektivunterschrift zu zweien; Pöthke-Hohenberger, Ellen Eveline Sofie, deutsche Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Rada, Raluca-Despina, rumänische Staatsangehörige, in Wettswil am Albis, mit Kollektivunterschrift zu zweien; Radaelli, Carlo, italienischer Staatsangehöriger, in Winterthur, mit Kollektivunterschrift zu zweien; Raju, Kashmira, indische Staatsangehörige, in Obersiggenthal, mit Kollektivunterschrift zu zweien; Rakich, Aaron, irischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Rakich, Darin, britischer Staatsangehöriger, in Küsnacht (ZH), mit Kollektivunterschrift zu zweien; Rathgeb, Andreas Peter Christian, von Zürich, in Otelfingen, mit Kollektivunterschrift zu zweien; Raus, Barbara, italienische Staatsangehörige, in Männedorf, mit Kollektivunterschrift zu zweien; Reaud, Mathieu, französischer Staatsangehöriger, in Baar, mit Kollektivunterschrift zu zweien; Reder, Joachim, deutscher Staatsangehöriger, in Männedorf, mit Kollektivunterschrift zu zweien; Reichenbach, Walter Georg, von Saanen, in Zug, mit Kollektivunterschrift zu zweien; Reising, John, amerikanischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Rendina, Marc-Rocco, deutscher Staatsangehöriger, in Niederweningen, mit Kollektivunterschrift zu zweien; Resenberg, Gerd, deutscher Staatsangehöriger, in Wädenswil, mit Kollektivunterschrift zu zweien; Richle, Adrian, von Bütschwil-Ganterschwil, in Zürich, mit Kollektivunterschrift zu zweien; Riesen, Andreas, von Rüschegg, in Birrwil, mit Kollektivunterschrift zu zweien; Riethmann, Oliver, von Zürich, in Fischbach-Göslikon, mit Kollektivunterschrift zu zweien; Rigodanzo, Andrea, italienischer Staatsangehöriger, in Bern, mit Kollektivunterschrift zu zweien; Rodrigues Pereira, Patricia, portugiesische Staatsangehörige, in Fällanden, mit Kollektivunterschrift zu zweien; Roth, Marco Patrick, von Herbetswil, in Oberdorf (SO), mit Kollektivunterschrift zu zweien; Rukkers, Brid Nóra, von Meilen, in Meilen, mit Kollektivunterschrift zu zweien; Rusaikin, Maria, russische Staatsangehörige, in Baar, mit Kollektivunterschrift zu zweien; Räber, Marc Peter, von Luzern, in Winterthur, mit Kollektivunterschrift zu zweien; Rérat, François, von Haute-Ajoie, in Zürich, mit Kollektivunterschrift zu zweien; Rüegg, Rolf, von St. Gallenkappel, in Küsnacht (ZH), mit Kollektivunterschrift zu zweien; Rüegg, Valentin, von Winterthur, in Winterthur, mit Kollektivunterschrift zu zweien; Rüst, Urs, von Winterthur, in Männedorf, mit Kollektivunterschrift zu zweien; Rütti Mohr, Michael, von Affeltrangen, in Mettmenstetten, mit Kollektivunterschrift zu zweien; Rüttimann, Dr. Markus Walter, von Weinfelden, in Zürich, mit Kollektivunterschrift zu zweien; Saas, Alix, französischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Saccinni, Fabio, italienischer Staatsangehöriger, in Mägenwil, mit Kollektivunterschrift zu zweien; Sager, Kathrin Franziska, von Egnach, in Zürich, mit Kollektivunterschrift zu zweien; Salzmann, Dominique, von Maschwanden, in Freienbach, mit Kollektivunterschrift zu zweien; Sangaletti, Luca, von Adliswil, in Risch, mit Kollektivunterschrift zu zweien; Sangha, Gisela, österreichische Staatsangehörige, in Basel, mit Kollektivunterschrift zu zweien; Santos Pascoal, Rui Miguel, portugiesischer Staatsangehöriger, in Gipf-Oberfrick, mit Kollektivunterschrift zu zweien; Sayyad, Karim Philip, schwedischer Staatsangehöriger, in Thalwil, mit Kollektivunterschrift zu zweien; Scacchi, Pietro Casimiro Maria, von Hemberg, in Zürich, mit Kollektivunterschrift zu zweien; Schatz, Eric, amerikanischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Schenk, Roberto, von Unterlangenegg, in Wädenswil, mit Kollektivunterschrift zu zweien; Schmid, Andreas, von Knutwil, in Küsnacht (ZH), mit Kollektivunterschrift zu zweien; Schmid-Narciss, Elena, deutsche Staatsangehörige, in Benken (SG), mit Kollektivunterschrift zu zweien; Schmider, Markus Daniel, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Schmitt, Andreas, deutscher Staatsangehöriger, in Sulzbach (DE), mit Kollektivunterschrift zu zweien; Schälchli, Anita Linda, von Zürich, in Urdorf, mit Kollektivunterschrift zu zweien; Schärer, Evelyne, von Richterswil, in Richterswil, mit Kollektivunterschrift zu zweien; Scopazzini, Sacha, von Lugano, in Carouge (GE), mit Kollektivunterschrift zu zweien; Seidler, Alexander, von Zürich, in Bottighofen, mit Kollektivunterschrift zu zweien; Seitz, Andrea, von Ernen, in Winterthur, mit Kollektivunterschrift zu zweien; Senn, Jürg, von Gansingen, in Mellingen, mit Kollektivunterschrift zu zweien; Senn, Pek, singapurische Staatsangehörige, in Stäfa, mit Kollektivunterschrift zu zweien; Sensani, Annalisa, italienische Staatsangehörige, in Uitikon, mit Kollektivunterschrift zu zweien; Sevrain, Antoine Michel Romain, französischer Staatsangehöriger, in Küsnacht (ZH), mit Kollektivunterschrift zu zweien; Shah, Yatin Lucas, von Einsiedeln, in Uitikon, mit Kollektivunterschrift zu zweien; Shaham, Raanan, von Chiasso, in Richterswil, mit Kollektivunterschrift zu zweien; Shanmugasundaram, Ambika, von Wangen-Brüttisellen, in Wangen-Brüttisellen, mit Kollektivunterschrift zu zweien; Sidella, Marilena, italienische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Siegrist, Marc, von Madiswil, in Buchs (ZH), mit Kollektivunterschrift zu zweien; Silva Ventura, Rui, portugiesischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Silvani, Christian Peter, britischer Staatsangehöriger, in Feusisberg, mit Kollektivunterschrift zu zweien; Simmen, Hanspeter, von Realp, in Lenzburg, mit Kollektivunterschrift zu zweien; Sipahi, Aliye Birnur, deutsche Staatsangehörige, in Divonne (FR), mit Kollektivunterschrift zu zweien; Smith, James, britischer Staatsangehöriger, in Bellikon, mit Kollektivunterschrift zu zweien; Sonderegger, Jürg Marcel, von Berneck, in Winterthur, mit Kollektivunterschrift zu zweien; Sonntag, Jochen Volker, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Souza Farhat wife of Willemstein, Stela, niederländische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Spasojevic, Predrag, surinamischer Staatsangehöriger, in Lausanne, mit Kollektivunterschrift zu zweien; Spehr, Renate, von Langnau im Emmental, in Kilchberg (ZH), mit Kollektivunterschrift zu zweien; Stadelmann, Iris, deutsche Staatsangehörige, in Baar, mit Kollektivunterschrift zu zweien; Stampfli, Andreas, von Oberbipp, in Gipf-Oberfrick, mit Kollektivunterschrift zu zweien; Steinacher, Jules, von Gansingen, in Tägerig, mit Kollektivunterschrift zu zweien; Steiner, Marcel, von Boniswil, in Zürich, mit Kollektivunterschrift zu zweien; Steiner, Severin, von Zürich, in Maur, mit Kollektivunterschrift zu zweien; Steiner, Urs, von Suhr, in Baden, mit Kollektivunterschrift zu zweien; Stemper IV, John Louis, von Meilen, in Stäfa, mit Kollektivunterschrift zu zweien; Sterzinger, Leonhard, österreichischer Staatsangehöriger, in Niederrohrdorf, mit Kollektivunterschrift zu zweien; Stobaugh, Kay, von Stallikon, in Stallikon, mit Kollektivunterschrift zu zweien; Stucky, John Thomas, von Bettmeralp, in Zürich, mit Kollektivunterschrift zu zweien; Stöckli, Sebastiàn Roberto, von Besenbüren, in Zumikon, mit Kollektivunterschrift zu zweien; Stücheli, Simon, von Amlikon-Bissegg, in Buchs (AG), mit Kollektivunterschrift zu zweien; Subartowicz, Joanna, polnische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Sun, Regine, britische Staatsangehörige, in Männedorf, mit Kollektivunterschrift zu zweien; Suter, Linus, von Beromünster, in Beromünster, mit Kollektivunterschrift zu zweien; Suter, Nicole, von Freienwil, in Obersiggenthal, mit Kollektivunterschrift zu zweien; Swaters, Clifford John, kanadischer Staatsangehöriger, in Männedorf, mit Kollektivunterschrift zu zweien; Swiatkiewicz, Michal, von Buchs (SG), in Illnau-Effretikon, mit Kollektivunterschrift zu zweien; Syriopoulos, Petros, griechischer Staatsangehöriger, in Rüschlikon, mit Kollektivunterschrift zu zweien; Tang, Ling Susanne, von Adliswil, in Wallisellen, mit Kollektivunterschrift zu zweien; Taylor, John Edward Robert, britischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Terhaar, Christian Steffen, deutscher Staatsangehöriger, in Opfikon, mit Kollektivunterschrift zu zweien; Theine, Evelyne, von Zürich, in Brugg, mit Kollektivunterschrift zu zweien; Thomas, Sylvia, amerikanische Staatsangehörige, in Adliswil, mit Kollektivunterschrift zu zweien; Thorpe, Leigh Christopher, britischer Staatsangehöriger, in Uster, mit Kollektivunterschrift zu zweien; Thursfield, Robert Edward, britischer Staatsangehöriger, in Veysonnaz, mit Kollektivunterschrift zu zweien; Thöni, Markus, von Rüschlikon, in Maur, mit Kollektivunterschrift zu zweien; Toader, Madalina, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien; Toppi, Seong, von Serravalle, in Zürich, mit Kollektivunterschrift zu zweien; Torres Vonmoos, Ana, brasilianische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Tres Otazua, Juan, spanischer Staatsangehöriger, in Feusisberg, mit Kollektivunterschrift zu zweien; Tschopp, Reto Hans Jörg, von Zollikon, in Wädenswil, mit Kollektivunterschrift zu zweien; Tsoni, Efstathia, griechische Staatsangehörige, in Reinach (BL), mit Kollektivunterschrift zu zweien; Tuinhout, Ottavia, italienische Staatsangehörige, in Küsnacht (ZH), mit Kollektivunterschrift zu zweien; Tung, Christina Su-Mei, malaysische Staatsangehörige, in Rüschlikon, mit Kollektivunterschrift zu zweien; Turner, Rebecca Caroline, britische Staatsangehörige, in Wettswil am Albis, mit Kollektivunterschrift zu zweien; Uebersax, Patric, von Thörigen, in Adliswil, mit Kollektivunterschrift zu zweien; Ugolini, Giorgia, italienische Staatsangehörige, in Kilchberg (ZH), mit Kollektivunterschrift zu zweien; Valenti, Antonino, von Winterthur, in Winterthur, mit Kollektivunterschrift zu zweien; Varlet, Anastasia, französische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Varley, Alyssa, amerikanische Staatsangehörige, in Dietikon, mit Kollektivunterschrift zu zweien; Varvitsiotis, Georgios, griechischer Staatsangehöriger, in Freienbach, mit Kollektivunterschrift zu zweien; Vetti Tagliati, Luca, italienischer Staatsangehöriger, in Sorengo, mit Kollektivunterschrift zu zweien; Vitale, Domenico, italienischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Vogt, Florian, von Basel, in Urdorf, mit Kollektivunterschrift zu zweien; Vorlicky, Richard, von Zürich, in Stallikon, mit Kollektivunterschrift zu zweien; Voutsis, Nicola, von Zürich, in Männedorf, mit Kollektivunterschrift zu zweien; Vycpálek, Petr, tschechischer Staatsangehöriger, in Kilchberg (ZH), mit Kollektivunterschrift zu zweien; Wala, Maciej Jan, polnischer Staatsangehöriger, in Wallisellen, mit Kollektivunterschrift zu zweien; Walasinska, Aleksandra, polnische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Walker, Stefan, von Flüelen, in Full-Reuenthal, mit Kollektivunterschrift zu zweien; Wang, Yanhao, niederländischer Staatsangehöriger, in Freienbach, mit Kollektivunterschrift zu zweien; Warren, Srebrina, britische Staatsangehörige, in Wädenswil, mit Kollektivunterschrift zu zweien; Waser, Daniel, von Wolfenschiessen, in Berikon, mit Kollektivunterschrift zu zweien; Wauer, Marcel, deutscher Staatsangehöriger, in Tägerwilen, mit Kollektivunterschrift zu zweien; Weber-Thedy, Susanne, von Männedorf, in Männedorf, mit Kollektivunterschrift zu zweien; Weeber Brunal, Sheila, von Baden, in Neuenhof, mit Kollektivunterschrift zu zweien; Weilenmann, Marina, von Meilen, in Rapperswil-Jona, mit Kollektivunterschrift zu zweien; Werner, Nicolas, deutscher Staatsangehöriger, in Freienbach, mit Kollektivunterschrift zu zweien; Westphalen, Manuela, von Richterswil, in Thalwil, mit Kollektivunterschrift zu zweien; Widmer, Julia, von Risch, in Zürich, mit Kollektivunterschrift zu zweien; Widmer, Urs, von Gränichen, in Bassersdorf, mit Kollektivunterschrift zu zweien; Wiedmer, Sven, von Diepflingen, in Birmensdorf (ZH), mit Kollektivunterschrift zu zweien; Wiegel, Julian, deutscher Staatsangehöriger, in Riehen, mit Kollektivunterschrift zu zweien; Wiesenhütter, Marc, von Horgen, in Horgen, mit Kollektivunterschrift zu zweien; Willi, Roman, österreichischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Williams, Eric Samuel, von Treycovagnes, in Horgen, mit Kollektivunterschrift zu zweien; Wollschläger, Theresa Sabine, deutsche Staatsangehörige, in Uitikon, mit Kollektivunterschrift zu zweien; Wyss, Benjamin Philippe, von Wilderswil, in Zürich, mit Kollektivunterschrift zu zweien; Wyssling, Monica, von Stäfa, in Zürich, mit Kollektivunterschrift zu zweien; Wälchli, Karl, von Bern, in Zürich, mit Kollektivunterschrift zu zweien; Würsch, Marie Victoria, von Luzern, in Zürich, mit Kollektivunterschrift zu zweien; Wüst, Fabian, von Entlebuch, in Zug, mit Kollektivunterschrift zu zweien; Wüst, Tobias Michael Josef, von Oberriet (SG), in Zürich, mit Kollektivunterschrift zu zweien; Wüthrich, Patrick, von Thun, in Thun, mit Kollektivunterschrift zu zweien; Xiao, Minlan, chinesische Staatsangehörige, in Basel, mit Kollektivunterschrift zu zweien; Zaugg Portmann, Mascha Tamara Bong-Nan, von Röthenbach im Emmental, in Wollerau, mit Kollektivunterschrift zu zweien; Zellmayer, Jan Hendrik, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Zeuner, Sebastian, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien; Zilenaite, Lina, litauische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Zimmermann, Galyna, ukrainische Staatsangehörige, in Dübendorf, mit Kollektivunterschrift zu zweien; Zolj, Andrina, von Dübendorf, in Zürich, mit Kollektivunterschrift zu zweien; Zollinger, Marco Daniel, von Kloten, in Kaiseraugst, mit Kollektivunterschrift zu zweien; Zuberbühler, Jürg, von Urnäsch, in Winterthur, mit Kollektivunterschrift zu zweien; Zürcher, Renate, von Trub, in Würenlos, mit Kollektivunterschrift zu zweien; de Preux Stoffels, Isabelle, von Cologny und Venthône, in Erlenbach ZH, mit Kollektivunterschrift zu zweien; von Bonsdorff, Erik Martin, finnischer Staatsangehöriger, in Zollikon, mit Kollektivunterschrift zu zweien; von Glutz, Jean-Philippe Béat Marie, von Solothurn, in Zürich, mit Kollektivunterschrift zu zweien; Akinfenwa, Ayodele, britischer Staatsangehöriger, in Bubikon, mit Kollektivprokura zu zweien; Alabyan, Natalia, deutsche Staatsangehörige, in Seuzach, mit Kollektivprokura zu zweien; Albugues, Hélène Elisabeth, französische Staatsangehörige, in Zürich, mit Kollektivprokura zu zweien; Apostolopoulos, Ioannis, griechischer Staatsangehöriger, in Zürich, mit Kollektivprokura zu zweien; Bajwa, Faisal, von Bern, in Bern, mit Kollektivprokura zu zweien; Blazquez Gonzalez, Jesus, spanischer Staatsangehöriger, in Zürich, mit Kollektivprokura zu zweien; Bollinger, Patricia, von Zürich, in Plan-les-Ouates, mit Kollektivprokura zu zweien; Braun, Pascal, von Affeltrangen, in Bremgarten (AG), mit Kollektivprokura zu zweien; Bruns, Nicola, von Zürich, in Zürich, mit Kollektivprokura zu zweien; Bruppacher, Thomas, von Küsnacht (ZH), in Goldach, mit Kollektivprokura zu zweien; Bucci, Adelina, von Adliswil, in Tresa, mit Kollektivprokura zu zweien; Chakma, Sabbir, französischer Staatsangehöriger, in Zürich, mit Kollektivprokura zu zweien; Cunha Castro Meira, Diogo, portugiesischer Staatsangehöriger, in Zürich, mit Kollektivprokura zu zweien; Do Rosário, Marco Filipe, von Emmen, in Schaffhausen, mit Kollektivprokura zu zweien; Dobrowolska, Magdalena Klaudia, polnische Staatsangehörige, in Affoltern am Albis, mit Kollektivprokura zu zweien; Dyckx, Janine, deutsche Staatsangehörige, in Wettswil am Albis, mit Kollektivprokura zu zweien; El Daly, Sherif, von Kaltbrunn, in Wilen (TG), mit Kollektivprokura zu zweien; Frattini-Zanzi, Milva, von Mendrisio, in Mendrisio, mit Kollektivprokura zu zweien; Fresu, Marcello, von Uster, in Uster, mit Kollektivprokura zu zweien; Frey, Simone, von Bassersdorf, in Illnau-Effretikon, mit Kollektivprokura zu zweien; Friedli, Isabelle, von Zürich, in Eggenwil, mit Kollektivprokura zu zweien; Grez, Natascha, von Glarus Süd, in Rapperswil-Jona, mit Kollektivprokura zu zweien; Guerrero, Florencia Araceli, von Wiesendangen, in Greifensee, mit Kollektivprokura zu zweien; Gysi, Allison Danielle Partricia, von Aarau, in Aarau, mit Kollektivprokura zu zweien; Hartmann, Alice, von Luzein, in Zürich, mit Kollektivprokura zu zweien; Hernandez Canteli, Rodrigo, spanischer Staatsangehöriger, in Zürich, mit Kollektivprokura zu zweien; Heß, Sandra, von Windisch, in Ellikon an der Thur, mit Kollektivprokura zu zweien; Horvat, Denis, slowenischer Staatsangehöriger, in Zürich, mit Kollektivprokura zu zweien; Hoze, Maxime, französischer Staatsangehöriger, in Genève, mit Kollektivprokura zu zweien; Iseni, Arbnor, von Schaffhausen, in Thayngen, mit Kollektivprokura zu zweien; Jänicke, Melanie, von Bergdietikon, in Bergdietikon, mit Kollektivprokura zu zweien; Kammerlander, Sandra, von Amriswil, in Brütten, mit Kollektivprokura zu zweien; Kaptan, Nilkiz, genannt Nilkis, von Luzern, in Luzern, mit Kollektivprokura zu zweien; Karagiannis, Antonios, griechischer Staatsangehöriger, in Zürich, mit Kollektivprokura zu zweien; Keziban, Dilan, deutsche Staatsangehörige, in Zürich, mit Kollektivprokura zu zweien; Klinder, Arkadiusz, polnischer Staatsangehöriger, in Birmensdorf (ZH), mit Kollektivprokura zu zweien; Leyun Carrera, Fernando, spanischer Staatsangehöriger, in Zürich, mit Kollektivprokura zu zweien; Mandrioli, Valentina, italienische Staatsangehörige, in Genève, mit Kollektivprokura zu zweien; Manuzzi, Luca, von Rümlang, in Massagno, mit Kollektivprokura zu zweien; Messmann, Gisbert Alexander, deutscher Staatsangehöriger, in Othmarsingen, mit Kollektivprokura zu zweien; Mikos, Karolina, polnische Staatsangehörige, in Zürich, mit Kollektivprokura zu zweien; Moral, Tomas, von Vuisternens-devant-Romont, in Zürich, mit Kollektivprokura zu zweien; Natola, Michele, italienischer Staatsangehöriger, in Schaffhausen, mit Kollektivprokura zu zweien; Olender, Aleksandra Elzbieta, polnische Staatsangehörige, in Birmensdorf (ZH), mit Kollektivprokura zu zweien; Pitkänen, Marjo, finnische Staatsangehörige, in Zürich, mit Kollektivprokura zu zweien; Pleite Rodriguez, Alberto, spanischer Staatsangehöriger, in Zürich, mit Kollektivprokura zu zweien; Popovic, Sonja, von Küsnacht (ZH), in Zürich, mit Kollektivprokura zu zweien; Rasini, Antonio, von Ebikon, in Reiden, mit Kollektivprokura zu zweien; Roik, Michal, polnischer Staatsangehöriger, in Rüdlingen, mit Kollektivprokura zu zweien; Schilter, Anna, amerikanische Staatsangehörige, in Männedorf, mit Kollektivprokura zu zweien; Schrade, Martin Christof, von Appenzell, in Zürich, mit Kollektivprokura zu zweien; Shehu, Flora, von Rafz, in Rafz, mit Kollektivprokura zu zweien; Stier, Sandra Sigrid, deutsche Staatsangehörige, in Horgen, mit Kollektivprokura zu zweien; Sylaj, Valon, von Zumikon, in Dübendorf, mit Kollektivprokura zu zweien; Szadkowska, Anna, polnische Staatsangehörige, in Oberrieden, mit Kollektivprokura zu zweien; Tormen, Daniel, von Nesslau, in Thal, mit Kollektivprokura zu zweien; Vázquez Grande, Maria Carolina, spanische Staatsangehörige, in Zürich, mit Kollektivprokura zu zweien; Weber, Caroline, von Kaiserstuhl, in Zurzach, mit Kollektivprokura zu zweien; Weibel, Stephan Markus, von Kriens, in Horgen, mit Kollektivprokura zu zweien; Wilczewska, Sylwia, polnische Staatsangehörige, in Zürich, mit Kollektivprokura zu zweien; Wild, Julius, deutscher Staatsangehöriger, in Zürich, mit Kollektivprokura zu zweien. Eingetragene Personen neu oder mutierend: Abdel Hak, Nicolas, libanesischer Staatsangehöriger, in Genève, mit Kollektivunterschrift zu zweien [bisher: in Lausanne]; Bosshard, Stéphanie, von Winterthur, in Winterthur, mit Kollektivunterschrift zu zweien; Bätz, Dr. Volker, von Kloten, in Kloten, mit Kollektivunterschrift zu zweien; Carballa Pérez, Cristina, spanische Staatsangehörige, in Bonstetten, mit Kollektivunterschrift zu zweien; Carfagno Murray, Anna, italienische Staatsangehörige, in Jonen, mit Kollektivunterschrift zu zweien [bisher: Murray-Carfagno, Anna Gelsomina]; Casaus Irigoyen, Lorenzo, spanischer Staatsangehöriger, in Altendorf, mit Kollektivunterschrift zu zweien [bisher: in Horgen]; Crettaz, Anthony, von Anniviers, in Bülach, mit Kollektivunterschrift zu zweien; Gonzalez Martin, Manuel, spanischer Staatsangehöriger, in Stäfa, mit Kollektivunterschrift zu zweien [bisher: in Meilen]; Hoenig de Locarnini, Nicole, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien; Künzli, Stephan, von Küsnacht (ZH), in Zürich, mit Kollektivunterschrift zu zweien; Lopez, Matthias Paul, französischer Staatsangehöriger, in Männedorf, mit Kollektivunterschrift zu zweien [bisher: in Zürich]; Matthieu, Dr. Nicolas, von Neuchâtel, in Zürich, mit Kollektivunterschrift zu zweien [bisher: in Kilchberg (ZH)]; Murray, Robert, britischer Staatsangehöriger, in Feusisberg, mit Kollektivunterschrift zu zweien [bisher: in Zürich]; Mäder, Joël, von Mörschwil, in Bonstetten, mit Kollektivunterschrift zu zweien [bisher: in Zürich]; Müller, Raphael, von Luzern, in Beinwil (Freiamt), mit Kollektivunterschrift zu zweien [bisher: in Gisikon]; Nievergelt, Daniela, von Neckertal, in Zürich, mit Kollektivunterschrift zu zweien; Rodriguez Maftah, Leila, von La Chaux-de-Fonds, in Zürich, mit Kollektivunterschrift zu zweien; Roelfs, Nicole, von Gaiserwald, in Stäfa, mit Kollektivunterschrift zu zweien; Saliba, Gaylee, kanadische Staatsangehörige, in Meilen, mit Kollektivunterschrift zu zweien; Sauter, Tina, von Rümlang, in Maur, mit Kollektivunterschrift zu zweien [bisher: in Küsnacht (ZH)]; Saviana, Ryan, italienischer Staatsangehöriger, in Männedorf, mit Kollektivunterschrift zu zweien; Schiesser, Andreas, von Ennenda, in Wollerau, mit Kollektivunterschrift zu zweien [bisher: von Ennenda und Schwändi, in Feusisberg]; Stucki, Sven, von Oberglatt, in Niederhasli, mit Kollektivunterschrift zu zweien; Tonini, Martino, italienischer Staatsangehöriger, in Genève, mit Kollektivunterschrift zu zweien; Turon-Lagot, Stéphane, französischer Staatsangehöriger, in Regensdorf, mit Kollektivunterschrift zu zweien; Yildirim, Susanne, deutsche Staatsangehörige, in Altendorf, mit Kollektivunterschrift zu zweien [bisher: Kuchler, Susanne]; von Stechow, Clemens, deutscher Staatsangehöriger, in Zollikon, mit Kollektivunterschrift zu zweien; Asuni, Maurizio, italienischer Staatsangehöriger, in Wädenswil, mit Kollektivprokura zu zweien; Filik, Bekri Fikri, deutscher Staatsangehöriger, in Horgen, mit Kollektivprokura zu zweien [bisher: in Egg]; Fischer, Elias, von Basel, in Zürich, mit Kollektivprokura zu zweien; Frauenfelder, Adrian, von Winterthur, in Zürich, mit Kollektivprokura zu zweien; Gavric, Aleksandar, von Dürnten, in Zürich, mit Kollektivprokura zu zweien; Grau, Carmina, von Dietikon, in Winkel, mit Kollektivprokura zu zweien [bisher: in Bülach]; Ira, Alessandra, deutsche Staatsangehörige, in Zürich, mit Kollektivprokura zu zweien; Martinez, Myriam, von Freienstein-Teufen, in Opfikon, mit Kollektivprokura zu zweien; Müller, Patrick, von Lengnau (AG), in Reinach (BL), mit Kollektivprokura zu zweien [bisher: in Biel-Benken]; Nguyen-Ly, Thuy, von St. Gallen, in Opfikon, mit Kollektivprokura zu zweien; Sangiacomo, Luciano, von Niederhasli, in Niederhasli, mit Kollektivprokura zu zweien; Sgier, Priska, von Kemmental, in Freienbach, mit Kollektivprokura zu zweien; Soland, Jan, von Reinach (AG), in Rüschlikon, mit Kollektivprokura zu zweien.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "UBS AG",
+        "ehraid": 415520,
+        "uid": "CHE101329561",
+        "chid": "CH27030046464",
+        "legalSeatId": 2701,
+        "legalSeat": "Basel",
+        "registryOfCommerceId": 270,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-07-31",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "9ad6eced7d4618e0f72cb4dd",
+    "publication_date": "2026-02-23",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-23 | ZH | 2026-02-18 | <FT TYPE=\"F\">UBS AG</FT>, in <FT TYPE=\"S\">Zürich</FT> + <FT TYPE=\"S\">Basel</FT>, <FT TYPE=\"A\">CHE-101.329.561</FT>, Aktiengesellschaft (SHAB Nr. 28 vom 11.02.2026, Publ. 1006566187). Ausgeschiedene Personen und erloschene Unterschriften: Abderhalden, Patricia Denise, von Ebnat-Kappel, in Opfikon, mit Kollektivunterschrift zu zweien; Abresch, Chantal, von St. Gallen, in Wädenswil, mit Kollektivunterschrift zu zweien; Adams, Jayne Amanda, britische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Aepli, Nina Sibylle, von Meilen, in Uster, mit Kollektivunterschrift zu zweien; Allner, Sven, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Allum, Paul John David, britischer Staatsangehöriger, in Wädenswil, mit Kollektivunterschrift zu zweien; Almeida Soares, Bruno, portugiesischer Staatsangehöriger, in Schlieren, mit Kollektivunterschrift zu zweien; Alves Segundo, Ricardo, portugiesischer Staatsangehöriger, in Hombrechtikon, mit Kollektivunterschrift zu zweien; Ang, Dorothy, singapurische Staatsangehörige, in Unterseen, mit Kollektivunterschrift zu zweien; Aregger, Adrian, von Romoos, in Zürich, mit Kollektivunterschrift zu zweien; Askins, Marsha, amerikanische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Baines, Ian Brendan, britischer Staatsangehöriger, in Freienbach, mit Kollektivunterschrift zu zweien; Balan, Florentina-Daniela, rumänische Staatsangehörige, in Buchs (AG), mit Kollektivunterschrift zu zweien; Barnes, Marcus Clifton, amerikanischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Basler, Ulrich, von Bottenwil, in Affoltern am Albis, mit Kollektivunterschrift zu zweien; Bastianpillai, Shalini, britische Staatsangehörige, in Kilchberg (ZH), mit Kollektivunterschrift zu zweien; Baumann, Niklaus, genannt Nik, von Horgen, in Holziken, mit Kollektivunterschrift zu zweien; Baumgartner-Egloff, Susana Elizabeth, von Oberrieden, in Bülach, mit Kolle",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006566187)",
+      "030046464"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-23",
+        "sogcId": 1006576311,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 8490,
+        "registryOfCommerceJournalDate": "2026-02-18",
+        "message": "<FT TYPE=\"F\">UBS AG</FT>, in <FT TYPE=\"S\">Zürich</FT> + <FT TYPE=\"S\">Basel</FT>, <FT TYPE=\"A\">CHE-101.329.561</FT>, Aktiengesellschaft (SHAB Nr. 28 vom 11.02.2026, Publ. 1006566187). Ausgeschiedene Personen und erloschene Unterschriften: Abderhalden, Patricia Denise, von Ebnat-Kappel, in Opfikon, mit Kollektivunterschrift zu zweien; Abresch, Chantal, von St. Gallen, in Wädenswil, mit Kollektivunterschrift zu zweien; Adams, Jayne Amanda, britische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Aepli, Nina Sibylle, von Meilen, in Uster, mit Kollektivunterschrift zu zweien; Allner, Sven, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Allum, Paul John David, britischer Staatsangehöriger, in Wädenswil, mit Kollektivunterschrift zu zweien; Almeida Soares, Bruno, portugiesischer Staatsangehöriger, in Schlieren, mit Kollektivunterschrift zu zweien; Alves Segundo, Ricardo, portugiesischer Staatsangehöriger, in Hombrechtikon, mit Kollektivunterschrift zu zweien; Ang, Dorothy, singapurische Staatsangehörige, in Unterseen, mit Kollektivunterschrift zu zweien; Aregger, Adrian, von Romoos, in Zürich, mit Kollektivunterschrift zu zweien; Askins, Marsha, amerikanische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Baines, Ian Brendan, britischer Staatsangehöriger, in Freienbach, mit Kollektivunterschrift zu zweien; Balan, Florentina-Daniela, rumänische Staatsangehörige, in Buchs (AG), mit Kollektivunterschrift zu zweien; Barnes, Marcus Clifton, amerikanischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Basler, Ulrich, von Bottenwil, in Affoltern am Albis, mit Kollektivunterschrift zu zweien; Bastianpillai, Shalini, britische Staatsangehörige, in Kilchberg (ZH), mit Kollektivunterschrift zu zweien; Baumann, Niklaus, genannt Nik, von Horgen, in Holziken, mit Kollektivunterschrift zu zweien; Baumgartner-Egloff, Susana Elizabeth, von Oberrieden, in Bülach, mit Kollektivunterschrift zu zweien; Beeler, Martin, von Alpthal und Luzern, in Zürich, mit Kollektivunterschrift zu zweien; Bell, William, britischer Staatsangehöriger, in Meilen, mit Kollektivunterschrift zu zweien; Bernet, Markus, von Gommiswald, in Wilen (TG), mit Kollektivunterschrift zu zweien; Bhattacharya, Aakash, indischer Staatsangehöriger, in Opfikon, mit Kollektivunterschrift zu zweien; Billington, Andrew Mark, britischer Staatsangehöriger, in Freienbach, mit Kollektivunterschrift zu zweien; Bisig, Roman, von Einsiedeln, in Lachen, mit Kollektivunterschrift zu zweien; Blaja, Matei, von Wallisellen, in Wallisellen, mit Kollektivunterschrift zu zweien; Blaser, Stefan Daniel, von Langnau im Emmental, in Hedingen, mit Kollektivunterschrift zu zweien; Blättler, Stefanie Dominique, von Wolfenschiessen, in Kilchberg (ZH), mit Kollektivunterschrift zu zweien; Boniello, Bonita Alexandria, von Zürich, in Paradiso, mit Kollektivunterschrift zu zweien; Bonsted, Petter, norwegischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Borla, Claudio Francesco, von Monteceneri, in Küsnacht (ZH), mit Kollektivunterschrift zu zweien; Boucetta, Mohamed, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Bougioura, Vasiliki, griechische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Boussié, Laurence, französische Staatsangehörige, in Lausanne, mit Kollektivunterschrift zu zweien; Bradvic Hatibovic, Kerensa, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien; Bragoli, Luigi Emilio Matteo, britischer Staatsangehöriger, in Horgen, mit Kollektivunterschrift zu zweien; Brandenberg, Milena, von Lausanne, in Zürich, mit Kollektivunterschrift zu zweien; Brennwalder, Ueli, von Lommis, in Winterthur, mit Kollektivunterschrift zu zweien; Brignoli, Paolo, von Minusio, in Bellinzona, mit Kollektivunterschrift zu zweien; Brockett, Neil Haddon, von Oberrohrdorf, in Eglisau, mit Kollektivunterschrift zu zweien; Brookes, Beverly Ann, britische Staatsangehörige, in Wettswil am Albis, mit Kollektivunterschrift zu zweien; Bruen, Robin, genannt Rob, von Horgen, in Horgen, mit Kollektivunterschrift zu zweien; Brundish, David Keith, britischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Brunner, Julian, von Rain, in Steinhausen, mit Kollektivunterschrift zu zweien; Brydone, Nicole, von Menznau, in Wädenswil, mit Kollektivunterschrift zu zweien; Brüssow, Oliver, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Butler, Mathew, genannt Mat, britischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Butzerin, Peter, von Landquart, in Cham, mit Kollektivunterschrift zu zweien; Bähr, Sabine, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien; Cachej, Monty, deutscher Staatsangehöriger, in Adliswil, mit Kollektivunterschrift zu zweien; Canepa, Carolina, italienische Staatsangehörige, in Dübendorf, mit Kollektivunterschrift zu zweien; Casio, Madeleine, von Zollikon, in Volketswil, mit Kollektivunterschrift zu zweien; Cecere, Riccardo, italienischer Staatsangehöriger, in Lugano, mit Kollektivunterschrift zu zweien; Chani, Ajay, indischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Chellavadivunadar, Ramana, indischer Staatsangehöriger, in Muri bei Bern, mit Kollektivunterschrift zu zweien; Chernyaev, Andrey, russischer Staatsangehöriger, in Cham, mit Kollektivunterschrift zu zweien; Chouaki, Selma Yasmine, französische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Christen, Elisabeth Andrea, von Lützelflüh, in Winterthur, mit Kollektivunterschrift zu zweien; Christen, Thomas, von Freienbach, in Hinwil, mit Kollektivunterschrift zu zweien; Christen Buchli, Antoinette Maria, von Ebikon, in Kriens, mit Kollektivunterschrift zu zweien; Christopoulos, Paraskevas, griechischer Staatsangehöriger, in Meilen, mit Kollektivunterschrift zu zweien; Cocciolo, Michele, von Adliswil, in Adliswil, mit Kollektivunterschrift zu zweien; Coe, Gareth, britischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Conkling, Page, amerikanischer Staatsangehöriger, in Basel, mit Kollektivunterschrift zu zweien; Coppens, Jasper, niederländischer Staatsangehöriger, in Rüfenach, mit Kollektivunterschrift zu zweien; Courtois, Jean-Michel Gérard, von Genève, in Lachen, mit Kollektivunterschrift zu zweien; Cusack, Eoghan, irischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Cwik, Aleksandra, polnische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Da Silva Subtil Ladeira, Hugo, portugiesischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Daftari, Mayur, indischer Staatsangehöriger, in Opfikon, mit Kollektivunterschrift zu zweien; De Almeida Tovar Faro, Luiz, portugiesischer Staatsangehöriger, in Nürnberg (DE), mit Kollektivunterschrift zu zweien; De Gioia, Marco, italienischer Staatsangehöriger, in Wetzikon (ZH), mit Kollektivunterschrift zu zweien; De Nadai, Claudio, italienischer Staatsangehöriger, in Rapperswil-Jona, mit Kollektivunterschrift zu zweien; De Nardi, Gulnur, russische Staatsangehörige, in Winterthur, mit Kollektivunterschrift zu zweien; De Vecchi, Claudia, von Zürich, in Rüschlikon, mit Kollektivunterschrift zu zweien; Deck, Laura, französische Staatsangehörige, in Eschenbach (SG), mit Kollektivunterschrift zu zweien; Decker, Alexandra, deutsche Staatsangehörige, in Erlenbach (ZH), mit Kollektivunterschrift zu zweien; Demo Panic, Jasmina, von Winterthur, in Richterswil, mit Kollektivunterschrift zu zweien; Dennehy, Andrew, irischer Staatsangehöriger, in Walchwil, mit Kollektivunterschrift zu zweien; Diaz Ubeda, Gerard Daniel, spanischer Staatsangehöriger, in Mettmenstetten, mit Kollektivunterschrift zu zweien; Dill, Christian Arno Alexander, deutscher Staatsangehöriger, in Zollikon, mit Kollektivunterschrift zu zweien; Donati, Marco, von Arosa, in Horgen, mit Kollektivunterschrift zu zweien; Donovan, Barry, irischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Dowhanycz, Hanna, polnische Staatsangehörige, in Mellingen, mit Kollektivunterschrift zu zweien; Drevon, Candice Fleur Marion, französische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Dreyfus, Sarah Hélène Marie Angélique, von Ebikon, in Ottenbach, mit Kollektivunterschrift zu zweien; Dubacher Amrhein, Gertrud, genannt Trudy, von Gurtnellen, in Hünenberg, mit Kollektivunterschrift zu zweien; Duggan, Mary, irische Staatsangehörige, in Thalwil, mit Kollektivunterschrift zu zweien; Dätwiler, Andreas, von Bözberg, in Mettmenstetten, mit Kollektivunterschrift zu zweien; Dîrla, Mihaela-Teodora, rumänische Staatsangehörige, in Fällanden, mit Kollektivunterschrift zu zweien; Dütsch, Jacqueline Lessa, von Winterthur, in Thalwil, mit Kollektivunterschrift zu zweien; Edel, Alexander, österreichischer Staatsangehöriger, in Uster, mit Kollektivunterschrift zu zweien; Edelmann, Severine, von Basel, in Wettswil am Albis, mit Kollektivunterschrift zu zweien; Eisele, Bernhard Björn, von Bern, in Kilchberg (ZH), mit Kollektivunterschrift zu zweien; Ellmann, Markus Josef, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Emmenegger, Anita, von Sargans, in Aarau, mit Kollektivunterschrift zu zweien; Emmenegger, Roman, von Hasle (LU), in Bülach, mit Kollektivunterschrift zu zweien; Eng, Thomas Michael, von Zürich, in Bülach, mit Kollektivunterschrift zu zweien; Engeler, David, von Aadorf, in Zürich, mit Kollektivunterschrift zu zweien; Erb, Ernst, von Basel, in Kriens, mit Kollektivunterschrift zu zweien; Erdt, Susanne, deutsche Staatsangehörige, in Romanshorn, mit Kollektivunterschrift zu zweien; Etter, Silvan, von Schnottwil, in Zürich, mit Kollektivunterschrift zu zweien; Fabbian, Elena, italienische Staatsangehörige, in Zug, mit Kollektivunterschrift zu zweien; Fagotto, Tiziana, italienische Staatsangehörige, in Küsnacht (ZH), mit Kollektivunterschrift zu zweien; Falco, Mario, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien; Fawehinmi, Abimbola, genannt Bimbola, britischer Staatsangehöriger, in Freienbach, mit Kollektivunterschrift zu zweien; Feige, Golo, deutscher Staatsangehöriger, in Küsnacht (ZH), mit Kollektivunterschrift zu zweien; Feratovic, Lana, neuseeländische Staatsangehörige, in Bassersdorf, mit Kollektivunterschrift zu zweien; Ferraz Gil, Sergio, von Etoy, in Etoy, mit Kollektivunterschrift zu zweien; Fischbacher, Marco Peter, von Neckertal, in Wangen-Brüttisellen, mit Kollektivunterschrift zu zweien; Flek, Hotimir Dragan, deutscher Staatsangehöriger, in Herrliberg, mit Kollektivunterschrift zu zweien; Franchi, Dominic, deutscher Staatsangehöriger, in Horgen, mit Kollektivunterschrift zu zweien; Frankel, Alexandra, amerikanische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Franz, Thomas Christian, von Frick, in Hausen (AG), mit Kollektivunterschrift zu zweien; Frei, Tobias, von Basel, in Zürich, mit Kollektivunterschrift zu zweien; Frei-Sarmiento, Dian, von Herdern, in Quarten, mit Kollektivunterschrift zu zweien; Freiherr von Schröder, Mirko Hendrik Martin, deutscher Staatsangehöriger, in Birmensdorf (ZH), mit Kollektivunterschrift zu zweien; Freiin von dem Bussche-Haddenhausen, Verena, deutsche Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Fresenga, Patrick Dante, von Merenschwand, in Winterthur, mit Kollektivunterschrift zu zweien; Frey, Jan Gerhard, deutscher Staatsangehöriger, in Thalwil, mit Kollektivunterschrift zu zweien; Fritsch, Horst, von Oberburg, in Wettingen, mit Kollektivunterschrift zu zweien; Früh, Jan, von Neckertal, in Unterentfelden, mit Kollektivunterschrift zu zweien; Fuchs, Norbert, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Furrer, Thomas, von Gossau (ZH), in St. Gallen, mit Kollektivunterschrift zu zweien; Furrer-Turcic, Tanja, von Kreuzlingen, in Hinwil, mit Kollektivunterschrift zu zweien; Förster, Michael, von Basel, in Meilen, mit Kollektivunterschrift zu zweien; Ganter, Cristina, von Birmensdorf (ZH), in Unterlunkhofen, mit Kollektivunterschrift zu zweien; Gash, Elgadaf, von Urdorf, in Zürich, mit Kollektivunterschrift zu zweien; Gasser, Philipp, genannt Philippe, von Rüschegg, in Wettswil am Albis, mit Kollektivunterschrift zu zweien; Gaurilcikas, Martynas, litauischer Staatsangehöriger, in Wettswil am Albis, mit Kollektivunterschrift zu zweien; Gba, Michel, französischer Staatsangehöriger, in Oberentfelden, mit Kollektivunterschrift zu zweien; Gehr, Marcus Karl, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Gessner, Nathalie, von Lutry, in Maur, mit Kollektivunterschrift zu zweien; Gfeller, Martin, von Lützelflüh, in Volketswil, mit Kollektivunterschrift zu zweien; Giannios, Nikolaos, griechischer Staatsangehöriger, in Stallikon, mit Kollektivunterschrift zu zweien; Giebel, Lars Peter, von Lyss, in Zufikon, mit Kollektivunterschrift zu zweien; Giovanoli, Carlo Andrea, von Bregaglia, in Fällanden, mit Kollektivunterschrift zu zweien; Gnielinski, Florian Volker Kurt, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Gonzalez Torres, Humberto Raimundo, von Frauenfeld, in Frauenfeld, mit Kollektivunterschrift zu zweien; Gonçalves Ferreira, Márcia, portugiesische Staatsangehörige, in Männedorf, mit Kollektivunterschrift zu zweien; Graziani, Fabio, italienischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Gredenhoff, Mikael, von Baar, in Baar, mit Kollektivunterschrift zu zweien; Grimm, Thomas Martin, von Langnau im Emmental, in Altendorf, mit Kollektivunterschrift zu zweien; Grippa, Filippo, italienischer Staatsangehöriger, in Horgen, mit Kollektivunterschrift zu zweien; Grob, Melanie, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien; Grünenfelder, Stefanie, von Klingnau, in Leuggern, mit Kollektivunterschrift zu zweien; Guha, Soma, indische Staatsangehörige, in Baar, mit Kollektivunterschrift zu zweien; Gupta, Shilpa, indische Staatsangehörige, in Basel, mit Kollektivunterschrift zu zweien; Gurwell, Gordon Birger, deutscher Staatsangehöriger, in Uetikon am See, mit Kollektivunterschrift zu zweien; Güllner, Pascale, von Marly, in Freienbach, mit Kollektivunterschrift zu zweien; Haas, Alexandra, von Romoos, in Zürich, mit Kollektivunterschrift zu zweien; Hagelganz, Kai-Uwe, von Horgen, in Horgen, mit Kollektivunterschrift zu zweien; Hagens, Michiel, von Uebeschi, in Stäfa, mit Kollektivunterschrift zu zweien; Halter, Ralph, von Marbach (SG), in Meilen, mit Kollektivunterschrift zu zweien; Hampson Staples, Marianne, britische Staatsangehörige, in Thalwil, mit Kollektivunterschrift zu zweien; Haralalka, Neeraj, singapurischer Staatsangehöriger, in Thalwil, mit Kollektivunterschrift zu zweien; Harnisch, Peter, von Wahlern, in Münsingen, mit Kollektivunterschrift zu zweien; Hauenstein, Nette, von Ehrendingen, in Hüntwangen, mit Kollektivunterschrift zu zweien; Hausheer, Markus, von Affoltern am Albis, in Aeugst am Albis, mit Kollektivunterschrift zu zweien; Hehle, Raphaela, österreichische Staatsangehörige, in Horgen, mit Kollektivunterschrift zu zweien; Heinzmann, Livia, von Visperterminen, in Zürich, mit Kollektivunterschrift zu zweien; Held, Julia, von Rüegsau, in Wohlen (AG), mit Kollektivunterschrift zu zweien; Hempen, Stefan, deutscher Staatsangehöriger, in Ingenbohl, mit Kollektivunterschrift zu zweien; Henry, Mark Robert, britischer Staatsangehöriger, in Männedorf, mit Kollektivunterschrift zu zweien; Henshaw, Craig, kanadischer Staatsangehöriger, in Zug, mit Kollektivunterschrift zu zweien; Heshusius Ahrens, Alex, von Rothrist, in Horgen, mit Kollektivunterschrift zu zweien; Hess, Christine, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Heyne, Gregor, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Himmelsbach, Steven, von Basel, in Herrliberg, mit Kollektivunterschrift zu zweien; Hirst, Mark Stefan, von Zunzgen, in Wölflinswil, mit Kollektivunterschrift zu zweien; Hirzel, Christoph, von Uster, in Wädenswil, mit Kollektivunterschrift zu zweien; Hjeltnes, Ken, norwegischer Staatsangehöriger, in Seuzach, mit Kollektivunterschrift zu zweien; Ho, Teck Min, singapurischer Staatsangehöriger, in Wallisellen, mit Kollektivunterschrift zu zweien; Hoffmann, Riccarda, deutsche Staatsangehörige, in Thalwil, mit Kollektivunterschrift zu zweien; Hrvol&apos;ová, Kristína, slowakische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Huber, Caroline Barbara, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien; Huber, Isabelle Christa, von Alberswil, in Winterthur, mit Kollektivunterschrift zu zweien; Huberty, Nicolas, französischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Hug, Dovile, litauische Staatsangehörige, in Geroldswil, mit Kollektivunterschrift zu zweien; Hug, Isidor, von Quarten, in Bonstetten, mit Kollektivunterschrift zu zweien; Hugentobler, Christoph, von Uzwil, in Zufikon, mit Kollektivunterschrift zu zweien; Hulliger, Thomas, von Heimiswil, in Zürich, mit Kollektivunterschrift zu zweien; Hunn, Christian, von Egliswil, in Zollikon, mit Kollektivunterschrift zu zweien; Häcki, Anna, von Zürich, in Küsnacht (ZH), mit Kollektivunterschrift zu zweien; Hälg, Lukas, von Niederhelfenschwil, in Zürich, mit Kollektivunterschrift zu zweien; Hänni, Frank, von Wengi, in Zürich, mit Kollektivunterschrift zu zweien; Höhn, David, von Wädenswil, in Wädenswil, mit Kollektivunterschrift zu zweien; Hüsser, Urban Ivo, von Rudolfstetten-Friedlisberg, in Steinhausen, mit Kollektivunterschrift zu zweien; Iselin, Thais, von Küsnacht (ZH), in Stäfa, mit Kollektivunterschrift zu zweien; Iseppi, Tanja, von Brusio, in Aarau, mit Kollektivunterschrift zu zweien; Issner, Laurent, französischer Staatsangehöriger, in Baar, mit Kollektivunterschrift zu zweien; Jaggi, Cyril Philippe Urs, von Lenk, in Fällanden, mit Kollektivunterschrift zu zweien; Jajesniak, Mariusz, polnischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Jarak, Drazen, von Weinfelden, in Zürich, mit Kollektivunterschrift zu zweien; Jayaprakash, Lekshmi, indische Staatsangehörige, in Adliswil, mit Kollektivunterschrift zu zweien; Jegi Caballero, Marlon, von Arosa, in Zürich, mit Kollektivunterschrift zu zweien; Jones, Simon, britischer Staatsangehöriger, in Zumikon, mit Kollektivunterschrift zu zweien; Jung, Helen, österreichische Staatsangehörige, in Uetikon am See, mit Kollektivunterschrift zu zweien; Jäggi, Stefan, von Niederbuchsiten, in Buchs (AG), mit Kollektivunterschrift zu zweien; Kaiser, Camila, von Zürich, in Fällanden, mit Kollektivunterschrift zu zweien; Kaiser, Martin Daniel, deutscher Staatsangehöriger, in Luzern, mit Kollektivunterschrift zu zweien; Karanovic, Dragan, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Karic, Ermina, von Zug, in Brütten, mit Kollektivunterschrift zu zweien; Karpinski, Pawel, polnischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Karthik Kuendig, Deepthi, indische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Karvellas, John Alexander, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien; Kasten, Norman Vincent, deutscher Staatsangehöriger, in Wädenswil, mit Kollektivunterschrift zu zweien; Keidel, Sandra, von Zürich, in Wädenswil, mit Kollektivunterschrift zu zweien; Kemp, Oksana, ukrainische Staatsangehörige, in Frauenfeld, mit Kollektivunterschrift zu zweien; Khokhar, Nafay, von Ehrendingen, in Regensdorf, mit Kollektivunterschrift zu zweien; Kienzi, Florian Carlo, von Zürich, in Horgen, mit Kollektivunterschrift zu zweien; Kis, Dorottya, ungarische Staatsangehörige, in Birmensdorf (ZH), mit Kollektivunterschrift zu zweien; Knöpfli, Daniel, von Roggwil (TG), in Richterswil, mit Kollektivunterschrift zu zweien; Koller, Matthias Christian, von Meierskappel, in Baar, mit Kollektivunterschrift zu zweien; Kotomanova, Mariia, deutsche Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Kotov, Mikhail, britischer Staatsangehöriger, in Zug, mit Kollektivunterschrift zu zweien; Kramer, Chimie, von Volketswil, in Zürich, mit Kollektivunterschrift zu zweien; Krefft, Wojciech, polnischer Staatsangehöriger, in Adliswil, mit Kollektivunterschrift zu zweien; Kruse, Henning, deutscher Staatsangehöriger, in Stallikon, mit Kollektivunterschrift zu zweien; Kuhlee, Katrin, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien; Kuhlen, Michel Christian, von Langnau im Emmental, in Lenzburg, mit Kollektivunterschrift zu zweien; Kukic, Ana, von Zürich, in Wallisellen, mit Kollektivunterschrift zu zweien; Kunz, Christian, von Regensberg, in Oberrieden, mit Kollektivunterschrift zu zweien; Kunze, Frank, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Lacalle Goytre, Javier, spanischer Staatsangehöriger, in Kilchberg (ZH), mit Kollektivunterschrift zu zweien; Ladu, Stefano, von Winterthur, in Winterthur, mit Kollektivunterschrift zu zweien; Lakhani, Kinner, britischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Landolt, Peter, von Glarus Nord, in Zürich, mit Kollektivunterschrift zu zweien; Laplace, Edwige Marguerite, französische Staatsangehörige, in Dübendorf, mit Kollektivunterschrift zu zweien; Lehmann, André, von Eggiwil, in Zürich, mit Kollektivunterschrift zu zweien; Lein, Claudia Anette, deutsche Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Leu, Dominique, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien; Leuck, Aymon Dieter Ernst, deutscher Staatsangehöriger, in Urdorf, mit Kollektivunterschrift zu zweien; Lieff, Alexander, schwedischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Liekmeier, Ralf Christian, deutscher Staatsangehöriger, in Horgen, mit Kollektivunterschrift zu zweien; Lin, Hsiu-Fen, von Zürich, in Meilen, mit Kollektivunterschrift zu zweien; Linder, Jürg, von Linden, in Zürich, mit Kollektivunterschrift zu zweien; Lo, Ka Yiu Hercus, singapurischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Loh, Terence, singapurischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Lohéac, Aloïs Pierre-Michel Marie, französischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Loiodice, Matteo, von Buchs (ZH), in Hagenbuch, mit Kollektivunterschrift zu zweien; Lubarda, Franziska, deutsche Staatsangehörige, in Stäfa, mit Kollektivunterschrift zu zweien; Luisoli, Roger, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien; Lynch, Nigel, irischer Staatsangehöriger, in Zug, mit Kollektivunterschrift zu zweien; Lékai, Bianka, ungarische Staatsangehörige, in Pfäffikon, mit Kollektivunterschrift zu zweien; López Carnero, Carmen Rosa, spanische Staatsangehörige, in Horgen, mit Kollektivunterschrift zu zweien; Lüscher, Marc, von Gondiswil, in Winterthur, mit Kollektivunterschrift zu zweien; Ma Willi, Lori, von Domat/Ems, in Richterswil, mit Kollektivunterschrift zu zweien; Magne, Thérèse, von Vuisternens-devant-Romont, in Uetikon am See, mit Kollektivunterschrift zu zweien; Mailhes, Christian Erwin Paul, französischer Staatsangehöriger, in Annecy-le-Vieux (FR), mit Kollektivunterschrift zu zweien; Mani, Hans-Peter, von Diemtigen, in Uster, mit Kollektivunterschrift zu zweien; Mani, Sibylle, von Andeer, in Hedingen, mit Kollektivunterschrift zu zweien; Marais, Charl Pierre, von Rüschlikon, in Zollikon, mit Kollektivunterschrift zu zweien; Marais, Thelo, von Rüschlikon, in Zollikon, mit Kollektivunterschrift zu zweien; Margelist-Brogli, Renée, von Zeiningen, in Herrliberg, mit Kollektivunterschrift zu zweien; Marra, Sandro Antonio, von Schaffhausen, in Seuzach, mit Kollektivunterschrift zu zweien; Marti, Florian, von Basel und Ruppoldsried, in Zürich, mit Kollektivunterschrift zu zweien; Martini, Marta, italienische Staatsangehörige, in Dietlikon, mit Kollektivunterschrift zu zweien; Martschke, Rainer, deutscher Staatsangehöriger, in Dübendorf, mit Kollektivunterschrift zu zweien; Marutyan Scherrer, Naira, von Willisau, in Volketswil, mit Kollektivunterschrift zu zweien; Massie, Andrew Ian, britischer Staatsangehöriger, in Basel, mit Kollektivunterschrift zu zweien; Mazaira Martinez, David, spanischer Staatsangehöriger, in Kilchberg (ZH), mit Kollektivunterschrift zu zweien; Mc Gilvray, Alessandro, italienischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; McLachlan, Ewan, britischer Staatsangehöriger, in Horgen, mit Kollektivunterschrift zu zweien; McNulty, Karen, iranische Staatsangehörige, in Oberägeri, mit Kollektivunterschrift zu zweien; Meier, Pascal Marc, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien; Mellioret, Fabienne Valérie, von Montpreveyres, in Erlenbach (ZH), mit Kollektivunterschrift zu zweien; Menges, Georg, deutscher Staatsangehöriger, in Wangen-Brüttisellen, mit Kollektivunterschrift zu zweien; Micheli, Alessandro, italienischer Staatsangehöriger, in Erlenbach (ZH), mit Kollektivunterschrift zu zweien; Morillon, Julien, französischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Moser, Jérôme Colin, von Zäziwil, in Zürich, mit Kollektivunterschrift zu zweien; Moser, Thomas, von Untereggen, in Wangen-Brüttisellen, mit Kollektivunterschrift zu zweien; Mukhija, Arun, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien; Munaretto, Sophie, von Porza, in Zürich, mit Kollektivunterschrift zu zweien; Mwandembe, Ebed Melech, von Dietlikon, in Wallisellen, mit Kollektivunterschrift zu zweien; Müller, Christian, deutscher Staatsangehöriger, in Freienwil, mit Kollektivunterschrift zu zweien; Müller, Ekaterina, deutsche Staatsangehörige, in Freienwil, mit Kollektivunterschrift zu zweien; Müller, Milan, von Baar, in Feusisberg, mit Kollektivunterschrift zu zweien; Münstermann, Dr. Matthias, deutscher Staatsangehöriger, in Freienbach, mit Kollektivunterschrift zu zweien; Naborczyk, Iwona, polnische Staatsangehörige, in Uster, mit Kollektivunterschrift zu zweien; Nacheva, Maria, von Küsnacht (ZH), in Küsnacht (ZH), mit Kollektivunterschrift zu zweien; Nanzer, Olivier, von Brig-Glis, in Sion, mit Kollektivunterschrift zu zweien; Natividade Martins Pereira, Maria João, portugiesische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Necas, Martin, von Zug, in Baar, mit Kollektivunterschrift zu zweien; Neumann, Daniel, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Nguyen, Mimi T., amerikanische Staatsangehörige, in Thalwil, mit Kollektivunterschrift zu zweien; Nguyen Reid, Hong Anne, genannt Anh, französische Staatsangehörige, in Genève, mit Kollektivunterschrift zu zweien; Ni, Ming-Qiang, deutscher Staatsangehöriger, in Lachen, mit Kollektivunterschrift zu zweien; Nick, Patrick Konrad, von Oetwil an der Limmat, in Obersiggenthal, mit Kollektivunterschrift zu zweien; Nicod, Jean-David, von Vulliens, in Zürich, mit Kollektivunterschrift zu zweien; Niederer-Koller, Hildegard, von St. Gallen, in Eschlikon, mit Kollektivunterschrift zu zweien; Niedermann, Agata, von Zürich, in Männedorf, mit Kollektivunterschrift zu zweien; Nikkel, Bruce, kanadischer Staatsangehöriger, in Grenchen, mit Kollektivunterschrift zu zweien; Nitsak, Anton, ukrainischer Staatsangehöriger, in Wädenswil, mit Kollektivunterschrift zu zweien; Nützi, Michael, von Wolfwil, in Olten, mit Kollektivunterschrift zu zweien; O&apos;Neill, Brian, irischer Staatsangehöriger, in Küsnacht (ZH), mit Kollektivunterschrift zu zweien; Oblinger, Caroll Petra, von Langendorf, in Erlinsbach (AG), mit Kollektivunterschrift zu zweien; Oehler, Fabian, von Arboldswil, in Zürich, mit Kollektivunterschrift zu zweien; Ottonello Alchera, Matteo, italienischer Staatsangehöriger, in Lugano, mit Kollektivunterschrift zu zweien; Paciorek, Janina, deutsche Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Paganin, Anna Caroline, schwedische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Palladino, Vito, italienischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Paluselli, Claudia, von Zürich, in Fischbach-Göslikon, mit Kollektivunterschrift zu zweien; Pandya, Mansi, britische Staatsangehörige, in Uetikon am See, mit Kollektivunterschrift zu zweien; Papapoulios, Konstantinos, von St. Gallen, in Oberrohrdorf, mit Kollektivunterschrift zu zweien; Parasuraman, Balaji, indischer Staatsangehöriger, in Opfikon, mit Kollektivunterschrift zu zweien; Peacock, Jo-Wayne Lorraine, von Zollikon, in Zumikon, mit Kollektivunterschrift zu zweien; Pegram, Mark, britischer Staatsangehöriger, in Kappel am Albis, mit Kollektivunterschrift zu zweien; Peier, Anxhelina, albanische Staatsangehörige, in Wiesendangen, mit Kollektivunterschrift zu zweien; Pereira, Merlyn, portugiesische Staatsangehörige, in Dübendorf, mit Kollektivunterschrift zu zweien; Pergjokaj, Alfred, von Schafisheim, in Zürich, mit Kollektivunterschrift zu zweien; Pesek, Peter, von Zürich, in Birmensdorf (ZH), mit Kollektivunterschrift zu zweien; Peters, Wolfram Detlev Bernhard, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Pilo de la Fuente, Pablo, spanischer Staatsangehöriger, in Genève, mit Kollektivunterschrift zu zweien; Pollmann, Sarah, deutsche Staatsangehörige, in Stäfa, mit Kollektivunterschrift zu zweien; Poole, Deirdre Mary, von Schlieren, in Wetzikon (ZH), mit Kollektivunterschrift zu zweien; Popov, Egor, russischer Staatsangehöriger, in Luzern, mit Kollektivunterschrift zu zweien; Pottage, John, britischer Staatsangehöriger, in Beaconsfield (UK) (GB), mit Kollektivunterschrift zu zweien; Povolny, Katrin, österreichische Staatsangehörige, in Oetwil am See, mit Kollektivunterschrift zu zweien; Prasad, Rishi Raj, irischer Staatsangehöriger, in Adliswil, mit Kollektivunterschrift zu zweien; Preuss, Olivier, von Ursy, in Wädenswil, mit Kollektivunterschrift zu zweien; Pulinckx, Dora, belgische Staatsangehörige, in Meilen, mit Kollektivunterschrift zu zweien; Pöthke-Hohenberger, Ellen Eveline Sofie, deutsche Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Rada, Raluca-Despina, rumänische Staatsangehörige, in Wettswil am Albis, mit Kollektivunterschrift zu zweien; Radaelli, Carlo, italienischer Staatsangehöriger, in Winterthur, mit Kollektivunterschrift zu zweien; Raju, Kashmira, indische Staatsangehörige, in Obersiggenthal, mit Kollektivunterschrift zu zweien; Rakich, Aaron, irischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Rakich, Darin, britischer Staatsangehöriger, in Küsnacht (ZH), mit Kollektivunterschrift zu zweien; Rathgeb, Andreas Peter Christian, von Zürich, in Otelfingen, mit Kollektivunterschrift zu zweien; Raus, Barbara, italienische Staatsangehörige, in Männedorf, mit Kollektivunterschrift zu zweien; Reaud, Mathieu, französischer Staatsangehöriger, in Baar, mit Kollektivunterschrift zu zweien; Reder, Joachim, deutscher Staatsangehöriger, in Männedorf, mit Kollektivunterschrift zu zweien; Reichenbach, Walter Georg, von Saanen, in Zug, mit Kollektivunterschrift zu zweien; Reising, John, amerikanischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Rendina, Marc-Rocco, deutscher Staatsangehöriger, in Niederweningen, mit Kollektivunterschrift zu zweien; Resenberg, Gerd, deutscher Staatsangehöriger, in Wädenswil, mit Kollektivunterschrift zu zweien; Richle, Adrian, von Bütschwil-Ganterschwil, in Zürich, mit Kollektivunterschrift zu zweien; Riesen, Andreas, von Rüschegg, in Birrwil, mit Kollektivunterschrift zu zweien; Riethmann, Oliver, von Zürich, in Fischbach-Göslikon, mit Kollektivunterschrift zu zweien; Rigodanzo, Andrea, italienischer Staatsangehöriger, in Bern, mit Kollektivunterschrift zu zweien; Rodrigues Pereira, Patricia, portugiesische Staatsangehörige, in Fällanden, mit Kollektivunterschrift zu zweien; Roth, Marco Patrick, von Herbetswil, in Oberdorf (SO), mit Kollektivunterschrift zu zweien; Rukkers, Brid Nóra, von Meilen, in Meilen, mit Kollektivunterschrift zu zweien; Rusaikin, Maria, russische Staatsangehörige, in Baar, mit Kollektivunterschrift zu zweien; Räber, Marc Peter, von Luzern, in Winterthur, mit Kollektivunterschrift zu zweien; Rérat, François, von Haute-Ajoie, in Zürich, mit Kollektivunterschrift zu zweien; Rüegg, Rolf, von St. Gallenkappel, in Küsnacht (ZH), mit Kollektivunterschrift zu zweien; Rüegg, Valentin, von Winterthur, in Winterthur, mit Kollektivunterschrift zu zweien; Rüst, Urs, von Winterthur, in Männedorf, mit Kollektivunterschrift zu zweien; Rütti Mohr, Michael, von Affeltrangen, in Mettmenstetten, mit Kollektivunterschrift zu zweien; Rüttimann, Dr. Markus Walter, von Weinfelden, in Zürich, mit Kollektivunterschrift zu zweien; Saas, Alix, französischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Saccinni, Fabio, italienischer Staatsangehöriger, in Mägenwil, mit Kollektivunterschrift zu zweien; Sager, Kathrin Franziska, von Egnach, in Zürich, mit Kollektivunterschrift zu zweien; Salzmann, Dominique, von Maschwanden, in Freienbach, mit Kollektivunterschrift zu zweien; Sangaletti, Luca, von Adliswil, in Risch, mit Kollektivunterschrift zu zweien; Sangha, Gisela, österreichische Staatsangehörige, in Basel, mit Kollektivunterschrift zu zweien; Santos Pascoal, Rui Miguel, portugiesischer Staatsangehöriger, in Gipf-Oberfrick, mit Kollektivunterschrift zu zweien; Sayyad, Karim Philip, schwedischer Staatsangehöriger, in Thalwil, mit Kollektivunterschrift zu zweien; Scacchi, Pietro Casimiro Maria, von Hemberg, in Zürich, mit Kollektivunterschrift zu zweien; Schatz, Eric, amerikanischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Schenk, Roberto, von Unterlangenegg, in Wädenswil, mit Kollektivunterschrift zu zweien; Schmid, Andreas, von Knutwil, in Küsnacht (ZH), mit Kollektivunterschrift zu zweien; Schmid-Narciss, Elena, deutsche Staatsangehörige, in Benken (SG), mit Kollektivunterschrift zu zweien; Schmider, Markus Daniel, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Schmitt, Andreas, deutscher Staatsangehöriger, in Sulzbach (DE), mit Kollektivunterschrift zu zweien; Schälchli, Anita Linda, von Zürich, in Urdorf, mit Kollektivunterschrift zu zweien; Schärer, Evelyne, von Richterswil, in Richterswil, mit Kollektivunterschrift zu zweien; Scopazzini, Sacha, von Lugano, in Carouge (GE), mit Kollektivunterschrift zu zweien; Seidler, Alexander, von Zürich, in Bottighofen, mit Kollektivunterschrift zu zweien; Seitz, Andrea, von Ernen, in Winterthur, mit Kollektivunterschrift zu zweien; Senn, Jürg, von Gansingen, in Mellingen, mit Kollektivunterschrift zu zweien; Senn, Pek, singapurische Staatsangehörige, in Stäfa, mit Kollektivunterschrift zu zweien; Sensani, Annalisa, italienische Staatsangehörige, in Uitikon, mit Kollektivunterschrift zu zweien; Sevrain, Antoine Michel Romain, französischer Staatsangehöriger, in Küsnacht (ZH), mit Kollektivunterschrift zu zweien; Shah, Yatin Lucas, von Einsiedeln, in Uitikon, mit Kollektivunterschrift zu zweien; Shaham, Raanan, von Chiasso, in Richterswil, mit Kollektivunterschrift zu zweien; Shanmugasundaram, Ambika, von Wangen-Brüttisellen, in Wangen-Brüttisellen, mit Kollektivunterschrift zu zweien; Sidella, Marilena, italienische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Siegrist, Marc, von Madiswil, in Buchs (ZH), mit Kollektivunterschrift zu zweien; Silva Ventura, Rui, portugiesischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Silvani, Christian Peter, britischer Staatsangehöriger, in Feusisberg, mit Kollektivunterschrift zu zweien; Simmen, Hanspeter, von Realp, in Lenzburg, mit Kollektivunterschrift zu zweien; Sipahi, Aliye Birnur, deutsche Staatsangehörige, in Divonne (FR), mit Kollektivunterschrift zu zweien; Smith, James, britischer Staatsangehöriger, in Bellikon, mit Kollektivunterschrift zu zweien; Sonderegger, Jürg Marcel, von Berneck, in Winterthur, mit Kollektivunterschrift zu zweien; Sonntag, Jochen Volker, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Souza Farhat wife of Willemstein, Stela, niederländische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Spasojevic, Predrag, surinamischer Staatsangehöriger, in Lausanne, mit Kollektivunterschrift zu zweien; Spehr, Renate, von Langnau im Emmental, in Kilchberg (ZH), mit Kollektivunterschrift zu zweien; Stadelmann, Iris, deutsche Staatsangehörige, in Baar, mit Kollektivunterschrift zu zweien; Stampfli, Andreas, von Oberbipp, in Gipf-Oberfrick, mit Kollektivunterschrift zu zweien; Steinacher, Jules, von Gansingen, in Tägerig, mit Kollektivunterschrift zu zweien; Steiner, Marcel, von Boniswil, in Zürich, mit Kollektivunterschrift zu zweien; Steiner, Severin, von Zürich, in Maur, mit Kollektivunterschrift zu zweien; Steiner, Urs, von Suhr, in Baden, mit Kollektivunterschrift zu zweien; Stemper IV, John Louis, von Meilen, in Stäfa, mit Kollektivunterschrift zu zweien; Sterzinger, Leonhard, österreichischer Staatsangehöriger, in Niederrohrdorf, mit Kollektivunterschrift zu zweien; Stobaugh, Kay, von Stallikon, in Stallikon, mit Kollektivunterschrift zu zweien; Stucky, John Thomas, von Bettmeralp, in Zürich, mit Kollektivunterschrift zu zweien; Stöckli, Sebastiàn Roberto, von Besenbüren, in Zumikon, mit Kollektivunterschrift zu zweien; Stücheli, Simon, von Amlikon-Bissegg, in Buchs (AG), mit Kollektivunterschrift zu zweien; Subartowicz, Joanna, polnische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Sun, Regine, britische Staatsangehörige, in Männedorf, mit Kollektivunterschrift zu zweien; Suter, Linus, von Beromünster, in Beromünster, mit Kollektivunterschrift zu zweien; Suter, Nicole, von Freienwil, in Obersiggenthal, mit Kollektivunterschrift zu zweien; Swaters, Clifford John, kanadischer Staatsangehöriger, in Männedorf, mit Kollektivunterschrift zu zweien; Swiatkiewicz, Michal, von Buchs (SG), in Illnau-Effretikon, mit Kollektivunterschrift zu zweien; Syriopoulos, Petros, griechischer Staatsangehöriger, in Rüschlikon, mit Kollektivunterschrift zu zweien; Tang, Ling Susanne, von Adliswil, in Wallisellen, mit Kollektivunterschrift zu zweien; Taylor, John Edward Robert, britischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Terhaar, Christian Steffen, deutscher Staatsangehöriger, in Opfikon, mit Kollektivunterschrift zu zweien; Theine, Evelyne, von Zürich, in Brugg, mit Kollektivunterschrift zu zweien; Thomas, Sylvia, amerikanische Staatsangehörige, in Adliswil, mit Kollektivunterschrift zu zweien; Thorpe, Leigh Christopher, britischer Staatsangehöriger, in Uster, mit Kollektivunterschrift zu zweien; Thursfield, Robert Edward, britischer Staatsangehöriger, in Veysonnaz, mit Kollektivunterschrift zu zweien; Thöni, Markus, von Rüschlikon, in Maur, mit Kollektivunterschrift zu zweien; Toader, Madalina, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien; Toppi, Seong, von Serravalle, in Zürich, mit Kollektivunterschrift zu zweien; Torres Vonmoos, Ana, brasilianische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Tres Otazua, Juan, spanischer Staatsangehöriger, in Feusisberg, mit Kollektivunterschrift zu zweien; Tschopp, Reto Hans Jörg, von Zollikon, in Wädenswil, mit Kollektivunterschrift zu zweien; Tsoni, Efstathia, griechische Staatsangehörige, in Reinach (BL), mit Kollektivunterschrift zu zweien; Tuinhout, Ottavia, italienische Staatsangehörige, in Küsnacht (ZH), mit Kollektivunterschrift zu zweien; Tung, Christina Su-Mei, malaysische Staatsangehörige, in Rüschlikon, mit Kollektivunterschrift zu zweien; Turner, Rebecca Caroline, britische Staatsangehörige, in Wettswil am Albis, mit Kollektivunterschrift zu zweien; Uebersax, Patric, von Thörigen, in Adliswil, mit Kollektivunterschrift zu zweien; Ugolini, Giorgia, italienische Staatsangehörige, in Kilchberg (ZH), mit Kollektivunterschrift zu zweien; Valenti, Antonino, von Winterthur, in Winterthur, mit Kollektivunterschrift zu zweien; Varlet, Anastasia, französische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Varley, Alyssa, amerikanische Staatsangehörige, in Dietikon, mit Kollektivunterschrift zu zweien; Varvitsiotis, Georgios, griechischer Staatsangehöriger, in Freienbach, mit Kollektivunterschrift zu zweien; Vetti Tagliati, Luca, italienischer Staatsangehöriger, in Sorengo, mit Kollektivunterschrift zu zweien; Vitale, Domenico, italienischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Vogt, Florian, von Basel, in Urdorf, mit Kollektivunterschrift zu zweien; Vorlicky, Richard, von Zürich, in Stallikon, mit Kollektivunterschrift zu zweien; Voutsis, Nicola, von Zürich, in Männedorf, mit Kollektivunterschrift zu zweien; Vycpálek, Petr, tschechischer Staatsangehöriger, in Kilchberg (ZH), mit Kollektivunterschrift zu zweien; Wala, Maciej Jan, polnischer Staatsangehöriger, in Wallisellen, mit Kollektivunterschrift zu zweien; Walasinska, Aleksandra, polnische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Walker, Stefan, von Flüelen, in Full-Reuenthal, mit Kollektivunterschrift zu zweien; Wang, Yanhao, niederländischer Staatsangehöriger, in Freienbach, mit Kollektivunterschrift zu zweien; Warren, Srebrina, britische Staatsangehörige, in Wädenswil, mit Kollektivunterschrift zu zweien; Waser, Daniel, von Wolfenschiessen, in Berikon, mit Kollektivunterschrift zu zweien; Wauer, Marcel, deutscher Staatsangehöriger, in Tägerwilen, mit Kollektivunterschrift zu zweien; Weber-Thedy, Susanne, von Männedorf, in Männedorf, mit Kollektivunterschrift zu zweien; Weeber Brunal, Sheila, von Baden, in Neuenhof, mit Kollektivunterschrift zu zweien; Weilenmann, Marina, von Meilen, in Rapperswil-Jona, mit Kollektivunterschrift zu zweien; Werner, Nicolas, deutscher Staatsangehöriger, in Freienbach, mit Kollektivunterschrift zu zweien; Westphalen, Manuela, von Richterswil, in Thalwil, mit Kollektivunterschrift zu zweien; Widmer, Julia, von Risch, in Zürich, mit Kollektivunterschrift zu zweien; Widmer, Urs, von Gränichen, in Bassersdorf, mit Kollektivunterschrift zu zweien; Wiedmer, Sven, von Diepflingen, in Birmensdorf (ZH), mit Kollektivunterschrift zu zweien; Wiegel, Julian, deutscher Staatsangehöriger, in Riehen, mit Kollektivunterschrift zu zweien; Wiesenhütter, Marc, von Horgen, in Horgen, mit Kollektivunterschrift zu zweien; Willi, Roman, österreichischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Williams, Eric Samuel, von Treycovagnes, in Horgen, mit Kollektivunterschrift zu zweien; Wollschläger, Theresa Sabine, deutsche Staatsangehörige, in Uitikon, mit Kollektivunterschrift zu zweien; Wyss, Benjamin Philippe, von Wilderswil, in Zürich, mit Kollektivunterschrift zu zweien; Wyssling, Monica, von Stäfa, in Zürich, mit Kollektivunterschrift zu zweien; Wälchli, Karl, von Bern, in Zürich, mit Kollektivunterschrift zu zweien; Würsch, Marie Victoria, von Luzern, in Zürich, mit Kollektivunterschrift zu zweien; Wüst, Fabian, von Entlebuch, in Zug, mit Kollektivunterschrift zu zweien; Wüst, Tobias Michael Josef, von Oberriet (SG), in Zürich, mit Kollektivunterschrift zu zweien; Wüthrich, Patrick, von Thun, in Thun, mit Kollektivunterschrift zu zweien; Xiao, Minlan, chinesische Staatsangehörige, in Basel, mit Kollektivunterschrift zu zweien; Zaugg Portmann, Mascha Tamara Bong-Nan, von Röthenbach im Emmental, in Wollerau, mit Kollektivunterschrift zu zweien; Zellmayer, Jan Hendrik, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien; Zeuner, Sebastian, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien; Zilenaite, Lina, litauische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien; Zimmermann, Galyna, ukrainische Staatsangehörige, in Dübendorf, mit Kollektivunterschrift zu zweien; Zolj, Andrina, von Dübendorf, in Zürich, mit Kollektivunterschrift zu zweien; Zollinger, Marco Daniel, von Kloten, in Kaiseraugst, mit Kollektivunterschrift zu zweien; Zuberbühler, Jürg, von Urnäsch, in Winterthur, mit Kollektivunterschrift zu zweien; Zürcher, Renate, von Trub, in Würenlos, mit Kollektivunterschrift zu zweien; de Preux Stoffels, Isabelle, von Venthône und Cologny, in Erlenbach (ZH), mit Kollektivunterschrift zu zweien; von Bonsdorff, Erik Martin, finnischer Staatsangehöriger, in Zollikon, mit Kollektivunterschrift zu zweien; von Glutz, Jean-Philippe Béat Marie, von Solothurn, in Zürich, mit Kollektivunterschrift zu zweien; Akinfenwa, Ayodele, britischer Staatsangehöriger, in Bubikon, mit Kollektivprokura zu zweien; Alabyan, Natalia, deutsche Staatsangehörige, in Seuzach, mit Kollektivprokura zu zweien; Albugues, Hélène Elisabeth, französische Staatsangehörige, in Zürich, mit Kollektivprokura zu zweien; Apostolopoulos, Ioannis, griechischer Staatsangehöriger, in Zürich, mit Kollektivprokura zu zweien; Bajwa, Faisal, von Bern, in Bern, mit Kollektivprokura zu zweien; Blazquez Gonzalez, Jesus, spanischer Staatsangehöriger, in Zürich, mit Kollektivprokura zu zweien; Bollinger, Patricia, von Zürich, in Plan-les-Ouates, mit Kollektivprokura zu zweien; Braun, Pascal, von Affeltrangen, in Bremgarten (AG), mit Kollektivprokura zu zweien; Bruns, Nicola, von Zürich, in Zürich, mit Kollektivprokura zu zweien; Bruppacher, Thomas, von Küsnacht (ZH), in Goldach, mit Kollektivprokura zu zweien; Bucci, Adelina, von Adliswil, in Tresa, mit Kollektivprokura zu zweien; Chakma, Sabbir, französischer Staatsangehöriger, in Zürich, mit Kollektivprokura zu zweien; Cunha Castro Meira, Diogo, portugiesischer Staatsangehöriger, in Zürich, mit Kollektivprokura zu zweien; Do Rosário, Marco Filipe, von Emmen, in Schaffhausen, mit Kollektivprokura zu zweien; Dobrowolska, Magdalena Klaudia, polnische Staatsangehörige, in Affoltern am Albis, mit Kollektivprokura zu zweien; Dyckx, Janine, deutsche Staatsangehörige, in Wettswil am Albis, mit Kollektivprokura zu zweien; El Daly, Sherif, von Kaltbrunn, in Wilen (TG), mit Kollektivprokura zu zweien; Frattini-Zanzi, Milva, von Mendrisio, in Mendrisio, mit Kollektivprokura zu zweien; Fresu, Marcello, von Uster, in Uster, mit Kollektivprokura zu zweien; Frey, Simone, von Bassersdorf, in Illnau-Effretikon, mit Kollektivprokura zu zweien; Friedli, Isabelle, von Zürich, in Eggenwil, mit Kollektivprokura zu zweien; Grez, Natascha, von Glarus Süd, in Rapperswil-Jona, mit Kollektivprokura zu zweien; Guerrero, Florencia Araceli, von Wiesendangen, in Greifensee, mit Kollektivprokura zu zweien; Gysi, Allison Danielle Partricia, von Aarau, in Aarau, mit Kollektivprokura zu zweien; Hartmann, Alice, von Luzein, in Zürich, mit Kollektivprokura zu zweien; Hernandez Canteli, Rodrigo, spanischer Staatsangehöriger, in Zürich, mit Kollektivprokura zu zweien; Heß, Sandra, von Windisch, in Ellikon an der Thur, mit Kollektivprokura zu zweien; Horvat, Denis, slowenischer Staatsangehöriger, in Zürich, mit Kollektivprokura zu zweien; Hoze, Maxime, französischer Staatsangehöriger, in Genève, mit Kollektivprokura zu zweien; Iseni, Arbnor, von Schaffhausen, in Thayngen, mit Kollektivprokura zu zweien; Jänicke, Melanie, von Bergdietikon, in Bergdietikon, mit Kollektivprokura zu zweien; Kammerlander, Sandra, von Amriswil, in Brütten, mit Kollektivprokura zu zweien; Kaptan, Nilkiz, genannt Nilkis, von Luzern, in Luzern, mit Kollektivprokura zu zweien; Karagiannis, Antonios, griechischer Staatsangehöriger, in Zürich, mit Kollektivprokura zu zweien; Keziban, Dilan, deutsche Staatsangehörige, in Zürich, mit Kollektivprokura zu zweien; Klinder, Arkadiusz, polnischer Staatsangehöriger, in Birmensdorf (ZH), mit Kollektivprokura zu zweien; Leyun Carrera, Fernando, spanischer Staatsangehöriger, in Zürich, mit Kollektivprokura zu zweien; Mandrioli, Valentina, italienische Staatsangehörige, in Genève, mit Kollektivprokura zu zweien; Manuzzi, Luca, von Rümlang, in Massagno, mit Kollektivprokura zu zweien; Messmann, Gisbert Alexander, deutscher Staatsangehöriger, in Othmarsingen, mit Kollektivprokura zu zweien; Mikos, Karolina, polnische Staatsangehörige, in Zürich, mit Kollektivprokura zu zweien; Moral, Tomas, von Vuisternens-devant-Romont, in Zürich, mit Kollektivprokura zu zweien; Natola, Michele, italienischer Staatsangehöriger, in Schaffhausen, mit Kollektivprokura zu zweien; Olender, Aleksandra Elzbieta, polnische Staatsangehörige, in Birmensdorf (ZH), mit Kollektivprokura zu zweien; Pitkänen, Marjo, finnische Staatsangehörige, in Zürich, mit Kollektivprokura zu zweien; Pleite Rodriguez, Alberto, spanischer Staatsangehöriger, in Zürich, mit Kollektivprokura zu zweien; Popovic, Sonja, von Küsnacht (ZH), in Zürich, mit Kollektivprokura zu zweien; Rasini, Antonio, von Ebikon, in Reiden, mit Kollektivprokura zu zweien; Roik, Michal, polnischer Staatsangehöriger, in Rüdlingen, mit Kollektivprokura zu zweien; Schilter, Anna, amerikanische Staatsangehörige, in Männedorf, mit Kollektivprokura zu zweien; Schrade, Martin Christof, von Appenzell, in Zürich, mit Kollektivprokura zu zweien; Shehu, Flora, von Rafz, in Rafz, mit Kollektivprokura zu zweien; Stier, Sandra Sigrid, deutsche Staatsangehörige, in Horgen, mit Kollektivprokura zu zweien; Sylaj, Valon, von Zumikon, in Dübendorf, mit Kollektivprokura zu zweien; Szadkowska, Anna, polnische Staatsangehörige, in Oberrieden, mit Kollektivprokura zu zweien; Tormen, Daniel, von Nesslau, in Thal, mit Kollektivprokura zu zweien; Vázquez Grande, Maria Carolina, spanische Staatsangehörige, in Zürich, mit Kollektivprokura zu zweien; Weber, Caroline, von Kaiserstuhl, in Zurzach, mit Kollektivprokura zu zweien; Weibel, Stephan Markus, von Kriens, in Horgen, mit Kollektivprokura zu zweien; Wilczewska, Sylwia, polnische Staatsangehörige, in Zürich, mit Kollektivprokura zu zweien; Wild, Julius, deutscher Staatsangehöriger, in Zürich, mit Kollektivprokura zu zweien. Eingetragene Personen neu oder mutierend: Abdel Hak, Nicolas, libanesischer Staatsangehöriger, in Genève, mit Kollektivunterschrift zu zweien [bisher: in Lausanne]; Bosshard, Stéphanie, von Winterthur, in Winterthur, mit Kollektivunterschrift zu zweien; Bätz, Dr. Volker, von Kloten, in Kloten, mit Kollektivunterschrift zu zweien; Carballa Pérez, Cristina, spanische Staatsangehörige, in Bonstetten, mit Kollektivunterschrift zu zweien; Carfagno Murray, Anna, italienische Staatsangehörige, in Jonen, mit Kollektivunterschrift zu zweien [bisher: Murray-Carfagno, Anna Gelsomina]; Casaus Irigoyen, Lorenzo, spanischer Staatsangehöriger, in Altendorf, mit Kollektivunterschrift zu zweien [bisher: in Horgen]; Crettaz, Anthony, von Anniviers, in Bülach, mit Kollektivunterschrift zu zweien; Gonzalez Martin, Manuel, spanischer Staatsangehöriger, in Stäfa, mit Kollektivunterschrift zu zweien [bisher: in Meilen]; Hoenig de Locarnini, Nicole, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien; Künzli, Stephan, von Küsnacht (ZH), in Zürich, mit Kollektivunterschrift zu zweien; Lopez, Matthias Paul, französischer Staatsangehöriger, in Männedorf, mit Kollektivunterschrift zu zweien [bisher: in Zürich]; Matthieu, Dr. Nicolas, von Neuchâtel, in Zürich, mit Kollektivunterschrift zu zweien [bisher: in Kilchberg (ZH)]; Murray, Robert, britischer Staatsangehöriger, in Feusisberg, mit Kollektivunterschrift zu zweien [bisher: in Zürich]; Mäder, Joël, von Mörschwil, in Bonstetten, mit Kollektivunterschrift zu zweien [bisher: in Zürich]; Müller, Raphael, von Luzern, in Beinwil (Freiamt), mit Kollektivunterschrift zu zweien [bisher: in Gisikon]; Nievergelt, Daniela, von Neckertal, in Zürich, mit Kollektivunterschrift zu zweien; Rodriguez Maftah, Leila, von La Chaux-de-Fonds, in Zürich, mit Kollektivunterschrift zu zweien; Roelfs, Nicole, von Gaiserwald, in Stäfa, mit Kollektivunterschrift zu zweien; Saliba, Gaylee, kanadische Staatsangehörige, in Meilen, mit Kollektivunterschrift zu zweien; Sauter, Tina, von Rümlang, in Maur, mit Kollektivunterschrift zu zweien [bisher: in Küsnacht (ZH)]; Saviana, Ryan, italienischer Staatsangehöriger, in Männedorf, mit Kollektivunterschrift zu zweien; Schiesser, Andreas, von Ennenda, in Wollerau, mit Kollektivunterschrift zu zweien [bisher: von Ennenda und Schwändi, in Feusisberg]; Stucki, Sven, von Oberglatt, in Niederhasli, mit Kollektivunterschrift zu zweien; Tonini, Martino, italienischer Staatsangehöriger, in Genève, mit Kollektivunterschrift zu zweien; Turon-Lagot, Stéphane, französischer Staatsangehöriger, in Regensdorf, mit Kollektivunterschrift zu zweien; Yildirim, Susanne, deutsche Staatsangehörige, in Altendorf, mit Kollektivunterschrift zu zweien [bisher: Kuchler, Susanne]; von Stechow, Clemens, deutscher Staatsangehöriger, in Zollikon, mit Kollektivunterschrift zu zweien; Asuni, Maurizio, italienischer Staatsangehöriger, in Wädenswil, mit Kollektivprokura zu zweien; Filik, Bekri Fikri, deutscher Staatsangehöriger, in Horgen, mit Kollektivprokura zu zweien [bisher: in Egg]; Fischer, Elias, von Basel, in Zürich, mit Kollektivprokura zu zweien; Frauenfelder, Adrian, von Winterthur, in Zürich, mit Kollektivprokura zu zweien; Gavric, Aleksandar, von Dürnten, in Zürich, mit Kollektivprokura zu zweien; Grau, Carmina, von Dietikon, in Winkel, mit Kollektivprokura zu zweien [bisher: in Bülach]; Ira, Alessandra, deutsche Staatsangehörige, in Zürich, mit Kollektivprokura zu zweien; Martinez, Myriam, von Freienstein-Teufen, in Opfikon, mit Kollektivprokura zu zweien; Müller, Patrick, von Lengnau (AG), in Reinach (BL), mit Kollektivprokura zu zweien [bisher: in Biel-Benken]; Nguyen-Ly, Thuy, von St. Gallen, in Opfikon, mit Kollektivprokura zu zweien; Sangiacomo, Luciano, von Niederhasli, in Niederhasli, mit Kollektivprokura zu zweien; Sgier, Priska, von Kemmental, in Freienbach, mit Kollektivprokura zu zweien; Soland, Jan, von Reinach (AG), in Rüschlikon, mit Kollektivprokura zu zweien.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "UBS AG",
+        "ehraid": 421132,
+        "uid": "CHE101329561",
+        "chid": "CH27030046464",
+        "legalSeatId": 261,
+        "legalSeat": "Zürich",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-07-31",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "e00def150db7730e7d97a6f0",
+    "publication_date": "2026-02-23",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-02-23 | TG | 2026-02-18 | <FT TYPE=\"F\">Zementwaren AG Wild Weiningen</FT>, in <FT TYPE=\"S\">Warth-Weiningen</FT>, <FT TYPE=\"A\">CHE-107.101.909</FT>, Aktiengesellschaft (SHAB Nr. 173 vom 09.09.2025, Publ. 1006428749). Eingetragene Personen neu oder mutierend: Schilliger, Angela, von Udligenswil, in Stansstad, Geschäftsführerin, mit Kollektivunterschrift zu zweien. | aenderungorgane | Zementwaren AG Wild Weiningen | CHE107101909 | CH44030008584 | Warth-Weiningen | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-04-27",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006428749)",
+      "030008584"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-02-23",
+        "sogcId": 1006577222,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 1259,
+        "registryOfCommerceJournalDate": "2026-02-18",
+        "message": "<FT TYPE=\"F\">Zementwaren AG Wild Weiningen</FT>, in <FT TYPE=\"S\">Warth-Weiningen</FT>, <FT TYPE=\"A\">CHE-107.101.909</FT>, Aktiengesellschaft (SHAB Nr. 173 vom 09.09.2025, Publ. 1006428749). Eingetragene Personen neu oder mutierend: Schilliger, Angela, von Udligenswil, in Stansstad, Geschäftsführerin, mit Kollektivunterschrift zu zweien.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Zementwaren AG Wild Weiningen",
+        "ehraid": 212266,
+        "uid": "CHE107101909",
+        "chid": "CH44030008584",
+        "legalSeatId": 4621,
+        "legalSeat": "Warth-Weiningen",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-04-27",
+        "deletionDate": null
+      }
+    }
+  }
+]

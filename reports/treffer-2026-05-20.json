@@ -1,0 +1,611 @@
+[
+  {
+    "publication_id": "3f89bc4928b3482e90fc87ff",
+    "publication_date": "2026-05-20",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-05-20 | ZG | 2026-05-15 | <FT TYPE=\"F\">Amrize AG</FT>, in <FT TYPE=\"S\">Zug</FT>, <FT TYPE=\"A\">CHE-238.689.758</FT>, Aktiengesellschaft (SHAB Nr. 156 vom 15.08.2025, Publ. 1006409581). Ausgeschiedene Personen und erloschene Unterschriften: Drew, Theresa Jeszka, amerikanische StaatsangehÃ¶rige, in Charlotte (US), Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien; Bond, Anthony Charles, amerikanischer StaatsangehÃ¶riger, in Fort Myers, FL (US), Zeichnungsberechtigter, mit Kollektivunterschrift zu zweien; Johnston, Ian A, kanadischer StaatsangehÃ¶riger, in Elmhurst (US), Zeichnungsberechtigter, mit Kollektivunterschrift zu zweien. Eingetragene Personen neu oder mutierend: Sanche, Wolf Jacques, von Kloten, in MÃ¤nnedorf, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien; Myszak, Jenna, amerikanische StaatsangehÃ¶rige, in Downers Grove (US), Zeichnungsberechtigte, mit Kollektivunterschrift zu zweien; Oran, Baris, amerikanischer StaatsangehÃ¶riger, in Darien (US), Zeichnungsberechtigter, mit Kollektivunterschrift zu zweien; Weinburger, Hans Josef, amerikanischer StaatsangehÃ¶riger, in Chicago (US), Zeichnungsberechtigter, mit Kollektivunterschrift zu zweien. | aenderungorgane | Amrize AG | CHE238689758 | CH17030484328 | Zug | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-07-17",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006409581)",
+      "030484328"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-05-20",
+        "sogcId": 1006654974,
+        "registryOfCommerceId": 170,
+        "registryOfCommerceCanton": "ZG",
+        "registryOfCommerceJournalId": 9538,
+        "registryOfCommerceJournalDate": "2026-05-15",
+        "message": "<FT TYPE=\"F\">Amrize AG</FT>, in <FT TYPE=\"S\">Zug</FT>, <FT TYPE=\"A\">CHE-238.689.758</FT>, Aktiengesellschaft (SHAB Nr. 156 vom 15.08.2025, Publ. 1006409581). Ausgeschiedene Personen und erloschene Unterschriften: Drew, Theresa Jeszka, amerikanische StaatsangehÃ¶rige, in Charlotte (US), Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien; Bond, Anthony Charles, amerikanischer StaatsangehÃ¶riger, in Fort Myers, FL (US), Zeichnungsberechtigter, mit Kollektivunterschrift zu zweien; Johnston, Ian A, kanadischer StaatsangehÃ¶riger, in Elmhurst (US), Zeichnungsberechtigter, mit Kollektivunterschrift zu zweien. Eingetragene Personen neu oder mutierend: Sanche, Wolf Jacques, von Kloten, in MÃ¤nnedorf, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien; Myszak, Jenna, amerikanische StaatsangehÃ¶rige, in Downers Grove (US), Zeichnungsberechtigte, mit Kollektivunterschrift zu zweien; Oran, Baris, amerikanischer StaatsangehÃ¶riger, in Darien (US), Zeichnungsberechtigter, mit Kollektivunterschrift zu zweien; Weinburger, Hans Josef, amerikanischer StaatsangehÃ¶riger, in Chicago (US), Zeichnungsberechtigter, mit Kollektivunterschrift zu zweien.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Amrize AG",
+        "ehraid": 1582969,
+        "uid": "CHE238689758",
+        "chid": "CH17030484328",
+        "legalSeatId": 1711,
+        "legalSeat": "Zug",
+        "registryOfCommerceId": 170,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-07-17",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "09a7e1c743ceac0b987e573d",
+    "publication_date": "2026-05-20",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-05-20 | ZH | 2026-05-15 | <FT TYPE=\"F\">CafÃ© Alhambra GmbH in Liquidation</FT>, in <FT TYPE=\"S\">Illnau-Effretikon</FT>, <FT TYPE=\"A\">CHE-478.887.975</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 56 vom 23.03.2026, Publ. 1006603122). Das Konkursverfahren ist mit VerfÃ¼gung des Konkursgerichts des Bezirksgerichts PfÃ¤ffikon vom 21.04.2026 mangels Aktiven eingestellt worden. | status | status.wiederrufliq | Café Alhambra GmbH in Liquidation | CHE478887975 | CH02040562988 | Illnau-Effretikon | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | BEING_CANCELLED | 2026-05-20",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006603122)",
+      "02040562988"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-05-20",
+        "sogcId": 1006654719,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 23536,
+        "registryOfCommerceJournalDate": "2026-05-15",
+        "message": "<FT TYPE=\"F\">CafÃ© Alhambra GmbH in Liquidation</FT>, in <FT TYPE=\"S\">Illnau-Effretikon</FT>, <FT TYPE=\"A\">CHE-478.887.975</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 56 vom 23.03.2026, Publ. 1006603122). Das Konkursverfahren ist mit VerfÃ¼gung des Konkursgerichts des Bezirksgerichts PfÃ¤ffikon vom 21.04.2026 mangels Aktiven eingestellt worden.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 6,
+            "key": "status.wiederrufliq"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Café Alhambra GmbH in Liquidation",
+        "ehraid": 1232710,
+        "uid": "CHE478887975",
+        "chid": "CH02040562988",
+        "legalSeatId": 296,
+        "legalSeat": "Illnau-Effretikon",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "BEING_CANCELLED",
+        "sogcDate": "2026-05-20",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "38c1c9591c54d88b84a6306e",
+    "publication_date": "2026-05-20",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-05-20 | VD | 2026-05-15 | <FT TYPE=\"F\">CafÃ© Restaurant de la Gloriette SNC</FT>, Ã  <FT TYPE=\"S\">Le Chenit</FT>, <FT TYPE=\"A\">CHE-435.554.212</FT> (FOSC du 11.12.2024, p. 0/1006202000). Nouvelle adresse: Rue de la Golisse 13, 1347 Le Sentier. | adressaenderung | Café Restaurant de la Gloriette SNC | CHE435554212 | CH55012465833 | Le Chenit | 0103 | Kollektivgesellschaft | Société en nom collectif | Società in nome collettivo | General Partnership | KlG | SNC | SNC | GP | ACTIVE | 2026-05-20",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006202000)",
+      "012465833"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-05-20",
+        "sogcId": 1006655273,
+        "registryOfCommerceId": 550,
+        "registryOfCommerceCanton": "VD",
+        "registryOfCommerceJournalId": 10293,
+        "registryOfCommerceJournalDate": "2026-05-15",
+        "message": "<FT TYPE=\"F\">CafÃ© Restaurant de la Gloriette SNC</FT>, Ã  <FT TYPE=\"S\">Le Chenit</FT>, <FT TYPE=\"A\">CHE-435.554.212</FT> (FOSC du 11.12.2024, p. 0/1006202000). Nouvelle adresse: Rue de la Golisse 13, 1347 Le Sentier.",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Café Restaurant de la Gloriette SNC",
+        "ehraid": 1669156,
+        "uid": "CHE435554212",
+        "chid": "CH55012465833",
+        "legalSeatId": 5872,
+        "legalSeat": "Le Chenit",
+        "registryOfCommerceId": 550,
+        "legalForm": {
+          "id": 2,
+          "uid": "0103",
+          "name": {
+            "de": "Kollektivgesellschaft",
+            "fr": "Société en nom collectif",
+            "it": "Società in nome collettivo",
+            "en": "General Partnership"
+          },
+          "shortName": {
+            "de": "KlG",
+            "fr": "SNC",
+            "it": "SNC",
+            "en": "GP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-05-20",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "b7fecdf5290ef591437b77cd",
+    "publication_date": "2026-05-20",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-05-20 | ZH | 2026-05-15 | <FT TYPE=\"F\">Denz Weine AG</FT>, in <FT TYPE=\"S\">ZÃ¼rich</FT>, <FT TYPE=\"A\">CHE-194.222.985</FT>, Aktiengesellschaft (SHAB Nr. 132 vom 11.07.2022, Publ. 1005517175). StatutenÃ¤nderung: 05.05.2026. Firma neu: <FT TYPE=\"N\">Denz Auktionen AG</FT>. Uebersetzungen der Firma neu: <FT TYPE=\"V\">(Denz Auktionen SA) (Denz Auktionen Ltd)</FT>. Sitz neu: <FT TYPE=\"5\">Dietikon</FT>. Domizil neu: Lerzenstrasse 16, 8953 Dietikon. | firmenaenderung | adressaenderung | Denz Auktionen AG | CHE194222985 | CH02030415611 | Dietikon | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-05-20",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "005517175)",
+      "02030415611"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-05-20",
+        "sogcId": 1006654724,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 23541,
+        "registryOfCommerceJournalDate": "2026-05-15",
+        "message": "<FT TYPE=\"F\">Denz Weine AG</FT>, in <FT TYPE=\"S\">ZÃ¼rich</FT>, <FT TYPE=\"A\">CHE-194.222.985</FT>, Aktiengesellschaft (SHAB Nr. 132 vom 11.07.2022, Publ. 1005517175). StatutenÃ¤nderung: 05.05.2026. Firma neu: <FT TYPE=\"N\">Denz Auktionen AG</FT>. Uebersetzungen der Firma neu: <FT TYPE=\"V\">(Denz Auktionen SA) (Denz Auktionen Ltd)</FT>. Sitz neu: <FT TYPE=\"5\">Dietikon</FT>. Domizil neu: Lerzenstrasse 16, 8953 Dietikon.",
+        "mutationTypes": [
+          {
+            "id": 9,
+            "key": "firmenaenderung"
+          },
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Denz Auktionen AG",
+        "ehraid": 1209479,
+        "uid": "CHE194222985",
+        "chid": "CH02030415611",
+        "legalSeatId": 243,
+        "legalSeat": "Dietikon",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-05-20",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "fd64267684cc2a7e27581789",
+    "publication_date": "2026-05-20",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-05-20 | TI | 2026-05-15 | <FT TYPE=\"F\">Happy Drink &amp; Food Sagl</FT>, in <FT TYPE=\"S\">Mendrisio</FT>, <FT TYPE=\"A\">CHE-308.279.066</FT>, societÃ  a garanzia limitata (Nr. FUSC 166 del 29.08.2025, Pubbl. 1006420591). Nuova ditta: <FT TYPE=\"N\">Happy Drink &amp; Food Sagl in liquidazione</FT>. La societÃ  Ã¨ sciolta in seguito a fallimento pronunciato con decisione della Pretura del Distretto di Mendrisio-Nord del 13.05.2026 a far tempo dal 13.05.2026 alle ore 14:00. | status | status.aufl | status.aufl.konk | Happy Drink & Food Sagl in liquidazione | CHE308279066 | CH50140286662 | Mendrisio | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | BEING_CANCELLED | 2026-05-20",
+    "categories": [
+      "allgemein"
+    ],
+    "confidence": 60,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006420591)",
+      "0140286662"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-05-20",
+        "sogcId": 1006655175,
+        "registryOfCommerceId": 501,
+        "registryOfCommerceCanton": "TI",
+        "registryOfCommerceJournalId": 7574,
+        "registryOfCommerceJournalDate": "2026-05-15",
+        "message": "<FT TYPE=\"F\">Happy Drink &amp; Food Sagl</FT>, in <FT TYPE=\"S\">Mendrisio</FT>, <FT TYPE=\"A\">CHE-308.279.066</FT>, societÃ  a garanzia limitata (Nr. FUSC 166 del 29.08.2025, Pubbl. 1006420591). Nuova ditta: <FT TYPE=\"N\">Happy Drink &amp; Food Sagl in liquidazione</FT>. La societÃ  Ã¨ sciolta in seguito a fallimento pronunciato con decisione della Pretura del Distretto di Mendrisio-Nord del 13.05.2026 a far tempo dal 13.05.2026 alle ore 14:00.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 3,
+            "key": "status.aufl"
+          },
+          {
+            "id": 5,
+            "key": "status.aufl.konk"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Happy Drink & Food Sagl in liquidazione",
+        "ehraid": 1618858,
+        "uid": "CHE308279066",
+        "chid": "CH50140286662",
+        "legalSeatId": 5254,
+        "legalSeat": "Mendrisio",
+        "registryOfCommerceId": 501,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "BEING_CANCELLED",
+        "sogcDate": "2026-05-20",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "fb821591083d64a7f1584de2",
+    "publication_date": "2026-05-20",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-05-20 | ZH | 2026-05-15 | <FT TYPE=\"F\">INTERFIDUCIA AG</FT>, in <FT TYPE=\"S\">Kloten</FT>, <FT TYPE=\"A\">CHE-114.843.608</FT>, Aktiengesellschaft (SHAB Nr. 7 vom 13.01.2026, Publ. 1006536260). Ausgeschiedene Personen und erloschene Unterschriften: Boss, Jeanette, von Langnau im Emmental, in Eschlikon, mit Kollektivunterschrift zu zweien; Lanfranconi, Merita, von RÃ¼ti (ZH), in Weiningen (ZH), mit Kollektivunterschrift zu zweien. Eingetragene Personen neu oder mutierend: MÃ¤ki, Eva, von Muri bei Bern, in Schlatt (TG), PrÃ¤sidentin des Verwaltungsrates, mit Einzelunterschrift [bisher: Mitglied des Verwaltungsrates, mit Einzelunterschrift]; Rakic, Silvia, von ZÃ¼rich, in ZÃ¼rich, Mitglied des Verwaltungsrates, mit Einzelunterschrift [bisher: ohne eingetragene Funktion, mit Kollektivunterschrift zu zweien]. | aenderungorgane | INTERFIDUCIA AG | CHE114843608 | CH02030337743 | Kloten | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-05-20",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006536260)",
+      "02030337743"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-05-20",
+        "sogcId": 1006654749,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 23566,
+        "registryOfCommerceJournalDate": "2026-05-15",
+        "message": "<FT TYPE=\"F\">INTERFIDUCIA AG</FT>, in <FT TYPE=\"S\">Kloten</FT>, <FT TYPE=\"A\">CHE-114.843.608</FT>, Aktiengesellschaft (SHAB Nr. 7 vom 13.01.2026, Publ. 1006536260). Ausgeschiedene Personen und erloschene Unterschriften: Boss, Jeanette, von Langnau im Emmental, in Eschlikon, mit Kollektivunterschrift zu zweien; Lanfranconi, Merita, von RÃ¼ti (ZH), in Weiningen (ZH), mit Kollektivunterschrift zu zweien. Eingetragene Personen neu oder mutierend: MÃ¤ki, Eva, von Muri bei Bern, in Schlatt (TG), PrÃ¤sidentin des Verwaltungsrates, mit Einzelunterschrift [bisher: Mitglied des Verwaltungsrates, mit Einzelunterschrift]; Rakic, Silvia, von ZÃ¼rich, in ZÃ¼rich, Mitglied des Verwaltungsrates, mit Einzelunterschrift [bisher: ohne eingetragene Funktion, mit Kollektivunterschrift zu zweien].",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "INTERFIDUCIA AG",
+        "ehraid": 943547,
+        "uid": "CHE114843608",
+        "chid": "CH02030337743",
+        "legalSeatId": 62,
+        "legalSeat": "Kloten",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-05-20",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "5b6ee575d969bf8d3e97662d",
+    "publication_date": "2026-05-20",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-05-20 | GE | 2026-05-15 | <FT TYPE=\"F\">Maselow Business ActivitÃ©s SA</FT>, Ã  <FT TYPE=\"S\">Aire-la-Ville</FT>, <FT TYPE=\"A\">CHE-103.602.839</FT> (FOSC du 25.02.2026, p. 0/1006580081). Nouveau but: l&apos;acquisition, la dÃ©tention, la gestion, le financement et l&apos;aliÃ©nation de biens immobiliers ou titres de sociÃ©tÃ© ou entreprises actives dans ce secteur; tous services dans le domaine immobilier, en particulier conseil, courtage, intermÃ©diation, gestion, administration, pilotage et promotion immobiliÃ¨re. La sociÃ©tÃ© a Ã©galement pour but le commerce de biens de consommation (y compris vins et autres boissons alcoolisÃ©es). Elle pourra en outre effectuer toutes opÃ©rations dans le cadre du but ou permettant d&apos;atteindre le but social, et peut prendre des participations dans toutes autres entreprises en Suisse ou Ã  l&apos;Ã©tranger. Statuts modifiÃ©s le 06.05.2026. | zweckaenderung | Maselow Business Activités SA | CHE103602839 | CH55001700922 | Aire-la-Ville | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-05-20",
+    "categories": [
+      "allgemein",
+      "handel_vertrieb"
+    ],
+    "confidence": 95,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006580081)",
+      "001700922"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-05-20",
+        "sogcId": 1006655391,
+        "registryOfCommerceId": 660,
+        "registryOfCommerceCanton": "GE",
+        "registryOfCommerceJournalId": 13255,
+        "registryOfCommerceJournalDate": "2026-05-15",
+        "message": "<FT TYPE=\"F\">Maselow Business ActivitÃ©s SA</FT>, Ã  <FT TYPE=\"S\">Aire-la-Ville</FT>, <FT TYPE=\"A\">CHE-103.602.839</FT> (FOSC du 25.02.2026, p. 0/1006580081). Nouveau but: l&apos;acquisition, la dÃ©tention, la gestion, le financement et l&apos;aliÃ©nation de biens immobiliers ou titres de sociÃ©tÃ© ou entreprises actives dans ce secteur; tous services dans le domaine immobilier, en particulier conseil, courtage, intermÃ©diation, gestion, administration, pilotage et promotion immobiliÃ¨re. La sociÃ©tÃ© a Ã©galement pour but le commerce de biens de consommation (y compris vins et autres boissons alcoolisÃ©es). Elle pourra en outre effectuer toutes opÃ©rations dans le cadre du but ou permettant d&apos;atteindre le but social, et peut prendre des participations dans toutes autres entreprises en Suisse ou Ã  l&apos;Ã©tranger. Statuts modifiÃ©s le 06.05.2026.",
+        "mutationTypes": [
+          {
+            "id": 11,
+            "key": "zweckaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Maselow Business Activités SA",
+        "ehraid": 407561,
+        "uid": "CHE103602839",
+        "chid": "CH55001700922",
+        "legalSeatId": 6601,
+        "legalSeat": "Aire-la-Ville",
+        "registryOfCommerceId": 660,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-05-20",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "0a42fd51aaa3e7cb29d20b85",
+    "publication_date": "2026-05-20",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-05-20 | LU | 2026-05-15 | <FT TYPE=\"F\">Schubi Weine AG</FT>, in <FT TYPE=\"S\">Luzern</FT>, <FT TYPE=\"A\">CHE-401.785.021</FT>, Aktiengesellschaft (SHAB Nr. 75 vom 17.04.2025, Publ. 1006311756). Eingetragene Personen neu oder mutierend: Schumacher, Alyssa, von Luzern, in SchÃ¼pfheim, mit Einzelunterschrift. | aenderungorgane | Schubi Weine AG | CHE401785021 | CH10037956353 | Luzern | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-05-20",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006311756)",
+      "0037956353"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-05-20",
+        "sogcId": 1006654891,
+        "registryOfCommerceId": 100,
+        "registryOfCommerceCanton": "LU",
+        "registryOfCommerceJournalId": 4809,
+        "registryOfCommerceJournalDate": "2026-05-15",
+        "message": "<FT TYPE=\"F\">Schubi Weine AG</FT>, in <FT TYPE=\"S\">Luzern</FT>, <FT TYPE=\"A\">CHE-401.785.021</FT>, Aktiengesellschaft (SHAB Nr. 75 vom 17.04.2025, Publ. 1006311756). Eingetragene Personen neu oder mutierend: Schumacher, Alyssa, von Luzern, in SchÃ¼pfheim, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Schubi Weine AG",
+        "ehraid": 1122984,
+        "uid": "CHE401785021",
+        "chid": "CH10037956353",
+        "legalSeatId": 1061,
+        "legalSeat": "Luzern",
+        "registryOfCommerceId": 100,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-05-20",
+        "deletionDate": null
+      }
+    }
+  }
+]

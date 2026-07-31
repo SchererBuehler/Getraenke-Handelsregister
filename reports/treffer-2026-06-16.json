@@ -1,0 +1,1150 @@
+[
+  {
+    "publication_id": "a09e92a3666a0f2c526ad6c6",
+    "publication_date": "2026-06-16",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-16 | BE | 2026-06-11 | <FT TYPE=\"F\">Bieri Treuhand GmbH</FT>, in <FT TYPE=\"S\">Meiringen</FT>, <FT TYPE=\"A\">CHE-403.385.164</FT>, schweizerische Zweigniederlassung (SHAB Nr. 97 vom 22.05.2026, Publ. 1006656858), Hauptsitz in: Interlaken. Infolge Aufhebung dieser Zweigniederlassung wird der auf sie bezÃ¼gliche Eintrag im Handelsregister gelÃ¶scht. | status | status.loeschung | Bieri Treuhand GmbH | CHE403385164 | CH03691076185 | Meiringen | 0151 | Zweigniederlassung | Succursale | Succursale | Branch | ZN | Succ | Succ | Bran | CANCELLED | 2026-06-16 | 2026-06-16",
+    "categories": [
+      "bier"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006656858)",
+      "03691076185"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-16",
+        "sogcId": 1006677926,
+        "registryOfCommerceId": 36,
+        "registryOfCommerceCanton": "BE",
+        "registryOfCommerceJournalId": 11105,
+        "registryOfCommerceJournalDate": "2026-06-11",
+        "message": "<FT TYPE=\"F\">Bieri Treuhand GmbH</FT>, in <FT TYPE=\"S\">Meiringen</FT>, <FT TYPE=\"A\">CHE-403.385.164</FT>, schweizerische Zweigniederlassung (SHAB Nr. 97 vom 22.05.2026, Publ. 1006656858), Hauptsitz in: Interlaken. Infolge Aufhebung dieser Zweigniederlassung wird der auf sie bezÃ¼gliche Eintrag im Handelsregister gelÃ¶scht.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 7,
+            "key": "status.loeschung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Bieri Treuhand GmbH",
+        "ehraid": 1750426,
+        "uid": "CHE403385164",
+        "chid": "CH03691076185",
+        "legalSeatId": 785,
+        "legalSeat": "Meiringen",
+        "registryOfCommerceId": 36,
+        "legalForm": {
+          "id": 9,
+          "uid": "0151",
+          "name": {
+            "de": "Zweigniederlassung",
+            "fr": "Succursale",
+            "it": "Succursale",
+            "en": "Branch"
+          },
+          "shortName": {
+            "de": "ZN",
+            "fr": "Succ",
+            "it": "Succ",
+            "en": "Bran"
+          }
+        },
+        "status": "CANCELLED",
+        "sogcDate": "2026-06-16",
+        "deletionDate": "2026-06-16"
+      }
+    }
+  },
+  {
+    "publication_id": "5f2d43ad0cb0a78dd7b22794",
+    "publication_date": "2026-06-16",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-16 | SG | 2026-06-11 | <FT TYPE=\"F\">BÃ¼chler AG</FT>, in <FT TYPE=\"S\">LÃ¼tisburg</FT>, <FT TYPE=\"A\">CHE-107.601.773</FT>, Aktiengesellschaft (SHAB Nr. 80 vom 28.04.2026, Publ. 1006636846). [gestrichen: GemÃ¤ss ErklÃ¤rung des Verwaltungsrates vom 25.11.2008 untersteht die Gesellschaft keiner ordentlichen Revision und verzichtet auf eine eingeschrÃ¤nkte Revision.]. Eingetragene Personen neu oder mutierend: Widerin, JÃ¼rg, von Winterthur, in Vaz/Obervaz, Mitglied des Verwaltungsrates, mit Einzelunterschrift [bisher: in Gundetswil (Wiesendangen)]; OBT AG (<FT TYPE=\"B\">CHE-334.233.957</FT>), in Weinfelden, Revisionsstelle. | aenderungorgane | Büchler AG | CHE107601773 | CH32030433212 | Lütisburg | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-06-16",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006636846)",
+      "030433212"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-16",
+        "sogcId": 1006678409,
+        "registryOfCommerceId": 320,
+        "registryOfCommerceCanton": "SG",
+        "registryOfCommerceJournalId": 6987,
+        "registryOfCommerceJournalDate": "2026-06-11",
+        "message": "<FT TYPE=\"F\">BÃ¼chler AG</FT>, in <FT TYPE=\"S\">LÃ¼tisburg</FT>, <FT TYPE=\"A\">CHE-107.601.773</FT>, Aktiengesellschaft (SHAB Nr. 80 vom 28.04.2026, Publ. 1006636846). [gestrichen: GemÃ¤ss ErklÃ¤rung des Verwaltungsrates vom 25.11.2008 untersteht die Gesellschaft keiner ordentlichen Revision und verzichtet auf eine eingeschrÃ¤nkte Revision.]. Eingetragene Personen neu oder mutierend: Widerin, JÃ¼rg, von Winterthur, in Vaz/Obervaz, Mitglied des Verwaltungsrates, mit Einzelunterschrift [bisher: in Gundetswil (Wiesendangen)]; OBT AG (<FT TYPE=\"B\">CHE-334.233.957</FT>), in Weinfelden, Revisionsstelle.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Büchler AG",
+        "ehraid": 410918,
+        "uid": "CHE107601773",
+        "chid": "CH32030433212",
+        "legalSeatId": 3393,
+        "legalSeat": "Lütisburg",
+        "registryOfCommerceId": 320,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-06-16",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "869a0c53fec2e8e3d154baa7",
+    "publication_date": "2026-06-16",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-16 | BE | 2026-06-11 | <FT TYPE=\"N\">CafÃ© Tanrisever</FT>, in <FT TYPE=\"5\">DÃ¤rligen</FT>, <FT TYPE=\"A\">CHE-461.971.142</FT>, Dorfstrasse 60, 3707 DÃ¤rligen, Einzelunternehmen (Neueintragung). Zweck: FÃ¼hren eines CafÃ©s und Restaurants. Eingetragene Personen: Tanrisever, Jiyan, tÃ¼rkischer StaatsangehÃ¶riger, in MittelhÃ¤usern (KÃ¶niz), Inhaber, mit Einzelunterschrift. | status | status.neu | Café Tanrisever | CHE461971142 | CH03611079467 | Därligen | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-06-16",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "03611079467"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-16",
+        "sogcId": 1006677838,
+        "registryOfCommerceId": 36,
+        "registryOfCommerceCanton": "BE",
+        "registryOfCommerceJournalId": 11015,
+        "registryOfCommerceJournalDate": "2026-06-11",
+        "message": "<FT TYPE=\"N\">CafÃ© Tanrisever</FT>, in <FT TYPE=\"5\">DÃ¤rligen</FT>, <FT TYPE=\"A\">CHE-461.971.142</FT>, Dorfstrasse 60, 3707 DÃ¤rligen, Einzelunternehmen (Neueintragung). Zweck: FÃ¼hren eines CafÃ©s und Restaurants. Eingetragene Personen: Tanrisever, Jiyan, tÃ¼rkischer StaatsangehÃ¶riger, in MittelhÃ¤usern (KÃ¶niz), Inhaber, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Café Tanrisever",
+        "ehraid": 1754099,
+        "uid": "CHE461971142",
+        "chid": "CH03611079467",
+        "legalSeatId": 575,
+        "legalSeat": "Därligen",
+        "registryOfCommerceId": 36,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-06-16",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "3d2cb640cc8731a9ccf20890",
+    "publication_date": "2026-06-16",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-16 | GE | 2026-06-11 | <FT TYPE=\"N\">Double E SÃ rl</FT>, Ã  <FT TYPE=\"5\">GenÃ¨ve</FT>, Rue MICHELI-DU-CREST 2, 1205 GenÃ¨ve, <FT TYPE=\"A\">CHE-155.955.127</FT>. Nouvelle sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e. Statuts du 03.06.2026. But: l&apos;exploitation d&apos;Ã©tablissements publics, notamment de restaurants, cafÃ©s et services de restauration sur place, Ã  l&apos;emporter ou en livraison, ainsi que toutes activitÃ©s liÃ©es Ã  l&apos;hÃ´tellerie, l&apos;Ã©vÃ©nementiel et le commerce de produits alimentaires et de boissons. La sociÃ©tÃ© peut exercer toutes activitÃ©s commerciales, financiÃ¨res ou mobiliÃ¨res en rapport direct ou indirect avec son but. Obligation de fournir des prestations accessoires, droits de prÃ©fÃ©rence, de prÃ©emption ou d&apos;emption: pour les dÃ©tails, voir les statuts. Capital: CHF 20&apos;000. Organe de publication: Feuille Officielle Suisse du Commerce. Communication aux associÃ©s: par courrier ou par courriel. AssociÃ©s: Ineich Elisabeth, de France, Ã  Divonne-les-Bains, FRA, pour 100 parts de CHF 100, et Sitbon Elliot, de France, Ã  Bossey, FRA, pour 100 parts de CHF 100. GÃ©rants: les associÃ©s Ineich Elisabeth, prÃ©sidente, et Sitbon Elliot, tous deux avec signature individuelle, ainsi que Scarantino Gorgoni Jacqueline, de Appenzell, Ã  Aire-la-Ville, Ã©galement avec signature individuelle. Selon dÃ©claration Ã  la constitution de la sociÃ©tÃ©, il est renoncÃ© Ã  un contrÃ´le restreint. | status | status.neu | Double E Sàrl | CHE155955127 | CH66022410261 | Genève | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-07-09",
+    "categories": [
+      "allgemein",
+      "handel_vertrieb"
+    ],
+    "confidence": 95,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "022410261"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-16",
+        "sogcId": 1006678918,
+        "registryOfCommerceId": 660,
+        "registryOfCommerceCanton": "GE",
+        "registryOfCommerceJournalId": 15349,
+        "registryOfCommerceJournalDate": "2026-06-11",
+        "message": "<FT TYPE=\"N\">Double E SÃ rl</FT>, Ã  <FT TYPE=\"5\">GenÃ¨ve</FT>, Rue MICHELI-DU-CREST 2, 1205 GenÃ¨ve, <FT TYPE=\"A\">CHE-155.955.127</FT>. Nouvelle sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e. Statuts du 03.06.2026. But: l&apos;exploitation d&apos;Ã©tablissements publics, notamment de restaurants, cafÃ©s et services de restauration sur place, Ã  l&apos;emporter ou en livraison, ainsi que toutes activitÃ©s liÃ©es Ã  l&apos;hÃ´tellerie, l&apos;Ã©vÃ©nementiel et le commerce de produits alimentaires et de boissons. La sociÃ©tÃ© peut exercer toutes activitÃ©s commerciales, financiÃ¨res ou mobiliÃ¨res en rapport direct ou indirect avec son but. Obligation de fournir des prestations accessoires, droits de prÃ©fÃ©rence, de prÃ©emption ou d&apos;emption: pour les dÃ©tails, voir les statuts. Capital: CHF 20&apos;000. Organe de publication: Feuille Officielle Suisse du Commerce. Communication aux associÃ©s: par courrier ou par courriel. AssociÃ©s: Ineich Elisabeth, de France, Ã  Divonne-les-Bains, FRA, pour 100 parts de CHF 100, et Sitbon Elliot, de France, Ã  Bossey, FRA, pour 100 parts de CHF 100. GÃ©rants: les associÃ©s Ineich Elisabeth, prÃ©sidente, et Sitbon Elliot, tous deux avec signature individuelle, ainsi que Scarantino Gorgoni Jacqueline, de Appenzell, Ã  Aire-la-Ville, Ã©galement avec signature individuelle. Selon dÃ©claration Ã  la constitution de la sociÃ©tÃ©, il est renoncÃ© Ã  un contrÃ´le restreint.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Double E Sàrl",
+        "ehraid": 1754031,
+        "uid": "CHE155955127",
+        "chid": "CH66022410261",
+        "legalSeatId": 6621,
+        "legalSeat": "Genève",
+        "registryOfCommerceId": 660,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-07-09",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "dae7d955494f30d77249b45c",
+    "publication_date": "2026-06-16",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-16 | GE | 2026-06-11 | <FT TYPE=\"N\">Finestra Restauration SÃ rl</FT>, Ã  <FT TYPE=\"5\">GenÃ¨ve</FT>, Rue de la CitÃ© 11, 1204 GenÃ¨ve, <FT TYPE=\"A\">CHE-458.687.284</FT>. Nouvelle sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e. Statuts du 29.05.2026. But: l&apos;exploitation et la gestion d&apos;Ã©tablissements publics, tels que restaurants, cafÃ©s, hÃ´tels, vars, bars, tea-rooms. La sociÃ©tÃ© peut en outre exercer toute autre activitÃ© ayant un lien direct ou indirect avec ces buts; elle peut notamment crÃ©er des succursales en Suisse et Ã  l&apos;Ã©tranger, participer Ã  d&apos;autres entreprises en Suisse et Ã  l&apos;Ã©tranger, acquÃ©rir des entreprises visant un but identique ou analogue, ou fusionner avec de telles entreprises, faire toutes opÃ©rations et conclure tous contrats propres Ã  dÃ©velopper et Ã  Ã©tendre son but ou s&apos;y rapportant directement ou indirectement. Obligation de fournir des prestations accessoires, droits de prÃ©fÃ©rence, de prÃ©emption ou d&apos;emption: pour les dÃ©tails, voir les statuts. Capital: CHF 20&apos;000. Organe de publication: Feuille Officielle Suisse du Commerce. Communication aux associÃ©s: par Ã©crit ou par courriel. AssociÃ©e-gÃ©rante: Alvarado Gutierres Maria Jose, du et au Grand-Saconnex, pour 200 parts de CHF 100, avec signature individuelle. Selon dÃ©claration Ã  la constitution de la sociÃ©tÃ©, il est renoncÃ© Ã  un contrÃ´le restreint. | status | status.neu | Finestra Restauration Sàrl | CHE458687284 | CH66021680267 | Genève | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-07-15",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "021680267"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-16",
+        "sogcId": 1006678951,
+        "registryOfCommerceId": 660,
+        "registryOfCommerceCanton": "GE",
+        "registryOfCommerceJournalId": 15352,
+        "registryOfCommerceJournalDate": "2026-06-11",
+        "message": "<FT TYPE=\"N\">Finestra Restauration SÃ rl</FT>, Ã  <FT TYPE=\"5\">GenÃ¨ve</FT>, Rue de la CitÃ© 11, 1204 GenÃ¨ve, <FT TYPE=\"A\">CHE-458.687.284</FT>. Nouvelle sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e. Statuts du 29.05.2026. But: l&apos;exploitation et la gestion d&apos;Ã©tablissements publics, tels que restaurants, cafÃ©s, hÃ´tels, vars, bars, tea-rooms. La sociÃ©tÃ© peut en outre exercer toute autre activitÃ© ayant un lien direct ou indirect avec ces buts; elle peut notamment crÃ©er des succursales en Suisse et Ã  l&apos;Ã©tranger, participer Ã  d&apos;autres entreprises en Suisse et Ã  l&apos;Ã©tranger, acquÃ©rir des entreprises visant un but identique ou analogue, ou fusionner avec de telles entreprises, faire toutes opÃ©rations et conclure tous contrats propres Ã  dÃ©velopper et Ã  Ã©tendre son but ou s&apos;y rapportant directement ou indirectement. Obligation de fournir des prestations accessoires, droits de prÃ©fÃ©rence, de prÃ©emption ou d&apos;emption: pour les dÃ©tails, voir les statuts. Capital: CHF 20&apos;000. Organe de publication: Feuille Officielle Suisse du Commerce. Communication aux associÃ©s: par Ã©crit ou par courriel. AssociÃ©e-gÃ©rante: Alvarado Gutierres Maria Jose, du et au Grand-Saconnex, pour 200 parts de CHF 100, avec signature individuelle. Selon dÃ©claration Ã  la constitution de la sociÃ©tÃ©, il est renoncÃ© Ã  un contrÃ´le restreint.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Finestra Restauration Sàrl",
+        "ehraid": 1754040,
+        "uid": "CHE458687284",
+        "chid": "CH66021680267",
+        "legalSeatId": 6621,
+        "legalSeat": "Genève",
+        "registryOfCommerceId": 660,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-07-15",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "fcb329c8ebbb971598b87b1c",
+    "publication_date": "2026-06-16",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-16 | SG | 2026-06-11 | <FT TYPE=\"F\">Gerlinger Industries AG</FT>, in <FT TYPE=\"S\">RÃ¼thi (SG)</FT>, <FT TYPE=\"A\">CHE-112.974.151</FT>, Aktiengesellschaft (SHAB Nr. 131 vom 10.07.2025, Publ. 1006380973). Ausgeschiedene Personen und erloschene Unterschriften: Addetto Treuhand AG (<FT TYPE=\"B\">CHE-109.365.862</FT>), in Kreuzlingen, Revisionsstelle. Eingetragene Personen neu oder mutierend: OBT AG (<FT TYPE=\"B\">CHE-334.233.957</FT>), in Weinfelden, Revisionsstelle. | aenderungorgane | Gerlinger Industries AG | CHE112974151 | CH32030594654 | Rüthi (SG) | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-07-01",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006380973)",
+      "030594654"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-16",
+        "sogcId": 1006678372,
+        "registryOfCommerceId": 320,
+        "registryOfCommerceCanton": "SG",
+        "registryOfCommerceJournalId": 6949,
+        "registryOfCommerceJournalDate": "2026-06-11",
+        "message": "<FT TYPE=\"F\">Gerlinger Industries AG</FT>, in <FT TYPE=\"S\">RÃ¼thi (SG)</FT>, <FT TYPE=\"A\">CHE-112.974.151</FT>, Aktiengesellschaft (SHAB Nr. 131 vom 10.07.2025, Publ. 1006380973). Ausgeschiedene Personen und erloschene Unterschriften: Addetto Treuhand AG (<FT TYPE=\"B\">CHE-109.365.862</FT>), in Kreuzlingen, Revisionsstelle. Eingetragene Personen neu oder mutierend: OBT AG (<FT TYPE=\"B\">CHE-334.233.957</FT>), in Weinfelden, Revisionsstelle.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Gerlinger Industries AG",
+        "ehraid": 839737,
+        "uid": "CHE112974151",
+        "chid": "CH32030594654",
+        "legalSeatId": 3256,
+        "legalSeat": "Rüthi (SG)",
+        "registryOfCommerceId": 320,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-07-01",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "e3a2280fb1a988e906a13fdb",
+    "publication_date": "2026-06-16",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-16 | SG | 2026-06-11 | <FT TYPE=\"F\">Kaitos Holding AG</FT>, in <FT TYPE=\"S\">RÃ¼thi (SG)</FT>, <FT TYPE=\"A\">CHE-114.650.794</FT>, Aktiengesellschaft (SHAB Nr. 131 vom 10.07.2025, Publ. 1006380981). Ausgeschiedene Personen und erloschene Unterschriften: Addetto Treuhand AG (<FT TYPE=\"B\">CHE-109.365.862</FT>), in Kreuzlingen, Revisionsstelle. Eingetragene Personen neu oder mutierend: OBT AG (<FT TYPE=\"B\">CHE-334.233.957</FT>), in Weinfelden, Revisionsstelle. | aenderungorgane | Kaitos Holding AG | CHE114650794 | CH32030645619 | Rüthi (SG) | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-06-16",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006380981)",
+      "030645619"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-16",
+        "sogcId": 1006678371,
+        "registryOfCommerceId": 320,
+        "registryOfCommerceCanton": "SG",
+        "registryOfCommerceJournalId": 6948,
+        "registryOfCommerceJournalDate": "2026-06-11",
+        "message": "<FT TYPE=\"F\">Kaitos Holding AG</FT>, in <FT TYPE=\"S\">RÃ¼thi (SG)</FT>, <FT TYPE=\"A\">CHE-114.650.794</FT>, Aktiengesellschaft (SHAB Nr. 131 vom 10.07.2025, Publ. 1006380981). Ausgeschiedene Personen und erloschene Unterschriften: Addetto Treuhand AG (<FT TYPE=\"B\">CHE-109.365.862</FT>), in Kreuzlingen, Revisionsstelle. Eingetragene Personen neu oder mutierend: OBT AG (<FT TYPE=\"B\">CHE-334.233.957</FT>), in Weinfelden, Revisionsstelle.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Kaitos Holding AG",
+        "ehraid": 931686,
+        "uid": "CHE114650794",
+        "chid": "CH32030645619",
+        "legalSeatId": 3256,
+        "legalSeat": "Rüthi (SG)",
+        "registryOfCommerceId": 320,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-06-16",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "80206f0bce58e7a35a4c69b0",
+    "publication_date": "2026-06-16",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-16 | ZH | 2026-06-11 | <FT TYPE=\"N\">Opus Singularis AG</FT>, in <FT TYPE=\"5\">KÃ¼snacht (ZH)</FT>, <FT TYPE=\"A\">CHE-424.072.676</FT>, Weinmanngasse 33, 8700 KÃ¼snacht ZH, Aktiengesellschaft (Neueintragung). Statutendatum: 28.05.2026. Zweck: Die Gesellschaft bezweckt die Forschung, Entwicklung, das Engineering sowie die Kommerzialisierung von industriellen Deep-Tech-Technologien sowie den Erwerb, das Halten und die Verwaltung von Beteiligungen an in- und auslÃ¤ndischen Gesellschaften in diesen Bereichen. Der Fokus liegt insbesondere auf dezentraler Stromerzeugung, digitalen Steuerungs- und Kontrollsystemen, Energie-, Verteidigungs-, MobilitÃ¤ts- und Antriebstechnologien sowie angrenzenden High-End- und Luxussegmenten. Die Gesellschaft ist tÃ¤tig in der Produktion und dem Verkauf von Energie (einschliesslich Power-as-a-Service-Modellen), in der Erbringung von Software- und DatenlÃ¶sungen (einschliesslich Software-as-a-Service-Modellen), in Venture-Building-AktivitÃ¤ten, im Technologie- und Wissenstransfer sowie im Erwerb, Halten, Entwickeln, Nutzen und in der kommerziellen Verwertung von Hardware, Software und ImmaterialgÃ¼terrechten (IP). Zudem unterstÃ¼tzt die Gesellschaft die strategische, finanzielle und operative Entwicklung ihrer Portfoliogesellschaften. Weiter bezweckt die Gesellschaft die Strukturierung und DurchfÃ¼hrung von Finanzierungs- und Kapitalbeschaffungsmassnahmen fÃ¼r sich selbst sowie fÃ¼r ihre direkten und indirekten Tochtergesellschaften. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten, sich an anderen in- und auslÃ¤ndischen Gesellschaften beteiligen sowie alle GeschÃ¤fte tÃ¤tigen, die direkt oder indirekt mit ihrem Gesellschaftszweck zusammenhÃ¤ngen. Die Gesellschaft kann GrundstÃ¼cke und Liegenschaften im In- und Ausland erwerben, belasten, verÃ¤ussern und verwalten. Sie kann zudem Finanzierungen fÃ¼r eigene oder fremde Rechnung gewÃ¤hren sowie Garantien und BÃ¼rgschaften zugunsten von Toc",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "02030572878"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-16",
+        "sogcId": 1006677635,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 27759,
+        "registryOfCommerceJournalDate": "2026-06-11",
+        "message": "<FT TYPE=\"N\">Opus Singularis AG</FT>, in <FT TYPE=\"5\">KÃ¼snacht (ZH)</FT>, <FT TYPE=\"A\">CHE-424.072.676</FT>, Weinmanngasse 33, 8700 KÃ¼snacht ZH, Aktiengesellschaft (Neueintragung). Statutendatum: 28.05.2026. Zweck: Die Gesellschaft bezweckt die Forschung, Entwicklung, das Engineering sowie die Kommerzialisierung von industriellen Deep-Tech-Technologien sowie den Erwerb, das Halten und die Verwaltung von Beteiligungen an in- und auslÃ¤ndischen Gesellschaften in diesen Bereichen. Der Fokus liegt insbesondere auf dezentraler Stromerzeugung, digitalen Steuerungs- und Kontrollsystemen, Energie-, Verteidigungs-, MobilitÃ¤ts- und Antriebstechnologien sowie angrenzenden High-End- und Luxussegmenten. Die Gesellschaft ist tÃ¤tig in der Produktion und dem Verkauf von Energie (einschliesslich Power-as-a-Service-Modellen), in der Erbringung von Software- und DatenlÃ¶sungen (einschliesslich Software-as-a-Service-Modellen), in Venture-Building-AktivitÃ¤ten, im Technologie- und Wissenstransfer sowie im Erwerb, Halten, Entwickeln, Nutzen und in der kommerziellen Verwertung von Hardware, Software und ImmaterialgÃ¼terrechten (IP). Zudem unterstÃ¼tzt die Gesellschaft die strategische, finanzielle und operative Entwicklung ihrer Portfoliogesellschaften. Weiter bezweckt die Gesellschaft die Strukturierung und DurchfÃ¼hrung von Finanzierungs- und Kapitalbeschaffungsmassnahmen fÃ¼r sich selbst sowie fÃ¼r ihre direkten und indirekten Tochtergesellschaften. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten, sich an anderen in- und auslÃ¤ndischen Gesellschaften beteiligen sowie alle GeschÃ¤fte tÃ¤tigen, die direkt oder indirekt mit ihrem Gesellschaftszweck zusammenhÃ¤ngen. Die Gesellschaft kann GrundstÃ¼cke und Liegenschaften im In- und Ausland erwerben, belasten, verÃ¤ussern und verwalten. Sie kann zudem Finanzierungen fÃ¼r eigene oder fremde Rechnung gewÃ¤hren sowie Garantien und BÃ¼rgschaften zugunsten von Tochtergesellschaften und Dritten Ã¼bernehmen. Aktienkapital: CHF 100&apos;000.00. Liberierung Aktienkapital: CHF 100&apos;000.00. Aktien: 100&apos;000 Namenaktien zu CHF 1.00. Publikationsorgan: SHAB. Unter Vorbehalt abweichender zwingender gesetzlicher Bestimmungen erfolgen alle Mitteilungen der Gesellschaft an ihre AktionÃ¤re wahlweise durch Publikation im Schweizerischen Handelsamtsblatt oder in einer anderen Ãœbermittlungsform, die den Nachweis der Mitteilung durch Text ermÃ¶glicht (z.B. E-Mail), an die im Aktienbuch eingetragenen Kontaktdaten der AktionÃ¤re. Vinkulierung: Die Ãœbertragbarkeit der Namenaktien ist nach Massgabe der Statuten beschrÃ¤nkt. GemÃ¤ss ErklÃ¤rung bei der GrÃ¼ndung der Gesellschaft wird auf eine eingeschrÃ¤nkte Revision verzichtet. Eingetragene Personen: Scervo, Emilio, italienischer StaatsangehÃ¶riger, in Sveta Nedelja (HR), PrÃ¤sident des Verwaltungsrates, mit Einzelunterschrift; Zerbini, Luca, von KÃ¼snacht (ZH), in KÃ¼snacht (ZH), Mitglied des Verwaltungsrates, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Opus Singularis AG",
+        "ehraid": 1754061,
+        "uid": "CHE424072676",
+        "chid": "CH02030572878",
+        "legalSeatId": 154,
+        "legalSeat": "Küsnacht (ZH)",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-06-16",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "2ca667bfd707938276d49f69",
+    "publication_date": "2026-06-16",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-16 | VS | 2026-06-11 | <FT TYPE=\"F\">Orenda CafÃ© SÃ rl</FT>, Ã  <FT TYPE=\"S\">Martigny</FT>, <FT TYPE=\"A\">CHE-263.706.242</FT>, sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e (No. FOSC 45 du 06.03.2025, Publ. 1006275511). Nouvelle raison sociale: <FT TYPE=\"N\">Orenda CafÃ© SÃ rl en liquidation</FT>. La sociÃ©tÃ© est dissoute par dÃ©cision de l&apos;assemblÃ©e gÃ©nÃ©rale du 09.06.2026. Inscription ou modification de personne(s): Levrand, Virginie Anne, de Martigny, Ã  Martigny, associÃ©e et gÃ©rante, liquidatrice, avec signature individuelle, pour 100 parts sociales de CHF 100.00 [prÃ©cÃ©demment: associÃ©e et gÃ©rante, avec signature individuelle]. | status | status.aufl | status.aufl.liq | aenderungorgane | Orenda Café Sàrl en liquidation | CHE263706242 | CH62140114459 | Martigny | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | BEING_CANCELLED | 2026-06-16",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006275511)"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-16",
+        "sogcId": 1006678812,
+        "registryOfCommerceId": 621,
+        "registryOfCommerceCanton": "VS",
+        "registryOfCommerceJournalId": 2262,
+        "registryOfCommerceJournalDate": "2026-06-11",
+        "message": "<FT TYPE=\"F\">Orenda CafÃ© SÃ rl</FT>, Ã  <FT TYPE=\"S\">Martigny</FT>, <FT TYPE=\"A\">CHE-263.706.242</FT>, sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e (No. FOSC 45 du 06.03.2025, Publ. 1006275511). Nouvelle raison sociale: <FT TYPE=\"N\">Orenda CafÃ© SÃ rl en liquidation</FT>. La sociÃ©tÃ© est dissoute par dÃ©cision de l&apos;assemblÃ©e gÃ©nÃ©rale du 09.06.2026. Inscription ou modification de personne(s): Levrand, Virginie Anne, de Martigny, Ã  Martigny, associÃ©e et gÃ©rante, liquidatrice, avec signature individuelle, pour 100 parts sociales de CHF 100.00 [prÃ©cÃ©demment: associÃ©e et gÃ©rante, avec signature individuelle].",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 3,
+            "key": "status.aufl"
+          },
+          {
+            "id": 4,
+            "key": "status.aufl.liq"
+          },
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Orenda Café Sàrl en liquidation",
+        "ehraid": 1523614,
+        "uid": "CHE263706242",
+        "chid": "CH62140114459",
+        "legalSeatId": 6136,
+        "legalSeat": "Martigny",
+        "registryOfCommerceId": 621,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "BEING_CANCELLED",
+        "sogcDate": "2026-06-16",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "78bc4f59a0974291107f53b9",
+    "publication_date": "2026-06-16",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-16 | BE | 2026-06-11 | <FT TYPE=\"F\">Pneuservice &amp; Mehr, Inhaber Bieri</FT>, in <FT TYPE=\"S\">St. Stephan</FT>, <FT TYPE=\"A\">CHE-116.209.138</FT>, Einzelunternehmen (SHAB Nr. 226 vom 19.11.2010, S.3, Publ. 5901732). Zweck neu: Handel, Montage von Pneus und diversem ZubehÃ¶r. Lohnarbeiten, Transporte und SchneerÃ¤umung. | zweckaenderung | Pneuservice & Mehr, Inhaber Bieri | CHE116209138 | CH03610490200 | St. Stephan | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-06-16",
+    "categories": [
+      "bier"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "03610490200"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-16",
+        "sogcId": 1006677897,
+        "registryOfCommerceId": 36,
+        "registryOfCommerceCanton": "BE",
+        "registryOfCommerceJournalId": 11076,
+        "registryOfCommerceJournalDate": "2026-06-11",
+        "message": "<FT TYPE=\"F\">Pneuservice &amp; Mehr, Inhaber Bieri</FT>, in <FT TYPE=\"S\">St. Stephan</FT>, <FT TYPE=\"A\">CHE-116.209.138</FT>, Einzelunternehmen (SHAB Nr. 226 vom 19.11.2010, S.3, Publ. 5901732). Zweck neu: Handel, Montage von Pneus und diversem ZubehÃ¶r. Lohnarbeiten, Transporte und SchneerÃ¤umung.",
+        "mutationTypes": [
+          {
+            "id": 11,
+            "key": "zweckaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Pneuservice & Mehr, Inhaber Bieri",
+        "ehraid": 999357,
+        "uid": "CHE116209138",
+        "chid": "CH03610490200",
+        "legalSeatId": 793,
+        "legalSeat": "St. Stephan",
+        "registryOfCommerceId": 36,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-06-16",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "fa40678efd9767cb5f698c77",
+    "publication_date": "2026-06-16",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-16 | TG | 2026-06-11 | <FT TYPE=\"F\">Quant State Investments AG</FT>, in <FT TYPE=\"S\">Warth-Weiningen</FT>, <FT TYPE=\"A\">CHE-461.199.370</FT>, Aktiengesellschaft (SHAB Nr. 215 vom 06.11.2025, Publ. 1006477759). Eingetragene Personen neu oder mutierend: Guo, Yang, zyprischer StaatsangehÃ¶riger, in Paphos (CY), Mitglied des Verwaltungsrates, mit Einzelunterschrift [bisher: in Beijing (CN)]. | aenderungorgane | Quant State Investments AG | CHE461199370 | CH44030403628 | Warth-Weiningen | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-06-16",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006477759)",
+      "030403628"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-16",
+        "sogcId": 1006678561,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 3806,
+        "registryOfCommerceJournalDate": "2026-06-11",
+        "message": "<FT TYPE=\"F\">Quant State Investments AG</FT>, in <FT TYPE=\"S\">Warth-Weiningen</FT>, <FT TYPE=\"A\">CHE-461.199.370</FT>, Aktiengesellschaft (SHAB Nr. 215 vom 06.11.2025, Publ. 1006477759). Eingetragene Personen neu oder mutierend: Guo, Yang, zyprischer StaatsangehÃ¶riger, in Paphos (CY), Mitglied des Verwaltungsrates, mit Einzelunterschrift [bisher: in Beijing (CN)].",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Quant State Investments AG",
+        "ehraid": 1603902,
+        "uid": "CHE461199370",
+        "chid": "CH44030403628",
+        "legalSeatId": 4621,
+        "legalSeat": "Warth-Weiningen",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-06-16",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "b486fd9ec88e0a898b17cc4d",
+    "publication_date": "2026-06-16",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-16 | SG | 2026-06-11 | <FT TYPE=\"F\">SwissChem AG</FT>, in <FT TYPE=\"S\">RÃ¼thi (SG)</FT>, <FT TYPE=\"A\">CHE-109.094.249</FT>, Aktiengesellschaft (SHAB Nr. 131 vom 10.07.2025, Publ. 1006380994). Ausgeschiedene Personen und erloschene Unterschriften: Addetto Treuhand AG (<FT TYPE=\"B\">CHE-109.365.862</FT>), in Kreuzlingen, Revisionsstelle. Eingetragene Personen neu oder mutierend: OBT AG (<FT TYPE=\"B\">CHE-334.233.957</FT>), in Weinfelden, Revisionsstelle. | aenderungorgane | SwissChem AG | CHE109094249 | CH44030146151 | Rüthi (SG) | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | CANCELLED | 2026-07-01 | 2026-07-01",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006380994)",
+      "030146151"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-16",
+        "sogcId": 1006678370,
+        "registryOfCommerceId": 320,
+        "registryOfCommerceCanton": "SG",
+        "registryOfCommerceJournalId": 6947,
+        "registryOfCommerceJournalDate": "2026-06-11",
+        "message": "<FT TYPE=\"F\">SwissChem AG</FT>, in <FT TYPE=\"S\">RÃ¼thi (SG)</FT>, <FT TYPE=\"A\">CHE-109.094.249</FT>, Aktiengesellschaft (SHAB Nr. 131 vom 10.07.2025, Publ. 1006380994). Ausgeschiedene Personen und erloschene Unterschriften: Addetto Treuhand AG (<FT TYPE=\"B\">CHE-109.365.862</FT>), in Kreuzlingen, Revisionsstelle. Eingetragene Personen neu oder mutierend: OBT AG (<FT TYPE=\"B\">CHE-334.233.957</FT>), in Weinfelden, Revisionsstelle.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "SwissChem AG",
+        "ehraid": 625677,
+        "uid": "CHE109094249",
+        "chid": "CH44030146151",
+        "legalSeatId": 3256,
+        "legalSeat": "Rüthi (SG)",
+        "registryOfCommerceId": 320,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "CANCELLED",
+        "sogcDate": "2026-07-01",
+        "deletionDate": "2026-07-01"
+      }
+    }
+  },
+  {
+    "publication_id": "ac53699ca610c149f321e92a",
+    "publication_date": "2026-06-16",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-16 | SG | 2026-06-11 | <FT TYPE=\"F\">Teilag AG</FT>, in <FT TYPE=\"S\">RÃ¼thi (SG)</FT>, <FT TYPE=\"A\">CHE-106.224.432</FT>, Aktiengesellschaft (SHAB Nr. 131 vom 10.07.2025, Publ. 1006380996). Ausgeschiedene Personen und erloschene Unterschriften: Addetto Treuhand AG (<FT TYPE=\"B\">CHE-109.365.862</FT>), in Kreuzlingen, Revisionsstelle. Eingetragene Personen neu oder mutierend: OBT AG (<FT TYPE=\"B\">CHE-334.233.957</FT>), in Weinfelden, Revisionsstelle. | aenderungorgane | Teilag AG | CHE106224432 | CH44030019737 | Rüthi (SG) | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | CANCELLED | 2026-07-01 | 2026-07-01",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006380996)",
+      "030019737"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-16",
+        "sogcId": 1006678369,
+        "registryOfCommerceId": 320,
+        "registryOfCommerceCanton": "SG",
+        "registryOfCommerceJournalId": 6946,
+        "registryOfCommerceJournalDate": "2026-06-11",
+        "message": "<FT TYPE=\"F\">Teilag AG</FT>, in <FT TYPE=\"S\">RÃ¼thi (SG)</FT>, <FT TYPE=\"A\">CHE-106.224.432</FT>, Aktiengesellschaft (SHAB Nr. 131 vom 10.07.2025, Publ. 1006380996). Ausgeschiedene Personen und erloschene Unterschriften: Addetto Treuhand AG (<FT TYPE=\"B\">CHE-109.365.862</FT>), in Kreuzlingen, Revisionsstelle. Eingetragene Personen neu oder mutierend: OBT AG (<FT TYPE=\"B\">CHE-334.233.957</FT>), in Weinfelden, Revisionsstelle.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Teilag AG",
+        "ehraid": 191322,
+        "uid": "CHE106224432",
+        "chid": "CH44030019737",
+        "legalSeatId": 3256,
+        "legalSeat": "Rüthi (SG)",
+        "registryOfCommerceId": 320,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "CANCELLED",
+        "sogcDate": "2026-07-01",
+        "deletionDate": "2026-07-01"
+      }
+    }
+  },
+  {
+    "publication_id": "a974ce3f53b76ebf95a360aa",
+    "publication_date": "2026-06-16",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-16 | ZH | 2026-06-11 | <FT TYPE=\"F\">ALRIGHT MARKETING &amp; PROJECTS LTD, London, Zweigniederlassung Richterswil</FT>, in <FT TYPE=\"S\">Richterswil</FT>, <FT TYPE=\"A\">CHE-362.998.166</FT>, auslÃ¤ndische Zweigniederlassung (SHAB Nr. 128 vom 07.07.2014, S.0, Publ. 1596457), Hauptsitz in: London. Firma neu: <FT TYPE=\"N\">THE ALRIGHT GROUP LTD, London, Zweigniederlassung Richterswil</FT>. Domizil neu: Gummerrainweg 7, 8805 Richterswil. Firma Hauptsitz neu: THE ALRIGHT GROUP LTD [bisher: Firma Hauptsitz: ALRIGHT MARKETING &amp; PROJECTS LTD]. Angaben zur Zweigniederlassung neu: Zweck: Der Zweck des Unternehmens ist die Erbringung von Beratungs- und Dienstleistungen fÃ¼r Unternehmen, Organisationen und Privatpersonen, insbesondere in den Bereichen Strategie, Organisation, Prozessoptimierung und Management sowie alle damit zusammenhÃ¤ngenden TÃ¤tigkeiten. Dies umfasst auch die Identifikation von GeschÃ¤ftsmÃ¶glichkeiten sowie die Vermittlung von Gelegenheiten zum Abschluss von VertrÃ¤gen Ã¼ber Waren, Dienstleistungen und sonstige WirtschaftsgÃ¼ter. [bisher: Zweck: Handel mit Rohstoffen wie Kakao und Kaffee sowie Beratungsleistungen fÃ¼r Entwicklungsprojekte in der Rohstoffindustrie.]. Eingetragene Personen neu oder mutierend: Bornemann, Uwe, deutscher StaatsangehÃ¶riger und Richterswil, in Richterswil, GeschÃ¤ftsfÃ¼hrer der Zweigniederlassung, mit Einzelunterschrift [bisher: deutscher StaatsangehÃ¶riger]. | firmenaenderung | zweckaenderung | adressaenderung | aenderungorgane | THE ALRIGHT GROUP LTD, London, Zweigniederlassung Richterswil | CHE362998166 | CH02090041988 | Richterswil | 0111 | Zweigniederlassung einer ausl. Gesellschaft | Succursale étrangère | Succursale estera | Foreign branch | ZNA | SUCE | SUCE | FB | ACTIVE | 2026-06-16",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "02090041988"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-16",
+        "sogcId": 1006677655,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 27779,
+        "registryOfCommerceJournalDate": "2026-06-11",
+        "message": "<FT TYPE=\"F\">ALRIGHT MARKETING &amp; PROJECTS LTD, London, Zweigniederlassung Richterswil</FT>, in <FT TYPE=\"S\">Richterswil</FT>, <FT TYPE=\"A\">CHE-362.998.166</FT>, auslÃ¤ndische Zweigniederlassung (SHAB Nr. 128 vom 07.07.2014, S.0, Publ. 1596457), Hauptsitz in: London. Firma neu: <FT TYPE=\"N\">THE ALRIGHT GROUP LTD, London, Zweigniederlassung Richterswil</FT>. Domizil neu: Gummerrainweg 7, 8805 Richterswil. Firma Hauptsitz neu: THE ALRIGHT GROUP LTD [bisher: Firma Hauptsitz: ALRIGHT MARKETING &amp; PROJECTS LTD]. Angaben zur Zweigniederlassung neu: Zweck: Der Zweck des Unternehmens ist die Erbringung von Beratungs- und Dienstleistungen fÃ¼r Unternehmen, Organisationen und Privatpersonen, insbesondere in den Bereichen Strategie, Organisation, Prozessoptimierung und Management sowie alle damit zusammenhÃ¤ngenden TÃ¤tigkeiten. Dies umfasst auch die Identifikation von GeschÃ¤ftsmÃ¶glichkeiten sowie die Vermittlung von Gelegenheiten zum Abschluss von VertrÃ¤gen Ã¼ber Waren, Dienstleistungen und sonstige WirtschaftsgÃ¼ter. [bisher: Zweck: Handel mit Rohstoffen wie Kakao und Kaffee sowie Beratungsleistungen fÃ¼r Entwicklungsprojekte in der Rohstoffindustrie.]. Eingetragene Personen neu oder mutierend: Bornemann, Uwe, deutscher StaatsangehÃ¶riger und Richterswil, in Richterswil, GeschÃ¤ftsfÃ¼hrer der Zweigniederlassung, mit Einzelunterschrift [bisher: deutscher StaatsangehÃ¶riger].",
+        "mutationTypes": [
+          {
+            "id": 9,
+            "key": "firmenaenderung"
+          },
+          {
+            "id": 11,
+            "key": "zweckaenderung"
+          },
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          },
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "THE ALRIGHT GROUP LTD, London, Zweigniederlassung Richterswil",
+        "ehraid": 1187290,
+        "uid": "CHE362998166",
+        "chid": "CH02090041988",
+        "legalSeatId": 138,
+        "legalSeat": "Richterswil",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 11,
+          "uid": "0111",
+          "name": {
+            "de": "Zweigniederlassung einer ausl. Gesellschaft",
+            "fr": "Succursale étrangère",
+            "it": "Succursale estera",
+            "en": "Foreign branch"
+          },
+          "shortName": {
+            "de": "ZNA",
+            "fr": "SUCE",
+            "it": "SUCE",
+            "en": "FB"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-06-16",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "f04a22dee5b8443797770ca6",
+    "publication_date": "2026-06-16",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-06-16 | ZH | 2026-06-11 | <FT TYPE=\"F\">Weinbauzentrum WÃ¤denswil AG</FT>, in <FT TYPE=\"S\">WÃ¤denswil</FT>, <FT TYPE=\"A\">CHE-223.192.638</FT>, Aktiengesellschaft (SHAB Nr. 82 vom 30.04.2026, Publ. 1006638723). StatutenÃ¤nderung: 08.06.2026. Die Gesellschaft hat mit Beschluss vom 08.06.2026 ein Kapitalband gemÃ¤ss nÃ¤herer Umschreibung in den Statuten beschlossen. | aenderungkapitalband | Weinbauzentrum Wädenswil AG | CHE223192638 | CH02030454948 | Wädenswil | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-07-31",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006638723)",
+      "02030454948"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-06-16",
+        "sogcId": 1006677793,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 27917,
+        "registryOfCommerceJournalDate": "2026-06-11",
+        "message": "<FT TYPE=\"F\">Weinbauzentrum WÃ¤denswil AG</FT>, in <FT TYPE=\"S\">WÃ¤denswil</FT>, <FT TYPE=\"A\">CHE-223.192.638</FT>, Aktiengesellschaft (SHAB Nr. 82 vom 30.04.2026, Publ. 1006638723). StatutenÃ¤nderung: 08.06.2026. Die Gesellschaft hat mit Beschluss vom 08.06.2026 ein Kapitalband gemÃ¤ss nÃ¤herer Umschreibung in den Statuten beschlossen.",
+        "mutationTypes": [
+          {
+            "id": 22,
+            "key": "aenderungkapitalband"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Weinbauzentrum Wädenswil AG",
+        "ehraid": 1330623,
+        "uid": "CHE223192638",
+        "chid": "CH02030454948",
+        "legalSeatId": 293,
+        "legalSeat": "Wädenswil",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-07-31",
+        "deletionDate": null
+      }
+    }
+  }
+]

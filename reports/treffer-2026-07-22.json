@@ -1,0 +1,681 @@
+[
+  {
+    "publication_id": "697853994ab731a3262d4fdc",
+    "publication_date": "2026-07-22",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-07-22 | ZH | 2026-07-17 | <FT TYPE=\"F\">AEH Oekotherm AG</FT>, in <FT TYPE=\"S\">Weiningen (ZH)</FT>, <FT TYPE=\"A\">CHE-106.960.459</FT>, Aktiengesellschaft (SHAB Nr. 164 vom 27.08.2025, Publ. 1006417573). Firma neu: <FT TYPE=\"N\">AEH Oekotherm AG in Liquidation</FT>. Mit Urteil vom 09.07.2026 hat das Konkursgericht des Bezirksgerichts Dietikon Ã¼ber die Gesellschaft mit Wirkung ab dem 09.07.2026, 13.40 Uhr, den Konkurs erÃ¶ffnet; demnach ist die Gesellschaft aufgelÃ¶st. | status | status.aufl | status.aufl.konk | AEH Oekotherm AG in Liquidation | CHE106960459 | CH02039003828 | Weiningen (ZH) | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | BEING_CANCELLED | 2026-07-22",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006417573)",
+      "02039003828"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-07-22",
+        "sogcId": 1006713025,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 34779,
+        "registryOfCommerceJournalDate": "2026-07-17",
+        "message": "<FT TYPE=\"F\">AEH Oekotherm AG</FT>, in <FT TYPE=\"S\">Weiningen (ZH)</FT>, <FT TYPE=\"A\">CHE-106.960.459</FT>, Aktiengesellschaft (SHAB Nr. 164 vom 27.08.2025, Publ. 1006417573). Firma neu: <FT TYPE=\"N\">AEH Oekotherm AG in Liquidation</FT>. Mit Urteil vom 09.07.2026 hat das Konkursgericht des Bezirksgerichts Dietikon Ã¼ber die Gesellschaft mit Wirkung ab dem 09.07.2026, 13.40 Uhr, den Konkurs erÃ¶ffnet; demnach ist die Gesellschaft aufgelÃ¶st.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 3,
+            "key": "status.aufl"
+          },
+          {
+            "id": 5,
+            "key": "status.aufl.konk"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "AEH Oekotherm AG in Liquidation",
+        "ehraid": 1843,
+        "uid": "CHE106960459",
+        "chid": "CH02039003828",
+        "legalSeatId": 251,
+        "legalSeat": "Weiningen (ZH)",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "BEING_CANCELLED",
+        "sogcDate": "2026-07-22",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "40b2ba4227ea143b5e138409",
+    "publication_date": "2026-07-22",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-07-22 | VS | 2026-07-17 | <FT TYPE=\"N\">Chez PÃ©pette SÃ rl</FT>, Ã  <FT TYPE=\"5\">Sion</FT>, <FT TYPE=\"A\">CHE-153.058.085</FT>, Rue du Grand-Pont 35, 1950 Sion, sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e (Nouvelle inscription). Date des statuts: 15.06.2026. But: La sociÃ©tÃ© a pour but l&apos;exploitation d&apos;Ã©tablissements publics de tous types, notamment bars, cafÃ©s, restaurants et Ã©tablissements assimilÃ©s, ainsi que l&apos;exercice de toutes activitÃ©s dans les domaines de la restauration, du dÃ©bit de boissons, du service traiteur et de la vente de nourriture et de boissons sur place, Ã  l&apos;emporter ou en livraison. Elle peut Ã©galement organiser, promouvoir et exploiter des Ã©vÃ©nements, manifestations publiques ou privÃ©es, rÃ©ceptions et activitÃ©s liÃ©es Ã  l&apos;hospitalitÃ© et Ã  l&apos;Ã©vÃ©nementiel. La sociÃ©tÃ© peut en outre acquÃ©rir, gÃ©rer, exploiter, louer et aliÃ©ner des biens immobiliers, Ã  l&apos;exclusion de toute opÃ©ration prohibÃ©e par la LFAIE. La sociÃ©tÃ© peut crÃ©er des succursales en Suisse et Ã  l&apos;Ã©tranger, participer Ã  d&apos;autres entreprises en Suisse et Ã  l&apos;Ã©tranger, acquÃ©rir ou fonder des entreprises visant un but identique ou analogue, effectuer toutes opÃ©rations commerciales, financiÃ¨res, mobiliÃ¨res ou autres et conclure tous contrats propres Ã  dÃ©velopper son but ou s&apos;y rapportant directement ou indirectement. Capital social: CHF 20&apos;000.00. Obligations de fournir des prestations accessoires, droits de prÃ©fÃ©rence, de prÃ©emption ou d&apos;emption: pour les dÃ©tails, voir les statuts. Organe de publication: FOSC. Communications aux associÃ©s: par Ã©crit (courrier, fax, email ou tout autre moyen de communication Ã©lectronique). Selon dÃ©claration Ã  la constitution de la sociÃ©tÃ©, il est renoncÃ© Ã  un contrÃ´le restreint. Personne(s) inscrite(s): Morard, Antoine Thomas, de Ayent, Ã  Sion, associÃ© et gÃ©rant, avec signature individuelle, pour 200 parts sociales de CHF 100.00. | status ",
+    "categories": [
+      "allgemein"
+    ],
+    "confidence": 60,
+    "contact_names": [],
+    "emails": [],
+    "phones": [],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": []
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-07-22",
+        "sogcId": 1006713983,
+        "registryOfCommerceId": 626,
+        "registryOfCommerceCanton": "VS",
+        "registryOfCommerceJournalId": 3129,
+        "registryOfCommerceJournalDate": "2026-07-17",
+        "message": "<FT TYPE=\"N\">Chez PÃ©pette SÃ rl</FT>, Ã  <FT TYPE=\"5\">Sion</FT>, <FT TYPE=\"A\">CHE-153.058.085</FT>, Rue du Grand-Pont 35, 1950 Sion, sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e (Nouvelle inscription). Date des statuts: 15.06.2026. But: La sociÃ©tÃ© a pour but l&apos;exploitation d&apos;Ã©tablissements publics de tous types, notamment bars, cafÃ©s, restaurants et Ã©tablissements assimilÃ©s, ainsi que l&apos;exercice de toutes activitÃ©s dans les domaines de la restauration, du dÃ©bit de boissons, du service traiteur et de la vente de nourriture et de boissons sur place, Ã  l&apos;emporter ou en livraison. Elle peut Ã©galement organiser, promouvoir et exploiter des Ã©vÃ©nements, manifestations publiques ou privÃ©es, rÃ©ceptions et activitÃ©s liÃ©es Ã  l&apos;hospitalitÃ© et Ã  l&apos;Ã©vÃ©nementiel. La sociÃ©tÃ© peut en outre acquÃ©rir, gÃ©rer, exploiter, louer et aliÃ©ner des biens immobiliers, Ã  l&apos;exclusion de toute opÃ©ration prohibÃ©e par la LFAIE. La sociÃ©tÃ© peut crÃ©er des succursales en Suisse et Ã  l&apos;Ã©tranger, participer Ã  d&apos;autres entreprises en Suisse et Ã  l&apos;Ã©tranger, acquÃ©rir ou fonder des entreprises visant un but identique ou analogue, effectuer toutes opÃ©rations commerciales, financiÃ¨res, mobiliÃ¨res ou autres et conclure tous contrats propres Ã  dÃ©velopper son but ou s&apos;y rapportant directement ou indirectement. Capital social: CHF 20&apos;000.00. Obligations de fournir des prestations accessoires, droits de prÃ©fÃ©rence, de prÃ©emption ou d&apos;emption: pour les dÃ©tails, voir les statuts. Organe de publication: FOSC. Communications aux associÃ©s: par Ã©crit (courrier, fax, email ou tout autre moyen de communication Ã©lectronique). Selon dÃ©claration Ã  la constitution de la sociÃ©tÃ©, il est renoncÃ© Ã  un contrÃ´le restreint. Personne(s) inscrite(s): Morard, Antoine Thomas, de Ayent, Ã  Sion, associÃ© et gÃ©rant, avec signature individuelle, pour 200 parts sociales de CHF 100.00.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Chez Pépette Sàrl",
+        "ehraid": 1760014,
+        "uid": "CHE153058085",
+        "chid": "CH62640266997",
+        "legalSeatId": 6266,
+        "legalSeat": "Sion",
+        "registryOfCommerceId": 626,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-07-22",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "b649c737201795b21b4eb5e3",
+    "publication_date": "2026-07-22",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-07-22 | AG | 2026-07-17 | <FT TYPE=\"F\">Graphax AG</FT>, in <FT TYPE=\"S\">Spreitenbach</FT>, <FT TYPE=\"A\">CHE-105.835.260</FT>, Aktiengesellschaft (SHAB Nr. 160 vom 21.08.2025, Publ. 1006413715). Eingetragene Personen neu oder mutierend: Bieri, Sara, von FlÃ¼hli, in Uitikon, mit Kollektivunterschrift zu zweien. | aenderungorgane | Graphax AG | CHE105835260 | CH02039106450 | Spreitenbach | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-07-22",
+    "categories": [
+      "bier"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006413715)",
+      "02039106450"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-07-22",
+        "sogcId": 1006713775,
+        "registryOfCommerceId": 400,
+        "registryOfCommerceCanton": "AG",
+        "registryOfCommerceJournalId": 10500,
+        "registryOfCommerceJournalDate": "2026-07-17",
+        "message": "<FT TYPE=\"F\">Graphax AG</FT>, in <FT TYPE=\"S\">Spreitenbach</FT>, <FT TYPE=\"A\">CHE-105.835.260</FT>, Aktiengesellschaft (SHAB Nr. 160 vom 21.08.2025, Publ. 1006413715). Eingetragene Personen neu oder mutierend: Bieri, Sara, von FlÃ¼hli, in Uitikon, mit Kollektivunterschrift zu zweien.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Graphax AG",
+        "ehraid": 72655,
+        "uid": "CHE105835260",
+        "chid": "CH02039106450",
+        "legalSeatId": 4040,
+        "legalSeat": "Spreitenbach",
+        "registryOfCommerceId": 400,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-07-22",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "ebdabde3bd1c394abe5cd20e",
+    "publication_date": "2026-07-22",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-07-22 | VD | 2026-07-17 | <FT TYPE=\"N\">Le Petit Pain d&apos;Or SÃ rl</FT>, Ã  <FT TYPE=\"5\">Bussigny</FT>, Rue de l&apos;Industrie 49, 1030 Bussigny, <FT TYPE=\"A\">CHE-183.684.270</FT>. Nouvelle sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e. Statuts: 08.06.2026. But: la sociÃ©tÃ© a pour but toutes activitÃ©s dans les domaines de l&apos;alimentation, de la boulangerie-pÃ¢tisserie, de la restauration et du commerce, notamment la production, la transformation, la confection, la vente et la distribution de produits alimentaires et de boissons; l&apos;exploitation, sous toutes leurs formes, de boulangeries, pÃ¢tisseries, Ã©piceries, services traiteurs, restaurants, cafÃ©s et autres Ã©tablissements de restauration; ainsi que l&apos;importation, l&apos;exportation, la reprÃ©sentation et le commerce de tout produit, alimentaire ou non alimentaire, tant en Suisse qu&apos;Ã  l&apos;Ã©tranger, pour son propre compte ou pour le compte de tiers. La sociÃ©tÃ© peut en outre exercer toute autre activitÃ© ayant un lien direct ou indirect avec ces buts; elle peut notamment crÃ©er des succursales en Suisse et Ã  l&apos;Ã©tranger, participer Ã  d&apos;autres entreprises en Suisse et Ã  l&apos;Ã©tranger, acquÃ©rir des entreprises visant un but identique ou analogue, ou fusionner avec de telles entreprises, faire toutes opÃ©rations et conclure tous contrats propres Ã  dÃ©velopper et Ã  Ã©tendre son but ou s&apos;y rapportant directement ou indirectement. Obligation de fournir des prestations accessoires, droits de prÃ©fÃ©rence, de prÃ©emption ou d&apos;emption: pour les dÃ©tails, voir les statuts. Capital social: CHF 20&apos;000. Apport en nature selon contrat du 20.05.2026: un vÃ©hicule utilitaire, en contrepartie duquel il est remis 14&apos;172 parts sociales de CHF 1. AssociÃ©s-gÃ©rants: Da Silva Rodrigues Augusto Paulo, de Portugal, Ã  Cuarnens, avec 14&apos;000 parts de CHF 1, prÃ©sident, avec signature individuelle, et Fernandes Rodrigues Cristiana, de Portugal, Ã  Cuarnens, avec 6&apos",
+    "categories": [
+      "allgemein",
+      "handel_vertrieb"
+    ],
+    "confidence": 95,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "012582512"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-07-22",
+        "sogcId": 1006713882,
+        "registryOfCommerceId": 550,
+        "registryOfCommerceCanton": "VD",
+        "registryOfCommerceJournalId": 15198,
+        "registryOfCommerceJournalDate": "2026-07-17",
+        "message": "<FT TYPE=\"N\">Le Petit Pain d&apos;Or SÃ rl</FT>, Ã  <FT TYPE=\"5\">Bussigny</FT>, Rue de l&apos;Industrie 49, 1030 Bussigny, <FT TYPE=\"A\">CHE-183.684.270</FT>. Nouvelle sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e. Statuts: 08.06.2026. But: la sociÃ©tÃ© a pour but toutes activitÃ©s dans les domaines de l&apos;alimentation, de la boulangerie-pÃ¢tisserie, de la restauration et du commerce, notamment la production, la transformation, la confection, la vente et la distribution de produits alimentaires et de boissons; l&apos;exploitation, sous toutes leurs formes, de boulangeries, pÃ¢tisseries, Ã©piceries, services traiteurs, restaurants, cafÃ©s et autres Ã©tablissements de restauration; ainsi que l&apos;importation, l&apos;exportation, la reprÃ©sentation et le commerce de tout produit, alimentaire ou non alimentaire, tant en Suisse qu&apos;Ã  l&apos;Ã©tranger, pour son propre compte ou pour le compte de tiers. La sociÃ©tÃ© peut en outre exercer toute autre activitÃ© ayant un lien direct ou indirect avec ces buts; elle peut notamment crÃ©er des succursales en Suisse et Ã  l&apos;Ã©tranger, participer Ã  d&apos;autres entreprises en Suisse et Ã  l&apos;Ã©tranger, acquÃ©rir des entreprises visant un but identique ou analogue, ou fusionner avec de telles entreprises, faire toutes opÃ©rations et conclure tous contrats propres Ã  dÃ©velopper et Ã  Ã©tendre son but ou s&apos;y rapportant directement ou indirectement. Obligation de fournir des prestations accessoires, droits de prÃ©fÃ©rence, de prÃ©emption ou d&apos;emption: pour les dÃ©tails, voir les statuts. Capital social: CHF 20&apos;000. Apport en nature selon contrat du 20.05.2026: un vÃ©hicule utilitaire, en contrepartie duquel il est remis 14&apos;172 parts sociales de CHF 1. AssociÃ©s-gÃ©rants: Da Silva Rodrigues Augusto Paulo, de Portugal, Ã  Cuarnens, avec 14&apos;000 parts de CHF 1, prÃ©sident, avec signature individuelle, et Fernandes Rodrigues Cristiana, de Portugal, Ã  Cuarnens, avec 6&apos;000 parts de CHF 1, avec signature collective Ã  deux. Organe de publication: Feuille officielle suisse du commerce. Communications aux associÃ©s: par Ã©crit ou par courriel. Selon dÃ©claration Ã  la constitution de la sociÃ©tÃ©, il est renoncÃ© Ã  un contrÃ´le restreint.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Le Petit Pain d'Or Sàrl",
+        "ehraid": 1760125,
+        "uid": "CHE183684270",
+        "chid": "CH55012582512",
+        "legalSeatId": 5624,
+        "legalSeat": "Bussigny",
+        "registryOfCommerceId": 550,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-07-22",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "4f9e5662ccbd95d1c3e6ab7a",
+    "publication_date": "2026-07-22",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-07-22 | ZH | 2026-07-17 | <FT TYPE=\"F\">Netcloud Holding AG</FT>, in <FT TYPE=\"S\">Seuzach</FT>, <FT TYPE=\"A\">CHE-175.695.521</FT>, Aktiengesellschaft (SHAB Nr. 119 vom 24.06.2026, Publ. 1006686182). Eingetragene Personen neu oder mutierend: Lienhard, Tobias, von Holziken, in KÃ¼snacht (ZH), Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien; Pfab, Christian Albert, von Breil/Brigels, in Chur, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien; Nelis, Hendrik JÃ¼rgen, niederlÃ¤ndischer StaatsangehÃ¶riger, in ZÃ¼rich, SekretÃ¤r (Nichtmitglied), mit Kollektivunterschrift zu zweien; Eberhard, Urs, von SchÃ¤nis, in Weinfelden, mit Kollektivunterschrift zu zweien. | aenderungorgane | Netcloud Holding AG | CHE175695521 | CH02030573460 | Seuzach | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-07-22",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006686182)",
+      "02030573460"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-07-22",
+        "sogcId": 1006713125,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 34879,
+        "registryOfCommerceJournalDate": "2026-07-17",
+        "message": "<FT TYPE=\"F\">Netcloud Holding AG</FT>, in <FT TYPE=\"S\">Seuzach</FT>, <FT TYPE=\"A\">CHE-175.695.521</FT>, Aktiengesellschaft (SHAB Nr. 119 vom 24.06.2026, Publ. 1006686182). Eingetragene Personen neu oder mutierend: Lienhard, Tobias, von Holziken, in KÃ¼snacht (ZH), Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien; Pfab, Christian Albert, von Breil/Brigels, in Chur, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien; Nelis, Hendrik JÃ¼rgen, niederlÃ¤ndischer StaatsangehÃ¶riger, in ZÃ¼rich, SekretÃ¤r (Nichtmitglied), mit Kollektivunterschrift zu zweien; Eberhard, Urs, von SchÃ¤nis, in Weinfelden, mit Kollektivunterschrift zu zweien.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Netcloud Holding AG",
+        "ehraid": 1755495,
+        "uid": "CHE175695521",
+        "chid": "CH02030573460",
+        "legalSeatId": 227,
+        "legalSeat": "Seuzach",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-07-22",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "b538fbe53f29cb864f7ff65c",
+    "publication_date": "2026-07-22",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-07-22 | BE | 2026-07-17 | <FT TYPE=\"F\">Prenotec GmbH, Zweigniederlassung Muri bei Bern</FT>, in <FT TYPE=\"S\">Muri bei Bern</FT>, <FT TYPE=\"A\">CHE-199.645.620</FT>, schweizerische Zweigniederlassung (SHAB Nr. 48 vom 09.03.2016, Publ. 2712461), Hauptsitz in: Weinfelden. Infolge LÃ¶schung der Prenotec GmbH durch Fusion am Hauptsitz (SHAB vom 12.12.2025, 1006511673) wird diese Zweigniederlassung aufgehoben und der auf sie bezÃ¼gliche Eintrag im Handelsregister gelÃ¶scht. | status | status.loeschung | Prenotec GmbH, Zweigniederlassung Muri bei Bern | CHE199645620 | CH03690663884 | Muri bei Bern | 0151 | Zweigniederlassung | Succursale | Succursale | Branch | ZN | Succ | Succ | Bran | CANCELLED | 2026-07-22 | 2026-07-22",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006511673)",
+      "03690663884"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-07-22",
+        "sogcId": 1006713290,
+        "registryOfCommerceId": 36,
+        "registryOfCommerceCanton": "BE",
+        "registryOfCommerceJournalId": 13762,
+        "registryOfCommerceJournalDate": "2026-07-17",
+        "message": "<FT TYPE=\"F\">Prenotec GmbH, Zweigniederlassung Muri bei Bern</FT>, in <FT TYPE=\"S\">Muri bei Bern</FT>, <FT TYPE=\"A\">CHE-199.645.620</FT>, schweizerische Zweigniederlassung (SHAB Nr. 48 vom 09.03.2016, Publ. 2712461), Hauptsitz in: Weinfelden. Infolge LÃ¶schung der Prenotec GmbH durch Fusion am Hauptsitz (SHAB vom 12.12.2025, 1006511673) wird diese Zweigniederlassung aufgehoben und der auf sie bezÃ¼gliche Eintrag im Handelsregister gelÃ¶scht.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 7,
+            "key": "status.loeschung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Prenotec GmbH, Zweigniederlassung Muri bei Bern",
+        "ehraid": 1255684,
+        "uid": "CHE199645620",
+        "chid": "CH03690663884",
+        "legalSeatId": 356,
+        "legalSeat": "Muri bei Bern",
+        "registryOfCommerceId": 36,
+        "legalForm": {
+          "id": 9,
+          "uid": "0151",
+          "name": {
+            "de": "Zweigniederlassung",
+            "fr": "Succursale",
+            "it": "Succursale",
+            "en": "Branch"
+          },
+          "shortName": {
+            "de": "ZN",
+            "fr": "Succ",
+            "it": "Succ",
+            "en": "Bran"
+          }
+        },
+        "status": "CANCELLED",
+        "sogcDate": "2026-07-22",
+        "deletionDate": "2026-07-22"
+      }
+    }
+  },
+  {
+    "publication_id": "f470a53c76f62b26387feb14",
+    "publication_date": "2026-07-22",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-07-22 | GE | 2026-07-17 | <FT TYPE=\"F\">SDD Advisors SA</FT>, Ã  <FT TYPE=\"S\">GenÃ¨ve</FT>, <FT TYPE=\"A\">CHE-258.869.513</FT> (FOSC du 20.02.2023, p. 0/1005683060). L&apos;administrateur secrÃ©taire Rethoret Michel signe dÃ©sormais collectivement Ã  deux. Weinman JÃ©rÃ´me, de France, Ã  Le Mesnil-le-Roi, nommÃ© prÃ©sident avec signature individuelle, et Larraz Matthieu, de ChÃªne-Bougeries, Ã  GenÃ¨ve, nommÃ© secrÃ©taire avec signature collective Ã  deux sont membres du conseil d&apos;administration. | aenderungorgane | SDD Advisors SA | CHE258869513 | CH66023560182 | Cologny | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-07-28",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "005683060)",
+      "023560182"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-07-22",
+        "sogcId": 1006714114,
+        "registryOfCommerceId": 660,
+        "registryOfCommerceCanton": "GE",
+        "registryOfCommerceJournalId": 18560,
+        "registryOfCommerceJournalDate": "2026-07-17",
+        "message": "<FT TYPE=\"F\">SDD Advisors SA</FT>, Ã  <FT TYPE=\"S\">GenÃ¨ve</FT>, <FT TYPE=\"A\">CHE-258.869.513</FT> (FOSC du 20.02.2023, p. 0/1005683060). L&apos;administrateur secrÃ©taire Rethoret Michel signe dÃ©sormais collectivement Ã  deux. Weinman JÃ©rÃ´me, de France, Ã  Le Mesnil-le-Roi, nommÃ© prÃ©sident avec signature individuelle, et Larraz Matthieu, de ChÃªne-Bougeries, Ã  GenÃ¨ve, nommÃ© secrÃ©taire avec signature collective Ã  deux sont membres du conseil d&apos;administration.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "SDD Advisors SA",
+        "ehraid": 1358525,
+        "uid": "CHE258869513",
+        "chid": "CH66023560182",
+        "legalSeatId": 6617,
+        "legalSeat": "Cologny",
+        "registryOfCommerceId": 660,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-07-28",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "ac087db1bf122e257180b80f",
+    "publication_date": "2026-07-22",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-07-22 | SO | 2026-07-17 | <FT TYPE=\"N\">specialty coffee by oral</FT>, in <FT TYPE=\"5\">Solothurn</FT>, <FT TYPE=\"A\">CHE-471.622.588</FT>, Theatergasse 24, 4500 Solothurn, Einzelunternehmen (Neueintragung). Zweck: Betrieb von Gastronomiebetrieben, insbesondere von CafÃ©s und SpezialitÃ¤tenkaffee-Bars, sowie Handel mit Kaffeeprodukten, Merchandiseartikeln und Waren aller Art im Gastronomie- und Lifestyle-Bereich. Eingetragene Personen: Oral, Dilara, tÃ¼rkische StaatsangehÃ¶rige, in Solothurn, Inhaberin, mit Einzelunterschrift. | status | status.neu | specialty coffee by oral | CHE471622588 | CH24110271384 | Solothurn | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-07-22",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": []
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-07-22",
+        "sogcId": 1006713560,
+        "registryOfCommerceId": 241,
+        "registryOfCommerceCanton": "SO",
+        "registryOfCommerceJournalId": 4284,
+        "registryOfCommerceJournalDate": "2026-07-17",
+        "message": "<FT TYPE=\"N\">specialty coffee by oral</FT>, in <FT TYPE=\"5\">Solothurn</FT>, <FT TYPE=\"A\">CHE-471.622.588</FT>, Theatergasse 24, 4500 Solothurn, Einzelunternehmen (Neueintragung). Zweck: Betrieb von Gastronomiebetrieben, insbesondere von CafÃ©s und SpezialitÃ¤tenkaffee-Bars, sowie Handel mit Kaffeeprodukten, Merchandiseartikeln und Waren aller Art im Gastronomie- und Lifestyle-Bereich. Eingetragene Personen: Oral, Dilara, tÃ¼rkische StaatsangehÃ¶rige, in Solothurn, Inhaberin, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "specialty coffee by oral",
+        "ehraid": 1760023,
+        "uid": "CHE471622588",
+        "chid": "CH24110271384",
+        "legalSeatId": 2601,
+        "legalSeat": "Solothurn",
+        "registryOfCommerceId": 241,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-07-22",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "eaf9de63a113fd1ea3414d1b",
+    "publication_date": "2026-07-22",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-07-22 | BE | 2026-07-17 | <FT TYPE=\"F\">Weinkeller zur alten Rebe AG</FT>, in <FT TYPE=\"S\">Steffisburg</FT>, <FT TYPE=\"A\">CHE-114.118.826</FT>, Aktiengesellschaft (SHAB Nr. 43 vom 02.03.2017, Publ. 3379299). Eingetragene Personen neu oder mutierend: Hauenstein, Urs, von Ringgenberg (BE) und Steffisburg, in Steffisburg, Mitglied des Verwaltungsrates, mit Einzelunterschrift [bisher: Mitglied, mit Einzelunterschrift]; Hauenstein, David Ernst, von Steffisburg, in HÃ¼nibach (Hilterfingen), mit Kollektivunterschrift zu zweien; Hauenstein, Roman Walter, von Steffisburg, in Thun, mit Kollektivunterschrift zu zweien; Hunger, Rico, von Safiental, in Thun, mit Kollektivprokura zu zweien. | aenderungorgane | Weinkeller zur alten Rebe AG | CHE114118826 | CH03630414548 | Steffisburg | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-07-22",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "03630414548"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-07-22",
+        "sogcId": 1006713277,
+        "registryOfCommerceId": 36,
+        "registryOfCommerceCanton": "BE",
+        "registryOfCommerceJournalId": 13749,
+        "registryOfCommerceJournalDate": "2026-07-17",
+        "message": "<FT TYPE=\"F\">Weinkeller zur alten Rebe AG</FT>, in <FT TYPE=\"S\">Steffisburg</FT>, <FT TYPE=\"A\">CHE-114.118.826</FT>, Aktiengesellschaft (SHAB Nr. 43 vom 02.03.2017, Publ. 3379299). Eingetragene Personen neu oder mutierend: Hauenstein, Urs, von Ringgenberg (BE) und Steffisburg, in Steffisburg, Mitglied des Verwaltungsrates, mit Einzelunterschrift [bisher: Mitglied, mit Einzelunterschrift]; Hauenstein, David Ernst, von Steffisburg, in HÃ¼nibach (Hilterfingen), mit Kollektivunterschrift zu zweien; Hauenstein, Roman Walter, von Steffisburg, in Thun, mit Kollektivunterschrift zu zweien; Hunger, Rico, von Safiental, in Thun, mit Kollektivprokura zu zweien.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Weinkeller zur alten Rebe AG",
+        "ehraid": 902170,
+        "uid": "CHE114118826",
+        "chid": "CH03630414548",
+        "legalSeatId": 939,
+        "legalSeat": "Steffisburg",
+        "registryOfCommerceId": 36,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-07-22",
+        "deletionDate": null
+      }
+    }
+  }
+]

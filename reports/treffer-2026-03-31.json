@@ -1,0 +1,1781 @@
+[
+  {
+    "publication_id": "39e5a9b9c28b30686c52a534",
+    "publication_date": "2026-03-31",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-31 | LU | 2026-03-26 | <FT TYPE=\"F\">Andreas Bieri Zimmerei GmbH</FT>, in <FT TYPE=\"S\">FlÃ¼hli</FT>, <FT TYPE=\"A\">CHE-497.716.908</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 184 vom 21.09.2012, S.0, Publ. 6858542). Firma neu: <FT TYPE=\"N\">Andreas Bieri Zimmerei GmbH in Liquidation</FT>. Die Gesellschaft hat sich mit Beschluss der ausserordentlichen Gesellschafterversammlung vom 24.03.2026 aufgelÃ¶st. Eingetragene Personen neu oder mutierend: Bieri, Andreas Karl, von Schangnau, in FlÃ¼hli, Gesellschafter und Vorsitzender der GeschÃ¤ftsfÃ¼hrung, Liquidator, mit Einzelunterschrift, mit 10 Stammanteilen zu je CHF 1&apos;000.00 [bisher: Gesellschafter und Vorsitzender der GeschÃ¤ftsfÃ¼hrung, mit Einzelunterschrift]. | status | status.aufl | status.aufl.liq | aenderungorgane | Andreas Bieri Zimmerei GmbH in Liquidation | CHE497716908 | CH10047952038 | Flühli | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | BEING_CANCELLED | 2026-03-31",
+    "categories": [
+      "bier"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "0047952038"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-31",
+        "sogcId": 1006611948,
+        "registryOfCommerceId": 100,
+        "registryOfCommerceCanton": "LU",
+        "registryOfCommerceJournalId": 3089,
+        "registryOfCommerceJournalDate": "2026-03-26",
+        "message": "<FT TYPE=\"F\">Andreas Bieri Zimmerei GmbH</FT>, in <FT TYPE=\"S\">FlÃ¼hli</FT>, <FT TYPE=\"A\">CHE-497.716.908</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 184 vom 21.09.2012, S.0, Publ. 6858542). Firma neu: <FT TYPE=\"N\">Andreas Bieri Zimmerei GmbH in Liquidation</FT>. Die Gesellschaft hat sich mit Beschluss der ausserordentlichen Gesellschafterversammlung vom 24.03.2026 aufgelÃ¶st. Eingetragene Personen neu oder mutierend: Bieri, Andreas Karl, von Schangnau, in FlÃ¼hli, Gesellschafter und Vorsitzender der GeschÃ¤ftsfÃ¼hrung, Liquidator, mit Einzelunterschrift, mit 10 Stammanteilen zu je CHF 1&apos;000.00 [bisher: Gesellschafter und Vorsitzender der GeschÃ¤ftsfÃ¼hrung, mit Einzelunterschrift].",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 3,
+            "key": "status.aufl"
+          },
+          {
+            "id": 4,
+            "key": "status.aufl.liq"
+          },
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Andreas Bieri Zimmerei GmbH in Liquidation",
+        "ehraid": 1113225,
+        "uid": "CHE497716908",
+        "chid": "CH10047952038",
+        "legalSeatId": 1004,
+        "legalSeat": "Flühli",
+        "registryOfCommerceId": 100,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "BEING_CANCELLED",
+        "sogcDate": "2026-03-31",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "22b77fe6a06fb76fd02c947c",
+    "publication_date": "2026-03-31",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-31 | SH | 2026-03-26 | <FT TYPE=\"N\">CafÃ© Amor - Oseki</FT>, in <FT TYPE=\"5\">Neuhausen am Rheinfall</FT>, <FT TYPE=\"A\">CHE-436.879.160</FT>, Industriestrasse 2, 8212 Neuhausen am Rheinfall, Einzelunternehmen (Neueintragung). Zweck: Brunch-CafÃ© mit Speisen und GetrÃ¤nken zum Konsum vor Ort und To-Go. Eingetragene Personen: Oseki, Cathleen Osayanmon, von Menziken, in Neuhausen am Rheinfall, Inhaberin, mit Einzelunterschrift. | status | status.neu | Café Amor - Oseki | CHE436879160 | CH29010228828 | Neuhausen am Rheinfall | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-03-31",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "010228828"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-31",
+        "sogcId": 1006612295,
+        "registryOfCommerceId": 290,
+        "registryOfCommerceCanton": "SH",
+        "registryOfCommerceJournalId": 671,
+        "registryOfCommerceJournalDate": "2026-03-26",
+        "message": "<FT TYPE=\"N\">CafÃ© Amor - Oseki</FT>, in <FT TYPE=\"5\">Neuhausen am Rheinfall</FT>, <FT TYPE=\"A\">CHE-436.879.160</FT>, Industriestrasse 2, 8212 Neuhausen am Rheinfall, Einzelunternehmen (Neueintragung). Zweck: Brunch-CafÃ© mit Speisen und GetrÃ¤nken zum Konsum vor Ort und To-Go. Eingetragene Personen: Oseki, Cathleen Osayanmon, von Menziken, in Neuhausen am Rheinfall, Inhaberin, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Café Amor - Oseki",
+        "ehraid": 1742608,
+        "uid": "CHE436879160",
+        "chid": "CH29010228828",
+        "legalSeatId": 2937,
+        "legalSeat": "Neuhausen am Rheinfall",
+        "registryOfCommerceId": 290,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-31",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "c1a3e5c676d46bdd969f82f0",
+    "publication_date": "2026-03-31",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-31 | VS | 2026-03-26 | <FT TYPE=\"F\">CafÃ© Churrasqueira BarÃ£o, Da Silva Tavares VirgÃ­lio</FT>, Ã  <FT TYPE=\"S\">Martigny</FT>, <FT TYPE=\"A\">CHE-294.619.277</FT>, entreprise individuelle (No. FOSC 238 du 09.12.2025, Publ. 1006508089). Nouvelle raison de commerce: <FT TYPE=\"N\">CafÃ© BarÃ£o, Da Silva Tavares VirgÃ­lio</FT>. | firmenaenderung | Café Barão, Da Silva Tavares Virgílio | CHE294619277 | CH62110121005 | Martigny | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-03-31",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006508089)"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-31",
+        "sogcId": 1006612743,
+        "registryOfCommerceId": 621,
+        "registryOfCommerceCanton": "VS",
+        "registryOfCommerceJournalId": 1236,
+        "registryOfCommerceJournalDate": "2026-03-26",
+        "message": "<FT TYPE=\"F\">CafÃ© Churrasqueira BarÃ£o, Da Silva Tavares VirgÃ­lio</FT>, Ã  <FT TYPE=\"S\">Martigny</FT>, <FT TYPE=\"A\">CHE-294.619.277</FT>, entreprise individuelle (No. FOSC 238 du 09.12.2025, Publ. 1006508089). Nouvelle raison de commerce: <FT TYPE=\"N\">CafÃ© BarÃ£o, Da Silva Tavares VirgÃ­lio</FT>.",
+        "mutationTypes": [
+          {
+            "id": 9,
+            "key": "firmenaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Café Barão, Da Silva Tavares Virgílio",
+        "ehraid": 1724517,
+        "uid": "CHE294619277",
+        "chid": "CH62110121005",
+        "legalSeatId": 6136,
+        "legalSeat": "Martigny",
+        "registryOfCommerceId": 621,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-31",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "f6e7eb55fc38f2853196c1a8",
+    "publication_date": "2026-03-31",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-31 | ZH | 2026-03-26 | <FT TYPE=\"N\">CafÃ© Boy Kollektiv KLG</FT>, in <FT TYPE=\"5\">ZÃ¼rich</FT>, <FT TYPE=\"A\">CHE-269.302.601</FT>, Kochstrasse 2, 8004 ZÃ¼rich, Kollektivgesellschaft (Neueintragung). Beginn: 11.03.2026. Zweck: Die Gesellschaft bezweckt das Betreiben von CafÃ©s, Restaurants, Bars, Catering- und Take-Away-GeschÃ¤ften sowie den Handel mit Lebensmittel, GebrauchsgegenstÃ¤nden und Einrichtungsobjekten aller Art und sÃ¤mtliche damit zusammenhÃ¤ngende Dienstleistungen. Eingetragene Personen: Coste, Nushin Lea, von Schwarzenburg, in ZÃ¼rich, Gesellschafterin, mit Einzelunterschrift; Grandjean, Luca Arnaud, von La Verrerie, in Wettswil am Albis, Gesellschafter, mit Einzelunterschrift; Markaj, Ludvid, von Glarus Nord, in ZÃ¼rich, Gesellschafter, mit Einzelunterschrift. | status | status.neu | Café Boy Kollektiv KLG | CHE269302601 | CH02020103146 | Zürich | 0103 | Kollektivgesellschaft | Société en nom collectif | Società in nome collettivo | General Partnership | KlG | SNC | SNC | GP | ACTIVE | 2026-03-31",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "02020103146"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-31",
+        "sogcId": 1006611753,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 16084,
+        "registryOfCommerceJournalDate": "2026-03-26",
+        "message": "<FT TYPE=\"N\">CafÃ© Boy Kollektiv KLG</FT>, in <FT TYPE=\"5\">ZÃ¼rich</FT>, <FT TYPE=\"A\">CHE-269.302.601</FT>, Kochstrasse 2, 8004 ZÃ¼rich, Kollektivgesellschaft (Neueintragung). Beginn: 11.03.2026. Zweck: Die Gesellschaft bezweckt das Betreiben von CafÃ©s, Restaurants, Bars, Catering- und Take-Away-GeschÃ¤ften sowie den Handel mit Lebensmittel, GebrauchsgegenstÃ¤nden und Einrichtungsobjekten aller Art und sÃ¤mtliche damit zusammenhÃ¤ngende Dienstleistungen. Eingetragene Personen: Coste, Nushin Lea, von Schwarzenburg, in ZÃ¼rich, Gesellschafterin, mit Einzelunterschrift; Grandjean, Luca Arnaud, von La Verrerie, in Wettswil am Albis, Gesellschafter, mit Einzelunterschrift; Markaj, Ludvid, von Glarus Nord, in ZÃ¼rich, Gesellschafter, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Café Boy Kollektiv KLG",
+        "ehraid": 1742689,
+        "uid": "CHE269302601",
+        "chid": "CH02020103146",
+        "legalSeatId": 261,
+        "legalSeat": "Zürich",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 2,
+          "uid": "0103",
+          "name": {
+            "de": "Kollektivgesellschaft",
+            "fr": "Société en nom collectif",
+            "it": "Società in nome collettivo",
+            "en": "General Partnership"
+          },
+          "shortName": {
+            "de": "KlG",
+            "fr": "SNC",
+            "it": "SNC",
+            "en": "GP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-31",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "b88da7c625785293af08cb10",
+    "publication_date": "2026-03-31",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-31 | VD | 2026-03-26 | <FT TYPE=\"F\">CafÃ© pont-Neuf SNC</FT>, Ã  <FT TYPE=\"S\">Morges</FT>, <FT TYPE=\"A\">CHE-298.772.185</FT> (FOSC du 04.11.2021, p. 0/1005327044). La sociÃ©tÃ© est dissoute. La liquidation Ã©tant terminÃ©e, la raison de commerce est radiÃ©e. | status | status.loeschung | Café pont-Neuf SNC | CHE298772185 | CH55011989416 | Morges | 0103 | Kollektivgesellschaft | Société en nom collectif | Società in nome collettivo | General Partnership | KlG | SNC | SNC | GP | CANCELLED | 2026-03-31 | 2026-03-31",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "005327044)",
+      "011989416"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-31",
+        "sogcId": 1006612606,
+        "registryOfCommerceId": 550,
+        "registryOfCommerceCanton": "VD",
+        "registryOfCommerceJournalId": 6945,
+        "registryOfCommerceJournalDate": "2026-03-26",
+        "message": "<FT TYPE=\"F\">CafÃ© pont-Neuf SNC</FT>, Ã  <FT TYPE=\"S\">Morges</FT>, <FT TYPE=\"A\">CHE-298.772.185</FT> (FOSC du 04.11.2021, p. 0/1005327044). La sociÃ©tÃ© est dissoute. La liquidation Ã©tant terminÃ©e, la raison de commerce est radiÃ©e.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 7,
+            "key": "status.loeschung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Café pont-Neuf SNC",
+        "ehraid": 1509348,
+        "uid": "CHE298772185",
+        "chid": "CH55011989416",
+        "legalSeatId": 5642,
+        "legalSeat": "Morges",
+        "registryOfCommerceId": 550,
+        "legalForm": {
+          "id": 2,
+          "uid": "0103",
+          "name": {
+            "de": "Kollektivgesellschaft",
+            "fr": "Société en nom collectif",
+            "it": "Società in nome collettivo",
+            "en": "General Partnership"
+          },
+          "shortName": {
+            "de": "KlG",
+            "fr": "SNC",
+            "it": "SNC",
+            "en": "GP"
+          }
+        },
+        "status": "CANCELLED",
+        "sogcDate": "2026-03-31",
+        "deletionDate": "2026-03-31"
+      }
+    }
+  },
+  {
+    "publication_id": "9d38eacee94e9632d816dbe7",
+    "publication_date": "2026-03-31",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-31 | TG | 2026-03-26 | <FT TYPE=\"F\">Clava KLG</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-493.303.022</FT>, Kollektivgesellschaft (SHAB Nr. 64 vom 03.04.2024, Publ. 1005999686). Domizil neu: Bankstrasse 12, 8570 Weinfelden. | adressaenderung | Clava KLG | CHE493303022 | CH44020393430 | Weinfelden | 0103 | Kollektivgesellschaft | Société en nom collectif | Società in nome collettivo | General Partnership | KlG | SNC | SNC | GP | ACTIVE | 2026-03-31",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "005999686)",
+      "020393430"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-31",
+        "sogcId": 1006612472,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 1995,
+        "registryOfCommerceJournalDate": "2026-03-26",
+        "message": "<FT TYPE=\"F\">Clava KLG</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-493.303.022</FT>, Kollektivgesellschaft (SHAB Nr. 64 vom 03.04.2024, Publ. 1005999686). Domizil neu: Bankstrasse 12, 8570 Weinfelden.",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Clava KLG",
+        "ehraid": 1568891,
+        "uid": "CHE493303022",
+        "chid": "CH44020393430",
+        "legalSeatId": 4946,
+        "legalSeat": "Weinfelden",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 2,
+          "uid": "0103",
+          "name": {
+            "de": "Kollektivgesellschaft",
+            "fr": "Société en nom collectif",
+            "it": "Società in nome collettivo",
+            "en": "General Partnership"
+          },
+          "shortName": {
+            "de": "KlG",
+            "fr": "SNC",
+            "it": "SNC",
+            "en": "GP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-31",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "88b05969c2abf913894af5b0",
+    "publication_date": "2026-03-31",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-31 | BS | 2026-03-26 | <FT TYPE=\"F\">Coffee and more GmbH in Liq.</FT>, in <FT TYPE=\"S\">Basel</FT>, <FT TYPE=\"A\">CHE-132.368.953</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 153 vom 09.08.2024, Publ. 1006103484). Die Liquidation ist beendet. Die Gesellschaft wird gelÃ¶scht [Publikation Schuldenruf ist erfolgt im SHAB vom 13.08.2024]. | status | status.loeschung | Coffee and more GmbH in Liquidation | CHE132368953 | CH27040083102 | Basel | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | CANCELLED | 2026-03-31 | 2026-03-31",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006103484)",
+      "040083102"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-31",
+        "sogcId": 1006612243,
+        "registryOfCommerceId": 270,
+        "registryOfCommerceCanton": "BS",
+        "registryOfCommerceJournalId": 2313,
+        "registryOfCommerceJournalDate": "2026-03-26",
+        "message": "<FT TYPE=\"F\">Coffee and more GmbH in Liq.</FT>, in <FT TYPE=\"S\">Basel</FT>, <FT TYPE=\"A\">CHE-132.368.953</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 153 vom 09.08.2024, Publ. 1006103484). Die Liquidation ist beendet. Die Gesellschaft wird gelÃ¶scht [Publikation Schuldenruf ist erfolgt im SHAB vom 13.08.2024].",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 7,
+            "key": "status.loeschung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Coffee and more GmbH in Liquidation",
+        "ehraid": 1559311,
+        "uid": "CHE132368953",
+        "chid": "CH27040083102",
+        "legalSeatId": 2701,
+        "legalSeat": "Basel",
+        "registryOfCommerceId": 270,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "CANCELLED",
+        "sogcDate": "2026-03-31",
+        "deletionDate": "2026-03-31"
+      }
+    }
+  },
+  {
+    "publication_id": "86b57c4924ef93b7320933cb",
+    "publication_date": "2026-03-31",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-31 | VD | 2026-03-26 | <FT TYPE=\"N\">Kahawta Bar SÃ rl</FT> <FT TYPE=\"V\">(Kahawta Bar GmbH) (Kahawta Bar Sagl) (Kahawta Bar Ltd liab Co)</FT>, Ã  <FT TYPE=\"5\">Yverdon-les-Bains</FT>, Rue des Remparts 27, 1400 Yverdon-les-Bains, <FT TYPE=\"A\">CHE-268.340.473</FT>. Nouvelle sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e. Statuts: 12.03.2026. But: la sociÃ©tÃ© a pour but: la fourniture de services dans les domaines de la gastronomie et de l&apos;hÃ´tellerie; l&apos;exploitation de restaurants, de bars, d&apos;hÃ´tels, de boulangeries, de confiseries ou de tous autres Ã©tablissements publics semblables; la fabrication et le commerce de produits alimentaires et de boissons, ainsi que toutes activitÃ©s connexes. Elle pourra en outre faire, soit pour son compte, soit pour le compte de tiers, toutes opÃ©rations financiÃ¨res, commerciales, mobiliÃ¨res ou immobiliÃ¨res se rattachant directement ou indirectement Ã  son but social et s&apos;intÃ©resser, sous toutes formes, Ã  toutes entreprises similaires, notamment par la prise de participation dans des entreprises similaires. La sociÃ©tÃ© pourra Ã©galement constituer des succursales et des filiales en Suisse et Ã  l&apos;Ã©tranger. Obligation de fournir des prestations accessoires, droits de prÃ©fÃ©rence, de prÃ©emption ou d&apos;emption: pour les dÃ©tails, voir les statuts. Capital social: CHF 20&apos;000. AssociÃ©-gÃ©rant avec signature individuelle: Asmelash Huruy, de Ã‰rythrÃ©e, Ã  Yverdon-les-Bains, avec 200 parts de CHF 100. Organe de publication: Feuille officielle suisse du commerce. Communications aux associÃ©s: par courrier ou par courriel. Selon dÃ©claration Ã  la constitution de la sociÃ©tÃ©, il est renoncÃ© Ã  un contrÃ´le restreint. | status | status.neu | Kahawta Bar Sàrl | CHE268340473 | CH55012563293 | Yverdon-les-Bains | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-03-31",
+    "categories": [
+      "allgemein",
+      "handel_vertrieb"
+    ],
+    "confidence": 95,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "012563293"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-31",
+        "sogcId": 1006612619,
+        "registryOfCommerceId": 550,
+        "registryOfCommerceCanton": "VD",
+        "registryOfCommerceJournalId": 6825,
+        "registryOfCommerceJournalDate": "2026-03-26",
+        "message": "<FT TYPE=\"N\">Kahawta Bar SÃ rl</FT> <FT TYPE=\"V\">(Kahawta Bar GmbH) (Kahawta Bar Sagl) (Kahawta Bar Ltd liab Co)</FT>, Ã  <FT TYPE=\"5\">Yverdon-les-Bains</FT>, Rue des Remparts 27, 1400 Yverdon-les-Bains, <FT TYPE=\"A\">CHE-268.340.473</FT>. Nouvelle sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e. Statuts: 12.03.2026. But: la sociÃ©tÃ© a pour but: la fourniture de services dans les domaines de la gastronomie et de l&apos;hÃ´tellerie; l&apos;exploitation de restaurants, de bars, d&apos;hÃ´tels, de boulangeries, de confiseries ou de tous autres Ã©tablissements publics semblables; la fabrication et le commerce de produits alimentaires et de boissons, ainsi que toutes activitÃ©s connexes. Elle pourra en outre faire, soit pour son compte, soit pour le compte de tiers, toutes opÃ©rations financiÃ¨res, commerciales, mobiliÃ¨res ou immobiliÃ¨res se rattachant directement ou indirectement Ã  son but social et s&apos;intÃ©resser, sous toutes formes, Ã  toutes entreprises similaires, notamment par la prise de participation dans des entreprises similaires. La sociÃ©tÃ© pourra Ã©galement constituer des succursales et des filiales en Suisse et Ã  l&apos;Ã©tranger. Obligation de fournir des prestations accessoires, droits de prÃ©fÃ©rence, de prÃ©emption ou d&apos;emption: pour les dÃ©tails, voir les statuts. Capital social: CHF 20&apos;000. AssociÃ©-gÃ©rant avec signature individuelle: Asmelash Huruy, de Ã‰rythrÃ©e, Ã  Yverdon-les-Bains, avec 200 parts de CHF 100. Organe de publication: Feuille officielle suisse du commerce. Communications aux associÃ©s: par courrier ou par courriel. Selon dÃ©claration Ã  la constitution de la sociÃ©tÃ©, il est renoncÃ© Ã  un contrÃ´le restreint.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Kahawta Bar Sàrl",
+        "ehraid": 1742766,
+        "uid": "CHE268340473",
+        "chid": "CH55012563293",
+        "legalSeatId": 5938,
+        "legalSeat": "Yverdon-les-Bains",
+        "registryOfCommerceId": 550,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-31",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "376b70348decac3ea750f51a",
+    "publication_date": "2026-03-31",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-31 | TG | 2026-03-26 | <FT TYPE=\"F\">LD Multibau GmbH in Liquidation</FT>, in <FT TYPE=\"S\">MÃ¤rstetten</FT>, <FT TYPE=\"A\">CHE-296.377.441</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 42 vom 03.03.2026, Publ. 1006585055). Mit Entscheid des Bezirksgerichts Weinfelden vom 24.03.2026 wurde Ã¼ber die bereits aufgelÃ¶ste Gesellschaft der Konkurs erÃ¶ffnet und mangels Aktiven eingestellt. | status | status.wiederrufliq | LD Multibau GmbH in Liquidation | CHE296377441 | CH44040329971 | Märstetten | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | BEING_CANCELLED | 2026-03-31",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006585055)",
+      "040329971"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-31",
+        "sogcId": 1006612476,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 1999,
+        "registryOfCommerceJournalDate": "2026-03-26",
+        "message": "<FT TYPE=\"F\">LD Multibau GmbH in Liquidation</FT>, in <FT TYPE=\"S\">MÃ¤rstetten</FT>, <FT TYPE=\"A\">CHE-296.377.441</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 42 vom 03.03.2026, Publ. 1006585055). Mit Entscheid des Bezirksgerichts Weinfelden vom 24.03.2026 wurde Ã¼ber die bereits aufgelÃ¶ste Gesellschaft der Konkurs erÃ¶ffnet und mangels Aktiven eingestellt.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 6,
+            "key": "status.wiederrufliq"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "LD Multibau GmbH in Liquidation",
+        "ehraid": 1348772,
+        "uid": "CHE296377441",
+        "chid": "CH44040329971",
+        "legalSeatId": 4941,
+        "legalSeat": "Märstetten",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "BEING_CANCELLED",
+        "sogcDate": "2026-03-31",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "123979d2f0f55eef657b22cd",
+    "publication_date": "2026-03-31",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-31 | VD | 2026-03-26 | <FT TYPE=\"N\">Le Kissa manga-cafÃ© SÃ rl</FT> <FT TYPE=\"V\">(Le Kissa manga-cafÃ© GmbH) (Le Kissa manga-cafÃ© Sagl) (Le Kissa manga-cafÃ© Ltd liab Co)</FT>, Ã  <FT TYPE=\"5\">Yverdon-les-Bains</FT>, ChaussÃ©e de Treycovagnes 22, 1400 Yverdon-les-Bains, <FT TYPE=\"A\">CHE-151.109.240</FT>. Nouvelle sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e. Statuts: 20.03.2026. But: la sociÃ©tÃ© a pour but: l&apos;exploitation d&apos;Ã©tablissements publics hybrides sous forme de cafÃ© manga et salon de thÃ© spÃ©cialisÃ©, proposant la vente de boissons (notamment thÃ©s japonais et matcha), de petite restauration et pÃ¢tisseries sur place ou Ã  l&apos;emporter; l&apos;exploitation d&apos;espaces de loisirs comprenant une bibliothÃ¨que de mangas, des zones de jeux vidÃ©o (gaming) et des salles de karaokÃ© privÃ©es; la vente et le commerce de marchandises dans les domaines prÃ©citÃ©s; l&apos;exploitation de locaux de vente et de sites de vente en ligne; la vente au dÃ©tail de produits liÃ©s Ã  la culture nippone, tels que mangas, jeux, accessoires, produits dÃ©rivÃ©s et thÃ©s premium; l&apos;organisation d&apos;Ã©vÃ©nements culturels, d&apos;animations thÃ©matiques et de rÃ©ceptions privÃ©es; l&apos;importation et l&apos;exportation des marchandises prÃ©citÃ©es, ainsi que toutes activitÃ©s connexes. Elle pourra en outre faire, soit pour son compte, soit pour le compte de tiers, toutes opÃ©rations financiÃ¨res, commerciales, mobiliÃ¨res ou immobiliÃ¨res se rattachant directement ou indirectement Ã  son but social et s&apos;intÃ©resser, sous toutes formes, Ã  toutes entreprises similaires, notamment par la prise de participation dans des entreprises similaires. La sociÃ©tÃ© pourra Ã©galement constituer des succursales et des filiales en Suisse et Ã  l&apos;Ã©tranger. Obligation de fournir des prestations accessoires, droits de prÃ©fÃ©rence, de prÃ©emption ou d&apos;emption: pour les dÃ©tails, voir les statuts. Capital social: CHF 20&apos;000. AssociÃ©-gÃ©rant avec sig",
+    "categories": [
+      "allgemein",
+      "kaffee_tee"
+    ],
+    "confidence": 95,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "012563324"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-31",
+        "sogcId": 1006612622,
+        "registryOfCommerceId": 550,
+        "registryOfCommerceCanton": "VD",
+        "registryOfCommerceJournalId": 6828,
+        "registryOfCommerceJournalDate": "2026-03-26",
+        "message": "<FT TYPE=\"N\">Le Kissa manga-cafÃ© SÃ rl</FT> <FT TYPE=\"V\">(Le Kissa manga-cafÃ© GmbH) (Le Kissa manga-cafÃ© Sagl) (Le Kissa manga-cafÃ© Ltd liab Co)</FT>, Ã  <FT TYPE=\"5\">Yverdon-les-Bains</FT>, ChaussÃ©e de Treycovagnes 22, 1400 Yverdon-les-Bains, <FT TYPE=\"A\">CHE-151.109.240</FT>. Nouvelle sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e. Statuts: 20.03.2026. But: la sociÃ©tÃ© a pour but: l&apos;exploitation d&apos;Ã©tablissements publics hybrides sous forme de cafÃ© manga et salon de thÃ© spÃ©cialisÃ©, proposant la vente de boissons (notamment thÃ©s japonais et matcha), de petite restauration et pÃ¢tisseries sur place ou Ã  l&apos;emporter; l&apos;exploitation d&apos;espaces de loisirs comprenant une bibliothÃ¨que de mangas, des zones de jeux vidÃ©o (gaming) et des salles de karaokÃ© privÃ©es; la vente et le commerce de marchandises dans les domaines prÃ©citÃ©s; l&apos;exploitation de locaux de vente et de sites de vente en ligne; la vente au dÃ©tail de produits liÃ©s Ã  la culture nippone, tels que mangas, jeux, accessoires, produits dÃ©rivÃ©s et thÃ©s premium; l&apos;organisation d&apos;Ã©vÃ©nements culturels, d&apos;animations thÃ©matiques et de rÃ©ceptions privÃ©es; l&apos;importation et l&apos;exportation des marchandises prÃ©citÃ©es, ainsi que toutes activitÃ©s connexes. Elle pourra en outre faire, soit pour son compte, soit pour le compte de tiers, toutes opÃ©rations financiÃ¨res, commerciales, mobiliÃ¨res ou immobiliÃ¨res se rattachant directement ou indirectement Ã  son but social et s&apos;intÃ©resser, sous toutes formes, Ã  toutes entreprises similaires, notamment par la prise de participation dans des entreprises similaires. La sociÃ©tÃ© pourra Ã©galement constituer des succursales et des filiales en Suisse et Ã  l&apos;Ã©tranger. Obligation de fournir des prestations accessoires, droits de prÃ©fÃ©rence, de prÃ©emption ou d&apos;emption: pour les dÃ©tails, voir les statuts. Capital social: CHF 20&apos;000. AssociÃ©-gÃ©rant avec signature individuelle: Vila Verde Dos Santos JoÃ£o Daniel, de Portugal, Ã  Yverdon-les-Bains, avec 200 parts de CHF 100. Organe de publication: Feuille officielle suisse du commerce. Communications aux associÃ©s: par courrier ou par courriel. Selon dÃ©claration Ã  la constitution de la sociÃ©tÃ©, il est renoncÃ© Ã  un contrÃ´le restreint.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Le Kissa manga-café Sàrl",
+        "ehraid": 1742769,
+        "uid": "CHE151109240",
+        "chid": "CH55012563324",
+        "legalSeatId": 5938,
+        "legalSeat": "Yverdon-les-Bains",
+        "registryOfCommerceId": 550,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-06-24",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "8644e8de43220ee0f96a78f0",
+    "publication_date": "2026-03-31",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-31 | TG | 2026-03-26 | <FT TYPE=\"F\">Lorenz GmbH</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-110.120.617</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 51 vom 16.03.2015, S.0, Publ. 2044693). Firma neu: <FT TYPE=\"N\">Lorenz GmbH in Liquidation</FT>. Mit Entscheid des Bezirksgerichts Weinfelden vom 20.03.2026, mit Wirkung ab dem 20.03.2026, 09:30 Uhr, wurde Ã¼ber die Gesellschaft der Konkurs erÃ¶ffnet. Demnach ist die Gesellschaft aufgelÃ¶st. | status | status.aufl | status.aufl.konk | Lorenz GmbH in Liquidation | CHE110120617 | CH44040163974 | Weinfelden | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | BEING_CANCELLED | 2026-03-31",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "040163974"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-31",
+        "sogcId": 1006612477,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 2000,
+        "registryOfCommerceJournalDate": "2026-03-26",
+        "message": "<FT TYPE=\"F\">Lorenz GmbH</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-110.120.617</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 51 vom 16.03.2015, S.0, Publ. 2044693). Firma neu: <FT TYPE=\"N\">Lorenz GmbH in Liquidation</FT>. Mit Entscheid des Bezirksgerichts Weinfelden vom 20.03.2026, mit Wirkung ab dem 20.03.2026, 09:30 Uhr, wurde Ã¼ber die Gesellschaft der Konkurs erÃ¶ffnet. Demnach ist die Gesellschaft aufgelÃ¶st.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 3,
+            "key": "status.aufl"
+          },
+          {
+            "id": 5,
+            "key": "status.aufl.konk"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Lorenz GmbH in Liquidation",
+        "ehraid": 712561,
+        "uid": "CHE110120617",
+        "chid": "CH44040163974",
+        "legalSeatId": 4946,
+        "legalSeat": "Weinfelden",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "BEING_CANCELLED",
+        "sogcDate": "2026-03-31",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "105cdbf3e164e80369ba6971",
+    "publication_date": "2026-03-31",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-31 | ZH | 2026-03-26 | <FT TYPE=\"F\">MEDICSOL TECHNOLOGY AG</FT>, bisher in <FT TYPE=\"S\">Zug</FT>, <FT TYPE=\"A\">CHE-113.530.590</FT>, Aktiengesellschaft (SHAB Nr. 204 vom 20.10.2023, Publ. 1005865462). StatutenÃ¤nderung: 23.03.2026. Sitz neu: <FT TYPE=\"5\">ZÃ¼rich</FT>. Domizil neu: c/o Brawand Tax Advisory GmbH, Weinbergstrasse 131, 8006 ZÃ¼rich. Zweck neu: Die Gesellschaft bezweckt das Halten von Beteiligungen an anderen Gesellschaften im In- und Ausland sowie die Direktinvestition von Mitteln in die Immobilienentwicklung (Industrie-, Bau- und Siedlungserneuerung und dort eingeschlossen die Errichtung von medizinischen Behandlungszentren). Sie kann erwerben, belasten, verÃ¤ussern und verwalten, Finanzierungen fÃ¼r eigene oder fremde Rechnungen vornehmen sowie Garantien und BÃ¼rgschaften fÃ¼r Tochtergesellschaften und Dritte eingehen. Daneben kann die Gesellschaft alle GeschÃ¤fte durchfÃ¼hren, die direkt oder indirekt im Zusammenhang mit dem Gesellschaftszweck stehen oder dessen ErfÃ¼llung fÃ¶rdern. Mitteilungen neu: Mitteilungen an die AktionÃ¤re erfolgen per Brief oder E-Mail an die im Aktienbuch verzeichneten Adressen. Eingetragene Personen neu oder mutierend: Brawand, Stephanie Andrea, von Basel, in Naters, Mitglied des Verwaltungsrates, mit Einzelunterschrift. | zweckaenderung | adressaenderung | aenderungorgane | MEDICSOL TECHNOLOGY AG | CHE113530590 | CH17030305502 | Zürich | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-03-31",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "005865462)",
+      "030305502"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-31",
+        "sogcId": 1006611600,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 15931,
+        "registryOfCommerceJournalDate": "2026-03-26",
+        "message": "<FT TYPE=\"F\">MEDICSOL TECHNOLOGY AG</FT>, bisher in <FT TYPE=\"S\">Zug</FT>, <FT TYPE=\"A\">CHE-113.530.590</FT>, Aktiengesellschaft (SHAB Nr. 204 vom 20.10.2023, Publ. 1005865462). StatutenÃ¤nderung: 23.03.2026. Sitz neu: <FT TYPE=\"5\">ZÃ¼rich</FT>. Domizil neu: c/o Brawand Tax Advisory GmbH, Weinbergstrasse 131, 8006 ZÃ¼rich. Zweck neu: Die Gesellschaft bezweckt das Halten von Beteiligungen an anderen Gesellschaften im In- und Ausland sowie die Direktinvestition von Mitteln in die Immobilienentwicklung (Industrie-, Bau- und Siedlungserneuerung und dort eingeschlossen die Errichtung von medizinischen Behandlungszentren). Sie kann erwerben, belasten, verÃ¤ussern und verwalten, Finanzierungen fÃ¼r eigene oder fremde Rechnungen vornehmen sowie Garantien und BÃ¼rgschaften fÃ¼r Tochtergesellschaften und Dritte eingehen. Daneben kann die Gesellschaft alle GeschÃ¤fte durchfÃ¼hren, die direkt oder indirekt im Zusammenhang mit dem Gesellschaftszweck stehen oder dessen ErfÃ¼llung fÃ¶rdern. Mitteilungen neu: Mitteilungen an die AktionÃ¤re erfolgen per Brief oder E-Mail an die im Aktienbuch verzeichneten Adressen. Eingetragene Personen neu oder mutierend: Brawand, Stephanie Andrea, von Basel, in Naters, Mitglied des Verwaltungsrates, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 11,
+            "key": "zweckaenderung"
+          },
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          },
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "MEDICSOL TECHNOLOGY AG",
+        "ehraid": 867382,
+        "uid": "CHE113530590",
+        "chid": "CH17030305502",
+        "legalSeatId": 261,
+        "legalSeat": "Zürich",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-31",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "431b039d78f80507a509bbd9",
+    "publication_date": "2026-03-31",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-31 | TG | 2026-03-26 | <FT TYPE=\"F\">Muri Partner RechtsanwÃ¤lte AG</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-215.517.276</FT>, Aktiengesellschaft (SHAB Nr. 68 vom 08.04.2025, Publ. 1006303422). Eingetragene Personen neu oder mutierend: Moosmann, Kathrin, von WÃ¤ldi, in WÃ¤ldi, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien; WÃ¼thrich, Martina, von Thunstetten, in Bichelsee (Bichelsee-Balterswil), Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien [bisher: in Weinfelden]. | aenderungorgane | Muri Partner Rechtsanwälte AG | CHE215517276 | CH44030284365 | Weinfelden | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-03-31",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006303422)",
+      "030284365"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-31",
+        "sogcId": 1006612478,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 2001,
+        "registryOfCommerceJournalDate": "2026-03-26",
+        "message": "<FT TYPE=\"F\">Muri Partner RechtsanwÃ¤lte AG</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-215.517.276</FT>, Aktiengesellschaft (SHAB Nr. 68 vom 08.04.2025, Publ. 1006303422). Eingetragene Personen neu oder mutierend: Moosmann, Kathrin, von WÃ¤ldi, in WÃ¤ldi, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien; WÃ¼thrich, Martina, von Thunstetten, in Bichelsee (Bichelsee-Balterswil), Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien [bisher: in Weinfelden].",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Muri Partner Rechtsanwälte AG",
+        "ehraid": 1183083,
+        "uid": "CHE215517276",
+        "chid": "CH44030284365",
+        "legalSeatId": 4946,
+        "legalSeat": "Weinfelden",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-31",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "b73fdf8570a2596f2c3f9d8a",
+    "publication_date": "2026-03-31",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-31 | ZH | 2026-03-26 | <FT TYPE=\"F\">P&amp;T Paper &amp; Tea GmbH</FT>, in <FT TYPE=\"S\">ZÃ¼rich</FT>, <FT TYPE=\"A\">CHE-465.179.107</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 230 vom 27.11.2025, Publ. 1006495814). Ausgeschiedene Personen und erloschene Unterschriften: Rezvani, Jascha, deutscher StaatsangehÃ¶riger, in Berlin (DE), GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift. Eingetragene Personen neu oder mutierend: Pohl, Marc Henrik, deutscher StaatsangehÃ¶riger, in Berlin (DE), GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift. | aenderungorgane | P&T Paper & Tea GmbH | CHE465179107 | CH02040784527 | Zürich | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-06-25",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006495814)",
+      "02040784527"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-31",
+        "sogcId": 1006611621,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 15952,
+        "registryOfCommerceJournalDate": "2026-03-26",
+        "message": "<FT TYPE=\"F\">P&amp;T Paper &amp; Tea GmbH</FT>, in <FT TYPE=\"S\">ZÃ¼rich</FT>, <FT TYPE=\"A\">CHE-465.179.107</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 230 vom 27.11.2025, Publ. 1006495814). Ausgeschiedene Personen und erloschene Unterschriften: Rezvani, Jascha, deutscher StaatsangehÃ¶riger, in Berlin (DE), GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift. Eingetragene Personen neu oder mutierend: Pohl, Marc Henrik, deutscher StaatsangehÃ¶riger, in Berlin (DE), GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "P&T Paper & Tea GmbH",
+        "ehraid": 1550493,
+        "uid": "CHE465179107",
+        "chid": "CH02040784527",
+        "legalSeatId": 261,
+        "legalSeat": "Zürich",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-06-25",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "66e062f17cd9ee31a8e311b9",
+    "publication_date": "2026-03-31",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-31 | ZG | 2026-03-26 | <FT TYPE=\"F\">Rambam AG</FT>, in <FT TYPE=\"S\">Zug</FT>, <FT TYPE=\"A\">CHE-482.813.939</FT>, Aktiengesellschaft (SHAB Nr. 154 vom 13.08.2025, Publ. 1006407588). Eingetragene Personen neu oder mutierend: Weinberg, FrÃ©dÃ©ric Alexandre, von Lutry, in Altendorf, Mitglied des Verwaltungsrates, mit Einzelunterschrift [bisher: in Wollerau]. | aenderungorgane | Rambam AG | CHE482813939 | CH27030163743 | Zug | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-03-31",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006407588)",
+      "030163743"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-31",
+        "sogcId": 1006612107,
+        "registryOfCommerceId": 170,
+        "registryOfCommerceCanton": "ZG",
+        "registryOfCommerceJournalId": 6087,
+        "registryOfCommerceJournalDate": "2026-03-26",
+        "message": "<FT TYPE=\"F\">Rambam AG</FT>, in <FT TYPE=\"S\">Zug</FT>, <FT TYPE=\"A\">CHE-482.813.939</FT>, Aktiengesellschaft (SHAB Nr. 154 vom 13.08.2025, Publ. 1006407588). Eingetragene Personen neu oder mutierend: Weinberg, FrÃ©dÃ©ric Alexandre, von Lutry, in Altendorf, Mitglied des Verwaltungsrates, mit Einzelunterschrift [bisher: in Wollerau].",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Rambam AG",
+        "ehraid": 1508726,
+        "uid": "CHE482813939",
+        "chid": "CH27030163743",
+        "legalSeatId": 1711,
+        "legalSeat": "Zug",
+        "registryOfCommerceId": 170,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-31",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "4dbe8485ff85f58980ca6847",
+    "publication_date": "2026-03-31",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-31 | BL | 2026-03-26 | <FT TYPE=\"N\">REYMANN CAFÃ‰</FT>, in <FT TYPE=\"5\">Muttenz</FT>, <FT TYPE=\"A\">CHE-447.829.077</FT>, Baselstrasse 89, 4132 Muttenz, Einzelunternehmen (Neueintragung). Zweck: Betrieb eines CafÃ©s mit Essensangebot. Eingetragene Personen: Reymann, RÃ©gine, franzÃ¶sische StaatsangehÃ¶rige, in Kembs (FR), Inhaberin, mit Einzelunterschrift. | status | status.neu | REYMANN CAFÉ | CHE447829077 | CH28010324679 | Muttenz | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-03-31",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "010324679"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-31",
+        "sogcId": 1006612258,
+        "registryOfCommerceId": 280,
+        "registryOfCommerceCanton": "BL",
+        "registryOfCommerceJournalId": 1940,
+        "registryOfCommerceJournalDate": "2026-03-26",
+        "message": "<FT TYPE=\"N\">REYMANN CAFÃ‰</FT>, in <FT TYPE=\"5\">Muttenz</FT>, <FT TYPE=\"A\">CHE-447.829.077</FT>, Baselstrasse 89, 4132 Muttenz, Einzelunternehmen (Neueintragung). Zweck: Betrieb eines CafÃ©s mit Essensangebot. Eingetragene Personen: Reymann, RÃ©gine, franzÃ¶sische StaatsangehÃ¶rige, in Kembs (FR), Inhaberin, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "REYMANN CAFÉ",
+        "ehraid": 1742601,
+        "uid": "CHE447829077",
+        "chid": "CH28010324679",
+        "legalSeatId": 2770,
+        "legalSeat": "Muttenz",
+        "registryOfCommerceId": 280,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-31",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "e80d759d3fd0332b625b39eb",
+    "publication_date": "2026-03-31",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-31 | ZH | 2026-03-26 | <FT TYPE=\"N\">SLK Food &amp; Beverage GmbH</FT> <FT TYPE=\"V\">(SLK Food &amp; Beverage SÃ rl) (SLK Food &amp; Beverage Sagl) (SLK Food &amp; Beverage Ltd liab Co)</FT>, in <FT TYPE=\"5\">ZÃ¼rich</FT>, <FT TYPE=\"A\">CHE-360.823.834</FT>, Delphinstrasse 14, 8008 ZÃ¼rich, Gesellschaft mit beschrÃ¤nkter Haftung (Neueintragung). Statutendatum: 06.03.2026. Zweck: Die Gesellschaft bezweckt den Handel mit Waren aller Art, insbesondere mit Lebensmitteln und GetrÃ¤nken. Weiter bezweckt die Gesellschaft die Erbringung von Dienstleistungen im Gastronomiegewerbe sowie Betrieb von Onlineshops. Die Gesellschaft kann Zweigniederlassungen in der Schweiz und im Ausland errichten, sich an anderen Unternehmungen des In- und des Auslandes beteiligen, gleichartige oder verwandte Unternehmen erwerben oder sich mit solchen zusammenschliessen sowie alle GeschÃ¤fte eingehen und VertrÃ¤ge abschliessen, die geeignet sind, den Zweck der Gesellschaft zu fÃ¶rdern oder die direkt oder indirekt damit im Zusammenhang stehen. Sie kann GrundstÃ¼cke, ImmaterialgÃ¼terrechte und Lizenzen aller Art erwerben, verwalten, belasten und verÃ¤ussern. Stammkapital: CHF 21&apos;000.00. Nebenleistungspflichten, Vorhand-, Vorkaufs- oder Kaufsrechte gemÃ¤ss nÃ¤herer Umschreibung in den Statuten. Publikationsorgan: SHAB. Die Mitteilungen der GeschÃ¤ftsfÃ¼hrung an die Gesellschafter erfolgen schriftlich oder per E-Mail. GemÃ¤ss ErklÃ¤rung bei der GrÃ¼ndung der Gesellschaft wird auf eine eingeschrÃ¤nkte Revision verzichtet. Eingetragene Personen: Pfenig, Kai Christian, von ZÃ¼rich, in ZÃ¼rich, Gesellschafter und Vorsitzender der GeschÃ¤ftsfÃ¼hrung, mit Kollektivunterschrift zu zweien, mit 70 Stammanteilen zu je CHF 100.00; Nguyen, Thang Long, deutscher StaatsangehÃ¶riger, in Zurzach, Gesellschafter und GeschÃ¤ftsfÃ¼hrer, mit Kollektivunterschrift zu zweien, mit 70 Stammanteilen zu je CHF 100.00; NÃ¼chter, Simon Karl, deutscher StaatsangehÃ¶riger, in ZÃ¼rich, Gesellschafter und GeschÃ¤ftsfÃ¼hre",
+    "categories": [
+      "allgemein"
+    ],
+    "confidence": 60,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "02040915253"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-31",
+        "sogcId": 1006611470,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 15801,
+        "registryOfCommerceJournalDate": "2026-03-26",
+        "message": "<FT TYPE=\"N\">SLK Food &amp; Beverage GmbH</FT> <FT TYPE=\"V\">(SLK Food &amp; Beverage SÃ rl) (SLK Food &amp; Beverage Sagl) (SLK Food &amp; Beverage Ltd liab Co)</FT>, in <FT TYPE=\"5\">ZÃ¼rich</FT>, <FT TYPE=\"A\">CHE-360.823.834</FT>, Delphinstrasse 14, 8008 ZÃ¼rich, Gesellschaft mit beschrÃ¤nkter Haftung (Neueintragung). Statutendatum: 06.03.2026. Zweck: Die Gesellschaft bezweckt den Handel mit Waren aller Art, insbesondere mit Lebensmitteln und GetrÃ¤nken. Weiter bezweckt die Gesellschaft die Erbringung von Dienstleistungen im Gastronomiegewerbe sowie Betrieb von Onlineshops. Die Gesellschaft kann Zweigniederlassungen in der Schweiz und im Ausland errichten, sich an anderen Unternehmungen des In- und des Auslandes beteiligen, gleichartige oder verwandte Unternehmen erwerben oder sich mit solchen zusammenschliessen sowie alle GeschÃ¤fte eingehen und VertrÃ¤ge abschliessen, die geeignet sind, den Zweck der Gesellschaft zu fÃ¶rdern oder die direkt oder indirekt damit im Zusammenhang stehen. Sie kann GrundstÃ¼cke, ImmaterialgÃ¼terrechte und Lizenzen aller Art erwerben, verwalten, belasten und verÃ¤ussern. Stammkapital: CHF 21&apos;000.00. Nebenleistungspflichten, Vorhand-, Vorkaufs- oder Kaufsrechte gemÃ¤ss nÃ¤herer Umschreibung in den Statuten. Publikationsorgan: SHAB. Die Mitteilungen der GeschÃ¤ftsfÃ¼hrung an die Gesellschafter erfolgen schriftlich oder per E-Mail. GemÃ¤ss ErklÃ¤rung bei der GrÃ¼ndung der Gesellschaft wird auf eine eingeschrÃ¤nkte Revision verzichtet. Eingetragene Personen: Pfenig, Kai Christian, von ZÃ¼rich, in ZÃ¼rich, Gesellschafter und Vorsitzender der GeschÃ¤ftsfÃ¼hrung, mit Kollektivunterschrift zu zweien, mit 70 Stammanteilen zu je CHF 100.00; Nguyen, Thang Long, deutscher StaatsangehÃ¶riger, in Zurzach, Gesellschafter und GeschÃ¤ftsfÃ¼hrer, mit Kollektivunterschrift zu zweien, mit 70 Stammanteilen zu je CHF 100.00; NÃ¼chter, Simon Karl, deutscher StaatsangehÃ¶riger, in ZÃ¼rich, Gesellschafter und GeschÃ¤ftsfÃ¼hrer, mit Kollektivunterschrift zu zweien, mit 70 Stammanteilen zu je CHF 100.00.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "SLK Food & Beverage GmbH",
+        "ehraid": 1742681,
+        "uid": "CHE360823834",
+        "chid": "CH02040915253",
+        "legalSeatId": 261,
+        "legalSeat": "Zürich",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-31",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "5c75f317dc7e957edf2c40fb",
+    "publication_date": "2026-03-31",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-31 | SO | 2026-03-26 | <FT TYPE=\"F\">Swiss Tea Innovation AG</FT>, in <FT TYPE=\"S\">Olten</FT>, <FT TYPE=\"A\">CHE-191.255.296</FT>, Aktiengesellschaft (SHAB Nr. 174 vom 08.09.2020, Publ. 1004974117). StatutenÃ¤nderung: 18.03.2026. Uebersetzungen der Firma neu: <FT TYPE=\"V\"> [Die Ãœbersetzungen werden im Handelsregister gelÃ¶scht]</FT>. Sitz neu: <FT TYPE=\"5\">Wangen bei Olten</FT>. Domizil neu: bei Joseph Alain Scherrer, Treppackerweg 11, 4612 Wangen b. Olten. Mitteilungen neu: Mitteilungen der Gesellschaft sind den im Aktienbuch eingetragenen AktionÃ¤ren schriftlich oder mit elektronischer Post zuzustellen. | adressaenderung | Swiss Tea Innovation AG | CHE191255296 | CH24130193327 | Wangen bei Olten | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-03-31",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "004974117)"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-31",
+        "sogcId": 1006612207,
+        "registryOfCommerceId": 241,
+        "registryOfCommerceCanton": "SO",
+        "registryOfCommerceJournalId": 1826,
+        "registryOfCommerceJournalDate": "2026-03-26",
+        "message": "<FT TYPE=\"F\">Swiss Tea Innovation AG</FT>, in <FT TYPE=\"S\">Olten</FT>, <FT TYPE=\"A\">CHE-191.255.296</FT>, Aktiengesellschaft (SHAB Nr. 174 vom 08.09.2020, Publ. 1004974117). StatutenÃ¤nderung: 18.03.2026. Uebersetzungen der Firma neu: <FT TYPE=\"V\"> [Die Ãœbersetzungen werden im Handelsregister gelÃ¶scht]</FT>. Sitz neu: <FT TYPE=\"5\">Wangen bei Olten</FT>. Domizil neu: bei Joseph Alain Scherrer, Treppackerweg 11, 4612 Wangen b. Olten. Mitteilungen neu: Mitteilungen der Gesellschaft sind den im Aktienbuch eingetragenen AktionÃ¤ren schriftlich oder mit elektronischer Post zuzustellen.",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Swiss Tea Innovation AG",
+        "ehraid": 1451299,
+        "uid": "CHE191255296",
+        "chid": "CH24130193327",
+        "legalSeatId": 2586,
+        "legalSeat": "Wangen bei Olten",
+        "registryOfCommerceId": 241,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-31",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "43c3b4659520c420ea2b16eb",
+    "publication_date": "2026-03-31",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-31 | BE | 2026-03-26 | <FT TYPE=\"F\">Tornado Drinks GmbH</FT>, in <FT TYPE=\"S\">Bern</FT>, <FT TYPE=\"A\">CHE-481.878.327</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 123 vom 27.06.2024, Publ. 1006068575). Firma neu: <FT TYPE=\"N\">Tornado Drinks GmbH in Liquidation</FT>. Domizil neu: c/o Raphael Fehr, Wankdorffeldstrasse 97, 3014 Bern. Die Gesellschaft ist mit Beschluss der Gesellschafterversammlung vom 19.03.2026 aufgelÃ¶st. Eingetragene Personen neu oder mutierend: Imhof, Linus FrÃ©dÃ©ric, von Oberwil (BL), in Therwil, Gesellschafter und Vorsitzender der GeschÃ¤ftsfÃ¼hrung, Liquidator, mit Einzelunterschrift, mit 64 Stammanteilen zu je CHF 100.00 [bisher: Gesellschafter und Vorsitzender der GeschÃ¤ftsfÃ¼hrung, mit Kollektivunterschrift zu zweien]; Heiland, Florian Marc, von Gebenstorf, in Basel, Gesellschafter und GeschÃ¤ftsfÃ¼hrer, mit Kollektivunterschrift zu zweien, mit 63 Stammanteilen zu je CHF 100.00 [bisher: in Evilard]; Liechti, Samuel, von Eggiwil, in Spiez, Gesellschafter und GeschÃ¤ftsfÃ¼hrer, mit Kollektivunterschrift zu zweien, mit 63 Stammanteilen zu je CHF 100.00 [bisher: in Bern]. | status | status.aufl | status.aufl.liq | adressaenderung | aenderungorgane | Tornado Drinks GmbH in Liquidation | CHE481878327 | CH03640938567 | Bern | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | BEING_CANCELLED | 2026-03-31",
+    "categories": [
+      "allgemein"
+    ],
+    "confidence": 60,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006068575)",
+      "03640938567"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-31",
+        "sogcId": 1006611919,
+        "registryOfCommerceId": 36,
+        "registryOfCommerceCanton": "BE",
+        "registryOfCommerceJournalId": 6292,
+        "registryOfCommerceJournalDate": "2026-03-26",
+        "message": "<FT TYPE=\"F\">Tornado Drinks GmbH</FT>, in <FT TYPE=\"S\">Bern</FT>, <FT TYPE=\"A\">CHE-481.878.327</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 123 vom 27.06.2024, Publ. 1006068575). Firma neu: <FT TYPE=\"N\">Tornado Drinks GmbH in Liquidation</FT>. Domizil neu: c/o Raphael Fehr, Wankdorffeldstrasse 97, 3014 Bern. Die Gesellschaft ist mit Beschluss der Gesellschafterversammlung vom 19.03.2026 aufgelÃ¶st. Eingetragene Personen neu oder mutierend: Imhof, Linus FrÃ©dÃ©ric, von Oberwil (BL), in Therwil, Gesellschafter und Vorsitzender der GeschÃ¤ftsfÃ¼hrung, Liquidator, mit Einzelunterschrift, mit 64 Stammanteilen zu je CHF 100.00 [bisher: Gesellschafter und Vorsitzender der GeschÃ¤ftsfÃ¼hrung, mit Kollektivunterschrift zu zweien]; Heiland, Florian Marc, von Gebenstorf, in Basel, Gesellschafter und GeschÃ¤ftsfÃ¼hrer, mit Kollektivunterschrift zu zweien, mit 63 Stammanteilen zu je CHF 100.00 [bisher: in Evilard]; Liechti, Samuel, von Eggiwil, in Spiez, Gesellschafter und GeschÃ¤ftsfÃ¼hrer, mit Kollektivunterschrift zu zweien, mit 63 Stammanteilen zu je CHF 100.00 [bisher: in Bern].",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 3,
+            "key": "status.aufl"
+          },
+          {
+            "id": 4,
+            "key": "status.aufl.liq"
+          },
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          },
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Tornado Drinks GmbH in Liquidation",
+        "ehraid": 1583385,
+        "uid": "CHE481878327",
+        "chid": "CH03640938567",
+        "legalSeatId": 351,
+        "legalSeat": "Bern",
+        "registryOfCommerceId": 36,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "BEING_CANCELLED",
+        "sogcDate": "2026-03-31",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "ab823ca40bfe1c26edf8e52b",
+    "publication_date": "2026-03-31",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-31 | ZH | 2026-03-26 | <FT TYPE=\"F\">UBS Business Solutions AG</FT>, in <FT TYPE=\"S\">ZÃ¼rich</FT>, <FT TYPE=\"A\">CHE-262.289.477</FT>, Aktiengesellschaft (SHAB Nr. 37 vom 24.02.2026, Publ. 1006577581). Ausgeschiedene Personen und erloschene Unterschriften: Adderley, Grahame, von Otelfingen, in Otelfingen, mit Kollektivunterschrift zu zweien; Bachmann, Sabine, von Zollikon, in Egg, mit Kollektivunterschrift zu zweien; Berchtold, Christoph, von Busswil bei Melchnau, in MÃ¼nsingen, mit Kollektivunterschrift zu zweien; Beresnevich Ã©p. Cohen-Ganouna, Anna, franzÃ¶sische StaatsangehÃ¶rige, in DelÃ©mont, mit Kollektivunterschrift zu zweien; Bernaschina, Danilo, von Riva San Vitale, in Lugano, mit Kollektivunterschrift zu zweien; Braun, Ursina, von Diepoldsau, in StÃ¤fa, mit Kollektivunterschrift zu zweien; Brouwer, Pieter, niederlÃ¤ndischer StaatsangehÃ¶riger, in Zumikon, mit Kollektivunterschrift zu zweien; Burkhalter, Katharina, von LÃ¼tzelflÃ¼h, in Ennetmoos, mit Kollektivunterschrift zu zweien; BÃ¼hler, Hannes, von Masein, in ZÃ¼rich, mit Kollektivunterschrift zu zweien; Chan, Wut Piu, genannt Bill, chinesischer StaatsangehÃ¶riger, in ZÃ¼rich, mit Kollektivunterschrift zu zweien; Corbisiero, Raffaele Carmine, von Horrenbach-Buchen, in Suhr, mit Kollektivunterschrift zu zweien; Demo Panic, Jasmina, von Winterthur, in Richterswil, mit Kollektivunterschrift zu zweien; Dickopf, Armin Norbert, deutscher StaatsangehÃ¶riger, in Freienbach, mit Kollektivunterschrift zu zweien; Ebner, Andreas, von ZÃ¼rich, in ZÃ¼rich, mit Kollektivunterschrift zu zweien; Fligge, Marcel, von Uster, in Volketswil, mit Kollektivunterschrift zu zweien; FlÃ¼hmann, Rolf, von Saxeten, in Stettlen, mit Kollektivunterschrift zu zweien; GrÃ¶hlich, Matthew, genannt Mat, deutscher StaatsangehÃ¶riger, in Dietlikon, mit Kollektivunterschrift zu zweien; Hadji Misheva, Katerina, nordmazedonische StaatsangehÃ¶rige, in Thalwil, mit Kollektivunterschrift zu zweien; Heim, Markus, von Laufenburg, in Oberwil ",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006577581)",
+      "02030424745"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-31",
+        "sogcId": 1006611752,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 16083,
+        "registryOfCommerceJournalDate": "2026-03-26",
+        "message": "<FT TYPE=\"F\">UBS Business Solutions AG</FT>, in <FT TYPE=\"S\">ZÃ¼rich</FT>, <FT TYPE=\"A\">CHE-262.289.477</FT>, Aktiengesellschaft (SHAB Nr. 37 vom 24.02.2026, Publ. 1006577581). Ausgeschiedene Personen und erloschene Unterschriften: Adderley, Grahame, von Otelfingen, in Otelfingen, mit Kollektivunterschrift zu zweien; Bachmann, Sabine, von Zollikon, in Egg, mit Kollektivunterschrift zu zweien; Berchtold, Christoph, von Busswil bei Melchnau, in MÃ¼nsingen, mit Kollektivunterschrift zu zweien; Beresnevich Ã©p. Cohen-Ganouna, Anna, franzÃ¶sische StaatsangehÃ¶rige, in DelÃ©mont, mit Kollektivunterschrift zu zweien; Bernaschina, Danilo, von Riva San Vitale, in Lugano, mit Kollektivunterschrift zu zweien; Braun, Ursina, von Diepoldsau, in StÃ¤fa, mit Kollektivunterschrift zu zweien; Brouwer, Pieter, niederlÃ¤ndischer StaatsangehÃ¶riger, in Zumikon, mit Kollektivunterschrift zu zweien; Burkhalter, Katharina, von LÃ¼tzelflÃ¼h, in Ennetmoos, mit Kollektivunterschrift zu zweien; BÃ¼hler, Hannes, von Masein, in ZÃ¼rich, mit Kollektivunterschrift zu zweien; Chan, Wut Piu, genannt Bill, chinesischer StaatsangehÃ¶riger, in ZÃ¼rich, mit Kollektivunterschrift zu zweien; Corbisiero, Raffaele Carmine, von Horrenbach-Buchen, in Suhr, mit Kollektivunterschrift zu zweien; Demo Panic, Jasmina, von Winterthur, in Richterswil, mit Kollektivunterschrift zu zweien; Dickopf, Armin Norbert, deutscher StaatsangehÃ¶riger, in Freienbach, mit Kollektivunterschrift zu zweien; Ebner, Andreas, von ZÃ¼rich, in ZÃ¼rich, mit Kollektivunterschrift zu zweien; Fligge, Marcel, von Uster, in Volketswil, mit Kollektivunterschrift zu zweien; FlÃ¼hmann, Rolf, von Saxeten, in Stettlen, mit Kollektivunterschrift zu zweien; GrÃ¶hlich, Matthew, genannt Mat, deutscher StaatsangehÃ¶riger, in Dietlikon, mit Kollektivunterschrift zu zweien; Hadji Misheva, Katerina, nordmazedonische StaatsangehÃ¶rige, in Thalwil, mit Kollektivunterschrift zu zweien; Heim, Markus, von Laufenburg, in Oberwil (BL), mit Kollektivunterschrift zu zweien; Huber, Larissa, von Appenzell, in Gossau (ZH), mit Kollektivunterschrift zu zweien; Kamber, Doris, von Bad Zurzach, in Rupperswil, mit Kollektivunterschrift zu zweien; Layachi, Lamine, franzÃ¶sischer StaatsangehÃ¶riger, in ZÃ¼rich, mit Kollektivunterschrift zu zweien; Lehnerer, Sebastian, deutscher StaatsangehÃ¶riger, in Obersiggenthal, mit Kollektivunterschrift zu zweien; Munafo, Maurizio, italienischer StaatsangehÃ¶riger, in Wangen-BrÃ¼ttisellen, mit Kollektivunterschrift zu zweien; MÃ¤chler, Rolf, von Meilen, in Meilen, mit Kollektivunterschrift zu zweien; Paciorek, Janina, deutsche StaatsangehÃ¶rige, in ZÃ¼rich, mit Kollektivunterschrift zu zweien; Paulsen, Ronja, deutsche StaatsangehÃ¶rige, in ZÃ¼rich, mit Kollektivunterschrift zu zweien; Priest, John, britischer StaatsangehÃ¶riger, in MÃ¤nnedorf, mit Kollektivunterschrift zu zweien; Rieger, Daniel, deutscher StaatsangehÃ¶riger, in Freiburg (DE), mit Kollektivunterschrift zu zweien; Scheiber, Oliver, von Pfaffnau, in Rapperswil-Jona, mit Kollektivunterschrift zu zweien; Schiesser, Andreas, von Glarus SÃ¼d, in Meilen, mit Kollektivunterschrift zu zweien; Schlatter, Patrizia, von BÃ¼lach, in ZÃ¼rich, mit Kollektivunterschrift zu zweien; Schmidt, Sandra, von Thalwil, in Cham, mit Kollektivunterschrift zu zweien; Smith, Andrew Greg, britischer StaatsangehÃ¶riger, in Uster, mit Kollektivunterschrift zu zweien; Stoll, Katrin, von Guggisberg, in ZÃ¼rich, mit Kollektivunterschrift zu zweien; Tucci, Stefan Manuel, von Basel, in Zumikon, mit Kollektivunterschrift zu zweien; TÃ¶ller, Daniel, deutscher StaatsangehÃ¶riger, in Horgen, mit Kollektivunterschrift zu zweien; Veeraraghavan, Suganyadevi, genannt Suganya, indische StaatsangehÃ¶rige, in Horgen, mit Kollektivunterschrift zu zweien; Vlug, Maarten, niederlÃ¤ndischer StaatsangehÃ¶riger, in ZÃ¼rich, mit Kollektivunterschrift zu zweien; Wagner, Dr. Stefan, deutscher StaatsangehÃ¶riger, in ZÃ¼rich, mit Kollektivunterschrift zu zweien; Westphalen, Michael Stephan, von KÃ¼snacht (ZH), in Herrliberg, mit Kollektivunterschrift zu zweien; AltunkÃ¶k Caluori, Seel, von Aarau, in ZÃ¼rich, mit Kollektivprokura zu zweien; Baudois, Christian, von Estavayer, in Estavayer, mit Kollektivprokura zu zweien; Gopala Krishnan, Shamalah, malaysische StaatsangehÃ¶rige, in ZÃ¼rich, mit Kollektivprokura zu zweien; Herrmann, Manuela, von Bowil, in GrosshÃ¶chstetten, mit Kollektivprokura zu zweien; Klein, Alain, von Basel, in Allschwil, mit Kollektivprokura zu zweien; Leitner, Zita, ungarische StaatsangehÃ¶rige, in ZÃ¼rich, mit Kollektivprokura zu zweien; Mata Mouros da Fonseca, Sara, portugiesische StaatsangehÃ¶rige, in Urdorf, mit Kollektivprokura zu zweien; Messmer, Bozena, deutsche StaatsangehÃ¶rige, in ZÃ¼rich, mit Kollektivprokura zu zweien; Papagkika, Ismini, griechische StaatsangehÃ¶rige, in KÃ¼snacht (ZH), mit Kollektivprokura zu zweien; Pieroni, Mario, von Regensdorf, in ZÃ¼rich, mit Kollektivprokura zu zweien; Ranza, Lisa, von Bellinzona, in ZÃ¼rich, mit Kollektivprokura zu zweien; Rechsteiner, Erika, von Wald (AR), in St. Gallen, mit Kollektivprokura zu zweien; Shankar, Shilpa, indische StaatsangehÃ¶rige, in Reinach (BL), mit Kollektivprokura zu zweien; Tomarchio, Natalina, von Frick, in Kilchberg (ZH), mit Kollektivprokura zu zweien; Topp, Andreas, von Affoltern am Albis, in Oberglatt, mit Kollektivprokura zu zweien. Eingetragene Personen neu oder mutierend: Aepli, Robin, von Uster, in Uster, mit Kollektivunterschrift zu zweien; Attinger, Mirjam, von Bottenwil, in DÃ¼bendorf, mit Kollektivunterschrift zu zweien; Barnes, Phil, von Wynau, in ZÃ¼rich, mit Kollektivunterschrift zu zweien [bisher: in Hittnau]; Barsimon, Gabriel, von WÃ¤ngi, in WÃ¤ngi, mit Kollektivunterschrift zu zweien [bisher: ohne eingetragene Funktion, mit Kollektivprokura zu zweien]; Bednarczyk, Olga, polnische StaatsangehÃ¶rige, in Kloten, mit Kollektivunterschrift zu zweien; Belger, Anna, polnische StaatsangehÃ¶rige, in Ermatingen, mit Kollektivunterschrift zu zweien [bisher: ohne eingetragene Funktion, mit Kollektivprokura zu zweien]; Benson, Markus, irischer StaatsangehÃ¶riger, in Winterthur, mit Kollektivunterschrift zu zweien; Benz, Rainer, von Wettswil am Albis, in Thalwil, mit Kollektivunterschrift zu zweien; Bernich, Marco, italienischer StaatsangehÃ¶riger, in Baar, mit Kollektivunterschrift zu zweien; Bucher, Jonas, von Winterthur, in FÃ¤llanden, mit Kollektivunterschrift zu zweien; Campidonico, Mario, italienischer StaatsangehÃ¶riger, in ZÃ¼rich, mit Kollektivunterschrift zu zweien; Chikhi, Mimoun, franzÃ¶sischer StaatsangehÃ¶riger, in PÃ©rouse (FR), mit Kollektivunterschrift zu zweien; Cotting, Nicolas, von Tentlingen, in Rorschach, mit Kollektivunterschrift zu zweien; Currie, Anna, von ZÃ¼rich, in ZÃ¼rich, mit Kollektivunterschrift zu zweien; Curros Parrado, Javier, von Zug, in Zug, mit Kollektivunterschrift zu zweien; David, Florian, franzÃ¶sischer StaatsangehÃ¶riger, in Langnau am Albis, mit Kollektivunterschrift zu zweien [bisher: in Adliswil]; De Carvalho Correa, Pedro, von Speicher, in Richterswil, mit Kollektivunterschrift zu zweien; Dobler, Beatrice, von SchÃ¼belbach, in Freienbach, mit Kollektivunterschrift zu zweien; Dobrzanski, Michal, polnischer StaatsangehÃ¶riger, in Bonstetten, mit Kollektivunterschrift zu zweien; Donlon, Majella, irische StaatsangehÃ¶rige, in Berikon, mit Kollektivunterschrift zu zweien; Enginar, Koray, deutscher StaatsangehÃ¶riger, in Wallisellen, mit Kollektivunterschrift zu zweien [bisher: ohne eingetragene Funktion, mit Kollektivprokura zu zweien]; Erdogan, Murat M., deutscher StaatsangehÃ¶riger, in Wettingen, mit Kollektivunterschrift zu zweien [bisher: in ZÃ¼rich]; Ferrari, Pietro, britischer StaatsangehÃ¶riger, in Wettswil am Albis, mit Kollektivunterschrift zu zweien; Fitzke, Birgit, deutsche StaatsangehÃ¶rige, in Schopfheim (DE), mit Kollektivunterschrift zu zweien; Forestier, Raphael, von Bourg-en-Lavaux, in Pully, mit Kollektivunterschrift zu zweien; Fottova, Lucia, slowakische StaatsangehÃ¶rige, in KÃ¼snacht (ZH), mit Kollektivunterschrift zu zweien [bisher: ohne eingetragene Funktion, mit Kollektivprokura zu zweien]; Giampa, Davide, von Richterswil, in Merenschwand, mit Kollektivunterschrift zu zweien; Gnodtke, Christoph, von MÃ¶hlin, in MÃ¶hlin, mit Kollektivunterschrift zu zweien; GonÃ§alves, Valter, von VÃ©troz, in Conthey, mit Kollektivunterschrift zu zweien; Graf, Claudia, von Luterbach, in Altendorf, mit Kollektivunterschrift zu zweien [bisher: ohne eingetragene Funktion, mit Kollektivprokura zu zweien]; Guerrera, Francesco, italienischer StaatsangehÃ¶riger, in ZÃ¼rich, mit Kollektivunterschrift zu zweien; GÃ¤hwiler, Natascha, von Glarus SÃ¼d, in Rapperswil-Jona, mit Kollektivunterschrift zu zweien [bisher: ohne eingetragene Funktion, mit Kollektivprokura zu zweien]; Hauri, Dominique, von Glarus, in ZÃ¼rich, mit Kollektivunterschrift zu zweien [bisher: ohne eingetragene Funktion, mit Kollektivprokura zu zweien]; Hay, David William, britischer StaatsangehÃ¶riger, in Weiningen (ZH), mit Kollektivunterschrift zu zweien; Held, Urs, von ZÃ¼rich, in Wettswil am Albis, mit Kollektivunterschrift zu zweien; HÃ¤hlen, Andreas, von Lenk, in Stadel, mit Kollektivunterschrift zu zweien [bisher: in Weiach]; Isacovici, Mihai, rumÃ¤nischer StaatsangehÃ¶riger, in ZÃ¼rich, mit Kollektivunterschrift zu zweien; Jadhav, Amit, indischer StaatsangehÃ¶riger, in Kloten, mit Kollektivunterschrift zu zweien; Jeup, Rebecca, von Reichenbach im Kandertal, in ZÃ¼rich, mit Kollektivunterschrift zu zweien [bisher: ohne eingetragene Funktion, mit Kollektivprokura zu zweien]; Kalkum, Andreas, deutscher StaatsangehÃ¶riger, in Merenschwand, mit Kollektivunterschrift zu zweien; Keller, Nadine, von Schleitheim, in Schaffhausen, mit Kollektivunterschrift zu zweien; Khan, Nadja, von Gommiswald, in Schlieren, mit Kollektivunterschrift zu zweien; Kleesattel, Mark, von ZÃ¼rich, in Bubikon, mit Kollektivunterschrift zu zweien; Korchagina, Natalia, russische StaatsangehÃ¶rige, in Bonstetten, mit Kollektivunterschrift zu zweien; Kozlowski, Andrzej, polnischer StaatsangehÃ¶riger, in Bonstetten, mit Kollektivunterschrift zu zweien; Lavina, Stefano, von ZÃ¼rich, in ZÃ¼rich, mit Kollektivunterschrift zu zweien; Leclercq, Emmanuel, von Grimisuat, in ZÃ¼rich, mit Kollektivunterschrift zu zweien [bisher: in Baar]; Lopes Redmond, Milton, irischer StaatsangehÃ¶riger, in Teufenthal (AG), mit Kollektivunterschrift zu zweien [bisher: ohne eingetragene Funktion, mit Kollektivprokura zu zweien]; LÃ©kai, Bianka, ungarische StaatsangehÃ¶rige, in PfÃ¤ffikon, mit Kollektivunterschrift zu zweien; Marangon, Gianmarco, italienischer StaatsangehÃ¶riger, in ZÃ¼rich, mit Kollektivunterschrift zu zweien; Medoniene, Odeta, litauische StaatsangehÃ¶rige, in StÃ¤fa, mit Kollektivunterschrift zu zweien [bisher: ohne eingetragene Funktion, mit Kollektivprokura zu zweien]; Mitropoulos-Hartmann, Spyridon, genannt Spyros, von HÃ¼ttwilen, in Uster, mit Kollektivunterschrift zu zweien; Mitsakos, Christos, griechischer StaatsangehÃ¶riger, in Birmensdorf (ZH), mit Kollektivunterschrift zu zweien; MÃ¤chler, Patrick, von Vorderthal, in Schlieren, mit Kollektivunterschrift zu zweien; MÃ¶ri, Daniel, von Epsach, in Muhen, mit Kollektivunterschrift zu zweien; Niglia, Maximiliano, italienischer StaatsangehÃ¶riger, in UnterÃ¤geri, mit Kollektivunterschrift zu zweien; Norton, Christopher, von Zeihen, in Zug, mit Kollektivunterschrift zu zweien [bisher: ohne eingetragene Funktion, mit Kollektivprokura zu zweien]; Nussbaumer, Patrick, von LÃ¼terkofen-Ichertswil, in Crissier, mit Kollektivunterschrift zu zweien [bisher: in Courrendlin]; Pantic, Djordje, von Opfikon, in Opfikon, mit Kollektivunterschrift zu zweien; Paulsen, Anne, dÃ¤nische StaatsangehÃ¶rige, in Oberrieden, mit Kollektivunterschrift zu zweien; Petrovic, Boris, von Maur, in Maur, mit Kollektivunterschrift zu zweien; Rinaldi, Riccardo, italienischer StaatsangehÃ¶riger, in Calasca-castiglione (IT), mit Kollektivunterschrift zu zweien; Romano, Gianluca, italienischer StaatsangehÃ¶riger, in Illnau-Effretikon, mit Kollektivunterschrift zu zweien [bisher: ohne eingetragene Funktion, mit Kollektivprokura zu zweien]; Roth, Nicolas, deutscher StaatsangehÃ¶riger, in ZÃ¼rich, mit Kollektivunterschrift zu zweien; Schurig, Christian, deutscher StaatsangehÃ¶riger, in ZÃ¼rich, mit Kollektivunterschrift zu zweien [bisher: ohne eingetragene Funktion, mit Kollektivprokura zu zweien]; Siegfried, Stefan, von Fischingen, in RÃ¼mlang, mit Kollektivunterschrift zu zweien [bisher: ohne eingetragene Funktion, mit Kollektivprokura zu zweien]; Soyez, Anne-FrÃ©dÃ©rique, franzÃ¶sische StaatsangehÃ¶rige, in ZÃ¼rich, mit Kollektivunterschrift zu zweien; Stobaugh, Kay, von Stallikon, in Stallikon, mit Kollektivunterschrift zu zweien; Stutz, Daniel, von Sarmenstorf, in Greifensee, mit Kollektivunterschrift zu zweien; Subasu, Ionut-Emanuel, von ZÃ¼rich, in ZÃ¼rich, mit Kollektivunterschrift zu zweien; Sun-Hough, Xu, britische StaatsangehÃ¶rige, in MÃ¤nnedorf, mit Kollektivunterschrift zu zweien; Tietze, Antoine, von Amlikon-Bissegg, in ZÃ¼rich, mit Kollektivunterschrift zu zweien; Titu, Andrei, rumÃ¤nischer StaatsangehÃ¶riger, in MÃ¶nchaltorf, mit Kollektivunterschrift zu zweien [bisher: in Uster]; Topalovic, Ivona, Ã¶sterreichische StaatsangehÃ¶rige, in Luzern, mit Kollektivunterschrift zu zweien [bisher: in Schlieren]; Wieczorek, Adrian, von Luzern, in ZÃ¼rich, mit Kollektivunterschrift zu zweien; Wyldes, John David, britischer StaatsangehÃ¶riger, in ZÃ¼rich, mit Kollektivunterschrift zu zweien; Yeh, Tina, amerikanische StaatsangehÃ¶rige, in ZÃ¼rich, mit Kollektivunterschrift zu zweien; Zbinden, Eugene, von Guggisberg, in Endingen, mit Kollektivunterschrift zu zweien [bisher: in WÃ¼renlingen]; Zhang, Zifan, chinesischer StaatsangehÃ¶riger, in ZÃ¼rich, mit Kollektivunterschrift zu zweien; Arslan, Ruken, von Aarau, in Aarau, mit Kollektivprokura zu zweien; Baumer, Sabine, von Quarten, in Hinwil, mit Kollektivprokura zu zweien; De Giuseppe, Elena, von Lugano, in Oetwil an der Limmat, mit Kollektivprokura zu zweien; Degen, CÃ©dric, von Liedertswil, in Neerach, mit Kollektivprokura zu zweien; Fernandez Concha Jahnsen, Gilda, peruanische StaatsangehÃ¶rige, in ZÃ¼rich, mit Kollektivprokura zu zweien; GÃ¼ler, Deniz, von WÃ¼renlingen, in WÃ¼renlingen, mit Kollektivprokura zu zweien; Iovane, Massimiliano, genannt Max, italienischer StaatsangehÃ¶riger, in Illnau-Effretikon, mit Kollektivprokura zu zweien; Jackson, Mark, britischer StaatsangehÃ¶riger, in ZÃ¼rich, mit Kollektivprokura zu zweien; Jovanovic, Stefan, von Lugano, in Comano, mit Kollektivprokura zu zweien; Keller, Reto, von Kloten, in Uzwil, mit Kollektivprokura zu zweien [bisher: in NÃ¼rensdorf]; Kunz, Melani, von Aarberg, in Lyss, mit Kollektivprokura zu zweien; KÃ¶nig, Calvin, deutscher StaatsangehÃ¶riger, in ZÃ¼rich, mit Kollektivprokura zu zweien; Lauper, Marc, von Seedorf (BE), in Seuzach, mit Kollektivprokura zu zweien; Liu, Ling Ling, genannt Sonia, von Bern, in BÃ¶ttstein, mit Kollektivprokura zu zweien; Reber, Richard, von Kriechenwil, in Gommiswald, mit Kollektivprokura zu zweien; Roch, Daniel, von Wettingen, in Killwangen, mit Kollektivprokura zu zweien; Rungwatsang, Tseten, von Horgen, in WÃ¤denswil, mit Kollektivprokura zu zweien [bisher: in Uster]; Schneider, Gabriela, von Winterthur, in Eggersriet, mit Kollektivprokura zu zweien [bisher: in Bassersdorf]; Serafini, Alessandro, italienischer StaatsangehÃ¶riger, in Winterthur, mit Kollektivprokura zu zweien; Simic, Ines, von Leuggern, in BÃ¶ttstein, mit Kollektivprokura zu zweien; Thren, Simone, von Zollikon, in Zollikon, mit Kollektivprokura zu zweien; Trnjakovic Mayor, Tatiana, von Luzern, in Luzern, mit Kollektivprokura zu zweien; Tznelasvili, Iakovos, griechischer StaatsangehÃ¶riger, in ZÃ¼rich, mit Kollektivprokura zu zweien; Voicu, Anca-Elena, rumÃ¤nische StaatsangehÃ¶rige, in ZÃ¼rich, mit Kollektivprokura zu zweien; Watter, Thomas, von Zurzach, in Regensdorf, mit Kollektivprokura zu zweien; Zingg, Andrea, von Busswil bei Melchnau, in ZÃ¼rich, mit Kollektivprokura zu zweien.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "UBS Business Solutions AG",
+        "ehraid": 1236771,
+        "uid": "CHE262289477",
+        "chid": "CH02030424745",
+        "legalSeatId": 261,
+        "legalSeat": "Zürich",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-07-15",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "245942bc4b9ffd5d88b20c67",
+    "publication_date": "2026-03-31",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-31 | VS | 2026-03-26 | <FT TYPE=\"N\">Vinarbo exploitation SÃ rl</FT>, Ã  <FT TYPE=\"5\">Saillon</FT>, <FT TYPE=\"A\">CHE-298.729.628</FT>, Route de Tobrouk 14, 1913 Saillon, sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e (Nouvelle inscription). Date des statuts: 24.03.2026. Autre adresse: Case postale 2, 1913 Saillon. But: La sociÃ©tÃ© a pour but d&apos;effectuer toute activitÃ© en lien avec la viticulture et l&apos;agriculture, tout type de travaux agricoles par drone, ainsi que de rÃ©aliser toute opÃ©ration relative Ã  l&apos;achat, la vente, le conditionnement, la transformation et le stockage tant de fruits que de vin. Elle peut aussi acheter, vendre et louer tout immeuble, hormis les opÃ©rations prohibÃ©es par la LFAIE. Elle peut Ã©galement effectuer toutes opÃ©rations commerciales, financiÃ¨res ou autres qui se rapportent directement ou indirectement Ã  son but et favorisent son dÃ©veloppement. Elle peut en outre crÃ©er des succursales en Suisse et Ã  l&apos;Ã©tranger, prendre des participations, fonder ou financer des entreprises ayant un rapport direct ou indirect avec son but. Elle peut Ã©galement accorder des prÃªts ou des garanties Ã  des associÃ©s ou Ã  des tiers. Capital social: CHF 20&apos;000.00. Obligations de fournir des prestations accessoires, droits de prÃ©fÃ©rence, de prÃ©emption ou d&apos;emption: pour les dÃ©tails, voir les statuts. Organe de publication: FOSC. Communications aux associÃ©s: par courrier ou par courriel. Selon dÃ©claration Ã  la constitution de la sociÃ©tÃ©, il est renoncÃ© Ã  un contrÃ´le restreint. Personne(s) inscrite(s): Crettenand, Pierre Antoine, de Leytron, Ã  Saillon, associÃ© et gÃ©rant, avec signature individuelle, pour 200 parts sociales de CHF 100.00. | status | status.neu | Vinarbo exploitation Sàrl | CHE298729628 | CH62140132626 | Saillon | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-0",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": []
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-31",
+        "sogcId": 1006612742,
+        "registryOfCommerceId": 621,
+        "registryOfCommerceCanton": "VS",
+        "registryOfCommerceJournalId": 1235,
+        "registryOfCommerceJournalDate": "2026-03-26",
+        "message": "<FT TYPE=\"N\">Vinarbo exploitation SÃ rl</FT>, Ã  <FT TYPE=\"5\">Saillon</FT>, <FT TYPE=\"A\">CHE-298.729.628</FT>, Route de Tobrouk 14, 1913 Saillon, sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e (Nouvelle inscription). Date des statuts: 24.03.2026. Autre adresse: Case postale 2, 1913 Saillon. But: La sociÃ©tÃ© a pour but d&apos;effectuer toute activitÃ© en lien avec la viticulture et l&apos;agriculture, tout type de travaux agricoles par drone, ainsi que de rÃ©aliser toute opÃ©ration relative Ã  l&apos;achat, la vente, le conditionnement, la transformation et le stockage tant de fruits que de vin. Elle peut aussi acheter, vendre et louer tout immeuble, hormis les opÃ©rations prohibÃ©es par la LFAIE. Elle peut Ã©galement effectuer toutes opÃ©rations commerciales, financiÃ¨res ou autres qui se rapportent directement ou indirectement Ã  son but et favorisent son dÃ©veloppement. Elle peut en outre crÃ©er des succursales en Suisse et Ã  l&apos;Ã©tranger, prendre des participations, fonder ou financer des entreprises ayant un rapport direct ou indirect avec son but. Elle peut Ã©galement accorder des prÃªts ou des garanties Ã  des associÃ©s ou Ã  des tiers. Capital social: CHF 20&apos;000.00. Obligations de fournir des prestations accessoires, droits de prÃ©fÃ©rence, de prÃ©emption ou d&apos;emption: pour les dÃ©tails, voir les statuts. Organe de publication: FOSC. Communications aux associÃ©s: par courrier ou par courriel. Selon dÃ©claration Ã  la constitution de la sociÃ©tÃ©, il est renoncÃ© Ã  un contrÃ´le restreint. Personne(s) inscrite(s): Crettenand, Pierre Antoine, de Leytron, Ã  Saillon, associÃ© et gÃ©rant, avec signature individuelle, pour 200 parts sociales de CHF 100.00.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Vinarbo exploitation Sàrl",
+        "ehraid": 1742746,
+        "uid": "CHE298729628",
+        "chid": "CH62140132626",
+        "legalSeatId": 6140,
+        "legalSeat": "Saillon",
+        "registryOfCommerceId": 621,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-31",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "12cbc889b64f8424b2be3338",
+    "publication_date": "2026-03-31",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-31 | BE | 2026-03-26 | <FT TYPE=\"N\">VITA SANA REXHA</FT>, in <FT TYPE=\"5\">KÃ¶niz</FT>, <FT TYPE=\"A\">CHE-195.975.449</FT>, Stationsstrasse 19, 3097 Liebefeld, Einzelunternehmen (Neueintragung). Zweck: Online-Verkauf von Tee. Eingetragene Personen: Rexha, Denis, italienischer StaatsangehÃ¶riger, in Liebefeld (KÃ¶niz), Inhaber, mit Einzelunterschrift. | status | status.neu | VITA SANA REXHA | CHE195975449 | CH03611069553 | Köniz | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-03-31",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "03611069553"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-31",
+        "sogcId": 1006611847,
+        "registryOfCommerceId": 36,
+        "registryOfCommerceCanton": "BE",
+        "registryOfCommerceJournalId": 6219,
+        "registryOfCommerceJournalDate": "2026-03-26",
+        "message": "<FT TYPE=\"N\">VITA SANA REXHA</FT>, in <FT TYPE=\"5\">KÃ¶niz</FT>, <FT TYPE=\"A\">CHE-195.975.449</FT>, Stationsstrasse 19, 3097 Liebefeld, Einzelunternehmen (Neueintragung). Zweck: Online-Verkauf von Tee. Eingetragene Personen: Rexha, Denis, italienischer StaatsangehÃ¶riger, in Liebefeld (KÃ¶niz), Inhaber, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "VITA SANA REXHA",
+        "ehraid": 1742788,
+        "uid": "CHE195975449",
+        "chid": "CH03611069553",
+        "legalSeatId": 355,
+        "legalSeat": "Köniz",
+        "registryOfCommerceId": 36,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-31",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "dd82414ca36966c74cb56641",
+    "publication_date": "2026-03-31",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-31 | ZH | 2026-03-26 | <FT TYPE=\"N\">WiiMeet Leicht-Will</FT>, in <FT TYPE=\"5\">StÃ¤fa</FT>, <FT TYPE=\"A\">CHE-265.796.919</FT>, Bergstrasse 8, 8712 StÃ¤fa, Einzelunternehmen (Neueintragung). Zweck: Vernetzung von Menschen und Teams bei Wein Events in Zusammenarbeit mit Weinbauern. Teamentwicklung und Entwicklung von Menschen sowie Single Dating MÃ¶glichkeiten bei Wein Events. Eingetragene Personen: Leicht-Will, Annette, von StÃ¤fa, in StÃ¤fa, Inhaberin, mit Einzelunterschrift. | status | status.neu | WiiMeet Leicht-Will | CHE265796919 | CH02011058002 | Stäfa | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-03-31",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "02011058002"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-31",
+        "sogcId": 1006611476,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 15807,
+        "registryOfCommerceJournalDate": "2026-03-26",
+        "message": "<FT TYPE=\"N\">WiiMeet Leicht-Will</FT>, in <FT TYPE=\"5\">StÃ¤fa</FT>, <FT TYPE=\"A\">CHE-265.796.919</FT>, Bergstrasse 8, 8712 StÃ¤fa, Einzelunternehmen (Neueintragung). Zweck: Vernetzung von Menschen und Teams bei Wein Events in Zusammenarbeit mit Weinbauern. Teamentwicklung und Entwicklung von Menschen sowie Single Dating MÃ¶glichkeiten bei Wein Events. Eingetragene Personen: Leicht-Will, Annette, von StÃ¤fa, in StÃ¤fa, Inhaberin, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "WiiMeet Leicht-Will",
+        "ehraid": 1742687,
+        "uid": "CHE265796919",
+        "chid": "CH02011058002",
+        "legalSeatId": 158,
+        "legalSeat": "Stäfa",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-31",
+        "deletionDate": null
+      }
+    }
+  }
+]

@@ -1,0 +1,689 @@
+[
+  {
+    "publication_id": "f003b9db078f709e980e8827",
+    "publication_date": "2026-03-30",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-30 | TG | 2026-03-25 | <FT TYPE=\"N\">Akawa Import N. Grossenbacher</FT>, in <FT TYPE=\"5\">Sulgen</FT>, <FT TYPE=\"A\">CHE-229.729.318</FT>, Bleikenstrasse 13, 8583 Sulgen, Einzelunternehmen (Neueintragung). Zweck: Import und Vertrieb von Ostafrikanischen Rohkaffee und Cacao. Eingetragene Personen: Grossenbacher, Nicola, von LÃ¼tzelflÃ¼h, in Sulgen, Inhaber, mit Einzelunterschrift. | status | status.neu | Akawa Import N. Grossenbacher | CHE229729318 | CH44010442273 | Sulgen | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-03-30",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "010442273"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-30",
+        "sogcId": 1006610965,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 1972,
+        "registryOfCommerceJournalDate": "2026-03-25",
+        "message": "<FT TYPE=\"N\">Akawa Import N. Grossenbacher</FT>, in <FT TYPE=\"5\">Sulgen</FT>, <FT TYPE=\"A\">CHE-229.729.318</FT>, Bleikenstrasse 13, 8583 Sulgen, Einzelunternehmen (Neueintragung). Zweck: Import und Vertrieb von Ostafrikanischen Rohkaffee und Cacao. Eingetragene Personen: Grossenbacher, Nicola, von LÃ¼tzelflÃ¼h, in Sulgen, Inhaber, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Akawa Import N. Grossenbacher",
+        "ehraid": 1742367,
+        "uid": "CHE229729318",
+        "chid": "CH44010442273",
+        "legalSeatId": 4506,
+        "legalSeat": "Sulgen",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-30",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "9799556e244980e73ae2bec4",
+    "publication_date": "2026-03-30",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-30 | ZH | 2026-03-25 | <FT TYPE=\"F\">evitria AG</FT>, in <FT TYPE=\"S\">Weiningen (ZH)</FT>, <FT TYPE=\"A\">CHE-115.416.195</FT>, Aktiengesellschaft (SHAB Nr. 37 vom 24.02.2025, Publ. 1006264704). Eingetragene Personen neu oder mutierend: Pitulia, Dan Christer, schwedischer StaatsangehÃ¶riger, in Horw, Mitglied des Verwaltungsrates, GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift [bisher: in Cobham (GB), Mitglied des Verwaltungsrates, mit Einzelunterschrift]; Schmidt, Stefan Robert, deutscher StaatsangehÃ¶riger, in Naters, Mitglied des Verwaltungsrates, mit Einzelunterschrift [bisher: Mitglied des Verwaltungsrates und GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift]. | aenderungorgane | evitria AG | CHE115416195 | CH02030347902 | Weiningen (ZH) | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-03-30",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006264704)",
+      "02030347902"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-30",
+        "sogcId": 1006609990,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 15368,
+        "registryOfCommerceJournalDate": "2026-03-25",
+        "message": "<FT TYPE=\"F\">evitria AG</FT>, in <FT TYPE=\"S\">Weiningen (ZH)</FT>, <FT TYPE=\"A\">CHE-115.416.195</FT>, Aktiengesellschaft (SHAB Nr. 37 vom 24.02.2025, Publ. 1006264704). Eingetragene Personen neu oder mutierend: Pitulia, Dan Christer, schwedischer StaatsangehÃ¶riger, in Horw, Mitglied des Verwaltungsrates, GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift [bisher: in Cobham (GB), Mitglied des Verwaltungsrates, mit Einzelunterschrift]; Schmidt, Stefan Robert, deutscher StaatsangehÃ¶riger, in Naters, Mitglied des Verwaltungsrates, mit Einzelunterschrift [bisher: Mitglied des Verwaltungsrates und GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift].",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "evitria AG",
+        "ehraid": 971318,
+        "uid": "CHE115416195",
+        "chid": "CH02030347902",
+        "legalSeatId": 251,
+        "legalSeat": "Weiningen (ZH)",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-30",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "d8f4ada1dce41e52e4f017d0",
+    "publication_date": "2026-03-30",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-30 | FR | 2026-03-25 | <FT TYPE=\"F\">FitnessWear&amp;BohoStyle, Birra Esteves Lima</FT>, Ã  <FT TYPE=\"S\">Fribourg</FT>, <FT TYPE=\"A\">CHE-318.019.845</FT> (FOSC du 24.06.2015, p. 0/2227323). L&apos;entreprise individuelle est radiÃ©e par suite de cessation d&apos;activitÃ©. | status | status.loeschung | FitnessWear&BohoStyle, Birra Esteves Lima | CHE318019845 | CH21735583705 | Fribourg | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | CANCELLED | 2026-03-30 | 2026-03-30",
+    "categories": [
+      "bier"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": []
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-30",
+        "sogcId": 1006610723,
+        "registryOfCommerceId": 217,
+        "registryOfCommerceCanton": "FR",
+        "registryOfCommerceJournalId": 2448,
+        "registryOfCommerceJournalDate": "2026-03-25",
+        "message": "<FT TYPE=\"F\">FitnessWear&amp;BohoStyle, Birra Esteves Lima</FT>, Ã  <FT TYPE=\"S\">Fribourg</FT>, <FT TYPE=\"A\">CHE-318.019.845</FT> (FOSC du 24.06.2015, p. 0/2227323). L&apos;entreprise individuelle est radiÃ©e par suite de cessation d&apos;activitÃ©.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 7,
+            "key": "status.loeschung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "FitnessWear&BohoStyle, Birra Esteves Lima",
+        "ehraid": 1226646,
+        "uid": "CHE318019845",
+        "chid": "CH21735583705",
+        "legalSeatId": 2196,
+        "legalSeat": "Fribourg",
+        "registryOfCommerceId": 217,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "CANCELLED",
+        "sogcDate": "2026-03-30",
+        "deletionDate": "2026-03-30"
+      }
+    }
+  },
+  {
+    "publication_id": "864deda3cf9cbddee06b82e0",
+    "publication_date": "2026-03-30",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-30 | GE | 2026-03-25 | <FT TYPE=\"F\">Juice Dream Trading SA</FT>, Ã  <FT TYPE=\"S\">GenÃ¨ve</FT>, <FT TYPE=\"A\">CHE-240.603.588</FT> (FOSC du 17.12.2025, p. 0/1006516667). Organe de rÃ©vision: CF Compagnie fiduciaire de rÃ©vision sa (<FT TYPE=\"B\">CHE-106.761.121</FT>), Ã  GenÃ¨ve. Radiation de la mention relative Ã  la renonciation Ã  un contrÃ´le restreint. | aenderungorgane | Juice Dream Trading SA | CHE240603588 | CH14030045072 | Genève | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-03-30",
+    "categories": [
+      "alkoholfrei"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006516667)",
+      "030045072"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-30",
+        "sogcId": 1006611432,
+        "registryOfCommerceId": 660,
+        "registryOfCommerceCanton": "GE",
+        "registryOfCommerceJournalId": 8663,
+        "registryOfCommerceJournalDate": "2026-03-25",
+        "message": "<FT TYPE=\"F\">Juice Dream Trading SA</FT>, Ã  <FT TYPE=\"S\">GenÃ¨ve</FT>, <FT TYPE=\"A\">CHE-240.603.588</FT> (FOSC du 17.12.2025, p. 0/1006516667). Organe de rÃ©vision: CF Compagnie fiduciaire de rÃ©vision sa (<FT TYPE=\"B\">CHE-106.761.121</FT>), Ã  GenÃ¨ve. Radiation de la mention relative Ã  la renonciation Ã  un contrÃ´le restreint.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Juice Dream Trading SA",
+        "ehraid": 1148929,
+        "uid": "CHE240603588",
+        "chid": "CH14030045072",
+        "legalSeatId": 6621,
+        "legalSeat": "Genève",
+        "registryOfCommerceId": 660,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-30",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "e690f220da5800680f07d7a8",
+    "publication_date": "2026-03-30",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-30 | SG | 2026-03-25 | <FT TYPE=\"F\">PersonalfÃ¼rsorgestiftung der Vinora AG, Jona</FT>, in <FT TYPE=\"S\">Rapperswil-Jona</FT>, <FT TYPE=\"A\">CHE-109.736.266</FT>, Stiftung (SHAB Nr. 51 vom 15.03.2021, Publ. 1005123936). Domizil neu: TÃ¤gernaustrasse 61, 8645 Jona. Weitere Adressen: Spitalgasse 33, 3011 Bern. Organisation neu: [Streichung aufgrund geÃ¤nderter Eintragungsvorschriften.]. Ausgeschiedene Personen und erloschene Unterschriften: ZÃ¼nd, Markus, von Balgach, in Appenzell, mit Kollektivunterschrift zu zweien. Eingetragene Personen neu oder mutierend: Kocher, Kevin, von Selzach, in Selzach, GeschÃ¤ftsfÃ¼hrer, mit Kollektivunterschrift zu zweien. | adressaenderung | aenderungorgane | Personalfürsorgestiftung der Vinora AG, Jona | CHE109736266 | CH32070086297 | Rapperswil-Jona | 0110 | Stiftung | Fondation | Fondazione | Foundation | Stift | Fond | Fond | Found | ACTIVE | 2026-03-30",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "005123936)",
+      "070086297"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-30",
+        "sogcId": 1006610856,
+        "registryOfCommerceId": 320,
+        "registryOfCommerceCanton": "SG",
+        "registryOfCommerceJournalId": 3799,
+        "registryOfCommerceJournalDate": "2026-03-25",
+        "message": "<FT TYPE=\"F\">PersonalfÃ¼rsorgestiftung der Vinora AG, Jona</FT>, in <FT TYPE=\"S\">Rapperswil-Jona</FT>, <FT TYPE=\"A\">CHE-109.736.266</FT>, Stiftung (SHAB Nr. 51 vom 15.03.2021, Publ. 1005123936). Domizil neu: TÃ¤gernaustrasse 61, 8645 Jona. Weitere Adressen: Spitalgasse 33, 3011 Bern. Organisation neu: [Streichung aufgrund geÃ¤nderter Eintragungsvorschriften.]. Ausgeschiedene Personen und erloschene Unterschriften: ZÃ¼nd, Markus, von Balgach, in Appenzell, mit Kollektivunterschrift zu zweien. Eingetragene Personen neu oder mutierend: Kocher, Kevin, von Selzach, in Selzach, GeschÃ¤ftsfÃ¼hrer, mit Kollektivunterschrift zu zweien.",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          },
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Personalfürsorgestiftung der Vinora AG, Jona",
+        "ehraid": 298729,
+        "uid": "CHE109736266",
+        "chid": "CH32070086297",
+        "legalSeatId": 3340,
+        "legalSeat": "Rapperswil-Jona",
+        "registryOfCommerceId": 320,
+        "legalForm": {
+          "id": 7,
+          "uid": "0110",
+          "name": {
+            "de": "Stiftung",
+            "fr": "Fondation",
+            "it": "Fondazione",
+            "en": "Foundation"
+          },
+          "shortName": {
+            "de": "Stift",
+            "fr": "Fond",
+            "it": "Fond",
+            "en": "Found"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-30",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "80a45f50ae708b020c001abe",
+    "publication_date": "2026-03-30",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-30 | VD | 2026-03-25 | <FT TYPE=\"N\">Subarashii SÃ rl</FT>, Ã  <FT TYPE=\"5\">Lausanne</FT>, Avenue du Grey 46, 1004 Lausanne, <FT TYPE=\"A\">CHE-323.085.730</FT>. Nouvelle sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e. Statuts: 17.03.2026. But: la SociÃ©tÃ© a pour but, en Suisse et Ã  l&apos;Ã©tranger, l&apos;exploitation, la gestion, la promotion et le dÃ©veloppement d&apos;Ã©tablissements publics, en particulier de restaurants, de cafÃ©s et de bars Ã  thÃ¨me, notamment dans l&apos;univers de la culture japonaise et du manga, l&apos;organisation d&apos;Ã©vÃ©nements culturels et de divertissement, la mise en place d&apos;animations et d&apos;activitÃ©s en lien avec cet univers, ainsi que l&apos;achat, la vente, l&apos;importation, l&apos;exportation et le commerce de produits alimentaires et de boissons en tous genres, de mÃªme que de produits dÃ©rivÃ©s en relation avec son concept, ainsi que toute activitÃ© s&apos;y rapportant. Obligation de fournir des prestations accessoires, droits de prÃ©fÃ©rence, de prÃ©emption ou d&apos;emption: pour les dÃ©tails, voir les statuts. Capital social: CHF 20&apos;000. AssociÃ©s: Simonetti David, de et Ã  Lausanne, avec 128 parts de CHF 100, gÃ©rant, avec signature individuelle, AngÃ©loz Sabrina, de Corminboeuf, Ã  Lausanne, avec 2 parts de CHF 100, sans signature, et Benjelloun Hakim, de Montagny (FR), Ã  Nyon, avec 70 parts de CHF 100, sans signature. Organe de publication: Feuille officielle suisse du commerce. Communications aux associÃ©s: par courrier recommandÃ© ou par courrier Ã©lectronique. Selon dÃ©claration Ã  la constitution de la sociÃ©tÃ©, il est renoncÃ© Ã  un contrÃ´le restreint. | status | status.neu | Subarashii Sàrl | CHE323085730 | CH55012562824 | Lausanne | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-03-30",
+    "categories": [
+      "allgemein",
+      "handel_vertrieb"
+    ],
+    "confidence": 95,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "012562824"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-30",
+        "sogcId": 1006611101,
+        "registryOfCommerceId": 550,
+        "registryOfCommerceCanton": "VD",
+        "registryOfCommerceJournalId": 6715,
+        "registryOfCommerceJournalDate": "2026-03-25",
+        "message": "<FT TYPE=\"N\">Subarashii SÃ rl</FT>, Ã  <FT TYPE=\"5\">Lausanne</FT>, Avenue du Grey 46, 1004 Lausanne, <FT TYPE=\"A\">CHE-323.085.730</FT>. Nouvelle sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e. Statuts: 17.03.2026. But: la SociÃ©tÃ© a pour but, en Suisse et Ã  l&apos;Ã©tranger, l&apos;exploitation, la gestion, la promotion et le dÃ©veloppement d&apos;Ã©tablissements publics, en particulier de restaurants, de cafÃ©s et de bars Ã  thÃ¨me, notamment dans l&apos;univers de la culture japonaise et du manga, l&apos;organisation d&apos;Ã©vÃ©nements culturels et de divertissement, la mise en place d&apos;animations et d&apos;activitÃ©s en lien avec cet univers, ainsi que l&apos;achat, la vente, l&apos;importation, l&apos;exportation et le commerce de produits alimentaires et de boissons en tous genres, de mÃªme que de produits dÃ©rivÃ©s en relation avec son concept, ainsi que toute activitÃ© s&apos;y rapportant. Obligation de fournir des prestations accessoires, droits de prÃ©fÃ©rence, de prÃ©emption ou d&apos;emption: pour les dÃ©tails, voir les statuts. Capital social: CHF 20&apos;000. AssociÃ©s: Simonetti David, de et Ã  Lausanne, avec 128 parts de CHF 100, gÃ©rant, avec signature individuelle, AngÃ©loz Sabrina, de Corminboeuf, Ã  Lausanne, avec 2 parts de CHF 100, sans signature, et Benjelloun Hakim, de Montagny (FR), Ã  Nyon, avec 70 parts de CHF 100, sans signature. Organe de publication: Feuille officielle suisse du commerce. Communications aux associÃ©s: par courrier recommandÃ© ou par courrier Ã©lectronique. Selon dÃ©claration Ã  la constitution de la sociÃ©tÃ©, il est renoncÃ© Ã  un contrÃ´le restreint.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Subarashii Sàrl",
+        "ehraid": 1742509,
+        "uid": "CHE323085730",
+        "chid": "CH55012562824",
+        "legalSeatId": 5586,
+        "legalSeat": "Lausanne",
+        "registryOfCommerceId": 550,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-30",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "51d4c4bbf4334bdcb8a67656",
+    "publication_date": "2026-03-30",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-30 | SO | 2026-03-25 | <FT TYPE=\"F\">Thomas Briner CafÃ© Bar Chic</FT>, in <FT TYPE=\"S\">Olten</FT>, <FT TYPE=\"A\">CHE-157.816.258</FT>, Einzelunternehmen (SHAB Nr. 26 vom 08.02.2021, Publ. 1005094478). Das Einzelunternehmen ist infolge GeschÃ¤ftsaufgabe erloschen. | status | status.loeschung | Thomas Briner Café Bar Chic | CHE157816258 | CH24110198575 | Olten | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | CANCELLED | 2026-03-30 | 2026-03-30",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "005094478)"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-30",
+        "sogcId": 1006610754,
+        "registryOfCommerceId": 241,
+        "registryOfCommerceCanton": "SO",
+        "registryOfCommerceJournalId": 1803,
+        "registryOfCommerceJournalDate": "2026-03-25",
+        "message": "<FT TYPE=\"F\">Thomas Briner CafÃ© Bar Chic</FT>, in <FT TYPE=\"S\">Olten</FT>, <FT TYPE=\"A\">CHE-157.816.258</FT>, Einzelunternehmen (SHAB Nr. 26 vom 08.02.2021, Publ. 1005094478). Das Einzelunternehmen ist infolge GeschÃ¤ftsaufgabe erloschen.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 7,
+            "key": "status.loeschung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Thomas Briner Café Bar Chic",
+        "ehraid": 1472243,
+        "uid": "CHE157816258",
+        "chid": "CH24110198575",
+        "legalSeatId": 2581,
+        "legalSeat": "Olten",
+        "registryOfCommerceId": 241,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "CANCELLED",
+        "sogcDate": "2026-03-30",
+        "deletionDate": "2026-03-30"
+      }
+    }
+  },
+  {
+    "publication_id": "7a03a5b4ed7c0ac206e134be",
+    "publication_date": "2026-03-30",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-30 | VD | 2026-03-25 | <FT TYPE=\"N\">Tiny Tales Playhouse SÃ rl</FT> <FT TYPE=\"V\">(Tiny Tales Playhouse GmbH) (Tiny Tales Playhouse Ltd liab Co)</FT>, Ã  <FT TYPE=\"5\">Lausanne</FT>, Rue Elisabeth-Jeanne-de-Cerjat 3, 1018 Lausanne, <FT TYPE=\"A\">CHE-366.760.422</FT>. Nouvelle sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e. Statuts: 18.03.2026. But: la sociÃ©tÃ© a pour but: l&apos;exploitation de centres de jeux et d&apos;activitÃ©s sportives, Ã©ducatives et de bien-Ãªtre pour enfants; fourniture de services dans le domaine de la restauration; l&apos;exploitation de restaurants, cafÃ©s, bars, dÃ©bits de boissons et autres Ã©tablissements semblables; fabrication et commerce de produits alimentaires et de boissons. Elle pourra en outre faire, soit pour son compte, soit pour le compte de tiers, toutes opÃ©rations financiÃ¨res, commerciales, mobiliÃ¨res ou immobiliÃ¨res se rattachant directement ou indirectement Ã  son but social et s&apos;intÃ©resser, sous toutes formes, Ã  toutes entreprises similaires, notamment par la prise de participation dans des entreprises similaires. La sociÃ©tÃ© pourra Ã©galement constituer des succursales et des filiales en Suisse et Ã  l&apos;Ã©tranger. Obligation de fournir des prestations accessoires, droits de prÃ©fÃ©rence, de prÃ©emption ou d&apos;emption: pour les dÃ©tails, voir les statuts. Capital social: CHF 20&apos;000. AssociÃ©e-gÃ©rante avec signature individuelle: Salymbekova Shaherezada, de Lausanne, Ã  Lutry, avec 200 parts de CHF 100. Organe de publication: Feuille officielle suisse du commerce. Communications aux associÃ©s: par courrier ou par courriel. Selon dÃ©claration Ã  la constitution de la sociÃ©tÃ©, il est renoncÃ© Ã  un contrÃ´le restreint. | status | status.neu | Tiny Tales Playhouse Sàrl | CHE366760422 | CH55012563481 | Lausanne | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-03-30",
+    "categories": [
+      "allgemein",
+      "handel_vertrieb"
+    ],
+    "confidence": 95,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "012563481"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-30",
+        "sogcId": 1006611103,
+        "registryOfCommerceId": 550,
+        "registryOfCommerceCanton": "VD",
+        "registryOfCommerceJournalId": 6717,
+        "registryOfCommerceJournalDate": "2026-03-25",
+        "message": "<FT TYPE=\"N\">Tiny Tales Playhouse SÃ rl</FT> <FT TYPE=\"V\">(Tiny Tales Playhouse GmbH) (Tiny Tales Playhouse Ltd liab Co)</FT>, Ã  <FT TYPE=\"5\">Lausanne</FT>, Rue Elisabeth-Jeanne-de-Cerjat 3, 1018 Lausanne, <FT TYPE=\"A\">CHE-366.760.422</FT>. Nouvelle sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e. Statuts: 18.03.2026. But: la sociÃ©tÃ© a pour but: l&apos;exploitation de centres de jeux et d&apos;activitÃ©s sportives, Ã©ducatives et de bien-Ãªtre pour enfants; fourniture de services dans le domaine de la restauration; l&apos;exploitation de restaurants, cafÃ©s, bars, dÃ©bits de boissons et autres Ã©tablissements semblables; fabrication et commerce de produits alimentaires et de boissons. Elle pourra en outre faire, soit pour son compte, soit pour le compte de tiers, toutes opÃ©rations financiÃ¨res, commerciales, mobiliÃ¨res ou immobiliÃ¨res se rattachant directement ou indirectement Ã  son but social et s&apos;intÃ©resser, sous toutes formes, Ã  toutes entreprises similaires, notamment par la prise de participation dans des entreprises similaires. La sociÃ©tÃ© pourra Ã©galement constituer des succursales et des filiales en Suisse et Ã  l&apos;Ã©tranger. Obligation de fournir des prestations accessoires, droits de prÃ©fÃ©rence, de prÃ©emption ou d&apos;emption: pour les dÃ©tails, voir les statuts. Capital social: CHF 20&apos;000. AssociÃ©e-gÃ©rante avec signature individuelle: Salymbekova Shaherezada, de Lausanne, Ã  Lutry, avec 200 parts de CHF 100. Organe de publication: Feuille officielle suisse du commerce. Communications aux associÃ©s: par courrier ou par courriel. Selon dÃ©claration Ã  la constitution de la sociÃ©tÃ©, il est renoncÃ© Ã  un contrÃ´le restreint.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Tiny Tales Playhouse Sàrl",
+        "ehraid": 1742511,
+        "uid": "CHE366760422",
+        "chid": "CH55012563481",
+        "legalSeatId": 5586,
+        "legalSeat": "Lausanne",
+        "registryOfCommerceId": 550,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-30",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "9dafed67d227b8b863e04247",
+    "publication_date": "2026-03-30",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-30 | ZH | 2026-03-25 | <FT TYPE=\"F\">Vinovita Import Export GmbH in Liquidation</FT>, in <FT TYPE=\"S\">Niederglatt</FT>, <FT TYPE=\"A\">CHE-321.385.374</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 214 vom 05.11.2025, Publ. 1006475840). Das Konkursverfahren wurde mit Urteil des Konkursgerichts des Bezirksgerichts Dielsdorf vom 19.03.2026 als geschlossen erklÃ¤rt. Die Gesellschaft wird von Amtes wegen gelÃ¶scht. | status | status.loeschung | Vinovita Import Export GmbH in Liquidation | CHE321385374 | CH02040660469 | Niederglatt | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | CANCELLED | 2026-03-30 | 2026-03-30",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006475840)",
+      "02040660469"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-30",
+        "sogcId": 1006610401,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 15780,
+        "registryOfCommerceJournalDate": "2026-03-25",
+        "message": "<FT TYPE=\"F\">Vinovita Import Export GmbH in Liquidation</FT>, in <FT TYPE=\"S\">Niederglatt</FT>, <FT TYPE=\"A\">CHE-321.385.374</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 214 vom 05.11.2025, Publ. 1006475840). Das Konkursverfahren wurde mit Urteil des Konkursgerichts des Bezirksgerichts Dielsdorf vom 19.03.2026 als geschlossen erklÃ¤rt. Die Gesellschaft wird von Amtes wegen gelÃ¶scht.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 7,
+            "key": "status.loeschung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Vinovita Import Export GmbH in Liquidation",
+        "ehraid": 1371858,
+        "uid": "CHE321385374",
+        "chid": "CH02040660469",
+        "legalSeatId": 89,
+        "legalSeat": "Niederglatt",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "CANCELLED",
+        "sogcDate": "2026-03-30",
+        "deletionDate": "2026-03-30"
+      }
+    }
+  }
+]

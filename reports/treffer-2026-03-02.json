@@ -1,0 +1,2312 @@
+[
+  {
+    "publication_id": "cbf03208feba4e4bfee410c0",
+    "publication_date": "2026-03-02",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-02 | SG | 2026-02-25 | <FT TYPE=\"F\">4FRIENDS GIN GmbH in Liquidation</FT>, in <FT TYPE=\"S\">Rapperswil-Jona</FT>, <FT TYPE=\"A\">CHE-368.683.465</FT>, Gesellschaft mit beschränkter Haftung (SHAB Nr. 166 vom 29.08.2025, Publ. 1006420375). Nachdem die Zustimmung des kantonalen Steueramtes vorliegt, wird die Rechtseinheit im Handelsregister gelöscht. | status | status.loeschung | 4FRIENDS GIN GmbH in Liquidation | CHE368683465 | CH44040334432 | Rapperswil-Jona | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | CANCELLED | 2026-03-02 | 2026-03-02",
+    "categories": [
+      "spirituosen"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006420375)",
+      "040334432"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-02",
+        "sogcId": 1006583533,
+        "registryOfCommerceId": 320,
+        "registryOfCommerceCanton": "SG",
+        "registryOfCommerceJournalId": 2476,
+        "registryOfCommerceJournalDate": "2026-02-25",
+        "message": "<FT TYPE=\"F\">4FRIENDS GIN GmbH in Liquidation</FT>, in <FT TYPE=\"S\">Rapperswil-Jona</FT>, <FT TYPE=\"A\">CHE-368.683.465</FT>, Gesellschaft mit beschränkter Haftung (SHAB Nr. 166 vom 29.08.2025, Publ. 1006420375). Nachdem die Zustimmung des kantonalen Steueramtes vorliegt, wird die Rechtseinheit im Handelsregister gelöscht.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 7,
+            "key": "status.loeschung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "4FRIENDS GIN GmbH in Liquidation",
+        "ehraid": 1364380,
+        "uid": "CHE368683465",
+        "chid": "CH44040334432",
+        "legalSeatId": 3340,
+        "legalSeat": "Rapperswil-Jona",
+        "registryOfCommerceId": 320,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "CANCELLED",
+        "sogcDate": "2026-03-02",
+        "deletionDate": "2026-03-02"
+      }
+    }
+  },
+  {
+    "publication_id": "ef5d59f5afdeb1b0e33397a6",
+    "publication_date": "2026-03-02",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-02 | ZH | 2026-02-25 | <FT TYPE=\"F\">Bank Julius Bär &amp; Co. AG</FT>, in <FT TYPE=\"S\">Zürich</FT>, <FT TYPE=\"A\">CHE-105.940.833</FT>, Aktiengesellschaft (SHAB Nr. 249 vom 24.12.2025, Publ. 1006523445). Ausgeschiedene Personen und erloschene Unterschriften: Antonacci, Claudio, von Zumikon, in Risch, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Bergomi, Christian, von Riva San Vitale, in Wollerau, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Dr Tausend, Birgit, deutsche Staatsangehörige, in Volketswil, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Glück, Diana, von Münchenbuchsee, in Zürich, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Goren, Dana, von Adliswil, in Adliswil, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Grunca, Marius, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Heer, Thomas, von Glarus, in Uster, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Heiz, Christopher, von Glarus Süd, in Zürich, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Heller, Christian, deutscher Staatsangehöriger, in Hombrechtikon, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Kearns, Nicholas, britischer Staatsangehöriger, in Thalwil, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Koumi, Martin, deutscher Staatsangehöriger, in Zollikon, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Kyriazis, Adrianos, griechischer Staatsangehöriger, in Freienbach, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; König, Michael, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Midwood, Emily, britische Staatsangehörige, in Zollikon, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Munschizada, Rames, deutscher Staatsangehöriger, in Thalwil, mit Kollektivuntersch",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006523445)",
+      "02039027271"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-02",
+        "sogcId": 1006582790,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 9798,
+        "registryOfCommerceJournalDate": "2026-02-25",
+        "message": "<FT TYPE=\"F\">Bank Julius Bär &amp; Co. AG</FT>, in <FT TYPE=\"S\">Zürich</FT>, <FT TYPE=\"A\">CHE-105.940.833</FT>, Aktiengesellschaft (SHAB Nr. 249 vom 24.12.2025, Publ. 1006523445). Ausgeschiedene Personen und erloschene Unterschriften: Antonacci, Claudio, von Zumikon, in Risch, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Bergomi, Christian, von Riva San Vitale, in Wollerau, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Dr Tausend, Birgit, deutsche Staatsangehörige, in Volketswil, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Glück, Diana, von Münchenbuchsee, in Zürich, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Goren, Dana, von Adliswil, in Adliswil, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Grunca, Marius, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Heer, Thomas, von Glarus, in Uster, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Heiz, Christopher, von Glarus Süd, in Zürich, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Heller, Christian, deutscher Staatsangehöriger, in Hombrechtikon, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Kearns, Nicholas, britischer Staatsangehöriger, in Thalwil, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Koumi, Martin, deutscher Staatsangehöriger, in Zollikon, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Kyriazis, Adrianos, griechischer Staatsangehöriger, in Freienbach, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; König, Michael, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Midwood, Emily, britische Staatsangehörige, in Zollikon, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Munschizada, Rames, deutscher Staatsangehöriger, in Thalwil, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Niggli, Pascale, von Zürich, in Illnau-Effretikon, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Ostrowska, Malgorzata Joanna, polnische Staatsangehörige, in Adliswil, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Polimeno Abrahao, Luiz Filipe, britischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Realini, Thomas, von Lausanne, in Thalwil, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Reinert, Ólavur, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Studer, Claudio, von Deitingen, in Zufikon, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Stutz, Ronnie, von Schongau, in Widen, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Suter, Johannes, von Muotathal, in Cham, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Svorin, Erik, von Herrliberg, in Rapperswil-Jona, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Vodola, Giovanni, von Gossau (ZH), in Staufen, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Anschütz, Raphael, von Zürich, in Zürich, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Babiarz, Magdalena, polnische Staatsangehörige, in Zürich, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Costa Barroso, Ana Carolina, brasilianische Staatsangehörige, in Zumikon, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Emmenegger, Heinrich, von Flühli, in Staufen, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Friedrich, Thomas, von Basel, in Küttigen, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Grigore, Adrian, rumänischer Staatsangehöriger, in Zürich, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Grossrieder, Valérie, von Schmitten (FR), in Uitikon, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Ikäheimo, Sauli, finnischer Staatsangehöriger, in Stallikon, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Jerkic, Igor, von Horgen, in Richterswil, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Klug, Sebastian, deutscher Staatsangehöriger, in Zürich, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Koch, Jan, deutscher Staatsangehöriger, in Rudolfstetten-Friedlisberg, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Rubin, David, deutscher Staatsangehöriger, in Zürich, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Sander, Uwe, von Opfikon, in Reichenburg, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Schnyder, Martin, von Zürich, in Altdorf UR, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Sharma, Madan Gopal, indischer Staatsangehöriger, in Olten, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz. Eingetragene Personen neu oder mutierend: Curic, Kristian, von Basel, in Oberwil-Lieli, mit Kollektivunterschrift zu zweien [bisher: in Allschwil]; Mechidi, Siham, von Vernier, in Genève, mit Kollektivunterschrift zu zweien; Abtahi, Seyyedmohammadreza, von Adliswil, in Adliswil, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz [bisher: iranischer Staatsangehöriger]; Antrassian, Jonathan, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz [bisher: französischer Staatsangehöriger]; Auer, Maximilian, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz [bisher: Bartels, Maximilian]; Bahounek, Ondrej, tschechischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Beazley, Kelly, britische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Bennici, Stéphane, von Le Chenit, in Chêne-Bourg, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Berger, Martin, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Bernardazzi, Elena, von Lugano, in Lugano, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz [bisher: in Zürich]; Bernhardt, Alexander, von Sachseln, in Sachseln, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Biefer, Silvan, von Bussnang, in Zürich, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Booth, Christopher, von Uetikon am See, in Uetikon am See, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Bradvic Hatibovic, Kerensa, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Bruhin, Samuel, von Schübelbach, in Thalwil, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Constantin, Cristina, rumänische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Dantes, Nathalie Olivia, französische Staatsangehörige, in Horgen, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz [bisher: in Zürich]; Downes, Barbara, von Basel, in Freienbach, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz [bisher: in Altendorf]; Enderli, Daniel, von Amriswil, in Horgen, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Etterlin, Mark, von Muri (AG), in St. Gallen, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Facetti, Marco, von Zürich, in Uster, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Fauser, Arndt, von Thalwil, in Zug, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Fernandes, Katarzyna, polnische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Fiedler, Björn, deutscher Staatsangehöriger, in Dietikon, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Gallier, Julien, französischer Staatsangehöriger, in Dübendorf, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz [bisher: in Zürich]; Gavrila, Cristina, rumänische Staatsangehörige, in Dübendorf, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Habdank, Nina Kerstin, von Otelfingen, in Otelfingen, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Hamann, Anne-Kathrein, deutsche Staatsangehörige, in Aeugst am Albis, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz [bisher: in Niederweningen]; Hof, Marcus, von Basel, in Basel, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz [bisher: deutscher Staatsangehöriger]; Kanala, Raghunatha Reddy, von Weinfelden, in Wigoltingen, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Kanwal, Jasmeet, niederländische Staatsangehörige, in Birmensdorf (ZH), mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Kervevan, Laurent, französischer Staatsangehöriger, in Kilchberg (ZH), mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Klenk, Yves, von Basel, in Thalwil, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz [bisher: in Zürich]; Kucek, Patrycja, polnische Staatsangehörige, in Baden, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz [bisher: Jarzabek, Patrycja]; Ladus, Maxim, rumänischer Staatsangehöriger, in Adliswil, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Lappe, Niklas, deutscher Staatsangehöriger, in Frauenfeld, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz [bisher: in Zürich]; Leggett-Flynn, Cindy Kay, amerikanische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Leuck, Aymon, deutscher Staatsangehöriger, in Urdorf, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Linder, Karsten, von Schöfflisdorf, in Schöfflisdorf, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Loiodice, Matteo, von Buchs (ZH), in Hagenbuch, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Lüscher, Cédric, von Muhen, in Zürich, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Maric, Christian, von Winterthur, in Zürich, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Maspons Mas, Jaume, französischer Staatsangehöriger, in Chêne-Bougeries, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz [bisher: in Zürich]; Meier, Adrian, von Küssnacht (SZ), in Zürich, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz [bisher: in Wettingen]; Mercerat, Romain, von Champoz, in Thun, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz [bisher: in Fribourg]; Meyer, Andreas, von Reisiswil, in Steinhausen, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz [bisher: in Therwil]; Michel, Marko, deutscher Staatsangehöriger, in Kilchberg (ZH), mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz [bisher: in Zürich]; Monnier, Gilles, französischer Staatsangehöriger, in Wädenswil, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Niewolny, Pawel, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz [bisher: polnischer Staatsangehöriger]; Nikolos, Panagiotis, griechischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz [bisher: in Oberengstringen]; Oppliger, Petra, von Sumiswald, in Sirnach, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Palombini, Shirlei, von Baden, in Feusisberg, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz [bisher: in Baden]; Pereira, Hugo, von Zermatt, in Zürich, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz [bisher: in Dübendorf]; Pietraszewski, Piotr, polnischer Staatsangehöriger, in Thalwil, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Rohaili, Maseeh, kanadischer Staatsangehöriger, in Niederweningen, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Sahay, Nikhil, indischer Staatsangehöriger, in Adliswil, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Sartea, Daniela, von Kleinandelfingen, in Zürich, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Schmahl, Matthias, deutscher Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz [bisher: in Regensburg (DE)]; Schrag, Daniel, von Feuerthalen, in Uster, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Septinus, Daniel, deutscher Staatsangehöriger, in Bonstetten, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz [bisher: in Zürich]; Sopko, Nicole, von Oberglatt, in Kilchberg (ZH), mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz [bisher: in Zürich]; Séchaud, Bernard, von Sullens, in Kilchberg (ZH), mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz [bisher: in Zürich]; Timonina-Farkas, Anna, russische Staatsangehörige, in Saint-Sulpice (VD), mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Tomczak, Andrzej Roman, polnischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Traube, Saskia Jessica, deutsche Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Tschudi, Remo, von Glarus Nord, in Risch, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz [bisher: in Zürich]; Turiel Martinez, Eduardo, spanischer Staatsangehöriger, in Zürich, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Walzl, Verena, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Waterhouse, Richard, von Zürich, in Zürich, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Witkowska-Mrozek, Grazyna, polnische Staatsangehörige, in Zürich, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Ziörjen, Thomas, von Zweisimmen, in Zürich, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; de Preux Stoffels, Isabelle, von Cologny, in Erlenbach (ZH), mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz; Acciarri, Gianni, italienischer Staatsangehöriger, in Erlenbach (ZH), mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Aleeva, Giuzel, russischer Staatsangehöriger, in Kilchberg (ZH), mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Ali, Sundus, von Zürich, in Zürich, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz [bisher: Gohar, Sundus]; Althaus, Adrian, von Langnau im Emmental, in Zürich, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Bazan, Kinga, polnischer Staatsangehöriger, in Uster, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Blaser, Sandro, von Luzern, in Luzern, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Brongniart, Jérome, französischer Staatsangehöriger, in Zürich, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Brönnimann, Ana-Carolina, brasilianische Staatsangehörige, in Obersiggenthal, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Brühwiler, Elisa, von Fischingen, in Stäfa, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Christen, Géraldine, von Itingen, in Urdorf, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Correia Batista, Ruben, portugiesischer Staatsangehöriger, in Zürich, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; DerviŠ¡evic, Maida, österreichische Staatsangehörige, in Othmarsingen, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz [bisher: in Dietikon]; Eccher, Alessandro, italienischer Staatsangehöriger, in Bellinzona, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Fischer, Michel, von Meisterschwanden, in Aadorf, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Frei, Edgar, von Hohentannen, in Untersiggenthal, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Gazzola Arias, Leonardo, luxemburgischer Staatsangehöriger, in Stallikon, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Guldahl, Jakob, norwegischer Staatsangehöriger, in Zürich, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Guo, Wei, chinesische Staatsangehörige, in Würenlos, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Hafner, Moritz, von Münchwilen (TG), in Zürich, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Hallulli, Denis, italienischer Staatsangehöriger, in Zürich, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Hoxha, Fijola, von Urdorf, in Oberglatt, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz [bisher: in Zürich]; Laghi, Giorgio, von Lugano, in Wallisellen, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz [bisher: in Zürich]; Lampinen, Jari, von Rheinau, in Flaach, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz [bisher: in Schaffhausen]; Lützelschwab, Daniel, von Basel, in Zürich, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Meuwly, Jean-Charles, von Lausanne, in Bergdietikon, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Mircia, George-Cristian, rumänischer Staatsangehöriger, in Adliswil, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Molnár, Tamás, ungarische Staatsangehörige, in Zürich, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Muccione, Sandro, von Herisau, in Bülach, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Mustafoski, Kemal, von Lenzburg, in Lenzburg, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Mándoki, Anna, ungarische Staatsangehörige, in Adliswil, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Ochal, Katarzyna, polnische Staatsangehörige, in Mettmenstetten, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Pargätzi, Bruna, von Arosa, in Altendorf, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz [bisher: in Einsiedeln]; Pavlik Mohor, Tamara, von Adliswil, in Adliswil, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz [bisher: slowenische Staatsangehörige]; Puranen, Sini Laurina, finnische Staatsangehörige, in Obersiggenthal, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz [bisher: in Baden]; Reinok, Viktor, estnischer Staatsangehöriger, in Zürich, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Ruiz, Esteban, amerikanischer Staatsangehöriger, in Zürich, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Schefer, Stefanie, von Teufen (AR), in Nürensdorf, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz [bisher: in Kloten]; Schneider, Andrea D., von Würenlingen, in Obersiggenthal, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz [bisher: ohne eingetragene Funktion, mit Kollektivunterschrift zu zweien beschränkt auf den Hauptsitz]; Scola, Giuseppe, italienischer Staatsangehöriger, in Zürich, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz [bisher: in Opfikon]; Sinn, Sabine, von Widen, in Widen, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Stein, Florian, deutscher Staatsangehöriger, in Dübendorf, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Stella, Julian, von Regensdorf, in Zürich, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Teixeira Pacheco, Manuel Fernando, portugiesischer Staatsangehöriger, in Winterthur, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; Thimm, Marvin, deutscher Staatsangehöriger, in Schlieren, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz; von Ow, Leon, deutscher Staatsangehöriger, in Baden, mit Kollektivprokura zu zweien beschränkt auf den Hauptsitz [bisher: in Lauchringen (DE)].",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Bank Julius Bär & Co. AG",
+        "ehraid": 12616,
+        "uid": "CHE105940833",
+        "chid": "CH02039027271",
+        "legalSeatId": 261,
+        "legalSeat": "Zürich",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-07-07",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "de482580b64870b37e21dd5e",
+    "publication_date": "2026-03-02",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-02 | ZH | 2026-02-25 | <FT TYPE=\"N\">Beauty &amp; Trade Service Issever</FT>, in <FT TYPE=\"5\">Thalwil</FT>, <FT TYPE=\"A\">CHE-230.909.270</FT>, Schützenstrasse 3, 8800 Thalwil, Einzelunternehmen (Neueintragung). Zweck: Unternehmensgegenstand ist der Handel mit Waren aller Art, insbesondere mit Getränken, sowie die Vermittlung von Dienstleistungen, insbesondere die Vermittlung von Kunden an ausländische Schönheitskliniken. Eingetragene Personen: Issever, Cenk, türkischer Staatsangehöriger, in Oberrieden, Inhaber, mit Einzelunterschrift. | status | status.neu | Beauty & Trade Service Issever | CHE230909270 | CH02011054667 | Thalwil | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-03-02",
+    "categories": [
+      "allgemein",
+      "handel_vertrieb"
+    ],
+    "confidence": 95,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "02011054667"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-02",
+        "sogcId": 1006582796,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 9804,
+        "registryOfCommerceJournalDate": "2026-02-25",
+        "message": "<FT TYPE=\"N\">Beauty &amp; Trade Service Issever</FT>, in <FT TYPE=\"5\">Thalwil</FT>, <FT TYPE=\"A\">CHE-230.909.270</FT>, Schützenstrasse 3, 8800 Thalwil, Einzelunternehmen (Neueintragung). Zweck: Unternehmensgegenstand ist der Handel mit Waren aller Art, insbesondere mit Getränken, sowie die Vermittlung von Dienstleistungen, insbesondere die Vermittlung von Kunden an ausländische Schönheitskliniken. Eingetragene Personen: Issever, Cenk, türkischer Staatsangehöriger, in Oberrieden, Inhaber, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Beauty & Trade Service Issever",
+        "ehraid": 1737602,
+        "uid": "CHE230909270",
+        "chid": "CH02011054667",
+        "legalSeatId": 141,
+        "legalSeat": "Thalwil",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-02",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "b9b72ae0136e568f32ba03e1",
+    "publication_date": "2026-03-02",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-02 | GE | 2026-02-25 | <FT TYPE=\"F\">Ampers Sàrl</FT>, à <FT TYPE=\"S\">Meyrin</FT>, <FT TYPE=\"A\">CHE-487.419.745</FT> (FOSC du 10.10.2022, p. 0/1005579885). Nouvelle raison sociale: <FT TYPE=\"N\">Brewz Sàrl</FT>. Nouveau but: la torréfaction, la production, la transformation et la commercialisation de boissons et de produits alimentaires, en particulier de café infusé à froid (cold brew coffee). Elle peut importer, exporter et vendre des matières premières, notamment du café vert, ainsi que des équipements liés à son activité. Elle a également pour but le commerce de tous produits dérivés ainsi que la prestation de tous services, notamment de conseil, y relatifs. La société peut exercer ses activités tant pour son propre compte que pour le compte de tiers. Elle peut organiser, promouvoir et gérer des manifestations et événements de tous ordres. Elle pourra en outre faire, soit pour son compte, soit pour le compte de tiers, toutes opérations financières, commerciales, mobilières ou immobilières se rattachant directement ou indirectement à son but social et s&apos;intéresser, sous toutes formes, à toutes entreprises similaires, notamment par la prise de participation dans des entreprises similaires. La société pourra également constituer des succursales et des filiales en Suisse et à l&apos;étranger. Nouveaux statuts du 13.02.2026. | firmenaenderung | zweckaenderung | Brewz Sàrl | CHE487419745 | CH66033110226 | Meyrin | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-03-02",
+    "categories": [
+      "allgemein",
+      "kaffee_tee"
+    ],
+    "confidence": 95,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "005579885)",
+      "033110226"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-02",
+        "sogcId": 1006584064,
+        "registryOfCommerceId": 660,
+        "registryOfCommerceCanton": "GE",
+        "registryOfCommerceJournalId": 5546,
+        "registryOfCommerceJournalDate": "2026-02-25",
+        "message": "<FT TYPE=\"F\">Ampers Sàrl</FT>, à <FT TYPE=\"S\">Meyrin</FT>, <FT TYPE=\"A\">CHE-487.419.745</FT> (FOSC du 10.10.2022, p. 0/1005579885). Nouvelle raison sociale: <FT TYPE=\"N\">Brewz Sàrl</FT>. Nouveau but: la torréfaction, la production, la transformation et la commercialisation de boissons et de produits alimentaires, en particulier de café infusé à froid (cold brew coffee). Elle peut importer, exporter et vendre des matières premières, notamment du café vert, ainsi que des équipements liés à son activité. Elle a également pour but le commerce de tous produits dérivés ainsi que la prestation de tous services, notamment de conseil, y relatifs. La société peut exercer ses activités tant pour son propre compte que pour le compte de tiers. Elle peut organiser, promouvoir et gérer des manifestations et événements de tous ordres. Elle pourra en outre faire, soit pour son compte, soit pour le compte de tiers, toutes opérations financières, commerciales, mobilières ou immobilières se rattachant directement ou indirectement à son but social et s&apos;intéresser, sous toutes formes, à toutes entreprises similaires, notamment par la prise de participation dans des entreprises similaires. La société pourra également constituer des succursales et des filiales en Suisse et à l&apos;étranger. Nouveaux statuts du 13.02.2026.",
+        "mutationTypes": [
+          {
+            "id": 9,
+            "key": "firmenaenderung"
+          },
+          {
+            "id": 11,
+            "key": "zweckaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Brewz Sàrl",
+        "ehraid": 1555938,
+        "uid": "CHE487419745",
+        "chid": "CH66033110226",
+        "legalSeatId": 6630,
+        "legalSeat": "Meyrin",
+        "registryOfCommerceId": 660,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-02",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "80e17a7de55dc36f73d965ce",
+    "publication_date": "2026-03-02",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-02 | FR | 2026-02-25 | <FT TYPE=\"F\">Café-Restaurant Abyssinia Sàrl</FT>, à <FT TYPE=\"S\">Fribourg</FT>, <FT TYPE=\"A\">CHE-455.483.408</FT> (FOSC du 10.07.2025, p. 0/1006380784). Personne radiée: Zeray Freweyni, associée, 10 parts de CHF 1&apos;000, gérante, signature individuelle. Nouvelle personne inscrite: Kidane Selam Tesfagergis, d&apos;Erythrée, à Fribourg, associée, 10 parts de CHF 1&apos;000, gérante, signature individuelle. | aenderungorgane | Café-Restaurant Abyssinia Sàrl | CHE455483408 | CH21735934887 | Fribourg | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-03-02",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006380784)"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-02",
+        "sogcId": 1006583388,
+        "registryOfCommerceId": 217,
+        "registryOfCommerceCanton": "FR",
+        "registryOfCommerceJournalId": 1649,
+        "registryOfCommerceJournalDate": "2026-02-25",
+        "message": "<FT TYPE=\"F\">Café-Restaurant Abyssinia Sàrl</FT>, à <FT TYPE=\"S\">Fribourg</FT>, <FT TYPE=\"A\">CHE-455.483.408</FT> (FOSC du 10.07.2025, p. 0/1006380784). Personne radiée: Zeray Freweyni, associée, 10 parts de CHF 1&apos;000, gérante, signature individuelle. Nouvelle personne inscrite: Kidane Selam Tesfagergis, d&apos;Erythrée, à Fribourg, associée, 10 parts de CHF 1&apos;000, gérante, signature individuelle.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Café-Restaurant Abyssinia Sàrl",
+        "ehraid": 1702019,
+        "uid": "CHE455483408",
+        "chid": "CH21735934887",
+        "legalSeatId": 2196,
+        "legalSeat": "Fribourg",
+        "registryOfCommerceId": 217,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-02",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "9d898179370188ca0bb9950d",
+    "publication_date": "2026-03-02",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-02 | ZH | 2026-02-25 | <FT TYPE=\"F\">Canvas-Café GmbH</FT>, in <FT TYPE=\"S\">Zürich</FT>, <FT TYPE=\"A\">CHE-278.570.603</FT>, Gesellschaft mit beschränkter Haftung (SHAB Nr. 42 vom 01.03.2022, Publ. 1005416526). Firma neu: <FT TYPE=\"N\">Canvas-Café GmbH in Liquidation</FT>. Uebersetzungen der Firma neu: <FT TYPE=\"V\">(Canvas-Café LLC in liquidation) (Canvas-Café S.à.r.l. en liquidation) (Canvas-Café S.a.g.l. in liquidazione)</FT>. Weitere Adressen: Liquidationsadresse c/o SoHa Treuhand AG, Birmensdorferstrasse 94, 8003 Zürich. Die Gesellschaft ist mit Beschluss der Gesellschafterversammlung vom 12.02.2026 aufgelöst. Eingetragene Personen neu oder mutierend: Welti, Morris Philipp, von Adliswil, in Zürich, Gesellschafter und Geschäftsführer, Liquidator, mit Einzelunterschrift, mit 100 Stammanteilen zu je CHF 100.00 [bisher: Gesellschafter und Geschäftsführer, mit Einzelunterschrift]. | status | status.aufl | status.aufl.liq | aenderungorgane | Canvas-Café GmbH in Liquidation | CHE278570603 | CH02040738255 | Zürich | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | BEING_CANCELLED | 2026-03-02",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "005416526)",
+      "02040738255"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-02",
+        "sogcId": 1006582863,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 9872,
+        "registryOfCommerceJournalDate": "2026-02-25",
+        "message": "<FT TYPE=\"F\">Canvas-Café GmbH</FT>, in <FT TYPE=\"S\">Zürich</FT>, <FT TYPE=\"A\">CHE-278.570.603</FT>, Gesellschaft mit beschränkter Haftung (SHAB Nr. 42 vom 01.03.2022, Publ. 1005416526). Firma neu: <FT TYPE=\"N\">Canvas-Café GmbH in Liquidation</FT>. Uebersetzungen der Firma neu: <FT TYPE=\"V\">(Canvas-Café LLC in liquidation) (Canvas-Café S.à.r.l. en liquidation) (Canvas-Café S.a.g.l. in liquidazione)</FT>. Weitere Adressen: Liquidationsadresse c/o SoHa Treuhand AG, Birmensdorferstrasse 94, 8003 Zürich. Die Gesellschaft ist mit Beschluss der Gesellschafterversammlung vom 12.02.2026 aufgelöst. Eingetragene Personen neu oder mutierend: Welti, Morris Philipp, von Adliswil, in Zürich, Gesellschafter und Geschäftsführer, Liquidator, mit Einzelunterschrift, mit 100 Stammanteilen zu je CHF 100.00 [bisher: Gesellschafter und Geschäftsführer, mit Einzelunterschrift].",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 3,
+            "key": "status.aufl"
+          },
+          {
+            "id": 4,
+            "key": "status.aufl.liq"
+          },
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Canvas-Café GmbH in Liquidation",
+        "ehraid": 1483536,
+        "uid": "CHE278570603",
+        "chid": "CH02040738255",
+        "legalSeatId": 261,
+        "legalSeat": "Zürich",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "BEING_CANCELLED",
+        "sogcDate": "2026-03-02",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "c8de39447717d21d3cd13dca",
+    "publication_date": "2026-03-02",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-02 | OW | 2026-02-25 | <FT TYPE=\"N\">Casa Calligaris GmbH</FT>, in <FT TYPE=\"5\">Sachseln</FT>, <FT TYPE=\"A\">CHE-473.873.842</FT>, Breitli 1, 6072 Sachseln, Gesellschaft mit beschränkter Haftung (Neueintragung). Statutendatum: 24.02.2026. Zweck: Die Gesellschaft bezweckt das Merchandising von persönlichen Markenprodukten, das Marketing und die Promotion von Persönlichkeiten sowie die Erbringung der damit zusammenhängenden Dienstleistungen, die Herstellung, den Vertrieb und den Verkauf von Lebensmitteln und Getränken, insbesondere Kaffee, Wein, und ähnlichen Produkten, den Betrieb von Cafés, Hotels oder ähnlichen Gastronomie- und Beherbergungsbetrieben sowie die Produktion und den Verkauf von Textilien, Bekleidung und Accessoires sowie von Produkten aller Art. Die Gesellschaft kann alle mit dem Hauptzweck direkt oder indirekt zusammenhängenden Geschäfte tätigen, welche geeignet sind, die Entwicklung des Unternehmens und die Erreichung des Gesellschaftszwecks zu fördern oder zu erleichtern. Sie kann im In- und Ausland Zweigniederlassungen, Tochtergesellschaften und Vertretungen errichten. Zudem kann sie andere Unternehmen erwerben oder sich an anderen Unternehmen beteiligen sowie Grundstücke und Immobilien erwerben, nutzen, veräussern, finanzieren, erstellen, verwalten und belasten. Sie kann Finanzierungen für eigene oder fremde Rechnung vornehmen sowie Garantien und Bürgschaften für Tochtergesellschaften und Dritte eingehen. Sie kann Patent- und Lizenzgeschäfte tätigen. Stammkapital: CHF 20&apos;000.00. Publikationsorgan: SHAB. Die Mitteilungen der Geschäftsführung an die Gesellschafter erfolgen brieflich oder per E-Mail. Gemäss Erklärung bei der Gründung der Gesellschaft wird auf eine eingeschränkte Revision verzichtet. Eingetragene Personen: Calligaris, Viola Monica, von Lungern und italienische Staatsangehörige, in Sachseln, Gesellschafterin und Vorsitzende der Geschäftsführung, mit Einzelunterschrift, mit 20 Stammanteilen zu je CHF 1&apos;000.00; Calligaris",
+    "categories": [
+      "allgemein",
+      "wein",
+      "kaffee_tee"
+    ],
+    "confidence": 95,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "044412965"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-02",
+        "sogcId": 1006583241,
+        "registryOfCommerceId": 140,
+        "registryOfCommerceCanton": "OW",
+        "registryOfCommerceJournalId": 225,
+        "registryOfCommerceJournalDate": "2026-02-25",
+        "message": "<FT TYPE=\"N\">Casa Calligaris GmbH</FT>, in <FT TYPE=\"5\">Sachseln</FT>, <FT TYPE=\"A\">CHE-473.873.842</FT>, Breitli 1, 6072 Sachseln, Gesellschaft mit beschränkter Haftung (Neueintragung). Statutendatum: 24.02.2026. Zweck: Die Gesellschaft bezweckt das Merchandising von persönlichen Markenprodukten, das Marketing und die Promotion von Persönlichkeiten sowie die Erbringung der damit zusammenhängenden Dienstleistungen, die Herstellung, den Vertrieb und den Verkauf von Lebensmitteln und Getränken, insbesondere Kaffee, Wein, und ähnlichen Produkten, den Betrieb von Cafés, Hotels oder ähnlichen Gastronomie- und Beherbergungsbetrieben sowie die Produktion und den Verkauf von Textilien, Bekleidung und Accessoires sowie von Produkten aller Art. Die Gesellschaft kann alle mit dem Hauptzweck direkt oder indirekt zusammenhängenden Geschäfte tätigen, welche geeignet sind, die Entwicklung des Unternehmens und die Erreichung des Gesellschaftszwecks zu fördern oder zu erleichtern. Sie kann im In- und Ausland Zweigniederlassungen, Tochtergesellschaften und Vertretungen errichten. Zudem kann sie andere Unternehmen erwerben oder sich an anderen Unternehmen beteiligen sowie Grundstücke und Immobilien erwerben, nutzen, veräussern, finanzieren, erstellen, verwalten und belasten. Sie kann Finanzierungen für eigene oder fremde Rechnung vornehmen sowie Garantien und Bürgschaften für Tochtergesellschaften und Dritte eingehen. Sie kann Patent- und Lizenzgeschäfte tätigen. Stammkapital: CHF 20&apos;000.00. Publikationsorgan: SHAB. Die Mitteilungen der Geschäftsführung an die Gesellschafter erfolgen brieflich oder per E-Mail. Gemäss Erklärung bei der Gründung der Gesellschaft wird auf eine eingeschränkte Revision verzichtet. Eingetragene Personen: Calligaris, Viola Monica, von Lungern und italienische Staatsangehörige, in Sachseln, Gesellschafterin und Vorsitzende der Geschäftsführung, mit Einzelunterschrift, mit 20 Stammanteilen zu je CHF 1&apos;000.00; Calligaris, André Jean, von Lungern und italienischer Staatsangehöriger, in Sachseln, Geschäftsführer, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Casa Calligaris GmbH",
+        "ehraid": 1737533,
+        "uid": "CHE473873842",
+        "chid": "CH14044412965",
+        "legalSeatId": 1406,
+        "legalSeat": "Sachseln",
+        "registryOfCommerceId": 140,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-02",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "6270c281a2ba671edc4cbfd7",
+    "publication_date": "2026-03-02",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-02 | SH | 2026-02-25 | <FT TYPE=\"N\">CHALIS GROUP GMBH</FT> <FT TYPE=\"V\">(CHALIS GROUP SARL) (CHALIS GROUP SAGL) (CHALIS GROUP LTD LIAB CO)</FT>, in <FT TYPE=\"5\">Schaffhausen</FT>, <FT TYPE=\"A\">CHE-253.880.016</FT>, c/o Achilleas Chalis, Otterngutstrasse 36, 8200 Schaffhausen, Gesellschaft mit beschränkter Haftung (Neueintragung). Statutendatum: 19.02.2026. Zweck: Erbringung von Dienstleistungen im Gastronomie- und Hotelgewerbe sowie Herstellung von als auch Handel mit Lebensmitteln und Getränken. Die Gesellschaft kann Zweigniederlassungen in der Schweiz und im Ausland errichten, sich an anderen Unternehmungen des In- und des Auslandes beteiligen, gleichartige oder verwandte Unternehmen erwerben oder sich mit solchen zusammenschliessen sowie alle Geschäfte eingehen und Verträge abschliessen, die geeignet sind, den Zweck der Gesellschaft zu fördern oder die direkt oder indirekt damit im Zusammenhang stehen. Sie kann Grundstücke, Immaterialgüterrechte und Lizenzen aller Art erwerben, verwalten, belasten und veräussern. Stammkapital: CHF 20&apos;000.00. Nebenleistungspflichten, Vorhand-, Vorkaufs- oder Kaufsrechte: gemäss näherer Umschreibung in den Statuten. Publikationsorgan: SHAB. Die Mitteilungen der Geschäftsführung an die Gesellschafter erfolgen schriftlich oder E-Mail. Gemäss Erklärung anlässlich der Gründung der Rechtseinheit wird auf eine eingeschränkte Revision verzichtet. Eingetragene Personen: Chalis, Achilleas, griechischer Staatsangehöriger, in Schaffhausen, Gesellschafter und Geschäftsführer, mit Einzelunterschrift, mit 200 Stammanteilen zu je CHF 100.00. | status | status.neu | CHALIS GROUP GMBH | CHE253880016 | CH29040228397 | Schaffhausen | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-03-02",
+    "categories": [
+      "allgemein",
+      "handel_vertrieb"
+    ],
+    "confidence": 95,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "040228397"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-02",
+        "sogcId": 1006583460,
+        "registryOfCommerceId": 290,
+        "registryOfCommerceCanton": "SH",
+        "registryOfCommerceJournalId": 459,
+        "registryOfCommerceJournalDate": "2026-02-25",
+        "message": "<FT TYPE=\"N\">CHALIS GROUP GMBH</FT> <FT TYPE=\"V\">(CHALIS GROUP SARL) (CHALIS GROUP SAGL) (CHALIS GROUP LTD LIAB CO)</FT>, in <FT TYPE=\"5\">Schaffhausen</FT>, <FT TYPE=\"A\">CHE-253.880.016</FT>, c/o Achilleas Chalis, Otterngutstrasse 36, 8200 Schaffhausen, Gesellschaft mit beschränkter Haftung (Neueintragung). Statutendatum: 19.02.2026. Zweck: Erbringung von Dienstleistungen im Gastronomie- und Hotelgewerbe sowie Herstellung von als auch Handel mit Lebensmitteln und Getränken. Die Gesellschaft kann Zweigniederlassungen in der Schweiz und im Ausland errichten, sich an anderen Unternehmungen des In- und des Auslandes beteiligen, gleichartige oder verwandte Unternehmen erwerben oder sich mit solchen zusammenschliessen sowie alle Geschäfte eingehen und Verträge abschliessen, die geeignet sind, den Zweck der Gesellschaft zu fördern oder die direkt oder indirekt damit im Zusammenhang stehen. Sie kann Grundstücke, Immaterialgüterrechte und Lizenzen aller Art erwerben, verwalten, belasten und veräussern. Stammkapital: CHF 20&apos;000.00. Nebenleistungspflichten, Vorhand-, Vorkaufs- oder Kaufsrechte: gemäss näherer Umschreibung in den Statuten. Publikationsorgan: SHAB. Die Mitteilungen der Geschäftsführung an die Gesellschafter erfolgen schriftlich oder E-Mail. Gemäss Erklärung anlässlich der Gründung der Rechtseinheit wird auf eine eingeschränkte Revision verzichtet. Eingetragene Personen: Chalis, Achilleas, griechischer Staatsangehöriger, in Schaffhausen, Gesellschafter und Geschäftsführer, mit Einzelunterschrift, mit 200 Stammanteilen zu je CHF 100.00.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "CHALIS GROUP GMBH",
+        "ehraid": 1737536,
+        "uid": "CHE253880016",
+        "chid": "CH29040228397",
+        "legalSeatId": 2939,
+        "legalSeat": "Schaffhausen",
+        "registryOfCommerceId": 290,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-02",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "881f1e42b3e2a665251fec0f",
+    "publication_date": "2026-03-02",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-02 | ZH | 2026-02-25 | <FT TYPE=\"F\">Christen Interior</FT>, in <FT TYPE=\"S\">Oberengstringen</FT>, <FT TYPE=\"A\">CHE-421.054.860</FT>, Einzelunternehmen (SHAB Nr. 70 vom 10.04.2025, Publ. 1006304954). Sitz neu: <FT TYPE=\"5\">Weiningen (ZH)</FT>. Domizil neu: c/o Nicole Christen, Zürcherstrasse 28a, 8104 Weiningen ZH. Eingetragene Personen neu oder mutierend: Christen, Nicole, von Wolfenschiessen, in Weiningen (ZH), Inhaberin, mit Einzelunterschrift [bisher: in Oberengstringen]. | adressaenderung | aenderungorgane | Christen Interior | CHE421054860 | CH02010944833 | Weiningen (ZH) | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-03-02",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006304954)",
+      "02010944833"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-02",
+        "sogcId": 1006582866,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 9875,
+        "registryOfCommerceJournalDate": "2026-02-25",
+        "message": "<FT TYPE=\"F\">Christen Interior</FT>, in <FT TYPE=\"S\">Oberengstringen</FT>, <FT TYPE=\"A\">CHE-421.054.860</FT>, Einzelunternehmen (SHAB Nr. 70 vom 10.04.2025, Publ. 1006304954). Sitz neu: <FT TYPE=\"5\">Weiningen (ZH)</FT>. Domizil neu: c/o Nicole Christen, Zürcherstrasse 28a, 8104 Weiningen ZH. Eingetragene Personen neu oder mutierend: Christen, Nicole, von Wolfenschiessen, in Weiningen (ZH), Inhaberin, mit Einzelunterschrift [bisher: in Oberengstringen].",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          },
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Christen Interior",
+        "ehraid": 1591580,
+        "uid": "CHE421054860",
+        "chid": "CH02010944833",
+        "legalSeatId": 251,
+        "legalSeat": "Weiningen (ZH)",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-02",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "d995d109310855e5f103b5f7",
+    "publication_date": "2026-03-02",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-02 | VD | 2026-02-25 | <FT TYPE=\"N\">Dendi Sàrl</FT> <FT TYPE=\"V\">(Dendi GmbH) (Dendi Sagl) (Dendi Ltd liab Co)</FT>, à <FT TYPE=\"5\">Renens (VD)</FT>, Place de la Gare 3, 1020 Renens VD, <FT TYPE=\"A\">CHE-145.085.134</FT>. Nouvelle société à responsabilité limitée. Statuts: 19.02.2026. But: la société a pour but: la fourniture de services dans les domaines de la gastronomie et de l&apos;hôtellerie; l&apos;exploitation de restaurants, d&apos;hôtels, de boulangeries, de confiseries ou de tous autres établissements publics semblables; la fabrication et le commerce de produits alimentaires et de boissons, ainsi que toutes activités connexes. Elle pourra en outre faire, soit pour son compte, soit pour le compte de tiers, toutes opérations financières, commerciales, mobilières ou immobilières se rattachant directement ou indirectement à son but social et s&apos;intéresser, sous toutes formes, à toutes entreprises similaires, notamment par la prise de participation dans des entreprises similaires. La société pourra également constituer des succursales et des filiales en Suisse et à l&apos;étranger. Obligation de fournir des prestations accessoires, droits de préférence, de préemption ou d&apos;emption: pour les détails, voir les statuts. Capital social: CHF 20&apos;000. Associé-gérant avec signature individuelle: Polat Safak, de Nyon, à Morges, avec 200 parts de CHF 100. Organe de publication: Feuille officielle suisse du commerce. Communications aux associés: par courrier ou par courriel. Selon déclaration à la constitution de la société, il est renoncé à un contrôle restreint. | status | status.neu | Dendi Sàrl | CHE145085134 | CH55012558330 | Renens (VD) | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-03-02",
+    "categories": [
+      "allgemein",
+      "handel_vertrieb"
+    ],
+    "confidence": 95,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "012558330"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-02",
+        "sogcId": 1006583874,
+        "registryOfCommerceId": 550,
+        "registryOfCommerceCanton": "VD",
+        "registryOfCommerceJournalId": 4476,
+        "registryOfCommerceJournalDate": "2026-02-25",
+        "message": "<FT TYPE=\"N\">Dendi Sàrl</FT> <FT TYPE=\"V\">(Dendi GmbH) (Dendi Sagl) (Dendi Ltd liab Co)</FT>, à <FT TYPE=\"5\">Renens (VD)</FT>, Place de la Gare 3, 1020 Renens VD, <FT TYPE=\"A\">CHE-145.085.134</FT>. Nouvelle société à responsabilité limitée. Statuts: 19.02.2026. But: la société a pour but: la fourniture de services dans les domaines de la gastronomie et de l&apos;hôtellerie; l&apos;exploitation de restaurants, d&apos;hôtels, de boulangeries, de confiseries ou de tous autres établissements publics semblables; la fabrication et le commerce de produits alimentaires et de boissons, ainsi que toutes activités connexes. Elle pourra en outre faire, soit pour son compte, soit pour le compte de tiers, toutes opérations financières, commerciales, mobilières ou immobilières se rattachant directement ou indirectement à son but social et s&apos;intéresser, sous toutes formes, à toutes entreprises similaires, notamment par la prise de participation dans des entreprises similaires. La société pourra également constituer des succursales et des filiales en Suisse et à l&apos;étranger. Obligation de fournir des prestations accessoires, droits de préférence, de préemption ou d&apos;emption: pour les détails, voir les statuts. Capital social: CHF 20&apos;000. Associé-gérant avec signature individuelle: Polat Safak, de Nyon, à Morges, avec 200 parts de CHF 100. Organe de publication: Feuille officielle suisse du commerce. Communications aux associés: par courrier ou par courriel. Selon déclaration à la constitution de la société, il est renoncé à un contrôle restreint.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Dendi Sàrl",
+        "ehraid": 1737577,
+        "uid": "CHE145085134",
+        "chid": "CH55012558330",
+        "legalSeatId": 5591,
+        "legalSeat": "Renens (VD)",
+        "registryOfCommerceId": 550,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-02",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "77671d24c3b3934066c54fdf",
+    "publication_date": "2026-03-02",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-02 | VD | 2026-02-25 | <FT TYPE=\"F\">DRINKOTEC Sàrl</FT>, à <FT TYPE=\"S\">Duillier</FT>, <FT TYPE=\"A\">CHE-109.671.098</FT> (FOSC du 11.02.2026, p. 0/1006567015). Par décision du Tribunal de l&apos;arrondissement de La Côte du 23.02.2026, la société a été déclarée en faillite avec effet à partir du 23.02.2026, à 09h15. La raison de commerce devient: <FT TYPE=\"N\">DRINKOTEC Sàrl en liquidation</FT>. | status | status.aufl | status.aufl.konk | DRINKOTEC Sàrl en liquidation | CHE109671098 | CH55010309880 | Duillier | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | BEING_CANCELLED | 2026-03-02",
+    "categories": [
+      "allgemein"
+    ],
+    "confidence": 60,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006567015)",
+      "010309880"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-02",
+        "sogcId": 1006583828,
+        "registryOfCommerceId": 550,
+        "registryOfCommerceCanton": "VD",
+        "registryOfCommerceJournalId": 4515,
+        "registryOfCommerceJournalDate": "2026-02-25",
+        "message": "<FT TYPE=\"F\">DRINKOTEC Sàrl</FT>, à <FT TYPE=\"S\">Duillier</FT>, <FT TYPE=\"A\">CHE-109.671.098</FT> (FOSC du 11.02.2026, p. 0/1006567015). Par décision du Tribunal de l&apos;arrondissement de La Côte du 23.02.2026, la société a été déclarée en faillite avec effet à partir du 23.02.2026, à 09h15. La raison de commerce devient: <FT TYPE=\"N\">DRINKOTEC Sàrl en liquidation</FT>.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 3,
+            "key": "status.aufl"
+          },
+          {
+            "id": 5,
+            "key": "status.aufl.konk"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "DRINKOTEC Sàrl en liquidation",
+        "ehraid": 684417,
+        "uid": "CHE109671098",
+        "chid": "CH55010309880",
+        "legalSeatId": 5715,
+        "legalSeat": "Duillier",
+        "registryOfCommerceId": 550,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "BEING_CANCELLED",
+        "sogcDate": "2026-03-02",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "3009668fe0c5b49f877eb34f",
+    "publication_date": "2026-03-02",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-02 | ZH | 2026-02-25 | <FT TYPE=\"F\">Energie-Agentur der Wirtschaft (EnAW)</FT>, in <FT TYPE=\"S\">Zürich</FT>, <FT TYPE=\"A\">CHE-109.341.465</FT>, Verein (SHAB Nr. 11 vom 17.01.2025, Publ. 1006230724). Ausgeschiedene Personen und erloschene Unterschriften: Krummenacher, Stefan, von Entlebuch, in Udligenswil, mit Kollektivunterschrift zu zweien. Eingetragene Personen neu oder mutierend: Ducret, Louis, von La Chaux-de-Fonds, in Zürich, Mitglied des Vorstandes, ohne Zeichnungsberechtigung; Miller, Stefan, von Weiningen (ZH), in Küssnacht (SZ), mit Kollektivunterschrift zu zweien. | aenderungorgane | Energie-Agentur der Wirtschaft (EnAW) | CHE109341465 | CH02060006463 | Zürich | 0109 | Verein | Association | Associazione | Association | Verein | Asso | Asso | Asso | ACTIVE | 2026-07-31",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006230724)",
+      "02060006463"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-02",
+        "sogcId": 1006582881,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 9890,
+        "registryOfCommerceJournalDate": "2026-02-25",
+        "message": "<FT TYPE=\"F\">Energie-Agentur der Wirtschaft (EnAW)</FT>, in <FT TYPE=\"S\">Zürich</FT>, <FT TYPE=\"A\">CHE-109.341.465</FT>, Verein (SHAB Nr. 11 vom 17.01.2025, Publ. 1006230724). Ausgeschiedene Personen und erloschene Unterschriften: Krummenacher, Stefan, von Entlebuch, in Udligenswil, mit Kollektivunterschrift zu zweien. Eingetragene Personen neu oder mutierend: Ducret, Louis, von La Chaux-de-Fonds, in Zürich, Mitglied des Vorstandes, ohne Zeichnungsberechtigung; Miller, Stefan, von Weiningen (ZH), in Küssnacht (SZ), mit Kollektivunterschrift zu zweien.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Energie-Agentur der Wirtschaft (EnAW)",
+        "ehraid": 654739,
+        "uid": "CHE109341465",
+        "chid": "CH02060006463",
+        "legalSeatId": 261,
+        "legalSeat": "Zürich",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 6,
+          "uid": "0109",
+          "name": {
+            "de": "Verein",
+            "fr": "Association",
+            "it": "Associazione",
+            "en": "Association"
+          },
+          "shortName": {
+            "de": "Verein",
+            "fr": "Asso",
+            "it": "Asso",
+            "en": "Asso"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-07-31",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "d1ab349587bb4354414d39e4",
+    "publication_date": "2026-03-02",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-02 | GE | 2026-02-25 | <FT TYPE=\"F\">Fondation Auxiliaire de l&apos;Institut de Droit International</FT>, à <FT TYPE=\"S\">Genève</FT>, <FT TYPE=\"A\">CHE-110.378.179</FT> (FOSC du 20.09.2024, p. 0/1006134927). Bennouna Mohamed et Thürer Georg Daniel ne sont plus membres du conseil; leurs pouvoirs sont radiés. Le membre du conseil Pocar Fausto, jusqu&apos;ici président, continue à signer individuellement. Boisson de Chazournes Laurence, de et à Genève, présidente et trésorière et Besson Samantha, de Genève, à Lausanne sont membres du conseil, avec signature collective à deux. | aenderungorgane | Fondation Auxiliaire de l'Institut de Droit International | CHE110378179 | CH03570160812 | Genève | 0110 | Stiftung | Fondation | Fondazione | Foundation | Stift | Fond | Fond | Found | ACTIVE | 2026-03-02",
+    "categories": [
+      "allgemein"
+    ],
+    "confidence": 60,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006134927)",
+      "03570160812"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-02",
+        "sogcId": 1006584110,
+        "registryOfCommerceId": 660,
+        "registryOfCommerceCanton": "GE",
+        "registryOfCommerceJournalId": 5589,
+        "registryOfCommerceJournalDate": "2026-02-25",
+        "message": "<FT TYPE=\"F\">Fondation Auxiliaire de l&apos;Institut de Droit International</FT>, à <FT TYPE=\"S\">Genève</FT>, <FT TYPE=\"A\">CHE-110.378.179</FT> (FOSC du 20.09.2024, p. 0/1006134927). Bennouna Mohamed et Thürer Georg Daniel ne sont plus membres du conseil; leurs pouvoirs sont radiés. Le membre du conseil Pocar Fausto, jusqu&apos;ici président, continue à signer individuellement. Boisson de Chazournes Laurence, de et à Genève, présidente et trésorière et Besson Samantha, de Genève, à Lausanne sont membres du conseil, avec signature collective à deux.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Fondation Auxiliaire de l'Institut de Droit International",
+        "ehraid": 277233,
+        "uid": "CHE110378179",
+        "chid": "CH03570160812",
+        "legalSeatId": 6621,
+        "legalSeat": "Genève",
+        "registryOfCommerceId": 660,
+        "legalForm": {
+          "id": 7,
+          "uid": "0110",
+          "name": {
+            "de": "Stiftung",
+            "fr": "Fondation",
+            "it": "Fondazione",
+            "en": "Foundation"
+          },
+          "shortName": {
+            "de": "Stift",
+            "fr": "Fond",
+            "it": "Fond",
+            "en": "Found"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-02",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "cf1588cdc03f2012b1a68b85",
+    "publication_date": "2026-03-02",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-02 | ZH | 2026-02-25 | <FT TYPE=\"N\">Hirschi Weinbau</FT>, in <FT TYPE=\"5\">Männedorf</FT>, <FT TYPE=\"A\">CHE-204.913.188</FT>, Gerbeweg 45, 8708 Männedorf, Einzelunternehmen (Neueintragung). Zweck: Weinbaubetrieb mit Weinproduktion und Weinverkauf. Eingetragene Personen: Hirschi, Olivier, von Eggiwil, in Männedorf, Inhaberin, mit Einzelunterschrift; Zanetti, Vania, von Biasca, in Männedorf, mit Einzelprokura. | status | status.neu | Hirschi Weinbau | CHE204913188 | CH02011054466 | Männedorf | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-03-02",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "02011054466"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-02",
+        "sogcId": 1006582809,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 9817,
+        "registryOfCommerceJournalDate": "2026-02-25",
+        "message": "<FT TYPE=\"N\">Hirschi Weinbau</FT>, in <FT TYPE=\"5\">Männedorf</FT>, <FT TYPE=\"A\">CHE-204.913.188</FT>, Gerbeweg 45, 8708 Männedorf, Einzelunternehmen (Neueintragung). Zweck: Weinbaubetrieb mit Weinproduktion und Weinverkauf. Eingetragene Personen: Hirschi, Olivier, von Eggiwil, in Männedorf, Inhaberin, mit Einzelunterschrift; Zanetti, Vania, von Biasca, in Männedorf, mit Einzelprokura.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Hirschi Weinbau",
+        "ehraid": 1737615,
+        "uid": "CHE204913188",
+        "chid": "CH02011054466",
+        "legalSeatId": 155,
+        "legalSeat": "Männedorf",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-02",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "4d79cbb85079d6747236cda3",
+    "publication_date": "2026-03-02",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-02 | ZH | 2026-02-25 | <FT TYPE=\"N\">Nazar Gastro GmbH</FT>, in <FT TYPE=\"5\">Zürich</FT>, <FT TYPE=\"A\">CHE-228.917.981</FT>, Feldstrasse 133, 8004 Zürich, Gesellschaft mit beschränkter Haftung (Neueintragung). Statutendatum: 03.02.2026. Zweck: Zweck der Gesellschaft ist der Betrieb von Gastrounternehmen aller Art sowie der Import, Export, Handel und Vertrieb von Lebensmitteln, Getränken, Gastronomiebedarf und verwandten Produkten. Die Gesellschaft kann Zweigniederlassungen errichten, sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle Geschäfte tätigen, die direkt oder indirekt mit dem Gesellschaftszweck in Zusammenhang stehen. Stammkapital: CHF 20&apos;000.00. Publikationsorgan: SHAB. Mitteilungen der Geschäftsführung an die Gesellschafter erfolgen per Brief oder E-Mail an die im Anteilbuch verzeichneten Adressen. Gemäss Erklärung bei der Gründung der Gesellschaft wird auf eine eingeschränkte Revision verzichtet. Eingetragene Personen: Altunpolat, Sezer, türkische Staatsangehörige, in Regensdorf, Gesellschafterin und Geschäftsführerin, mit Einzelunterschrift, mit 100 Stammanteilen zu je CHF 200.00. | status | status.neu | Nazar Gastro GmbH | CHE228917981 | CH02040910551 | Zürich | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-03-02",
+    "categories": [
+      "allgemein",
+      "handel_vertrieb"
+    ],
+    "confidence": 95,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "02040910551"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-02",
+        "sogcId": 1006582819,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 9827,
+        "registryOfCommerceJournalDate": "2026-02-25",
+        "message": "<FT TYPE=\"N\">Nazar Gastro GmbH</FT>, in <FT TYPE=\"5\">Zürich</FT>, <FT TYPE=\"A\">CHE-228.917.981</FT>, Feldstrasse 133, 8004 Zürich, Gesellschaft mit beschränkter Haftung (Neueintragung). Statutendatum: 03.02.2026. Zweck: Zweck der Gesellschaft ist der Betrieb von Gastrounternehmen aller Art sowie der Import, Export, Handel und Vertrieb von Lebensmitteln, Getränken, Gastronomiebedarf und verwandten Produkten. Die Gesellschaft kann Zweigniederlassungen errichten, sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle Geschäfte tätigen, die direkt oder indirekt mit dem Gesellschaftszweck in Zusammenhang stehen. Stammkapital: CHF 20&apos;000.00. Publikationsorgan: SHAB. Mitteilungen der Geschäftsführung an die Gesellschafter erfolgen per Brief oder E-Mail an die im Anteilbuch verzeichneten Adressen. Gemäss Erklärung bei der Gründung der Gesellschaft wird auf eine eingeschränkte Revision verzichtet. Eingetragene Personen: Altunpolat, Sezer, türkische Staatsangehörige, in Regensdorf, Gesellschafterin und Geschäftsführerin, mit Einzelunterschrift, mit 100 Stammanteilen zu je CHF 200.00.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Nazar Gastro GmbH",
+        "ehraid": 1737625,
+        "uid": "CHE228917981",
+        "chid": "CH02040910551",
+        "legalSeatId": 261,
+        "legalSeat": "Zürich",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-02",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "ef648826952acfd2d2331eac",
+    "publication_date": "2026-03-02",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-02 | AG | 2026-02-25 | <FT TYPE=\"N\">NERIM GmbH</FT> <FT TYPE=\"V\">(NERIM Sàrl) (NERIM Sagl) (NERIM Ltd liab Co)</FT>, in <FT TYPE=\"5\">Möhlin</FT>, <FT TYPE=\"A\">CHE-217.894.264</FT>, Hauptstrasse 108, 4313 Möhlin, Gesellschaft mit beschränkter Haftung (Neueintragung). Statutendatum: 23.02.2026. Zweck: Die Gesellschaft bezweckt die Erbringung von Dienstleistungen im Gastronomiegewerbe sowie Herstellung von Lebensmitteln und Getränken als auch Handel mit Waren aller Art. Die Gesellschaft kann Zweigniederlassungen in der Schweiz und im Ausland errichten, sich an anderen Unternehmungen des In- und des Auslandes beteiligen, gleichartige oder verwandte Unternehmen erwerben oder sich mit solchen zusammenschliessen sowie alle Geschäfte eingehen und Verträge abschliessen, die geeignet sind, den Zweck der Gesellschaft zu fördern oder die direkt oder indirekt damit im Zusammenhang stehen. Sie kann Grundstücke, Immaterialgüterrechte und Lizenzen aller Art erwerben, verwalten, belasten und veräussern. Stammkapital: CHF 20&apos;000.00. Nebenleistungspflichten, Vorhand-, Vorkaufs- oder Kaufrechte gemäss näherer Umschreibung in den Statuten. Publikationsorgan: SHAB. Die Mitteilungen der Geschäftsführung an die Gesellschafter erfolgen schriftlich oder per E-Mail. Vinkulierung: Vom Gesetz abweichende Modalitäten für die Abtretung von Stammanteilen gemäss näherer Umschreibung in den Statuten. Gemäss Erklärung bei der Gründung der Gesellschaft wird auf eine eingeschränkte Revision verzichtet. Eingetragene Personen: Demir, Beritan-Öykü, deutscher Staatsangehöriger, in Möhlin, Gesellschafter und Geschäftsführer, mit Einzelunterschrift, mit 200 Stammanteilen zu je CHF 100.00. | status | status.neu | NERIM GmbH | CHE217894264 | CH40044583578 | Möhlin | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-03-02",
+    "categories": [
+      "allgemein"
+    ],
+    "confidence": 60,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "0044583578"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-02",
+        "sogcId": 1006583620,
+        "registryOfCommerceId": 400,
+        "registryOfCommerceCanton": "AG",
+        "registryOfCommerceJournalId": 3211,
+        "registryOfCommerceJournalDate": "2026-02-25",
+        "message": "<FT TYPE=\"N\">NERIM GmbH</FT> <FT TYPE=\"V\">(NERIM Sàrl) (NERIM Sagl) (NERIM Ltd liab Co)</FT>, in <FT TYPE=\"5\">Möhlin</FT>, <FT TYPE=\"A\">CHE-217.894.264</FT>, Hauptstrasse 108, 4313 Möhlin, Gesellschaft mit beschränkter Haftung (Neueintragung). Statutendatum: 23.02.2026. Zweck: Die Gesellschaft bezweckt die Erbringung von Dienstleistungen im Gastronomiegewerbe sowie Herstellung von Lebensmitteln und Getränken als auch Handel mit Waren aller Art. Die Gesellschaft kann Zweigniederlassungen in der Schweiz und im Ausland errichten, sich an anderen Unternehmungen des In- und des Auslandes beteiligen, gleichartige oder verwandte Unternehmen erwerben oder sich mit solchen zusammenschliessen sowie alle Geschäfte eingehen und Verträge abschliessen, die geeignet sind, den Zweck der Gesellschaft zu fördern oder die direkt oder indirekt damit im Zusammenhang stehen. Sie kann Grundstücke, Immaterialgüterrechte und Lizenzen aller Art erwerben, verwalten, belasten und veräussern. Stammkapital: CHF 20&apos;000.00. Nebenleistungspflichten, Vorhand-, Vorkaufs- oder Kaufrechte gemäss näherer Umschreibung in den Statuten. Publikationsorgan: SHAB. Die Mitteilungen der Geschäftsführung an die Gesellschafter erfolgen schriftlich oder per E-Mail. Vinkulierung: Vom Gesetz abweichende Modalitäten für die Abtretung von Stammanteilen gemäss näherer Umschreibung in den Statuten. Gemäss Erklärung bei der Gründung der Gesellschaft wird auf eine eingeschränkte Revision verzichtet. Eingetragene Personen: Demir, Beritan-Öykü, deutscher Staatsangehöriger, in Möhlin, Gesellschafter und Geschäftsführer, mit Einzelunterschrift, mit 200 Stammanteilen zu je CHF 100.00.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "NERIM GmbH",
+        "ehraid": 1737685,
+        "uid": "CHE217894264",
+        "chid": "CH40044583578",
+        "legalSeatId": 4254,
+        "legalSeat": "Möhlin",
+        "registryOfCommerceId": 400,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-02",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "3bffe8546e87fbac3f3c1d1f",
+    "publication_date": "2026-03-02",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-02 | ZH | 2026-02-25 | <FT TYPE=\"F\">NewGreenTec International AG</FT>, in <FT TYPE=\"S\">Kloten</FT>, <FT TYPE=\"A\">CHE-179.918.648</FT>, Aktiengesellschaft (SHAB Nr. 212 vom 03.11.2025, Publ. 1006473300). Eingetragene Personen neu oder mutierend: Ullmann, Dominic, von Warth-Weiningen, in Felben-Wellhausen, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien. | aenderungorgane | NewGreenTec International AG | CHE179918648 | CH02030398658 | Kloten | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-05-05",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006473300)",
+      "02030398658"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-02",
+        "sogcId": 1006582957,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 9966,
+        "registryOfCommerceJournalDate": "2026-02-25",
+        "message": "<FT TYPE=\"F\">NewGreenTec International AG</FT>, in <FT TYPE=\"S\">Kloten</FT>, <FT TYPE=\"A\">CHE-179.918.648</FT>, Aktiengesellschaft (SHAB Nr. 212 vom 03.11.2025, Publ. 1006473300). Eingetragene Personen neu oder mutierend: Ullmann, Dominic, von Warth-Weiningen, in Felben-Wellhausen, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "NewGreenTec International AG",
+        "ehraid": 1159177,
+        "uid": "CHE179918648",
+        "chid": "CH02030398658",
+        "legalSeatId": 62,
+        "legalSeat": "Kloten",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-05-05",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "cd93460f266b0c4fe83c5ef9",
+    "publication_date": "2026-03-02",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-02 | BE | 2026-02-25 | <FT TYPE=\"N\">Nordrei Fahrni</FT>, in <FT TYPE=\"5\">Thun</FT>, <FT TYPE=\"A\">CHE-168.837.170</FT>, Grünauweg 7, 3600 Thun, Einzelunternehmen (Neueintragung). Zweck: Führung eines Detailhandelsbetriebs sowie Handel mit Waren aller Art, insbesondere Lebensmitteln, Kaffeetassen, Zubehör und Produkten zur Innenraumgestaltung. Eingetragene Personen: Fahrni, Jayson Neal, von Eriz, in Thun, Inhaber, mit Einzelunterschrift. | status | status.neu | Nordrei Fahrni | CHE168837170 | CH03611065427 | Thun | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-03-02",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "03611065427"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-02",
+        "sogcId": 1006583094,
+        "registryOfCommerceId": 36,
+        "registryOfCommerceCanton": "BE",
+        "registryOfCommerceJournalId": 4264,
+        "registryOfCommerceJournalDate": "2026-02-25",
+        "message": "<FT TYPE=\"N\">Nordrei Fahrni</FT>, in <FT TYPE=\"5\">Thun</FT>, <FT TYPE=\"A\">CHE-168.837.170</FT>, Grünauweg 7, 3600 Thun, Einzelunternehmen (Neueintragung). Zweck: Führung eines Detailhandelsbetriebs sowie Handel mit Waren aller Art, insbesondere Lebensmitteln, Kaffeetassen, Zubehör und Produkten zur Innenraumgestaltung. Eingetragene Personen: Fahrni, Jayson Neal, von Eriz, in Thun, Inhaber, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Nordrei Fahrni",
+        "ehraid": 1737668,
+        "uid": "CHE168837170",
+        "chid": "CH03611065427",
+        "legalSeatId": 942,
+        "legalSeat": "Thun",
+        "registryOfCommerceId": 36,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-02",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "5e3ada622e339f37068f6f59",
+    "publication_date": "2026-03-02",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-02 | ZH | 2026-02-25 | <FT TYPE=\"F\">Nosani GmbH</FT>, in <FT TYPE=\"S\">Zürich</FT>, <FT TYPE=\"A\">CHE-196.554.694</FT>, Gesellschaft mit beschränkter Haftung (SHAB Nr. 246 vom 19.12.2023, Publ. 1005913608). Domizil neu: Weinbergstrasse 73, 8006 Zürich. | adressaenderung | Nosani GmbH | CHE196554694 | CH02040582857 | Zürich | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-03-02",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "005913608)",
+      "02040582857"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-02",
+        "sogcId": 1006582960,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 9969,
+        "registryOfCommerceJournalDate": "2026-02-25",
+        "message": "<FT TYPE=\"F\">Nosani GmbH</FT>, in <FT TYPE=\"S\">Zürich</FT>, <FT TYPE=\"A\">CHE-196.554.694</FT>, Gesellschaft mit beschränkter Haftung (SHAB Nr. 246 vom 19.12.2023, Publ. 1005913608). Domizil neu: Weinbergstrasse 73, 8006 Zürich.",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Nosani GmbH",
+        "ehraid": 1260616,
+        "uid": "CHE196554694",
+        "chid": "CH02040582857",
+        "legalSeatId": 261,
+        "legalSeat": "Zürich",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-02",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "72431ae2919f5b0b6bab01be",
+    "publication_date": "2026-03-02",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-02 | TI | 2026-02-25 | <FT TYPE=\"N\">Revolution Drinks Pascaretta</FT>, in <FT TYPE=\"5\">Bellinzona</FT>, <FT TYPE=\"A\">CHE-430.047.675</FT>, c/o Carmine Pascaretta, In Pasquee 8, 6528 Camorino, impresa individuale (Nuova iscrizione). Scopo: L&apos;acquisto, la vendita, la rappresentanza, l&apos;importazione, l&apos;esportazione, il deposito, il trasporto, la consegna, la distribuzione, il commercio al dettaglio e all&apos;ingrosso di bevande alcooliche, analcoliche, nonché di accessori, articoli e gadget personalizzati di qualsiasi tipo. Sviluppo e gestione di sistemi innovativi per la fornitura di bevande. Organizzazione, consulenza e supporto tecnico per catering, bar, ristorazione, e manifestazioni di ogni genere. Persone iscritte: Pascaretta, Carmine, cittadino italiano, in Camorino (Bellinzona), titolare, con firma individuale. | status | status.neu | Revolution Drinks Pascaretta | CHE430047675 | CH50110246606 | Bellinzona | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-03-02",
+    "categories": [
+      "allgemein"
+    ],
+    "confidence": 60,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "0110246606"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-02",
+        "sogcId": 1006583674,
+        "registryOfCommerceId": 501,
+        "registryOfCommerceCanton": "TI",
+        "registryOfCommerceJournalId": 2883,
+        "registryOfCommerceJournalDate": "2026-02-25",
+        "message": "<FT TYPE=\"N\">Revolution Drinks Pascaretta</FT>, in <FT TYPE=\"5\">Bellinzona</FT>, <FT TYPE=\"A\">CHE-430.047.675</FT>, c/o Carmine Pascaretta, In Pasquee 8, 6528 Camorino, impresa individuale (Nuova iscrizione). Scopo: L&apos;acquisto, la vendita, la rappresentanza, l&apos;importazione, l&apos;esportazione, il deposito, il trasporto, la consegna, la distribuzione, il commercio al dettaglio e all&apos;ingrosso di bevande alcooliche, analcoliche, nonché di accessori, articoli e gadget personalizzati di qualsiasi tipo. Sviluppo e gestione di sistemi innovativi per la fornitura di bevande. Organizzazione, consulenza e supporto tecnico per catering, bar, ristorazione, e manifestazioni di ogni genere. Persone iscritte: Pascaretta, Carmine, cittadino italiano, in Camorino (Bellinzona), titolare, con firma individuale.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Revolution Drinks Pascaretta",
+        "ehraid": 1737660,
+        "uid": "CHE430047675",
+        "chid": "CH50110246606",
+        "legalSeatId": 5002,
+        "legalSeat": "Bellinzona",
+        "registryOfCommerceId": 501,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-02",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "f93e486edb48a0fbdac7f662",
+    "publication_date": "2026-03-02",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-02 | ZH | 2026-02-25 | <FT TYPE=\"N\">SafePilot GmbH</FT>, in <FT TYPE=\"5\">Bassersdorf</FT>, <FT TYPE=\"A\">CHE-289.631.232</FT>, Im Bächli 31, 8303 Bassersdorf, Gesellschaft mit beschränkter Haftung (Neueintragung). Statutendatum: 20.02.2026. Zweck: Zweck der Gesellschaft ist die Entwicklung, der Betrieb und der Vertrieb von Softwarelösungen sowie die Erbringung von IT-Dienstleistungen zur Unterstützung betrieblicher Prozesse, insbesondere in den Bereichen Prozesssicherheit, Dokumentation und Compliance. Die Gesellschaft kann Zweigniederlassungen im In- und Ausland errichten, sich an anderen Unternehmen beteiligen und alle Geschäfte tätigen, die dem Gesellschaftszweck dienlich sind. Stammkapital: CHF 20&apos;000.00. Publikationsorgan: SHAB. Mitteilungen der Geschäftsführung an die Gesellschafter erfolgen per Brief oder E-Mail an die im Anteilbuch verzeichneten Adressen. Gemäss Erklärung bei der Gründung der Gesellschaft wird auf eine eingeschränkte Revision verzichtet. Eingetragene Personen: Anliker, Simon, von Gondiswil, in Bassersdorf, Gesellschafter und Vorsitzender der Geschäftsführung, mit Einzelunterschrift, mit 11 Stammanteilen zu je CHF 1&apos;000.00; Keller, Roger, von Pfungen und Oberembrach, in Oberembrach, Gesellschafter und Geschäftsführer, mit Einzelunterschrift, mit 7 Stammanteilen zu je CHF 1&apos;000.00; Brauchli, Marc, von Weinfelden, in Bauma, Gesellschafter, ohne Zeichnungsberechtigung, mit 2 Stammanteilen zu je CHF 1&apos;000.00. | status | status.neu | SafePilot GmbH | CHE289631232 | CH02040913399 | Bassersdorf | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-03-02",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "02040913399"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-02",
+        "sogcId": 1006582825,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 9833,
+        "registryOfCommerceJournalDate": "2026-02-25",
+        "message": "<FT TYPE=\"N\">SafePilot GmbH</FT>, in <FT TYPE=\"5\">Bassersdorf</FT>, <FT TYPE=\"A\">CHE-289.631.232</FT>, Im Bächli 31, 8303 Bassersdorf, Gesellschaft mit beschränkter Haftung (Neueintragung). Statutendatum: 20.02.2026. Zweck: Zweck der Gesellschaft ist die Entwicklung, der Betrieb und der Vertrieb von Softwarelösungen sowie die Erbringung von IT-Dienstleistungen zur Unterstützung betrieblicher Prozesse, insbesondere in den Bereichen Prozesssicherheit, Dokumentation und Compliance. Die Gesellschaft kann Zweigniederlassungen im In- und Ausland errichten, sich an anderen Unternehmen beteiligen und alle Geschäfte tätigen, die dem Gesellschaftszweck dienlich sind. Stammkapital: CHF 20&apos;000.00. Publikationsorgan: SHAB. Mitteilungen der Geschäftsführung an die Gesellschafter erfolgen per Brief oder E-Mail an die im Anteilbuch verzeichneten Adressen. Gemäss Erklärung bei der Gründung der Gesellschaft wird auf eine eingeschränkte Revision verzichtet. Eingetragene Personen: Anliker, Simon, von Gondiswil, in Bassersdorf, Gesellschafter und Vorsitzender der Geschäftsführung, mit Einzelunterschrift, mit 11 Stammanteilen zu je CHF 1&apos;000.00; Keller, Roger, von Pfungen und Oberembrach, in Oberembrach, Gesellschafter und Geschäftsführer, mit Einzelunterschrift, mit 7 Stammanteilen zu je CHF 1&apos;000.00; Brauchli, Marc, von Weinfelden, in Bauma, Gesellschafter, ohne Zeichnungsberechtigung, mit 2 Stammanteilen zu je CHF 1&apos;000.00.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "SafePilot GmbH",
+        "ehraid": 1737631,
+        "uid": "CHE289631232",
+        "chid": "CH02040913399",
+        "legalSeatId": 52,
+        "legalSeat": "Bassersdorf",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-02",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "ee5e17d8b018a2dba8deec40",
+    "publication_date": "2026-03-02",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-02 | ZH | 2026-02-25 | <FT TYPE=\"F\">Stiftung Abegg-Huus</FT>, in <FT TYPE=\"S\">Rüschlikon</FT>, <FT TYPE=\"A\">CHE-106.034.127</FT>, Stiftung (SHAB Nr. 211 vom 30.10.2024, Publ. 1006165818). Ausgeschiedene Personen und erloschene Unterschriften: Schild, Cornelia, von Zürich, in Zürich, stellvertretende Aktuarin (Nichtmitglied), mit Kollektivunterschrift zu zweien; Rissi, Jeannette Regina, von Hägglingen, in Hägglingen, Aktuarin (Nichtmitglied), mit Kollektivunterschrift zu zweien. Eingetragene Personen neu oder mutierend: Häberling, Karin Silvia, von Zürich, in Weiningen (ZH), Aktuarin (Nichtmitglied), mit Kollektivunterschrift zu zweien; Bosshard, Kathrin Rosa, von Altendorf, in Einsiedeln, Geschäftsführerin, mit Kollektivunterschrift zu zweien [bisher: in Altendorf]; Bosshard, Remo, von Thalwil, in Einsiedeln, mit Kollektivunterschrift zu zweien. | aenderungorgane | Stiftung Abegg-Huus | CHE106034127 | CH02079046076 | Rüschlikon | 0110 | Stiftung | Fondation | Fondazione | Foundation | Stift | Fond | Fond | Found | ACTIVE | 2026-03-02",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006165818)",
+      "02079046076"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-02",
+        "sogcId": 1006583014,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 10023,
+        "registryOfCommerceJournalDate": "2026-02-25",
+        "message": "<FT TYPE=\"F\">Stiftung Abegg-Huus</FT>, in <FT TYPE=\"S\">Rüschlikon</FT>, <FT TYPE=\"A\">CHE-106.034.127</FT>, Stiftung (SHAB Nr. 211 vom 30.10.2024, Publ. 1006165818). Ausgeschiedene Personen und erloschene Unterschriften: Schild, Cornelia, von Zürich, in Zürich, stellvertretende Aktuarin (Nichtmitglied), mit Kollektivunterschrift zu zweien; Rissi, Jeannette Regina, von Hägglingen, in Hägglingen, Aktuarin (Nichtmitglied), mit Kollektivunterschrift zu zweien. Eingetragene Personen neu oder mutierend: Häberling, Karin Silvia, von Zürich, in Weiningen (ZH), Aktuarin (Nichtmitglied), mit Kollektivunterschrift zu zweien; Bosshard, Kathrin Rosa, von Altendorf, in Einsiedeln, Geschäftsführerin, mit Kollektivunterschrift zu zweien [bisher: in Altendorf]; Bosshard, Remo, von Thalwil, in Einsiedeln, mit Kollektivunterschrift zu zweien.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Stiftung Abegg-Huus",
+        "ehraid": 300187,
+        "uid": "CHE106034127",
+        "chid": "CH02079046076",
+        "legalSeatId": 139,
+        "legalSeat": "Rüschlikon",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 7,
+          "uid": "0110",
+          "name": {
+            "de": "Stiftung",
+            "fr": "Fondation",
+            "it": "Fondazione",
+            "en": "Foundation"
+          },
+          "shortName": {
+            "de": "Stift",
+            "fr": "Fond",
+            "it": "Fond",
+            "en": "Found"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-02",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "2f4006d32770fe4fb949fdfa",
+    "publication_date": "2026-03-02",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-02 | VD | 2026-02-25 | <FT TYPE=\"N\">TooLuxe Shop Sàrl</FT>, à <FT TYPE=\"5\">Renens (VD)</FT>, Avenue d&apos;Epenex 4b, 1020 Renens VD, <FT TYPE=\"A\">CHE-490.881.363</FT>. Nouvelle société à responsabilité limitée. Statuts: 06.02.2026. But: la société a pour but l&apos;exploitation de commerces de détail, notamment de type candy shop, kiosque et épicerie, ainsi que la vente de produits alimentaires, de boissons, de confiseries, de produits internationaux, d&apos;articles de kiosque et de marchandises diverses. Elle peut créer des succursales en Suisse et à l&apos;étranger, participer à d&apos;autres entreprises en Suisse et à l&apos;étranger, acquérir des entreprises visant un but identique ou analogue, ou fusionner avec de telles entreprises, acquérir ou vendre des immeubles, faire toutes opérations et conclure tous contrats propres à développer et à étendre son but ou s&apos;y rapportant directement ou indirectement, à l&apos;exclusion de toutes opérations prohibées par la Loi fédérale sur l&apos;acquisition d&apos;immeubles par des personnes à l&apos;étranger (LFAIE). Capital social: CHF 20&apos;000. Associés-gérants avec signature collective à deux: Mirzaii Mohammad, d&apos;Afghanistan, à Renens (VD), avec 10 parts de CHF 1&apos;000, président, et Sultani Abdul Fatah, d&apos;Afghanistan, à Renens (VD), avec 10 parts de CHF 1&apos;000. Organe de publication: Feuille officielle suisse du commerce. Communications aux associés: par courrier écrit ou par courrier électronique. Selon déclaration à la constitution de la société, il est renoncé à un contrôle restreint. | status | status.neu | TooLuxe Shop Sàrl | CHE490881363 | CH55012558280 | Renens (VD) | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-03-02",
+    "categories": [
+      "allgemein",
+      "handel_vertrieb"
+    ],
+    "confidence": 95,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "012558280"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-02",
+        "sogcId": 1006583804,
+        "registryOfCommerceId": 550,
+        "registryOfCommerceCanton": "VD",
+        "registryOfCommerceJournalId": 4493,
+        "registryOfCommerceJournalDate": "2026-02-25",
+        "message": "<FT TYPE=\"N\">TooLuxe Shop Sàrl</FT>, à <FT TYPE=\"5\">Renens (VD)</FT>, Avenue d&apos;Epenex 4b, 1020 Renens VD, <FT TYPE=\"A\">CHE-490.881.363</FT>. Nouvelle société à responsabilité limitée. Statuts: 06.02.2026. But: la société a pour but l&apos;exploitation de commerces de détail, notamment de type candy shop, kiosque et épicerie, ainsi que la vente de produits alimentaires, de boissons, de confiseries, de produits internationaux, d&apos;articles de kiosque et de marchandises diverses. Elle peut créer des succursales en Suisse et à l&apos;étranger, participer à d&apos;autres entreprises en Suisse et à l&apos;étranger, acquérir des entreprises visant un but identique ou analogue, ou fusionner avec de telles entreprises, acquérir ou vendre des immeubles, faire toutes opérations et conclure tous contrats propres à développer et à étendre son but ou s&apos;y rapportant directement ou indirectement, à l&apos;exclusion de toutes opérations prohibées par la Loi fédérale sur l&apos;acquisition d&apos;immeubles par des personnes à l&apos;étranger (LFAIE). Capital social: CHF 20&apos;000. Associés-gérants avec signature collective à deux: Mirzaii Mohammad, d&apos;Afghanistan, à Renens (VD), avec 10 parts de CHF 1&apos;000, président, et Sultani Abdul Fatah, d&apos;Afghanistan, à Renens (VD), avec 10 parts de CHF 1&apos;000. Organe de publication: Feuille officielle suisse du commerce. Communications aux associés: par courrier écrit ou par courrier électronique. Selon déclaration à la constitution de la société, il est renoncé à un contrôle restreint.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "TooLuxe Shop Sàrl",
+        "ehraid": 1737596,
+        "uid": "CHE490881363",
+        "chid": "CH55012558280",
+        "legalSeatId": 5591,
+        "legalSeat": "Renens (VD)",
+        "registryOfCommerceId": 550,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-02",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "2bf5d8c87f384c7224bf5240",
+    "publication_date": "2026-03-02",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-02 | VS | 2026-02-25 | <FT TYPE=\"F\">Tribu Café Sàrl</FT>, à <FT TYPE=\"S\">Martigny</FT>, <FT TYPE=\"A\">CHE-347.246.030</FT>, société à responsabilité limitée (No. FOSC 249 du 24.12.2025, Publ. 1006524808). Nouvelle adresse: Rue d&apos;Octodure 31b, 1920 Martigny. | adressaenderung | Tribu Café Sàrl | CHE347246030 | CH62140131318 | Martigny | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-03-02",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006524808)"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-02",
+        "sogcId": 1006583921,
+        "registryOfCommerceId": 621,
+        "registryOfCommerceCanton": "VS",
+        "registryOfCommerceJournalId": 762,
+        "registryOfCommerceJournalDate": "2026-02-25",
+        "message": "<FT TYPE=\"F\">Tribu Café Sàrl</FT>, à <FT TYPE=\"S\">Martigny</FT>, <FT TYPE=\"A\">CHE-347.246.030</FT>, société à responsabilité limitée (No. FOSC 249 du 24.12.2025, Publ. 1006524808). Nouvelle adresse: Rue d&apos;Octodure 31b, 1920 Martigny.",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Tribu Café Sàrl",
+        "ehraid": 1727536,
+        "uid": "CHE347246030",
+        "chid": "CH62140131318",
+        "legalSeatId": 6136,
+        "legalSeat": "Martigny",
+        "registryOfCommerceId": 621,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-02",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "64d2605395b5731891a1102b",
+    "publication_date": "2026-03-02",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-02 | BE | 2026-02-25 | <FT TYPE=\"F\">UCC COFFEE SWITZERLAND AG</FT>, in <FT TYPE=\"S\">Zollikofen</FT>, <FT TYPE=\"A\">CHE-102.368.492</FT>, Aktiengesellschaft (SHAB Nr. 238 vom 09.12.2025, Publ. 1006507166). Ausgeschiedene Personen und erloschene Unterschriften: Schwab, Andreas, von Gals, in Kirchlindach, mit Kollektivunterschrift zu zweien. Eingetragene Personen neu oder mutierend: Nishikura, Ichiro, japanischer Staatsangehöriger, in London (GB), Präsident des Verwaltungsrates, mit Einzelunterschrift; Stuker, Stefan, von Eriswil, in Bern, Mitglied des Verwaltungsrates, mit Einzelunterschrift [bisher: Präsident des Verwaltungsrates, mit Einzelunterschrift]; Charalabidis, Dimitrios, von Illnau-Effretikon, in Rupperswil, mit Kollektivprokura zu zweien; Ingold, David, von Lüterkofen-Ichertswil, in Lüterkofen (Lüterkofen-Ichertswil), mit Kollektivprokura zu zweien; Scharf, Alexander Wolfgang Otto, deutscher Staatsangehöriger, in Urdorf, mit Kollektivprokura zu zweien. | aenderungorgane | UCC COFFEE SWITZERLAND AG | CHE102368492 | CH03530293115 | Zollikofen | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-07-27",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006507166)",
+      "03530293115"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-02",
+        "sogcId": 1006583146,
+        "registryOfCommerceId": 36,
+        "registryOfCommerceCanton": "BE",
+        "registryOfCommerceJournalId": 4316,
+        "registryOfCommerceJournalDate": "2026-02-25",
+        "message": "<FT TYPE=\"F\">UCC COFFEE SWITZERLAND AG</FT>, in <FT TYPE=\"S\">Zollikofen</FT>, <FT TYPE=\"A\">CHE-102.368.492</FT>, Aktiengesellschaft (SHAB Nr. 238 vom 09.12.2025, Publ. 1006507166). Ausgeschiedene Personen und erloschene Unterschriften: Schwab, Andreas, von Gals, in Kirchlindach, mit Kollektivunterschrift zu zweien. Eingetragene Personen neu oder mutierend: Nishikura, Ichiro, japanischer Staatsangehöriger, in London (GB), Präsident des Verwaltungsrates, mit Einzelunterschrift; Stuker, Stefan, von Eriswil, in Bern, Mitglied des Verwaltungsrates, mit Einzelunterschrift [bisher: Präsident des Verwaltungsrates, mit Einzelunterschrift]; Charalabidis, Dimitrios, von Illnau-Effretikon, in Rupperswil, mit Kollektivprokura zu zweien; Ingold, David, von Lüterkofen-Ichertswil, in Lüterkofen (Lüterkofen-Ichertswil), mit Kollektivprokura zu zweien; Scharf, Alexander Wolfgang Otto, deutscher Staatsangehöriger, in Urdorf, mit Kollektivprokura zu zweien.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "UCC COFFEE SWITZERLAND AG",
+        "ehraid": 612232,
+        "uid": "CHE102368492",
+        "chid": "CH03530293115",
+        "legalSeatId": 361,
+        "legalSeat": "Zollikofen",
+        "registryOfCommerceId": 36,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-07-27",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "5c82efd4e581b56a9267057c",
+    "publication_date": "2026-03-02",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-02 | ZH | 2026-02-25 | <FT TYPE=\"N\">VinoLibano GmbH</FT> <FT TYPE=\"V\">(VinoLibano Sàrl) (VinoLibano Sagl) (VinoLibano Ltd liab Co)</FT>, in <FT TYPE=\"5\">Rüschlikon</FT>, <FT TYPE=\"A\">CHE-447.370.972</FT>, Pilgerweg 13, 8803 Rüschlikon, Gesellschaft mit beschränkter Haftung (Neueintragung). Statutendatum: 23.02.2026. Zweck: Der Zweck der Gesellschaft ist der Import, die Lagerung und der Online-Vertrieb von Weinen und verwandten Waren, insbesondere aus dem Libanon und anderen Regionen. Die Gesellschaft organisiert und führt ausserdem online und vor Ort Weinverkostungen (Degustationen) durch sowie weinbezogene Reisen und Touren in den Libanon. Alle Kernoperationen, einschliesslich Verkauf, Buchungen und Kundenkontakte, erfolgen digital über eine Online-Plattform, unterstützt durch ein physisches Lager für die Bestandsverwaltung und Logistik. Die Gesellschaft kann ergänzende Tätigkeiten ausüben, die diese Ziele fördern, wie Marketing, Beratung zu weinbezogenen Themen und Partnerschaften mit Lieferanten und Reiseveranstaltern. Die Gesellschaft kann Zweigniederlassungen in der Schweiz und im Ausland errichten, sich an anderen Unternehmungen des In- und des Auslandes beteiligen, gleichartige oder verwandte Unternehmen erwerben oder sich mit solchen zusammenschliessen sowie alle Geschäfte eingehen und Verträge abschliessen, die geeignet sind, den Zweck der Gesellschaft zu fördern oder die direkt oder indirekt damit im Zusammenhang stehen. Sie kann Grundstücke, Immaterialgüterrechte und Lizenzen aller Art erwerben, verwalten, belasten und veräussern. Stammkapital: CHF 20&apos;000.00. Nebenleistungspflichten, Vorhand-, Vorkaufs- oder Kaufsrechte gemäss näherer Umschreibung in den Statuten. Publikationsorgan: SHAB. Die Mitteilungen der Geschäftsführung an die Gesellschafter erfolgen schriftlich oder per E-Mail. Gemäss Erklärung bei der Gründung der Gesellschaft wird auf eine eingeschränkte Revision verzichtet. Eingetragene Personen: Issa El Khoury, Georges, von Rüschli",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "02040913414"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-02",
+        "sogcId": 1006582832,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 9841,
+        "registryOfCommerceJournalDate": "2026-02-25",
+        "message": "<FT TYPE=\"N\">VinoLibano GmbH</FT> <FT TYPE=\"V\">(VinoLibano Sàrl) (VinoLibano Sagl) (VinoLibano Ltd liab Co)</FT>, in <FT TYPE=\"5\">Rüschlikon</FT>, <FT TYPE=\"A\">CHE-447.370.972</FT>, Pilgerweg 13, 8803 Rüschlikon, Gesellschaft mit beschränkter Haftung (Neueintragung). Statutendatum: 23.02.2026. Zweck: Der Zweck der Gesellschaft ist der Import, die Lagerung und der Online-Vertrieb von Weinen und verwandten Waren, insbesondere aus dem Libanon und anderen Regionen. Die Gesellschaft organisiert und führt ausserdem online und vor Ort Weinverkostungen (Degustationen) durch sowie weinbezogene Reisen und Touren in den Libanon. Alle Kernoperationen, einschliesslich Verkauf, Buchungen und Kundenkontakte, erfolgen digital über eine Online-Plattform, unterstützt durch ein physisches Lager für die Bestandsverwaltung und Logistik. Die Gesellschaft kann ergänzende Tätigkeiten ausüben, die diese Ziele fördern, wie Marketing, Beratung zu weinbezogenen Themen und Partnerschaften mit Lieferanten und Reiseveranstaltern. Die Gesellschaft kann Zweigniederlassungen in der Schweiz und im Ausland errichten, sich an anderen Unternehmungen des In- und des Auslandes beteiligen, gleichartige oder verwandte Unternehmen erwerben oder sich mit solchen zusammenschliessen sowie alle Geschäfte eingehen und Verträge abschliessen, die geeignet sind, den Zweck der Gesellschaft zu fördern oder die direkt oder indirekt damit im Zusammenhang stehen. Sie kann Grundstücke, Immaterialgüterrechte und Lizenzen aller Art erwerben, verwalten, belasten und veräussern. Stammkapital: CHF 20&apos;000.00. Nebenleistungspflichten, Vorhand-, Vorkaufs- oder Kaufsrechte gemäss näherer Umschreibung in den Statuten. Publikationsorgan: SHAB. Die Mitteilungen der Geschäftsführung an die Gesellschafter erfolgen schriftlich oder per E-Mail. Gemäss Erklärung bei der Gründung der Gesellschaft wird auf eine eingeschränkte Revision verzichtet. Eingetragene Personen: Issa El Khoury, Georges, von Rüschlikon, in Rüschlikon, Gesellschafter und Geschäftsführer, mit Einzelunterschrift, mit 200 Stammanteilen zu je CHF 100.00.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "VinoLibano GmbH",
+        "ehraid": 1737638,
+        "uid": "CHE447370972",
+        "chid": "CH02040913414",
+        "legalSeatId": 139,
+        "legalSeat": "Rüschlikon",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-02",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "c00b3043c03a11a8b5d5709c",
+    "publication_date": "2026-03-02",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-02 | GR | 2026-02-25 | <FT TYPE=\"F\">Weingut Lur AG</FT>, bisher in <FT TYPE=\"S\">Zug</FT>, <FT TYPE=\"A\">CHE-411.043.381</FT>, Aktiengesellschaft (SHAB Nr. 114 vom 14.06.2024, Publ. 1006057231). Statutenänderung: 19.02.2026. Sitz neu: <FT TYPE=\"5\">Maienfeld</FT>. Domizil neu: Lurgasse 16, 7304 Maienfeld. Eingetragene Personen neu oder mutierend: Riederer, Mathias, von Maienfeld, in Zollikon, Mitglied, mit Einzelunterschrift; Frey, Dr. Hans Josef, von Wohlen bei Bern und Volketswil, in Meilen, mit Einzelunterschrift [bisher: von Wohlen bei Bern und Volketswil, Mitglied des Verwaltungsrates, mit Einzelunterschrift]. | adressaenderung | aenderungorgane | Weingut Lur AG | CHE411043381 | CH17030457888 | Maienfeld | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-03-02",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006057231)",
+      "030457888"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-02",
+        "sogcId": 1006583571,
+        "registryOfCommerceId": 350,
+        "registryOfCommerceCanton": "GR",
+        "registryOfCommerceJournalId": 1003,
+        "registryOfCommerceJournalDate": "2026-02-25",
+        "message": "<FT TYPE=\"F\">Weingut Lur AG</FT>, bisher in <FT TYPE=\"S\">Zug</FT>, <FT TYPE=\"A\">CHE-411.043.381</FT>, Aktiengesellschaft (SHAB Nr. 114 vom 14.06.2024, Publ. 1006057231). Statutenänderung: 19.02.2026. Sitz neu: <FT TYPE=\"5\">Maienfeld</FT>. Domizil neu: Lurgasse 16, 7304 Maienfeld. Eingetragene Personen neu oder mutierend: Riederer, Mathias, von Maienfeld, in Zollikon, Mitglied, mit Einzelunterschrift; Frey, Dr. Hans Josef, von Wohlen bei Bern und Volketswil, in Meilen, mit Einzelunterschrift [bisher: von Wohlen bei Bern und Volketswil, Mitglied des Verwaltungsrates, mit Einzelunterschrift].",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          },
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Weingut Lur AG",
+        "ehraid": 1485836,
+        "uid": "CHE411043381",
+        "chid": "CH17030457888",
+        "legalSeatId": 3953,
+        "legalSeat": "Maienfeld",
+        "registryOfCommerceId": 350,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-02",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "8d1f19849f478c3338360a8d",
+    "publication_date": "2026-03-02",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-02 | ZG | 2026-02-25 | <FT TYPE=\"F\">Weingut Lur AG</FT>, in <FT TYPE=\"S\">Zug</FT>, <FT TYPE=\"A\">CHE-411.043.381</FT>, Aktiengesellschaft (SHAB Nr. 114 vom 14.06.2024, Publ. 1006057231). Die Rechtseinheit wird infolge Verlegung des Sitzes nach Maienfeld im Handelsregister des Kantons Graubünden eingetragen und im Handelsregister des Kantons Zug von Amtes wegen gelöscht. | adressaenderung | Weingut Lur AG | CHE411043381 | CH17030457888 | Maienfeld | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-03-02",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006057231)",
+      "030457888"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-02",
+        "sogcId": 1006583371,
+        "registryOfCommerceId": 170,
+        "registryOfCommerceCanton": "ZG",
+        "registryOfCommerceJournalId": 3978,
+        "registryOfCommerceJournalDate": "2026-02-25",
+        "message": "<FT TYPE=\"F\">Weingut Lur AG</FT>, in <FT TYPE=\"S\">Zug</FT>, <FT TYPE=\"A\">CHE-411.043.381</FT>, Aktiengesellschaft (SHAB Nr. 114 vom 14.06.2024, Publ. 1006057231). Die Rechtseinheit wird infolge Verlegung des Sitzes nach Maienfeld im Handelsregister des Kantons Graubünden eingetragen und im Handelsregister des Kantons Zug von Amtes wegen gelöscht.",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Weingut Lur AG",
+        "ehraid": 1485836,
+        "uid": "CHE411043381",
+        "chid": "CH17030457888",
+        "legalSeatId": 3953,
+        "legalSeat": "Maienfeld",
+        "registryOfCommerceId": 350,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-02",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "c28f455e88dbbed281ec1764",
+    "publication_date": "2026-03-02",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-02 | TG | 2026-02-25 | <FT TYPE=\"F\">ZAM Elektro GmbH</FT>, in <FT TYPE=\"S\">Sulgen</FT>, <FT TYPE=\"A\">CHE-261.950.529</FT>, Gesellschaft mit beschränkter Haftung (SHAB Nr. 86 vom 05.05.2021, Publ. 1005170153). Firma neu: <FT TYPE=\"N\">ZAM Elektro GmbH in Liquidation</FT>. Mit Entscheid des Bezirksgerichts Weinfelden vom 24.02.2026, mit Wirkung ab dem 24.02.2026, 09.30 Uhr, wurde über die Gesellschaft der Konkurs eröffnet. Demnach ist die Gesellschaft aufgelöst. | status | status.aufl | status.aufl.konk | ZAM Elektro GmbH | CHE261950529 | CH44040369440 | Sulgen | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-04-15",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "005170153)",
+      "040369440"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-02",
+        "sogcId": 1006583657,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 1388,
+        "registryOfCommerceJournalDate": "2026-02-25",
+        "message": "<FT TYPE=\"F\">ZAM Elektro GmbH</FT>, in <FT TYPE=\"S\">Sulgen</FT>, <FT TYPE=\"A\">CHE-261.950.529</FT>, Gesellschaft mit beschränkter Haftung (SHAB Nr. 86 vom 05.05.2021, Publ. 1005170153). Firma neu: <FT TYPE=\"N\">ZAM Elektro GmbH in Liquidation</FT>. Mit Entscheid des Bezirksgerichts Weinfelden vom 24.02.2026, mit Wirkung ab dem 24.02.2026, 09.30 Uhr, wurde über die Gesellschaft der Konkurs eröffnet. Demnach ist die Gesellschaft aufgelöst.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 3,
+            "key": "status.aufl"
+          },
+          {
+            "id": 5,
+            "key": "status.aufl.konk"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "ZAM Elektro GmbH",
+        "ehraid": 1485303,
+        "uid": "CHE261950529",
+        "chid": "CH44040369440",
+        "legalSeatId": 4506,
+        "legalSeat": "Sulgen",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-04-15",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "21cf246cae9d192d3e8c9d19",
+    "publication_date": "2026-03-02",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-03-02 | TG | 2026-02-25 | <FT TYPE=\"F\">Zeqiri GmbH</FT>, in <FT TYPE=\"S\">Warth-Weiningen</FT>, <FT TYPE=\"A\">CHE-415.852.600</FT>, Gesellschaft mit beschränkter Haftung (SHAB Nr. 116 vom 18.06.2021, Publ. 1005222151). Statutenänderung: 02.02.2026. Sitz neu: <FT TYPE=\"5\">Mammern</FT>. Domizil neu: Breitestrasse 9, 8265 Mammern. Eingetragene Personen neu oder mutierend: Widerin, Mukadeze, von Pfyn, in Mammern, Gesellschafterin und Geschäftsführerin, mit Einzelunterschrift, mit 200 Stammanteilen zu je CHF 100.00 [bisher: in Warth (Warth-Weiningen)]. | adressaenderung | aenderungorgane | Zeqiri GmbH | CHE415852600 | CH02040631804 | Mammern | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-03-02",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "005222151)",
+      "02040631804"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-03-02",
+        "sogcId": 1006583659,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 1390,
+        "registryOfCommerceJournalDate": "2026-02-25",
+        "message": "<FT TYPE=\"F\">Zeqiri GmbH</FT>, in <FT TYPE=\"S\">Warth-Weiningen</FT>, <FT TYPE=\"A\">CHE-415.852.600</FT>, Gesellschaft mit beschränkter Haftung (SHAB Nr. 116 vom 18.06.2021, Publ. 1005222151). Statutenänderung: 02.02.2026. Sitz neu: <FT TYPE=\"5\">Mammern</FT>. Domizil neu: Breitestrasse 9, 8265 Mammern. Eingetragene Personen neu oder mutierend: Widerin, Mukadeze, von Pfyn, in Mammern, Gesellschafterin und Geschäftsführerin, mit Einzelunterschrift, mit 200 Stammanteilen zu je CHF 100.00 [bisher: in Warth (Warth-Weiningen)].",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          },
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Zeqiri GmbH",
+        "ehraid": 1329662,
+        "uid": "CHE415852600",
+        "chid": "CH02040631804",
+        "legalSeatId": 4826,
+        "legalSeat": "Mammern",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-03-02",
+        "deletionDate": null
+      }
+    }
+  }
+]
