@@ -24,10 +24,10 @@ jobs:
 
     steps:
       - name: Repository auschecken
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Python einrichten
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: pip
@@ -84,7 +84,7 @@ jobs:
             --period "${{ steps.period.outputs.start }} bis ${{ steps.period.outputs.end }}"
 
       - name: Bericht als Artefakt speichern
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: getraenke-register-${{ steps.period.outputs.start }}-bis-${{ steps.period.outputs.end }}
           path: |
