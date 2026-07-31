@@ -206,9 +206,11 @@ jobs:
                 cat "$file"
               done | sort -u > exports/fehlgeschlagene-tage.txt
 
+          # Die Monatsartefakte enthalten ausschließlich den vorbereiteten
+          # Backfill-Zeitraum. Nicht nach Datei-Zeitstempeln filtern: Beim
+          # Download erhalten Artefakte neue Änderungszeiten.
           mapfile -d '' report_files < <(
-            find reports -maxdepth 1 -type f -name 'treffer-*.json' \
-              -newermt '2026-01-01' ! -newermt '${{ needs.prepare.outputs.end_date }} +1 day' \
+            find reports -maxdepth 1 -type f -name 'treffer-????-??-??.json' \
               -print0 | sort -z
           )
 
