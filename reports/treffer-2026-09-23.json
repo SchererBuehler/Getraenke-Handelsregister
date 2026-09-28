@@ -1,0 +1,753 @@
+[
+  {
+    "publication_id": "424eaf37692a51ded24302c5",
+    "publication_date": "2026-09-23",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-09-23 | TI | 2026-09-18 | <FT TYPE=\"N\">Dirk HÃ¶rster Gartenspezialist und Hausmeisterservice</FT>, in <FT TYPE=\"5\">Losone</FT>, <FT TYPE=\"A\">CHE-217.438.771</FT>, c/o Dirk HÃ¶rster, Via Gratello 15, 6616 Losone, impresa individuale (Nuova iscrizione). Scopo: Manutenzione del giardino, progettazione del giardino, pulizia delle proprietÃ , servizio di custodia, tecnologia e manutenzione, check-in del brokeraggio degli appartamenti vacanze. Persone iscritte: HÃ¶rster, Dirk, da Weinfelden, in Losone, titolare, con firma individuale. | status | status.neu | Dirk Hörster Gartenspezialist und Hausmeisterservice | CHE217438771 | CH50110251252 | Losone | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-09-23",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "0110251252"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-09-23",
+        "sogcId": 1006763980,
+        "registryOfCommerceId": 501,
+        "registryOfCommerceCanton": "TI",
+        "registryOfCommerceJournalId": 13211,
+        "registryOfCommerceJournalDate": "2026-09-18",
+        "message": "<FT TYPE=\"N\">Dirk HÃ¶rster Gartenspezialist und Hausmeisterservice</FT>, in <FT TYPE=\"5\">Losone</FT>, <FT TYPE=\"A\">CHE-217.438.771</FT>, c/o Dirk HÃ¶rster, Via Gratello 15, 6616 Losone, impresa individuale (Nuova iscrizione). Scopo: Manutenzione del giardino, progettazione del giardino, pulizia delle proprietÃ , servizio di custodia, tecnologia e manutenzione, check-in del brokeraggio degli appartamenti vacanze. Persone iscritte: HÃ¶rster, Dirk, da Weinfelden, in Losone, titolare, con firma individuale.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Dirk Hörster Gartenspezialist und Hausmeisterservice",
+        "ehraid": 1768707,
+        "uid": "CHE217438771",
+        "chid": "CH50110251252",
+        "legalSeatId": 5115,
+        "legalSeat": "Losone",
+        "registryOfCommerceId": 501,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-09-23",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "085e3e9d3901f38f98300304",
+    "publication_date": "2026-09-23",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-09-23 | SG | 2026-09-18 | <FT TYPE=\"F\">FMT Global Trading AG</FT>, in <FT TYPE=\"S\">St. Gallen</FT>, <FT TYPE=\"A\">CHE-237.297.568</FT>, Aktiengesellschaft (SHAB Nr. 198 vom 14.10.2025, Publ. 1006457749). Ausgeschiedene Personen und erloschene Unterschriften: Teichmann, Dr. Dr. Fabian, von St. Gallen, in Weissbad (Schwende-RÃ¼te), Mitglied des Verwaltungsrates, mit Einzelunterschrift. Eingetragene Personen neu oder mutierend: DreÃŸler, Karl-Heinz Frank, deutscher StaatsangehÃ¶riger, in Radeberg (DE), PrÃ¤sident des Verwaltungsrates, mit Einzelunterschrift; Reuss, Christoph, von Vaz/Obervaz, in Weinfelden, Mitglied des Verwaltungsrates, mit Einzelunterschrift. | aenderungorgane | FMT Global Trading AG | CHE237297568 | CH32030844886 | St. Gallen | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-09-23",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006457749)",
+      "030844886"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-09-23",
+        "sogcId": 1006763830,
+        "registryOfCommerceId": 320,
+        "registryOfCommerceCanton": "SG",
+        "registryOfCommerceJournalId": 10915,
+        "registryOfCommerceJournalDate": "2026-09-18",
+        "message": "<FT TYPE=\"F\">FMT Global Trading AG</FT>, in <FT TYPE=\"S\">St. Gallen</FT>, <FT TYPE=\"A\">CHE-237.297.568</FT>, Aktiengesellschaft (SHAB Nr. 198 vom 14.10.2025, Publ. 1006457749). Ausgeschiedene Personen und erloschene Unterschriften: Teichmann, Dr. Dr. Fabian, von St. Gallen, in Weissbad (Schwende-RÃ¼te), Mitglied des Verwaltungsrates, mit Einzelunterschrift. Eingetragene Personen neu oder mutierend: DreÃŸler, Karl-Heinz Frank, deutscher StaatsangehÃ¶riger, in Radeberg (DE), PrÃ¤sident des Verwaltungsrates, mit Einzelunterschrift; Reuss, Christoph, von Vaz/Obervaz, in Weinfelden, Mitglied des Verwaltungsrates, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "FMT Global Trading AG",
+        "ehraid": 1351623,
+        "uid": "CHE237297568",
+        "chid": "CH32030844886",
+        "legalSeatId": 3203,
+        "legalSeat": "St. Gallen",
+        "registryOfCommerceId": 320,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-09-23",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "b1e13617e4e6f73aa332d404",
+    "publication_date": "2026-09-23",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-09-23 | TG | 2026-09-18 | <FT TYPE=\"F\">Girardi Hospitality GmbH</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-387.628.975</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 124 vom 01.07.2026, Publ. 1006694206). StatutenÃ¤nderung: 14.08.2026. [Die publikationspflichtigen Tatsachen haben keine Ã„nderung erfahren.]. Ausgeschiedene Personen und erloschene Unterschriften: Thalmann Treuhand AG (<FT TYPE=\"B\">CHE-108.028.770</FT>), in Weinfelden, Revisionsstelle. Eingetragene Personen neu oder mutierend: Incze, Attila, von Therwil, in Weinfelden, Gesellschafter und Vorsitzender der GeschÃ¤ftsfÃ¼hrung, mit Einzelunterschrift, mit 130 Stammanteilen zu je CHF 100.00 [bisher: in Therwil]; Pfaehler, Laura, von Schaffhausen, in Weinfelden, Gesellschafterin und GeschÃ¤ftsfÃ¼hrerin, mit Einzelunterschrift, mit 70 Stammanteilen zu je CHF 100.00 [bisher: in MÃ¼nchen (DE)]; witreva treuhand- und revisionsgesellschaft ag (<FT TYPE=\"B\">CHE-104.139.353</FT>), in Wil SG, Revisionsstelle. | aenderungorgane | Girardi Hospitality GmbH | CHE387628975 | CH44040445897 | Weinfelden | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-09-23",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006694206)",
+      "040445897"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-09-23",
+        "sogcId": 1006763968,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 5948,
+        "registryOfCommerceJournalDate": "2026-09-18",
+        "message": "<FT TYPE=\"F\">Girardi Hospitality GmbH</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-387.628.975</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 124 vom 01.07.2026, Publ. 1006694206). StatutenÃ¤nderung: 14.08.2026. [Die publikationspflichtigen Tatsachen haben keine Ã„nderung erfahren.]. Ausgeschiedene Personen und erloschene Unterschriften: Thalmann Treuhand AG (<FT TYPE=\"B\">CHE-108.028.770</FT>), in Weinfelden, Revisionsstelle. Eingetragene Personen neu oder mutierend: Incze, Attila, von Therwil, in Weinfelden, Gesellschafter und Vorsitzender der GeschÃ¤ftsfÃ¼hrung, mit Einzelunterschrift, mit 130 Stammanteilen zu je CHF 100.00 [bisher: in Therwil]; Pfaehler, Laura, von Schaffhausen, in Weinfelden, Gesellschafterin und GeschÃ¤ftsfÃ¼hrerin, mit Einzelunterschrift, mit 70 Stammanteilen zu je CHF 100.00 [bisher: in MÃ¼nchen (DE)]; witreva treuhand- und revisionsgesellschaft ag (<FT TYPE=\"B\">CHE-104.139.353</FT>), in Wil SG, Revisionsstelle.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Girardi Hospitality GmbH",
+        "ehraid": 1756823,
+        "uid": "CHE387628975",
+        "chid": "CH44040445897",
+        "legalSeatId": 4946,
+        "legalSeat": "Weinfelden",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-09-23",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "7b74cb9710c31c206fbc2e51",
+    "publication_date": "2026-09-23",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-09-23 | VD | 2026-09-18 | <FT TYPE=\"N\">GNL.ICECREAM SÃ rl</FT> <FT TYPE=\"V\">(GNL.ICECREAM GmbH) (GNL.ICECREAM Sagl) (GNL.ICECREAM Ltd liab Co)</FT>, Ã  <FT TYPE=\"5\">Yverdon-les-Bains</FT>, Rue Jean-AndrÃ©-Venel 29, c/o Manolo Tetro, 1400 Yverdon-les-Bains, <FT TYPE=\"A\">CHE-385.366.913</FT>. Nouvelle sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e. Statuts: 08.09.2026. But: la sociÃ©tÃ© a pour but: la fabrication et la vente de glaces ainsi que de tous produits liÃ©s aux glaces en gÃ©nÃ©ral, et toutes activitÃ©s liÃ©es Ã  la restauration au sens le plus large, y compris l&apos;exploitation d&apos;Ã©tablissements publics de tous types et de stands de vente de nourriture et de boissons Ã  l&apos;emporter, ainsi que toutes activitÃ©s connexes, notamment l&apos;achat, la vente, l&apos;importation, l&apos;exportation et la commercialisation de marchandises nÃ©cessaires Ã  ces activitÃ©s, de mÃªme que l&apos;organisation d&apos;Ã©vÃ©nements en Suisse et Ã  l&apos;Ã©tranger. Elle pourra en outre faire, soit pour son compte, soit pour le compte de tiers, toutes opÃ©rations financiÃ¨res, commerciales, mobiliÃ¨res ou immobiliÃ¨res se rattachant directement ou indirectement Ã  son but social et s&apos;intÃ©resser, sous toutes formes, Ã  toutes entreprises similaires, notamment par la prise de participation dans des entreprises similaires. La sociÃ©tÃ© pourra Ã©galement constituer des succursales et des filiales en Suisse et Ã  l&apos;Ã©tranger. Obligation de fournir des prestations accessoires, droits de prÃ©fÃ©rence, de prÃ©emption ou d&apos;emption: pour les dÃ©tails, voir les statuts. Capital social: CHF 20&apos;000. AssociÃ©-gÃ©rant avec signature individuelle: Tetro Manolo, d&apos;Italie, Ã  Yverdon-les-Bains, avec 2&apos;000 parts de CHF 10. Organe de publication: Feuille officielle suisse du commerce. Communications aux associÃ©s: par courrier ou par courriel. Selon dÃ©claration Ã  la constitution de la sociÃ©tÃ©, il est renoncÃ© Ã  un contrÃ´le restreint. | status | status.n",
+    "categories": [
+      "allgemein"
+    ],
+    "confidence": 60,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "012592567"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-09-23",
+        "sogcId": 1006764031,
+        "registryOfCommerceId": 550,
+        "registryOfCommerceCanton": "VD",
+        "registryOfCommerceJournalId": 19632,
+        "registryOfCommerceJournalDate": "2026-09-18",
+        "message": "<FT TYPE=\"N\">GNL.ICECREAM SÃ rl</FT> <FT TYPE=\"V\">(GNL.ICECREAM GmbH) (GNL.ICECREAM Sagl) (GNL.ICECREAM Ltd liab Co)</FT>, Ã  <FT TYPE=\"5\">Yverdon-les-Bains</FT>, Rue Jean-AndrÃ©-Venel 29, c/o Manolo Tetro, 1400 Yverdon-les-Bains, <FT TYPE=\"A\">CHE-385.366.913</FT>. Nouvelle sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e. Statuts: 08.09.2026. But: la sociÃ©tÃ© a pour but: la fabrication et la vente de glaces ainsi que de tous produits liÃ©s aux glaces en gÃ©nÃ©ral, et toutes activitÃ©s liÃ©es Ã  la restauration au sens le plus large, y compris l&apos;exploitation d&apos;Ã©tablissements publics de tous types et de stands de vente de nourriture et de boissons Ã  l&apos;emporter, ainsi que toutes activitÃ©s connexes, notamment l&apos;achat, la vente, l&apos;importation, l&apos;exportation et la commercialisation de marchandises nÃ©cessaires Ã  ces activitÃ©s, de mÃªme que l&apos;organisation d&apos;Ã©vÃ©nements en Suisse et Ã  l&apos;Ã©tranger. Elle pourra en outre faire, soit pour son compte, soit pour le compte de tiers, toutes opÃ©rations financiÃ¨res, commerciales, mobiliÃ¨res ou immobiliÃ¨res se rattachant directement ou indirectement Ã  son but social et s&apos;intÃ©resser, sous toutes formes, Ã  toutes entreprises similaires, notamment par la prise de participation dans des entreprises similaires. La sociÃ©tÃ© pourra Ã©galement constituer des succursales et des filiales en Suisse et Ã  l&apos;Ã©tranger. Obligation de fournir des prestations accessoires, droits de prÃ©fÃ©rence, de prÃ©emption ou d&apos;emption: pour les dÃ©tails, voir les statuts. Capital social: CHF 20&apos;000. AssociÃ©-gÃ©rant avec signature individuelle: Tetro Manolo, d&apos;Italie, Ã  Yverdon-les-Bains, avec 2&apos;000 parts de CHF 10. Organe de publication: Feuille officielle suisse du commerce. Communications aux associÃ©s: par courrier ou par courriel. Selon dÃ©claration Ã  la constitution de la sociÃ©tÃ©, il est renoncÃ© Ã  un contrÃ´le restreint.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "GNL.ICECREAM Sàrl",
+        "ehraid": 1768808,
+        "uid": "CHE385366913",
+        "chid": "CH55012592567",
+        "legalSeatId": 5938,
+        "legalSeat": "Yverdon-les-Bains",
+        "registryOfCommerceId": 550,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-09-23",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "6363adf59bff1b55070a9c2d",
+    "publication_date": "2026-09-23",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-09-23 | VS | 2026-09-18 | <FT TYPE=\"N\">He + art SÃ rl</FT> <FT TYPE=\"V\">(He + art GmbH) (He + art Sagl) (He + art Ltd. liab Co)</FT>, Ã  <FT TYPE=\"5\">Grimisuat</FT>, <FT TYPE=\"A\">CHE-251.773.763</FT>, Chemin de Champs Devant 3, 1971 Champlan (Grimisuat), sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e (Nouvelle inscription). Date des statuts: 03.08.2026. But: La sociÃ©tÃ© a pour but: fourniture de services dans les domaines de la restauration, de la gastronomie et de l&apos;hÃ´tellerie; l&apos;exploitation de restaurants et d&apos;hÃ´tels ainsi que toutes autres Ã©tablissements publics analogues; fabrication et commerce de produits alimentaires et de boissons. Elle pourra en outre faire, soit pour son compte, soit pour le compte de tiers, toutes opÃ©rations financiÃ¨res, commerciales, mobiliÃ¨res ou immobiliÃ¨res se rattachant directement ou indirectement Ã  son but social et s&apos;intÃ©resser, sous toutes formes, Ã  toutes entreprises similaires, notamment par la prise de participation dans des entreprises similaires. La sociÃ©tÃ© pourra Ã©galement constituer des succursales et des filiales en Suisse et Ã  l&apos;Ã©tranger. Capital social: CHF 20&apos;000.00. Obligations de fournir des prestations accessoires, droits de prÃ©fÃ©rence, de prÃ©emption ou d&apos;emption: pour les dÃ©tails, voir les statuts. Organe de publication: FOSC. Communications aux associÃ©s: par courrier ou par courriel. Selon dÃ©claration Ã  la constitution de la sociÃ©tÃ©, il est renoncÃ© Ã  un contrÃ´le restreint. Personne(s) inscrite(s): Li, Ke, de Grimisuat, Ã  Grimisuat, associÃ©e et gÃ©rante, avec signature individuelle, pour une part sociale de CHF 20&apos;000.00. | status | status.neu | He + art Sàrl | CHE251773763 | CH62640269291 | Grimisuat | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-09-23",
+    "categories": [
+      "allgemein",
+      "handel_vertrieb"
+    ],
+    "confidence": 95,
+    "contact_names": [],
+    "emails": [],
+    "phones": [],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": []
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-09-23",
+        "sogcId": 1006764155,
+        "registryOfCommerceId": 626,
+        "registryOfCommerceCanton": "VS",
+        "registryOfCommerceJournalId": 4118,
+        "registryOfCommerceJournalDate": "2026-09-18",
+        "message": "<FT TYPE=\"N\">He + art SÃ rl</FT> <FT TYPE=\"V\">(He + art GmbH) (He + art Sagl) (He + art Ltd. liab Co)</FT>, Ã  <FT TYPE=\"5\">Grimisuat</FT>, <FT TYPE=\"A\">CHE-251.773.763</FT>, Chemin de Champs Devant 3, 1971 Champlan (Grimisuat), sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e (Nouvelle inscription). Date des statuts: 03.08.2026. But: La sociÃ©tÃ© a pour but: fourniture de services dans les domaines de la restauration, de la gastronomie et de l&apos;hÃ´tellerie; l&apos;exploitation de restaurants et d&apos;hÃ´tels ainsi que toutes autres Ã©tablissements publics analogues; fabrication et commerce de produits alimentaires et de boissons. Elle pourra en outre faire, soit pour son compte, soit pour le compte de tiers, toutes opÃ©rations financiÃ¨res, commerciales, mobiliÃ¨res ou immobiliÃ¨res se rattachant directement ou indirectement Ã  son but social et s&apos;intÃ©resser, sous toutes formes, Ã  toutes entreprises similaires, notamment par la prise de participation dans des entreprises similaires. La sociÃ©tÃ© pourra Ã©galement constituer des succursales et des filiales en Suisse et Ã  l&apos;Ã©tranger. Capital social: CHF 20&apos;000.00. Obligations de fournir des prestations accessoires, droits de prÃ©fÃ©rence, de prÃ©emption ou d&apos;emption: pour les dÃ©tails, voir les statuts. Organe de publication: FOSC. Communications aux associÃ©s: par courrier ou par courriel. Selon dÃ©claration Ã  la constitution de la sociÃ©tÃ©, il est renoncÃ© Ã  un contrÃ´le restreint. Personne(s) inscrite(s): Li, Ke, de Grimisuat, Ã  Grimisuat, associÃ©e et gÃ©rante, avec signature individuelle, pour une part sociale de CHF 20&apos;000.00.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "He + art Sàrl",
+        "ehraid": 1768737,
+        "uid": "CHE251773763",
+        "chid": "CH62640269291",
+        "legalSeatId": 6263,
+        "legalSeat": "Grimisuat",
+        "registryOfCommerceId": 626,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-09-23",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "6ab370c7023aaea163f4b9f7",
+    "publication_date": "2026-09-23",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-09-23 | SG | 2026-09-18 | <FT TYPE=\"N\">Pelin Tee Omar</FT>, in <FT TYPE=\"5\">Gossau (SG)</FT>, <FT TYPE=\"A\">CHE-253.415.375</FT>, Parkstrasse 2, 9200 Gossau SG, Einzelunternehmen (Neueintragung). Zweck: Entwicklung, Herstellung, Verarbeitung, Import, Export und Handel mit Tee, KrÃ¤utern, GewÃ¼rzen, GetrÃ¤nken und weiteren Lebensmitteln sowie mit Geschenkartikeln und ZubehÃ¶r, insbesondere Ã¼ber den Onlinehandel. Eingetragene Personen: Omar, Basam, syrischer StaatsangehÃ¶riger, in Gossau SG, Inhaber, mit Einzelunterschrift. | status | status.neu | Pelin Tee Omar | CHE253415375 | CH32011068783 | Gossau (SG) | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-09-23",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "011068783"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-09-23",
+        "sogcId": 1006763809,
+        "registryOfCommerceId": 320,
+        "registryOfCommerceCanton": "SG",
+        "registryOfCommerceJournalId": 10894,
+        "registryOfCommerceJournalDate": "2026-09-18",
+        "message": "<FT TYPE=\"N\">Pelin Tee Omar</FT>, in <FT TYPE=\"5\">Gossau (SG)</FT>, <FT TYPE=\"A\">CHE-253.415.375</FT>, Parkstrasse 2, 9200 Gossau SG, Einzelunternehmen (Neueintragung). Zweck: Entwicklung, Herstellung, Verarbeitung, Import, Export und Handel mit Tee, KrÃ¤utern, GewÃ¼rzen, GetrÃ¤nken und weiteren Lebensmitteln sowie mit Geschenkartikeln und ZubehÃ¶r, insbesondere Ã¼ber den Onlinehandel. Eingetragene Personen: Omar, Basam, syrischer StaatsangehÃ¶riger, in Gossau SG, Inhaber, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Pelin Tee Omar",
+        "ehraid": 1768752,
+        "uid": "CHE253415375",
+        "chid": "CH32011068783",
+        "legalSeatId": 3443,
+        "legalSeat": "Gossau (SG)",
+        "registryOfCommerceId": 320,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-09-23",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "9c4245316a055194223a32e9",
+    "publication_date": "2026-09-23",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-09-23 | TG | 2026-09-18 | <FT TYPE=\"F\">Prandini AG</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-262.785.090</FT>, Aktiengesellschaft (SHAB Nr. 151 vom 07.08.2026, Publ. 1006726845). StatutenÃ¤nderung: 13.08.2026. Zweck neu: Die Gesellschaft bezweckt den Handel mit und die Installation von sanitÃ¤ren Anlagen, Heizungen und LÃ¼ftungen. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle GeschÃ¤fte tÃ¤tigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, verÃ¤ussern und verwalten. Sie kann auch Finanzierungen fÃ¼r eigene oder fremde Rechnung vornehmen sowie Garantien und BÃ¼rgschaften fÃ¼r Tochtergesellschaften und Dritte eingehen und ImmaterialgÃ¼terrechte wie Patente und Lizenzen erwerben und verÃ¤ussern. | zweckaenderung | Prandini AG | CHE262785090 | CH44030296993 | Weinfelden | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-09-23",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006726845)",
+      "030296993"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-09-23",
+        "sogcId": 1006763973,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 5953,
+        "registryOfCommerceJournalDate": "2026-09-18",
+        "message": "<FT TYPE=\"F\">Prandini AG</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-262.785.090</FT>, Aktiengesellschaft (SHAB Nr. 151 vom 07.08.2026, Publ. 1006726845). StatutenÃ¤nderung: 13.08.2026. Zweck neu: Die Gesellschaft bezweckt den Handel mit und die Installation von sanitÃ¤ren Anlagen, Heizungen und LÃ¼ftungen. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle GeschÃ¤fte tÃ¤tigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, verÃ¤ussern und verwalten. Sie kann auch Finanzierungen fÃ¼r eigene oder fremde Rechnung vornehmen sowie Garantien und BÃ¼rgschaften fÃ¼r Tochtergesellschaften und Dritte eingehen und ImmaterialgÃ¼terrechte wie Patente und Lizenzen erwerben und verÃ¤ussern.",
+        "mutationTypes": [
+          {
+            "id": 11,
+            "key": "zweckaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Prandini AG",
+        "ehraid": 1227633,
+        "uid": "CHE262785090",
+        "chid": "CH44030296993",
+        "legalSeatId": 4946,
+        "legalSeat": "Weinfelden",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-09-23",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "6cd3165cc92be91b1eb6158a",
+    "publication_date": "2026-09-23",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-09-23 | ZH | 2026-09-18 | <FT TYPE=\"N\">SAPHIR Academy GmbH</FT>, in <FT TYPE=\"5\">Affoltern am Albis</FT>, <FT TYPE=\"A\">CHE-461.878.353</FT>, Im Weinberg 28a, 8910 Affoltern am Albis, Gesellschaft mit beschrÃ¤nkter Haftung (Neueintragung). Statutendatum: 09.09.2026. Zweck: Die Gesellschaft bezweckt: Entwicklung, DurchfÃ¼hrung und Vermarktung von Aus-, Weiterbildungs- und Entwicklungsangeboten fÃ¼r Personen, Teams, Organisationen und Institutionen. Erbringung von Dienstleistungen in den Bereichen Bildung, Training, Beratung, Coaching, Forschung. Entwicklung und Wissensvermittlung sowie Entwicklung, Nutzung, Vermarktung und Vertrieb von Konzepten, Programmen, Publikationen, Lehrmitteln und weiteren Angeboten. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle GeschÃ¤fte tÃ¤tigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, verÃ¤ussern und verwalten. Sie kann auch Finanzierungen fÃ¼r eigene oder fremde Rechnung vornehmen sowie Sicherheiten fÃ¼r Verbindlichkeiten verbundener Gesellschaften abgeben. Stammkapital: CHF 20&apos;000.00. Publikationsorgan: SHAB. Alle Mitteilungen der Gesellschaft an die Gesellschafter erfolgen schriftlich oder per E-Mail an die letzte der Gesellschaft bekannt gegebene Adresse. GemÃ¤ss ErklÃ¤rung bei der GrÃ¼ndung der Gesellschaft wird auf eine eingeschrÃ¤nkte Revision verzichtet. Eingetragene Personen: Ledermann, Claudia, von Affoltern am Albis, in Affoltern am Albis, Gesellschafterin und GeschÃ¤ftsfÃ¼hrerin, mit Einzelunterschrift, mit 100 Stammanteilen zu je CHF 100.00; Ledermann, Daniel Stephan, von Affoltern am Albis, in Affoltern am Albis, Gesellschafter, mit Einzelunterschrift, mit 100 Stammanteilen zu je CHF 100.00. | status | status.neu | SAPHIR Academy GmbH | CHE461878353 | CH02040935495 | Affoltern am Albis | 0107 | ",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "02040935495"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-09-23",
+        "sogcId": 1006763282,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 43993,
+        "registryOfCommerceJournalDate": "2026-09-18",
+        "message": "<FT TYPE=\"N\">SAPHIR Academy GmbH</FT>, in <FT TYPE=\"5\">Affoltern am Albis</FT>, <FT TYPE=\"A\">CHE-461.878.353</FT>, Im Weinberg 28a, 8910 Affoltern am Albis, Gesellschaft mit beschrÃ¤nkter Haftung (Neueintragung). Statutendatum: 09.09.2026. Zweck: Die Gesellschaft bezweckt: Entwicklung, DurchfÃ¼hrung und Vermarktung von Aus-, Weiterbildungs- und Entwicklungsangeboten fÃ¼r Personen, Teams, Organisationen und Institutionen. Erbringung von Dienstleistungen in den Bereichen Bildung, Training, Beratung, Coaching, Forschung. Entwicklung und Wissensvermittlung sowie Entwicklung, Nutzung, Vermarktung und Vertrieb von Konzepten, Programmen, Publikationen, Lehrmitteln und weiteren Angeboten. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle GeschÃ¤fte tÃ¤tigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, verÃ¤ussern und verwalten. Sie kann auch Finanzierungen fÃ¼r eigene oder fremde Rechnung vornehmen sowie Sicherheiten fÃ¼r Verbindlichkeiten verbundener Gesellschaften abgeben. Stammkapital: CHF 20&apos;000.00. Publikationsorgan: SHAB. Alle Mitteilungen der Gesellschaft an die Gesellschafter erfolgen schriftlich oder per E-Mail an die letzte der Gesellschaft bekannt gegebene Adresse. GemÃ¤ss ErklÃ¤rung bei der GrÃ¼ndung der Gesellschaft wird auf eine eingeschrÃ¤nkte Revision verzichtet. Eingetragene Personen: Ledermann, Claudia, von Affoltern am Albis, in Affoltern am Albis, Gesellschafterin und GeschÃ¤ftsfÃ¼hrerin, mit Einzelunterschrift, mit 100 Stammanteilen zu je CHF 100.00; Ledermann, Daniel Stephan, von Affoltern am Albis, in Affoltern am Albis, Gesellschafter, mit Einzelunterschrift, mit 100 Stammanteilen zu je CHF 100.00.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "SAPHIR Academy GmbH",
+        "ehraid": 1768817,
+        "uid": "CHE461878353",
+        "chid": "CH02040935495",
+        "legalSeatId": 2,
+        "legalSeat": "Affoltern am Albis",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-09-23",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "01691f25ad774cc02507dcbe",
+    "publication_date": "2026-09-23",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-09-23 | VS | 2026-09-18 | <FT TYPE=\"F\">Swiss Patrimoine Invest SA</FT>, Ã  <FT TYPE=\"S\">Sierre</FT>, <FT TYPE=\"A\">CHE-326.422.870</FT>, sociÃ©tÃ© anonyme (No. FOSC 17 du 27.01.2020, Publ. 1004815159). Modification des statuts: 14.09.2026. Nouveau but: La sociÃ©tÃ© a pour but toute activitÃ© dans le domaine immobilier telle que l&apos;achat, la vente, l&apos;Ã©change, la gÃ©rance d&apos;immeubles en zone Ã  bÃ¢tir et en zone agricole, l&apos;administration, le courtage, la location, la construction, la promotion, la rÃ©novation et la valorisation de biens immobiliers et immatÃ©riels, de placements financier et le courtage en assurance ainsi que toutes activitÃ©s s&apos;y rapportant directement ou indirectement, ainsi que toutes opÃ©rations de nature Ã  favoriser le but et l&apos;intÃ©rÃªt de la sociÃ©tÃ©. La sociÃ©tÃ© a pour but complÃ©mentaire, l&apos;exploitation de domaines agricoles et viticoles, exploitations de terres agricoles, production de raisin, encave, vinification et commerce de vins, exploitation d&apos;Å“nothÃ¨ques, mise en valeur et vente de vins, spiritueux et produit du terroir, achat de vignes, de cave, de ponts de vente, gÃ©rance d&apos;exploitations viticoles et vinicoles, prise de participations commerciales, industrielles, mobiliÃ¨res ou immobiliÃ¨res, toutes activitÃ© administrative et de gestion relative aux domaines viticoles et vinicoles. Elle pourra Ã©galement acheter, vendre, louer tous locaux utiles au dÃ©veloppement des activitÃ©s conformes au but social. Elle peut en outre crÃ©er des succursales en Suisse et Ã  l&apos;Ã©tranger, prendre des participations, fonder ou financer des entreprises ayant un rapport direct ou indirect avec son but. La sociÃ©tÃ© peut en outre contracter tout emprunt auprÃ¨s d&apos;Ã©tablissements bancaires pour l&apos;acquisition et la rÃ©alisation d&apos;immeubles. La sociÃ©tÃ© peut acquÃ©rir et vendre des immeubles, crÃ©er des succursales en Suisse et Ã  l&apos;Ã©tranger, participer Ã  d&apos;autres entre",
+    "categories": [
+      "spirituosen"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "004815159)"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-09-23",
+        "sogcId": 1006764174,
+        "registryOfCommerceId": 626,
+        "registryOfCommerceCanton": "VS",
+        "registryOfCommerceJournalId": 4137,
+        "registryOfCommerceJournalDate": "2026-09-18",
+        "message": "<FT TYPE=\"F\">Swiss Patrimoine Invest SA</FT>, Ã  <FT TYPE=\"S\">Sierre</FT>, <FT TYPE=\"A\">CHE-326.422.870</FT>, sociÃ©tÃ© anonyme (No. FOSC 17 du 27.01.2020, Publ. 1004815159). Modification des statuts: 14.09.2026. Nouveau but: La sociÃ©tÃ© a pour but toute activitÃ© dans le domaine immobilier telle que l&apos;achat, la vente, l&apos;Ã©change, la gÃ©rance d&apos;immeubles en zone Ã  bÃ¢tir et en zone agricole, l&apos;administration, le courtage, la location, la construction, la promotion, la rÃ©novation et la valorisation de biens immobiliers et immatÃ©riels, de placements financier et le courtage en assurance ainsi que toutes activitÃ©s s&apos;y rapportant directement ou indirectement, ainsi que toutes opÃ©rations de nature Ã  favoriser le but et l&apos;intÃ©rÃªt de la sociÃ©tÃ©. La sociÃ©tÃ© a pour but complÃ©mentaire, l&apos;exploitation de domaines agricoles et viticoles, exploitations de terres agricoles, production de raisin, encave, vinification et commerce de vins, exploitation d&apos;Å“nothÃ¨ques, mise en valeur et vente de vins, spiritueux et produit du terroir, achat de vignes, de cave, de ponts de vente, gÃ©rance d&apos;exploitations viticoles et vinicoles, prise de participations commerciales, industrielles, mobiliÃ¨res ou immobiliÃ¨res, toutes activitÃ© administrative et de gestion relative aux domaines viticoles et vinicoles. Elle pourra Ã©galement acheter, vendre, louer tous locaux utiles au dÃ©veloppement des activitÃ©s conformes au but social. Elle peut en outre crÃ©er des succursales en Suisse et Ã  l&apos;Ã©tranger, prendre des participations, fonder ou financer des entreprises ayant un rapport direct ou indirect avec son but. La sociÃ©tÃ© peut en outre contracter tout emprunt auprÃ¨s d&apos;Ã©tablissements bancaires pour l&apos;acquisition et la rÃ©alisation d&apos;immeubles. La sociÃ©tÃ© peut acquÃ©rir et vendre des immeubles, crÃ©er des succursales en Suisse et Ã  l&apos;Ã©tranger, participer Ã  d&apos;autres entreprises en Suisse et Ã  l&apos;Ã©tranger, acquÃ©rir des entreprises visant des buts analogues ou similaires, fusionner avec de telles entreprises et conclure tous contrats propres Ã  dÃ©velopper ou Ã  atteindre son but ou s&apos;y rapportant directement ou indirectement Ã  l&apos;exception des opÃ©rations prohibÃ©es par la LFAIE. La sociÃ©tÃ© peut accorder des prÃªts Ã  ses actionnaires ou Ã  des tiers, se porter caution ou garantir tout engagement pris par ses actionnaires ou des tiers, apporter ses titres ou en recevoir. Nouvel organe de publication: FOSC. Nouvelles communications: Communication aux actionnaires: par Ã©crit ou par courriel.",
+        "mutationTypes": [
+          {
+            "id": 11,
+            "key": "zweckaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Swiss Patrimoine Invest SA",
+        "ehraid": 1423240,
+        "uid": "CHE326422870",
+        "chid": "CH62630201037",
+        "legalSeatId": 6248,
+        "legalSeat": "Sierre",
+        "registryOfCommerceId": 626,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-09-23",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "8d7a9703622f336ed435a0a0",
+    "publication_date": "2026-09-23",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-09-23 | BE | 2026-09-18 | <FT TYPE=\"F\">The Whisky Cask Company AG</FT>, in <FT TYPE=\"S\">Bern</FT>, <FT TYPE=\"A\">CHE-232.486.837</FT>, Aktiengesellschaft (SHAB Nr. 221 vom 13.11.2024, Publ. 1006177137). Ausgeschiedene Personen und erloschene Unterschriften: Wehrli, Daniel, von Gachnang, in Bern, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien. | aenderungorgane | The Whisky Cask Company AG | CHE232486837 | CH03630627182 | Bern | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-09-23",
+    "categories": [
+      "spirituosen"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006177137)",
+      "03630627182"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-09-23",
+        "sogcId": 1006763474,
+        "registryOfCommerceId": 36,
+        "registryOfCommerceCanton": "BE",
+        "registryOfCommerceJournalId": 17640,
+        "registryOfCommerceJournalDate": "2026-09-18",
+        "message": "<FT TYPE=\"F\">The Whisky Cask Company AG</FT>, in <FT TYPE=\"S\">Bern</FT>, <FT TYPE=\"A\">CHE-232.486.837</FT>, Aktiengesellschaft (SHAB Nr. 221 vom 13.11.2024, Publ. 1006177137). Ausgeschiedene Personen und erloschene Unterschriften: Wehrli, Daniel, von Gachnang, in Bern, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "The Whisky Cask Company AG",
+        "ehraid": 1210495,
+        "uid": "CHE232486837",
+        "chid": "CH03630627182",
+        "legalSeatId": 351,
+        "legalSeat": "Bern",
+        "registryOfCommerceId": 36,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-09-23",
+        "deletionDate": null
+      }
+    }
+  }
+]

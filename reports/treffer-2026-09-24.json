@@ -1,0 +1,1156 @@
+[
+  {
+    "publication_id": "858c52b64db85039b7b729fb",
+    "publication_date": "2026-09-24",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-09-24 | TG | 2026-09-21 | <FT TYPE=\"F\">Alex Rusch Institut GmbH in Liquidation</FT>, in <FT TYPE=\"S\">Berg (TG)</FT>, <FT TYPE=\"A\">CHE-181.361.258</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 96 vom 21.05.2026, Publ. 1006656295). Mit Entscheid des Bezirksgerichts Weinfelden vom 18.09.2026 wurde Ã¼ber die bereits aufgelÃ¶ste Gesellschaft der Konkurs erÃ¶ffnet und mangels Aktiven eingestellt. | status | status.wiederrufliq | Alex Rusch Institut GmbH in Liquidation | CHE181361258 | CH40040350312 | Berg (TG) | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | BEING_CANCELLED | 2026-09-24",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006656295)",
+      "0040350312"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-09-24",
+        "sogcId": 1006765253,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 5963,
+        "registryOfCommerceJournalDate": "2026-09-21",
+        "message": "<FT TYPE=\"F\">Alex Rusch Institut GmbH in Liquidation</FT>, in <FT TYPE=\"S\">Berg (TG)</FT>, <FT TYPE=\"A\">CHE-181.361.258</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 96 vom 21.05.2026, Publ. 1006656295). Mit Entscheid des Bezirksgerichts Weinfelden vom 18.09.2026 wurde Ã¼ber die bereits aufgelÃ¶ste Gesellschaft der Konkurs erÃ¶ffnet und mangels Aktiven eingestellt.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 6,
+            "key": "status.wiederrufliq"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Alex Rusch Institut GmbH in Liquidation",
+        "ehraid": 1047743,
+        "uid": "CHE181361258",
+        "chid": "CH40040350312",
+        "legalSeatId": 4891,
+        "legalSeat": "Berg (TG)",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "BEING_CANCELLED",
+        "sogcDate": "2026-09-24",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "31e55a9abff404e62f4f70ed",
+    "publication_date": "2026-09-24",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-09-24 | ZG | 2026-09-21 | <FT TYPE=\"F\">CALMGARD AG</FT>, in <FT TYPE=\"S\">Zug</FT>, <FT TYPE=\"A\">CHE-177.604.989</FT>, Aktiengesellschaft (SHAB Nr. 182 vom 21.09.2026, Publ. 1006761292). Firma neu: <FT TYPE=\"N\">CALMGARD AG in Liquidation</FT>. Uebersetzungen der Firma neu: <FT TYPE=\"V\">(CALMGARD SA en liquidation) (CALMGARD Ltd in liquidation)</FT>. Aktien neu: 1&apos;000 Namenaktien zu CHF 100.00 [bisher: 1&apos;000 vinkulierte Namenaktien zu CHF 100.00]. Vinkulierung neu: Die statutarische BeschrÃ¤nkung der Ãœbertragbarkeit der Namenaktien ist von Gesetzes wegen aufgehoben. Die Gesellschaft ist mit Beschluss der Generalversammlung vom 15.09.2026 aufgelÃ¶st. Eingetragene Personen neu oder mutierend: BÃ¼hler Hartmann Treuhand AG (<FT TYPE=\"B\">CHE-107.565.953</FT>), in Weinfelden, Liquidatorin. | status | status.aufl | status.aufl.liq | kapitalaenderung | kapitalaenderung.stueckelung | aenderungorgane | CALMGARD AG in Liquidation | CHE177604989 | CH17030487353 | Zug | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | BEING_CANCELLED | 2026-09-24",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006761292)",
+      "030487353"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-09-24",
+        "sogcId": 1006764846,
+        "registryOfCommerceId": 170,
+        "registryOfCommerceCanton": "ZG",
+        "registryOfCommerceJournalId": 18335,
+        "registryOfCommerceJournalDate": "2026-09-21",
+        "message": "<FT TYPE=\"F\">CALMGARD AG</FT>, in <FT TYPE=\"S\">Zug</FT>, <FT TYPE=\"A\">CHE-177.604.989</FT>, Aktiengesellschaft (SHAB Nr. 182 vom 21.09.2026, Publ. 1006761292). Firma neu: <FT TYPE=\"N\">CALMGARD AG in Liquidation</FT>. Uebersetzungen der Firma neu: <FT TYPE=\"V\">(CALMGARD SA en liquidation) (CALMGARD Ltd in liquidation)</FT>. Aktien neu: 1&apos;000 Namenaktien zu CHF 100.00 [bisher: 1&apos;000 vinkulierte Namenaktien zu CHF 100.00]. Vinkulierung neu: Die statutarische BeschrÃ¤nkung der Ãœbertragbarkeit der Namenaktien ist von Gesetzes wegen aufgehoben. Die Gesellschaft ist mit Beschluss der Generalversammlung vom 15.09.2026 aufgelÃ¶st. Eingetragene Personen neu oder mutierend: BÃ¼hler Hartmann Treuhand AG (<FT TYPE=\"B\">CHE-107.565.953</FT>), in Weinfelden, Liquidatorin.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 3,
+            "key": "status.aufl"
+          },
+          {
+            "id": 4,
+            "key": "status.aufl.liq"
+          },
+          {
+            "id": 12,
+            "key": "kapitalaenderung"
+          },
+          {
+            "id": 15,
+            "key": "kapitalaenderung.stueckelung"
+          },
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "CALMGARD AG in Liquidation",
+        "ehraid": 1596630,
+        "uid": "CHE177604989",
+        "chid": "CH17030487353",
+        "legalSeatId": 1711,
+        "legalSeat": "Zug",
+        "registryOfCommerceId": 170,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "BEING_CANCELLED",
+        "sogcDate": "2026-09-24",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "c09f66a4b7f484fc71904df8",
+    "publication_date": "2026-09-24",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-09-24 | JU | 2026-09-21 | <FT TYPE=\"F\">Summit Performance SÃ rl</FT>, Ã  <FT TYPE=\"S\">Basse-Vendline</FT>, <FT TYPE=\"A\">CHE-370.311.820</FT>, sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e (No. FOSC 119 du 24.06.2026, Publ. 1006687493). Modification des statuts: 07.09.2026. Nouvelle raison sociale: <FT TYPE=\"N\">CÃ©rÃ¨sens SÃ rl</FT>. Nouveau but: Conception, dÃ©veloppement et fourniture de prestations dans les domaines de la nutrition, de l&apos;alimentation, de la promotion de la santÃ©, du bien-Ãªtre, des approches complÃ©mentaires, du sport et de l&apos;hygiÃ¨ne de vie, notamment sous forme de conseils, de consultations, d&apos;accompagnements, de cours, de confÃ©rences, de formations, d&apos;ateliers, de programmes et d&apos;Ã©vÃ¨nements, en prÃ©sentiel ou Ã  distance. La sociÃ©tÃ© a Ã©galement pour but de concevoir, dÃ©velopper, fabriquer, faire fabriquer, transformer, conditionner, faire conditionner, acheter, vendre, importer, exporter, distribuer et commercialiser, en gros ou au dÃ©tail, des denrÃ©es alimentaires, des boissons, des complÃ©ments alimentaires, des produits de bien-Ãªtre, des articles de sport ainsi que tout autre produit en rapport direct ou indirect avec son but ; exploiter des cabinets, des espaces de consultation, des centres, des magasins physiques, des boutiques en ligne, des plateformes numÃ©riques et des distributeurs automatiques dans les domaines prÃ©citÃ©s ; crÃ©er, produire, Ã©diter, publier, diffuser et commercialiser des livres, des vidÃ©os, des podcasts, des supports pÃ©dagogiques, des programmes, des logiciels, des applications et tout autre contenu physique ou numÃ©rique et le conseil, le marketing, la communication, la crÃ©ation de contenu et le dÃ©veloppement de projets s&apos;y rapportant. Elle peut acquÃ©rir, dÃ©tenir, exploiter, concÃ©der, administrer et aliÃ©ner des droits de propriÃ©tÃ© intellectuelle, notamment des marques, des brevets, des licences et du savoir-faire. La sociÃ©tÃ© peut en outre exercer toute autre activitÃ",
+    "categories": [
+      "allgemein"
+    ],
+    "confidence": 60,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006687493)",
+      "040108082"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-09-24",
+        "sogcId": 1006765505,
+        "registryOfCommerceId": 670,
+        "registryOfCommerceCanton": "JU",
+        "registryOfCommerceJournalId": 2009,
+        "registryOfCommerceJournalDate": "2026-09-21",
+        "message": "<FT TYPE=\"F\">Summit Performance SÃ rl</FT>, Ã  <FT TYPE=\"S\">Basse-Vendline</FT>, <FT TYPE=\"A\">CHE-370.311.820</FT>, sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e (No. FOSC 119 du 24.06.2026, Publ. 1006687493). Modification des statuts: 07.09.2026. Nouvelle raison sociale: <FT TYPE=\"N\">CÃ©rÃ¨sens SÃ rl</FT>. Nouveau but: Conception, dÃ©veloppement et fourniture de prestations dans les domaines de la nutrition, de l&apos;alimentation, de la promotion de la santÃ©, du bien-Ãªtre, des approches complÃ©mentaires, du sport et de l&apos;hygiÃ¨ne de vie, notamment sous forme de conseils, de consultations, d&apos;accompagnements, de cours, de confÃ©rences, de formations, d&apos;ateliers, de programmes et d&apos;Ã©vÃ¨nements, en prÃ©sentiel ou Ã  distance. La sociÃ©tÃ© a Ã©galement pour but de concevoir, dÃ©velopper, fabriquer, faire fabriquer, transformer, conditionner, faire conditionner, acheter, vendre, importer, exporter, distribuer et commercialiser, en gros ou au dÃ©tail, des denrÃ©es alimentaires, des boissons, des complÃ©ments alimentaires, des produits de bien-Ãªtre, des articles de sport ainsi que tout autre produit en rapport direct ou indirect avec son but ; exploiter des cabinets, des espaces de consultation, des centres, des magasins physiques, des boutiques en ligne, des plateformes numÃ©riques et des distributeurs automatiques dans les domaines prÃ©citÃ©s ; crÃ©er, produire, Ã©diter, publier, diffuser et commercialiser des livres, des vidÃ©os, des podcasts, des supports pÃ©dagogiques, des programmes, des logiciels, des applications et tout autre contenu physique ou numÃ©rique et le conseil, le marketing, la communication, la crÃ©ation de contenu et le dÃ©veloppement de projets s&apos;y rapportant. Elle peut acquÃ©rir, dÃ©tenir, exploiter, concÃ©der, administrer et aliÃ©ner des droits de propriÃ©tÃ© intellectuelle, notamment des marques, des brevets, des licences et du savoir-faire. La sociÃ©tÃ© peut en outre exercer toute autre activitÃ© ayant un lien direct ou indirect avec ces buts; elle peut notamment crÃ©er des succursales en Suisse et Ã  l&apos;Ã©tranger, participer Ã  d&apos;autres entreprises en Suisse et Ã  l&apos;Ã©tranger, acquÃ©rir des entreprises visant un but identique ou analogue, ou fusionner avec de telles entreprises, faire toutes opÃ©rations et conclure tous contrats propres Ã  dÃ©velopper et Ã  Ã©tendre son but ou s&apos;y rapportant directement ou indirectement. Elle peut Ã©galement rÃ©aliser toutes opÃ©rations immobiliÃ¨res, Ã  l&apos;exception des opÃ©rations prohibÃ©es par la LFAIE. Elle peut enfin accorder des prÃªts ou des garanties Ã  ses associÃ©s, Ã  ses filiales ou Ã  des tiers, si cela favorise ses intÃ©rÃªts.",
+        "mutationTypes": [
+          {
+            "id": 9,
+            "key": "firmenaenderung"
+          },
+          {
+            "id": 11,
+            "key": "zweckaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Cérèsens Sàrl",
+        "ehraid": 1755705,
+        "uid": "CHE370311820",
+        "chid": "CH67040108082",
+        "legalSeatId": 6812,
+        "legalSeat": "Basse-Vendline",
+        "registryOfCommerceId": 670,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-09-24",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "98cdb02fde3f0cd21bde600b",
+    "publication_date": "2026-09-24",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-09-24 | TG | 2026-09-21 | <FT TYPE=\"F\">Felicampo AG</FT>, in <FT TYPE=\"S\">Kreuzlingen</FT>, <FT TYPE=\"A\">CHE-156.425.027</FT>, Aktiengesellschaft (SHAB Nr. 243 vom 16.12.2025, Publ. 1006514846). StatutenÃ¤nderung: 18.06.2026. Sitz neu: <FT TYPE=\"5\">Felben-Wellhausen</FT>. Domizil neu: Marksteinstrasse 5, 8552 Felben-Wellhausen. Eingetragene Personen neu oder mutierend: Geiges, Stephan, von Warth-Weiningen, in Frauenfeld, PrÃ¤sident des Verwaltungsrates, mit Einzelunterschrift [bisher: PrÃ¤sident des Verwaltungsrates, mit Kollektivunterschrift zu zweien]; Ahlburg, Thomas, von Kreuzlingen, in Kreuzlingen, Mitglied des Verwaltungsrates, mit Einzelunterschrift [bisher: Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien]. | adressaenderung | aenderungorgane | Felicampo AG | CHE156425027 | CH44030437865 | Felben-Wellhausen | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-09-24",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006514846)",
+      "030437865"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-09-24",
+        "sogcId": 1006765259,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 5969,
+        "registryOfCommerceJournalDate": "2026-09-21",
+        "message": "<FT TYPE=\"F\">Felicampo AG</FT>, in <FT TYPE=\"S\">Kreuzlingen</FT>, <FT TYPE=\"A\">CHE-156.425.027</FT>, Aktiengesellschaft (SHAB Nr. 243 vom 16.12.2025, Publ. 1006514846). StatutenÃ¤nderung: 18.06.2026. Sitz neu: <FT TYPE=\"5\">Felben-Wellhausen</FT>. Domizil neu: Marksteinstrasse 5, 8552 Felben-Wellhausen. Eingetragene Personen neu oder mutierend: Geiges, Stephan, von Warth-Weiningen, in Frauenfeld, PrÃ¤sident des Verwaltungsrates, mit Einzelunterschrift [bisher: PrÃ¤sident des Verwaltungsrates, mit Kollektivunterschrift zu zweien]; Ahlburg, Thomas, von Kreuzlingen, in Kreuzlingen, Mitglied des Verwaltungsrates, mit Einzelunterschrift [bisher: Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien].",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          },
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Felicampo AG",
+        "ehraid": 1725698,
+        "uid": "CHE156425027",
+        "chid": "CH44030437865",
+        "legalSeatId": 4561,
+        "legalSeat": "Felben-Wellhausen",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-09-24",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "f60d4e5973ffc6fbb6d3b211",
+    "publication_date": "2026-09-24",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-09-24 | SO | 2026-09-21 | <FT TYPE=\"F\">Frey Technologies GmbH</FT>, in <FT TYPE=\"S\">Olten</FT>, <FT TYPE=\"A\">CHE-486.476.887</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 71 vom 14.04.2020, Publ. 1004870165). Domizil neu: Weingartenstrasse 18, 4600 Olten. | adressaenderung | Frey Technologies GmbH | CHE486476887 | CH24140152175 | Olten | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-09-24",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "004870165)"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-09-24",
+        "sogcId": 1006764973,
+        "registryOfCommerceId": 241,
+        "registryOfCommerceCanton": "SO",
+        "registryOfCommerceJournalId": 5459,
+        "registryOfCommerceJournalDate": "2026-09-21",
+        "message": "<FT TYPE=\"F\">Frey Technologies GmbH</FT>, in <FT TYPE=\"S\">Olten</FT>, <FT TYPE=\"A\">CHE-486.476.887</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 71 vom 14.04.2020, Publ. 1004870165). Domizil neu: Weingartenstrasse 18, 4600 Olten.",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Frey Technologies GmbH",
+        "ehraid": 1286263,
+        "uid": "CHE486476887",
+        "chid": "CH24140152175",
+        "legalSeatId": 2581,
+        "legalSeat": "Olten",
+        "registryOfCommerceId": 241,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-09-24",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "e5d63f154e48e585d9dcb0e4",
+    "publication_date": "2026-09-24",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-09-24 | TG | 2026-09-21 | <FT TYPE=\"F\">Garage Krapf AG, Weinfelden</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-107.104.552</FT>, Aktiengesellschaft (SHAB Nr. 212 vom 03.11.2025, Publ. 1006474019). Ausgeschiedene Personen und erloschene Unterschriften: Scherrer-Hellstern, Eva, von Basel und St. Gallen, in Weinfelden, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien. | aenderungorgane | Garage Krapf AG, Weinfelden | CHE107104552 | CH44030067446 | Weinfelden | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-09-24",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006474019)",
+      "030067446"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-09-24",
+        "sogcId": 1006765262,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 5972,
+        "registryOfCommerceJournalDate": "2026-09-21",
+        "message": "<FT TYPE=\"F\">Garage Krapf AG, Weinfelden</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-107.104.552</FT>, Aktiengesellschaft (SHAB Nr. 212 vom 03.11.2025, Publ. 1006474019). Ausgeschiedene Personen und erloschene Unterschriften: Scherrer-Hellstern, Eva, von Basel und St. Gallen, in Weinfelden, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Garage Krapf AG, Weinfelden",
+        "ehraid": 390789,
+        "uid": "CHE107104552",
+        "chid": "CH44030067446",
+        "legalSeatId": 4946,
+        "legalSeat": "Weinfelden",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-09-24",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "6a15c24415582b70b34989cf",
+    "publication_date": "2026-09-24",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-09-24 | SO | 2026-09-21 | <FT TYPE=\"F\">Karbi&apos;s GetrÃ¤nke GmbH in Liquidation</FT>, in <FT TYPE=\"S\">SchÃ¶nenwerd</FT>, <FT TYPE=\"A\">CHE-113.009.519</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 144 vom 29.07.2025, Publ. 1006396793). Die Liquidation ist beendet. Die Gesellschaft wird gelÃ¶scht. | status | status.loeschung | Karbi's Getränke GmbH in Liquidation | CHE113009519 | CH03540363202 | Schönenwerd | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | CANCELLED | 2026-09-24 | 2026-09-24",
+    "categories": [
+      "allgemein"
+    ],
+    "confidence": 60,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006396793)",
+      "03540363202"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-09-24",
+        "sogcId": 1006764987,
+        "registryOfCommerceId": 241,
+        "registryOfCommerceCanton": "SO",
+        "registryOfCommerceJournalId": 5473,
+        "registryOfCommerceJournalDate": "2026-09-21",
+        "message": "<FT TYPE=\"F\">Karbi&apos;s GetrÃ¤nke GmbH in Liquidation</FT>, in <FT TYPE=\"S\">SchÃ¶nenwerd</FT>, <FT TYPE=\"A\">CHE-113.009.519</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 144 vom 29.07.2025, Publ. 1006396793). Die Liquidation ist beendet. Die Gesellschaft wird gelÃ¶scht.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 7,
+            "key": "status.loeschung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Karbi's Getränke GmbH in Liquidation",
+        "ehraid": 842188,
+        "uid": "CHE113009519",
+        "chid": "CH03540363202",
+        "legalSeatId": 2583,
+        "legalSeat": "Schönenwerd",
+        "registryOfCommerceId": 241,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "CANCELLED",
+        "sogcDate": "2026-09-24",
+        "deletionDate": "2026-09-24"
+      }
+    }
+  },
+  {
+    "publication_id": "dec21d53447aa9e20da433a4",
+    "publication_date": "2026-09-24",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-09-24 | TG | 2026-09-21 | <FT TYPE=\"N\">Klarsicht Kienast GmbH</FT>, in <FT TYPE=\"5\">Frauenfeld</FT>, <FT TYPE=\"A\">CHE-154.862.983</FT>, HÃ¶henweg 44, 8500 Frauenfeld, Gesellschaft mit beschrÃ¤nkter Haftung (Neueintragung). Statutendatum: 14.08.2026. Zweck: Die Gesellschaft bezweckt die Erbringung von Dienstleistungen im Bereich Fensterreinigung sowie der Reinigung von Solarzellen. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle GeschÃ¤fte tÃ¤tigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, verÃ¤ussern und verwalten. Sie kann auch Finanzierungen fÃ¼r eigene oder fremde Rechnung vornehmen sowie Garantien und BÃ¼rgschaften fÃ¼r Tochtergesellschaften und Dritte eingehen. Stammkapital: CHF 20&apos;000.00. Nebenleistungspflichten, Vorhand-, Vorkaufs- oder Kaufsrechte gemÃ¤ss nÃ¤herer Umschreibung in den Statuten. Publikationsorgan: SHAB. Mitteilungen an die Gesellschafter erfolgen per Brief oder E-Mail. GemÃ¤ss ErklÃ¤rung bei der GrÃ¼ndung der Gesellschaft wird auf eine eingeschrÃ¤nkte Revision verzichtet. Eingetragene Personen: Kienast, Mathias Beno, von Winterthur, in Frauenfeld, Gesellschafter und Vorsitzender der GeschÃ¤ftsfÃ¼hrung, mit Kollektivunterschrift zu zweien, mit 80 Stammanteilen zu je CHF 100.00; Kienast, Simon Wolfgang, von Winterthur, in Frauenfeld, Gesellschafter und GeschÃ¤ftsfÃ¼hrer, mit Kollektivunterschrift zu zweien, mit 60 Stammanteilen zu je CHF 100.00; Markaj, Raimond, von Sulgen, in Weinfelden, Gesellschafter und GeschÃ¤ftsfÃ¼hrer, mit Kollektivunterschrift zu zweien, mit 60 Stammanteilen zu je CHF 100.00. | status | status.neu | Klarsicht Kienast GmbH | CHE154862983 | CH44040449167 | Frauenfeld | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liabilit",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "040449167"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-09-24",
+        "sogcId": 1006765249,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 5959,
+        "registryOfCommerceJournalDate": "2026-09-21",
+        "message": "<FT TYPE=\"N\">Klarsicht Kienast GmbH</FT>, in <FT TYPE=\"5\">Frauenfeld</FT>, <FT TYPE=\"A\">CHE-154.862.983</FT>, HÃ¶henweg 44, 8500 Frauenfeld, Gesellschaft mit beschrÃ¤nkter Haftung (Neueintragung). Statutendatum: 14.08.2026. Zweck: Die Gesellschaft bezweckt die Erbringung von Dienstleistungen im Bereich Fensterreinigung sowie der Reinigung von Solarzellen. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle GeschÃ¤fte tÃ¤tigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, verÃ¤ussern und verwalten. Sie kann auch Finanzierungen fÃ¼r eigene oder fremde Rechnung vornehmen sowie Garantien und BÃ¼rgschaften fÃ¼r Tochtergesellschaften und Dritte eingehen. Stammkapital: CHF 20&apos;000.00. Nebenleistungspflichten, Vorhand-, Vorkaufs- oder Kaufsrechte gemÃ¤ss nÃ¤herer Umschreibung in den Statuten. Publikationsorgan: SHAB. Mitteilungen an die Gesellschafter erfolgen per Brief oder E-Mail. GemÃ¤ss ErklÃ¤rung bei der GrÃ¼ndung der Gesellschaft wird auf eine eingeschrÃ¤nkte Revision verzichtet. Eingetragene Personen: Kienast, Mathias Beno, von Winterthur, in Frauenfeld, Gesellschafter und Vorsitzender der GeschÃ¤ftsfÃ¼hrung, mit Kollektivunterschrift zu zweien, mit 80 Stammanteilen zu je CHF 100.00; Kienast, Simon Wolfgang, von Winterthur, in Frauenfeld, Gesellschafter und GeschÃ¤ftsfÃ¼hrer, mit Kollektivunterschrift zu zweien, mit 60 Stammanteilen zu je CHF 100.00; Markaj, Raimond, von Sulgen, in Weinfelden, Gesellschafter und GeschÃ¤ftsfÃ¼hrer, mit Kollektivunterschrift zu zweien, mit 60 Stammanteilen zu je CHF 100.00.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Klarsicht Kienast GmbH",
+        "ehraid": 1768912,
+        "uid": "CHE154862983",
+        "chid": "CH44040449167",
+        "legalSeatId": 4566,
+        "legalSeat": "Frauenfeld",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-09-24",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "895546569b6a80437564d750",
+    "publication_date": "2026-09-24",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-09-24 | ZH | 2026-09-21 | <FT TYPE=\"N\">NLETIX GmbH</FT>, in <FT TYPE=\"5\">Obfelden</FT>, <FT TYPE=\"A\">CHE-316.260.488</FT>, c/o Claudia Irene Gerwig Hammami, Gugelrebenstrasse 15, 8912 Obfelden, Gesellschaft mit beschrÃ¤nkter Haftung (Neueintragung). Statutendatum: 11.09.2026. Zweck: Die Gesellschaft bezweckt das FÃ¼hren eines Kompetenzzentrums fÃ¼r Sport, insbesondere in den Bereichen Functional Training, Neuro Training, Personal Training und Obstacle Course Racing (OCR)-Training, die DurchfÃ¼hrung von Workshops und Seminaren sowie das Anbieten von Leistungs- und Bewegungsdiagnostiken. Die Gesellschaft kann zudem Handel und Verkauf von Produkten aller Art im Sportbereich betreiben. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle GeschÃ¤fte tÃ¤tigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, verÃ¤ussern und verwalten. Sie kann auch Finanzierungen fÃ¼r eigene oder fremde Rechnung vornehmen sowie Sicherheiten fÃ¼r Verbindlichkeiten verbundener Gesellschaften abgeben. Stammkapital: CHF 20&apos;000.00. Publikationsorgan: SHAB. Mitteilungen der GeschÃ¤ftsfÃ¼hrung an die Gesellschafter erfolgen per Brief oder E-Mail an die im Anteilbuch verzeichneten Adressen. GemÃ¤ss ErklÃ¤rung bei der GrÃ¼ndung der Gesellschaft wird auf eine eingeschrÃ¤nkte Revision verzichtet. Eingetragene Personen: Gerwig, Nicola Andrea Peter, von Basel, in Winterthur, Gesellschafter und Vorsitzender der GeschÃ¤ftsfÃ¼hrung, mit Einzelunterschrift, mit 200 Stammanteilen zu je CHF 100.00; Gerwig, Ilirjana, von Weinfelden, in Winterthur, GeschÃ¤ftsfÃ¼hrerin, mit Einzelunterschrift. | status | status.neu | NLETIX GmbH | CHE316260488 | CH02040935647 | Obfelden | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liabi",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "02040935647"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-09-24",
+        "sogcId": 1006764374,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 44164,
+        "registryOfCommerceJournalDate": "2026-09-21",
+        "message": "<FT TYPE=\"N\">NLETIX GmbH</FT>, in <FT TYPE=\"5\">Obfelden</FT>, <FT TYPE=\"A\">CHE-316.260.488</FT>, c/o Claudia Irene Gerwig Hammami, Gugelrebenstrasse 15, 8912 Obfelden, Gesellschaft mit beschrÃ¤nkter Haftung (Neueintragung). Statutendatum: 11.09.2026. Zweck: Die Gesellschaft bezweckt das FÃ¼hren eines Kompetenzzentrums fÃ¼r Sport, insbesondere in den Bereichen Functional Training, Neuro Training, Personal Training und Obstacle Course Racing (OCR)-Training, die DurchfÃ¼hrung von Workshops und Seminaren sowie das Anbieten von Leistungs- und Bewegungsdiagnostiken. Die Gesellschaft kann zudem Handel und Verkauf von Produkten aller Art im Sportbereich betreiben. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle GeschÃ¤fte tÃ¤tigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, verÃ¤ussern und verwalten. Sie kann auch Finanzierungen fÃ¼r eigene oder fremde Rechnung vornehmen sowie Sicherheiten fÃ¼r Verbindlichkeiten verbundener Gesellschaften abgeben. Stammkapital: CHF 20&apos;000.00. Publikationsorgan: SHAB. Mitteilungen der GeschÃ¤ftsfÃ¼hrung an die Gesellschafter erfolgen per Brief oder E-Mail an die im Anteilbuch verzeichneten Adressen. GemÃ¤ss ErklÃ¤rung bei der GrÃ¼ndung der Gesellschaft wird auf eine eingeschrÃ¤nkte Revision verzichtet. Eingetragene Personen: Gerwig, Nicola Andrea Peter, von Basel, in Winterthur, Gesellschafter und Vorsitzender der GeschÃ¤ftsfÃ¼hrung, mit Einzelunterschrift, mit 200 Stammanteilen zu je CHF 100.00; Gerwig, Ilirjana, von Weinfelden, in Winterthur, GeschÃ¤ftsfÃ¼hrerin, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "NLETIX GmbH",
+        "ehraid": 1768888,
+        "uid": "CHE316260488",
+        "chid": "CH02040935647",
+        "legalSeatId": 10,
+        "legalSeat": "Obfelden",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-09-24",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "fa4746ffd6f19a6b3e60cff7",
+    "publication_date": "2026-09-24",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-09-24 | SG | 2026-09-21 | <FT TYPE=\"F\">Parking Wattwil AG</FT>, in <FT TYPE=\"S\">Wattwil</FT>, <FT TYPE=\"A\">CHE-399.913.810</FT>, Aktiengesellschaft (SHAB Nr. 231 vom 28.11.2025, Publ. 1006497739). Ausgeschiedene Personen und erloschene Unterschriften: Hutter Chalmers, Manuela, von Diepoldsau, in Wittenbach, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien. Eingetragene Personen neu oder mutierend: BrÃ¶nnimann, Marcel, von Wald (BE), in Warth (Warth-Weiningen), Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien. | aenderungorgane | Parking Wattwil AG | CHE399913810 | CH32030693118 | Wattwil | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-09-24",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006497739)",
+      "030693118"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-09-24",
+        "sogcId": 1006765107,
+        "registryOfCommerceId": 320,
+        "registryOfCommerceCanton": "SG",
+        "registryOfCommerceJournalId": 11001,
+        "registryOfCommerceJournalDate": "2026-09-21",
+        "message": "<FT TYPE=\"F\">Parking Wattwil AG</FT>, in <FT TYPE=\"S\">Wattwil</FT>, <FT TYPE=\"A\">CHE-399.913.810</FT>, Aktiengesellschaft (SHAB Nr. 231 vom 28.11.2025, Publ. 1006497739). Ausgeschiedene Personen und erloschene Unterschriften: Hutter Chalmers, Manuela, von Diepoldsau, in Wittenbach, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien. Eingetragene Personen neu oder mutierend: BrÃ¶nnimann, Marcel, von Wald (BE), in Warth (Warth-Weiningen), Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Parking Wattwil AG",
+        "ehraid": 1020359,
+        "uid": "CHE399913810",
+        "chid": "CH32030693118",
+        "legalSeatId": 3379,
+        "legalSeat": "Wattwil",
+        "registryOfCommerceId": 320,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-09-24",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "2220ca77404c146e637fd6c9",
+    "publication_date": "2026-09-24",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-09-24 | TG | 2026-09-21 | <FT TYPE=\"F\">Renergon International AG</FT>, in <FT TYPE=\"S\">Lengwil</FT>, <FT TYPE=\"A\">CHE-115.418.024</FT>, Aktiengesellschaft (SHAB Nr. 212 vom 03.11.2025, Publ. 1006474032). Ausgeschiedene Personen und erloschene Unterschriften: Keller, Dr. Roland, von Weinfelden, in TÃ¤gerwilen, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien. Eingetragene Personen neu oder mutierend: Restle, Karl-Heinz, deutscher StaatsangehÃ¶riger, in Arbon, Mitglied des Verwaltungsrates, Vorsitzender der GeschÃ¤ftsleitung, mit Einzelunterschrift [bisher: Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien]. | aenderungorgane | Renergon International AG | CHE115418024 | CH44030229002 | Lengwil | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-09-24",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006474032)",
+      "030229002"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-09-24",
+        "sogcId": 1006765270,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 5980,
+        "registryOfCommerceJournalDate": "2026-09-21",
+        "message": "<FT TYPE=\"F\">Renergon International AG</FT>, in <FT TYPE=\"S\">Lengwil</FT>, <FT TYPE=\"A\">CHE-115.418.024</FT>, Aktiengesellschaft (SHAB Nr. 212 vom 03.11.2025, Publ. 1006474032). Ausgeschiedene Personen und erloschene Unterschriften: Keller, Dr. Roland, von Weinfelden, in TÃ¤gerwilen, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien. Eingetragene Personen neu oder mutierend: Restle, Karl-Heinz, deutscher StaatsangehÃ¶riger, in Arbon, Mitglied des Verwaltungsrates, Vorsitzender der GeschÃ¤ftsleitung, mit Einzelunterschrift [bisher: Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien].",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Renergon International AG",
+        "ehraid": 971447,
+        "uid": "CHE115418024",
+        "chid": "CH44030229002",
+        "legalSeatId": 4683,
+        "legalSeat": "Lengwil",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-09-24",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "aa2ff98cabeae0f0469c3d17",
+    "publication_date": "2026-09-24",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-09-24 | VS | 2026-09-21 | <FT TYPE=\"N\">Ribeiro Da Silva De Simone AdÃ©lia La Louve</FT>, Ã  <FT TYPE=\"5\">Martigny</FT>, <FT TYPE=\"A\">CHE-204.275.815</FT>, Rue des CÃ¨dres 9, 1920 Martigny, entreprise individuelle (Nouvelle inscription). But de l&apos;entreprise: exploitation d&apos;un bar, snack et petite restauration (vente de boissons alcoolisÃ©es, minÃ©rales, cafÃ©tÃ©ria, spiritueux). Personne(s) inscrite(s): Ribeiro Da Silva De Simone, AdÃ©lia, citoyenne brÃ©silienne, Ã  Martigny, titulaire, avec signature individuelle. | status | status.neu | Ribeiro Da Silva De Simone Adélia La Louve | CHE204275815 | CH62110123689 | Martigny | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-09-24",
+    "categories": [
+      "allgemein",
+      "spirituosen"
+    ],
+    "confidence": 95,
+    "contact_names": [],
+    "emails": [],
+    "phones": [],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": []
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-09-24",
+        "sogcId": 1006765355,
+        "registryOfCommerceId": 621,
+        "registryOfCommerceCanton": "VS",
+        "registryOfCommerceJournalId": 3648,
+        "registryOfCommerceJournalDate": "2026-09-21",
+        "message": "<FT TYPE=\"N\">Ribeiro Da Silva De Simone AdÃ©lia La Louve</FT>, Ã  <FT TYPE=\"5\">Martigny</FT>, <FT TYPE=\"A\">CHE-204.275.815</FT>, Rue des CÃ¨dres 9, 1920 Martigny, entreprise individuelle (Nouvelle inscription). But de l&apos;entreprise: exploitation d&apos;un bar, snack et petite restauration (vente de boissons alcoolisÃ©es, minÃ©rales, cafÃ©tÃ©ria, spiritueux). Personne(s) inscrite(s): Ribeiro Da Silva De Simone, AdÃ©lia, citoyenne brÃ©silienne, Ã  Martigny, titulaire, avec signature individuelle.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Ribeiro Da Silva De Simone Adélia La Louve",
+        "ehraid": 1768996,
+        "uid": "CHE204275815",
+        "chid": "CH62110123689",
+        "legalSeatId": 6136,
+        "legalSeat": "Martigny",
+        "registryOfCommerceId": 621,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-09-24",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "c89093a443a4db582e9736fd",
+    "publication_date": "2026-09-24",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-09-24 | ZG | 2026-09-21 | <FT TYPE=\"F\">SteelcoBelimed AG</FT>, in <FT TYPE=\"S\">Zug</FT>, <FT TYPE=\"A\">CHE-427.837.783</FT>, Aktiengesellschaft (SHAB Nr. 150 vom 06.08.2026, Publ. 1006725531). Ausgeschiedene Personen und erloschene Unterschriften: Engeli, Simon, von Berg (TG), in Weinfelden, Zeichnungsberechtigter, mit Kollektivunterschrift zu zweien. | aenderungorgane | SteelcoBelimed AG | CHE427837783 | CH17030498238 | Zug | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-09-24",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006725531)",
+      "030498238"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-09-24",
+        "sogcId": 1006764891,
+        "registryOfCommerceId": 170,
+        "registryOfCommerceCanton": "ZG",
+        "registryOfCommerceJournalId": 18380,
+        "registryOfCommerceJournalDate": "2026-09-21",
+        "message": "<FT TYPE=\"F\">SteelcoBelimed AG</FT>, in <FT TYPE=\"S\">Zug</FT>, <FT TYPE=\"A\">CHE-427.837.783</FT>, Aktiengesellschaft (SHAB Nr. 150 vom 06.08.2026, Publ. 1006725531). Ausgeschiedene Personen und erloschene Unterschriften: Engeli, Simon, von Berg (TG), in Weinfelden, Zeichnungsberechtigter, mit Kollektivunterschrift zu zweien.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "SteelcoBelimed AG",
+        "ehraid": 1643898,
+        "uid": "CHE427837783",
+        "chid": "CH17030498238",
+        "legalSeatId": 1711,
+        "legalSeat": "Zug",
+        "registryOfCommerceId": 170,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-09-24",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "c32b3d79ab202bd3be8be314",
+    "publication_date": "2026-09-24",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-09-24 | BS | 2026-09-21 | <FT TYPE=\"N\">The Taste Society GmbH</FT>, in <FT TYPE=\"5\">Basel</FT>, <FT TYPE=\"A\">CHE-464.049.956</FT>, c/o Kayhan GÃ¶rÃ§ek, Allschwilerstrasse 106, 4055 Basel, Gesellschaft mit beschrÃ¤nkter Haftung (Neueintragung). Statutendatum: 02.09.2026. Zweck: Die Gesellschaft bezweckt die Erbringung von Dienstleistungen im Bereich der Gastronomie und Eventbewirtschaftung, insbesondere den Betrieb eines mobilen Barservices (Cocktail Catering) fÃ¼r private, geschÃ¤ftliche (Unternehmen, Hotels, Agenturen) und Ã¶ffentliche Veranstaltungen, die Zubereitung, PrÃ¤sentation und den Ausschank von alkoholischen und nicht alkoholischen GetrÃ¤nken, die DurchfÃ¼hrung von Cocktail-Workshops, Schulungen und Kursen, die Organisation und DurchfÃ¼hrung von Spirituosen- und GetrÃ¤nke-Tastings, die Beratung im Bereich Bar-, Event- und GetrÃ¤nkekonzepte sowie die Vermietung und Bereitstellung von Event- und Barinfrastruktur. Die Gesellschaft kann zudem Cateringdienstleistungen im Bereich Speisen und Gastronomie erbringen, den Handel mit Waren aller Art, insbesondere mit GetrÃ¤nken, Spirituosen, BarzubehÃ¶r und Eventequipment betreiben, Marken, Konzepte und (digitale) Produkte entwickeln, vermarkten und lizenzieren, Immobilien erwerben, halten, verwalten und verÃ¤ussern, soweit dies dem Gesellschaftszweck dient und sich an anderen Unternehmen beteiligen sowie gleichartige oder verwandte Unternehmen grÃ¼nden oder Ã¼bernehmen. Die Gesellschaft ist sodann zu allen GeschÃ¤ften und Massnahmen berechtigt, die geeignet sind, den Gesellschaftszweck direkt oder indirekt zu fÃ¶rdern. Stammkapital: CHF 27&apos;000.00. Publikationsorgan: SHAB. Mitteilungen an die Gesellschafter erfolgen durch Briefe, Fax oder E-Mail. GemÃ¤ss ErklÃ¤rung bei der GrÃ¼ndung der Gesellschaft wird auf eine eingeschrÃ¤nkte Revision verzichtet. Eingetragene Personen: GÃ¶rÃ§ek, Kayhan, deutscher StaatsangehÃ¶riger, in Basel, Gesellschafter und GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift, mit 270 Stammant",
+    "categories": [
+      "spirituosen"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "040104957"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-09-24",
+        "sogcId": 1006764997,
+        "registryOfCommerceId": 270,
+        "registryOfCommerceCanton": "BS",
+        "registryOfCommerceJournalId": 6570,
+        "registryOfCommerceJournalDate": "2026-09-21",
+        "message": "<FT TYPE=\"N\">The Taste Society GmbH</FT>, in <FT TYPE=\"5\">Basel</FT>, <FT TYPE=\"A\">CHE-464.049.956</FT>, c/o Kayhan GÃ¶rÃ§ek, Allschwilerstrasse 106, 4055 Basel, Gesellschaft mit beschrÃ¤nkter Haftung (Neueintragung). Statutendatum: 02.09.2026. Zweck: Die Gesellschaft bezweckt die Erbringung von Dienstleistungen im Bereich der Gastronomie und Eventbewirtschaftung, insbesondere den Betrieb eines mobilen Barservices (Cocktail Catering) fÃ¼r private, geschÃ¤ftliche (Unternehmen, Hotels, Agenturen) und Ã¶ffentliche Veranstaltungen, die Zubereitung, PrÃ¤sentation und den Ausschank von alkoholischen und nicht alkoholischen GetrÃ¤nken, die DurchfÃ¼hrung von Cocktail-Workshops, Schulungen und Kursen, die Organisation und DurchfÃ¼hrung von Spirituosen- und GetrÃ¤nke-Tastings, die Beratung im Bereich Bar-, Event- und GetrÃ¤nkekonzepte sowie die Vermietung und Bereitstellung von Event- und Barinfrastruktur. Die Gesellschaft kann zudem Cateringdienstleistungen im Bereich Speisen und Gastronomie erbringen, den Handel mit Waren aller Art, insbesondere mit GetrÃ¤nken, Spirituosen, BarzubehÃ¶r und Eventequipment betreiben, Marken, Konzepte und (digitale) Produkte entwickeln, vermarkten und lizenzieren, Immobilien erwerben, halten, verwalten und verÃ¤ussern, soweit dies dem Gesellschaftszweck dient und sich an anderen Unternehmen beteiligen sowie gleichartige oder verwandte Unternehmen grÃ¼nden oder Ã¼bernehmen. Die Gesellschaft ist sodann zu allen GeschÃ¤ften und Massnahmen berechtigt, die geeignet sind, den Gesellschaftszweck direkt oder indirekt zu fÃ¶rdern. Stammkapital: CHF 27&apos;000.00. Publikationsorgan: SHAB. Mitteilungen an die Gesellschafter erfolgen durch Briefe, Fax oder E-Mail. GemÃ¤ss ErklÃ¤rung bei der GrÃ¼ndung der Gesellschaft wird auf eine eingeschrÃ¤nkte Revision verzichtet. Eingetragene Personen: GÃ¶rÃ§ek, Kayhan, deutscher StaatsangehÃ¶riger, in Basel, Gesellschafter und GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift, mit 270 Stammanteilen zu je CHF 100.00.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "The Taste Society GmbH",
+        "ehraid": 1768864,
+        "uid": "CHE464049956",
+        "chid": "CH27040104957",
+        "legalSeatId": 2701,
+        "legalSeat": "Basel",
+        "registryOfCommerceId": 270,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-09-24",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "7d88a4d0d1b498077f17285e",
+    "publication_date": "2026-09-24",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-09-24 | ZH | 2026-09-21 | <FT TYPE=\"F\">WOHNBAUGENOSSENSCHAFT DOMUM</FT>, in <FT TYPE=\"S\">DÃ¼bendorf</FT>, <FT TYPE=\"A\">CHE-481.823.786</FT>, Genossenschaft (SHAB Nr. 54 vom 19.03.2026, Publ. 1006600666). Eingetragene Personen neu oder mutierend: Vatrella, Fabian, von RÃ¼thi (SG), in Weinfelden, PrÃ¤sident der Verwaltung, mit Kollektivunterschrift zu zweien [bisher: in MÃ¼llheim]. | aenderungorgane | WOHNBAUGENOSSENSCHAFT DOMUM | CHE481823786 | CH02050005683 | Dübendorf | 0108 | Genossenschaft | Société coopérative | Cooperativa | Cooperative | Gen | Scoop | Scoop | Coop | ACTIVE | 2026-09-24",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006600666)",
+      "02050005683"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-09-24",
+        "sogcId": 1006764549,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 44340,
+        "registryOfCommerceJournalDate": "2026-09-21",
+        "message": "<FT TYPE=\"F\">WOHNBAUGENOSSENSCHAFT DOMUM</FT>, in <FT TYPE=\"S\">DÃ¼bendorf</FT>, <FT TYPE=\"A\">CHE-481.823.786</FT>, Genossenschaft (SHAB Nr. 54 vom 19.03.2026, Publ. 1006600666). Eingetragene Personen neu oder mutierend: Vatrella, Fabian, von RÃ¼thi (SG), in Weinfelden, PrÃ¤sident der Verwaltung, mit Kollektivunterschrift zu zweien [bisher: in MÃ¼llheim].",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "WOHNBAUGENOSSENSCHAFT DOMUM",
+        "ehraid": 1306150,
+        "uid": "CHE481823786",
+        "chid": "CH02050005683",
+        "legalSeatId": 191,
+        "legalSeat": "Dübendorf",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 5,
+          "uid": "0108",
+          "name": {
+            "de": "Genossenschaft",
+            "fr": "Société coopérative",
+            "it": "Cooperativa",
+            "en": "Cooperative"
+          },
+          "shortName": {
+            "de": "Gen",
+            "fr": "Scoop",
+            "it": "Scoop",
+            "en": "Coop"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-09-24",
+        "deletionDate": null
+      }
+    }
+  }
+]
