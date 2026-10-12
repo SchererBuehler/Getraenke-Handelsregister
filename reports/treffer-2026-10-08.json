@@ -1,0 +1,1236 @@
+[
+  {
+    "publication_id": "026c2190a54e3bc694e798c3",
+    "publication_date": "2026-10-08",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-10-08 | ZH | 2026-10-05 | <FT TYPE=\"F\">ALTS-Investments AG</FT>, in <FT TYPE=\"S\">ZÃ¼rich</FT>, <FT TYPE=\"A\">CHE-190.159.141</FT>, Aktiengesellschaft (SHAB Nr. 17 vom 27.01.2025, Publ. 1006238370). Eingetragene Personen neu oder mutierend: Brenner, Lukas, von Weinfelden, in Jonen, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien [bisher: in Thalwil]. | aenderungorgane | ALTS-Investments AG | CHE190159141 | CH40034420394 | Zürich | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-10-08",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006238370)",
+      "0034420394"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-10-08",
+        "sogcId": 1006777282,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 46625,
+        "registryOfCommerceJournalDate": "2026-10-05",
+        "message": "<FT TYPE=\"F\">ALTS-Investments AG</FT>, in <FT TYPE=\"S\">ZÃ¼rich</FT>, <FT TYPE=\"A\">CHE-190.159.141</FT>, Aktiengesellschaft (SHAB Nr. 17 vom 27.01.2025, Publ. 1006238370). Eingetragene Personen neu oder mutierend: Brenner, Lukas, von Weinfelden, in Jonen, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien [bisher: in Thalwil].",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "ALTS-Investments AG",
+        "ehraid": 1287380,
+        "uid": "CHE190159141",
+        "chid": "CH40034420394",
+        "legalSeatId": 261,
+        "legalSeat": "Zürich",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-10-08",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "a8d18215022e23b6cc2e4891",
+    "publication_date": "2026-10-08",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-10-08 | BS | 2026-10-05 | <FT TYPE=\"N\">Ambassador Salvisberg</FT>, in <FT TYPE=\"5\">Basel</FT>, <FT TYPE=\"A\">CHE-224.664.893</FT>, Missionsstrasse 12, 4055 Basel, Einzelunternehmen (Neueintragung). Zweck: Import und Handel mit Wein. Eingetragene Personen: Manuel Christian, Salvisberg, von MÃ¼hleberg, in Basel, Inhaber, mit Einzelunterschrift. | status | status.neu | Ambassador Salvisberg | CHE224664893 | CH27010224443 | Basel | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-10-08",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "010224443"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-10-08",
+        "sogcId": 1006777862,
+        "registryOfCommerceId": 270,
+        "registryOfCommerceCanton": "BS",
+        "registryOfCommerceJournalId": 6915,
+        "registryOfCommerceJournalDate": "2026-10-05",
+        "message": "<FT TYPE=\"N\">Ambassador Salvisberg</FT>, in <FT TYPE=\"5\">Basel</FT>, <FT TYPE=\"A\">CHE-224.664.893</FT>, Missionsstrasse 12, 4055 Basel, Einzelunternehmen (Neueintragung). Zweck: Import und Handel mit Wein. Eingetragene Personen: Manuel Christian, Salvisberg, von MÃ¼hleberg, in Basel, Inhaber, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Ambassador Salvisberg",
+        "ehraid": 1771037,
+        "uid": "CHE224664893",
+        "chid": "CH27010224443",
+        "legalSeatId": 2701,
+        "legalSeat": "Basel",
+        "registryOfCommerceId": 270,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-10-08",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "5b3311f2a3b0bf107d949945",
+    "publication_date": "2026-10-08",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-10-08 | LU | 2026-10-05 | <FT TYPE=\"F\">Bach GmbH</FT>, in <FT TYPE=\"S\">Ruswil</FT>, <FT TYPE=\"A\">CHE-319.494.373</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 130 vom 08.07.2024, Publ. 1006078058). StatutenÃ¤nderung: 01.10.2026. Sitz neu: <FT TYPE=\"5\">Grosswangen</FT>. Domizil neu: Ed.-Huberstrasse 7, 6022 Grosswangen. [Weitere Ã„nderungen berÃ¼hren keine publikationspflichtigen Tatsachen.]. Eingetragene Personen neu oder mutierend: Bach, Larissa, von Weinfelden, in Grosswangen, Gesellschafterin und GeschÃ¤ftsfÃ¼hrerin, mit Einzelunterschrift, mit 20 Stammanteilen zu je CHF 1&apos;000.00 [bisher: in Ruswil]. | adressaenderung | aenderungorgane | Bach GmbH | CHE319494373 | CH10048192678 | Grosswangen | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-10-08",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006078058)",
+      "0048192678"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-10-08",
+        "sogcId": 1006777568,
+        "registryOfCommerceId": 100,
+        "registryOfCommerceCanton": "LU",
+        "registryOfCommerceJournalId": 10461,
+        "registryOfCommerceJournalDate": "2026-10-05",
+        "message": "<FT TYPE=\"F\">Bach GmbH</FT>, in <FT TYPE=\"S\">Ruswil</FT>, <FT TYPE=\"A\">CHE-319.494.373</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 130 vom 08.07.2024, Publ. 1006078058). StatutenÃ¤nderung: 01.10.2026. Sitz neu: <FT TYPE=\"5\">Grosswangen</FT>. Domizil neu: Ed.-Huberstrasse 7, 6022 Grosswangen. [Weitere Ã„nderungen berÃ¼hren keine publikationspflichtigen Tatsachen.]. Eingetragene Personen neu oder mutierend: Bach, Larissa, von Weinfelden, in Grosswangen, Gesellschafterin und GeschÃ¤ftsfÃ¼hrerin, mit Einzelunterschrift, mit 20 Stammanteilen zu je CHF 1&apos;000.00 [bisher: in Ruswil].",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          },
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Bach GmbH",
+        "ehraid": 1647749,
+        "uid": "CHE319494373",
+        "chid": "CH10048192678",
+        "legalSeatId": 1086,
+        "legalSeat": "Grosswangen",
+        "registryOfCommerceId": 100,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-10-08",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "26cecb3f087b352708b9788f",
+    "publication_date": "2026-10-08",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-10-08 | TG | 2026-10-05 | <FT TYPE=\"F\">Bera Montage GmbH</FT>, in <FT TYPE=\"S\">Zihlschlacht-Sitterdorf</FT>, <FT TYPE=\"A\">CHE-139.125.937</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 239 vom 10.12.2025, Publ. 1006509231). Firma neu: <FT TYPE=\"N\">Bera Montage GmbH in Liquidation</FT>. Mit Entscheid des Bezirksgerichts Weinfelden vom 02.10.2026, mit Wirkung ab dem 02.10.2026, 9.15 Uhr, wurde Ã¼ber die Gesellschaft der Konkurs erÃ¶ffnet. Demnach ist die Gesellschaft aufgelÃ¶st. | status | status.aufl | status.aufl.konk | Bera Montage GmbH in Liquidation | CHE139125937 | CH44040397327 | Zihlschlacht-Sitterdorf | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | BEING_CANCELLED | 2026-10-08",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006509231)",
+      "040397327"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-10-08",
+        "sogcId": 1006778074,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 6248,
+        "registryOfCommerceJournalDate": "2026-10-05",
+        "message": "<FT TYPE=\"F\">Bera Montage GmbH</FT>, in <FT TYPE=\"S\">Zihlschlacht-Sitterdorf</FT>, <FT TYPE=\"A\">CHE-139.125.937</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 239 vom 10.12.2025, Publ. 1006509231). Firma neu: <FT TYPE=\"N\">Bera Montage GmbH in Liquidation</FT>. Mit Entscheid des Bezirksgerichts Weinfelden vom 02.10.2026, mit Wirkung ab dem 02.10.2026, 9.15 Uhr, wurde Ã¼ber die Gesellschaft der Konkurs erÃ¶ffnet. Demnach ist die Gesellschaft aufgelÃ¶st.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 3,
+            "key": "status.aufl"
+          },
+          {
+            "id": 5,
+            "key": "status.aufl.konk"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Bera Montage GmbH in Liquidation",
+        "ehraid": 1582176,
+        "uid": "CHE139125937",
+        "chid": "CH44040397327",
+        "legalSeatId": 4511,
+        "legalSeat": "Zihlschlacht-Sitterdorf",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "BEING_CANCELLED",
+        "sogcDate": "2026-10-08",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "d769615ad67baee17ed3ee81",
+    "publication_date": "2026-10-08",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-10-08 | AG | 2026-10-05 | <FT TYPE=\"F\">Binga GmbH</FT>, in <FT TYPE=\"S\">Reinach (AG)</FT>, <FT TYPE=\"A\">CHE-172.988.174</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 156 vom 13.08.2021, Publ. 1005270721). StatutenÃ¤nderung: 10.09.2026. 22.09.2026. Sitz neu: <FT TYPE=\"5\">Seon</FT>. Domizil neu: Brauereiweg 2, 5703 Seon. Zweck neu: Die Gesellschaft bezweckt den Handel mit Fahrzeugen aller Art sowie mit Ersatzteilen und ZubehÃ¶r, die Reparatur, den Service und die Aufbereitung von Fahrzeugen einschliesslich Carrosserie- und Dellenreparaturarbeiten (Smart Repair), den Handel mit sowie die Aufbereitung (Refurbishment) und Reparatur von Computern und ElektronikgerÃ¤ten, die Erbringung von IT-Dienstleistungen, den Textildruck, den Betrieb von Online-Shops sowie den Handel mit Waren aller Art und die Erbringung damit zusammenhÃ¤ngender Dienstleistungen. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle GeschÃ¤fte tÃ¤tigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, verÃ¤ussern und verwalten. Sie kann auch Finanzierungen fÃ¼r eigene oder fremde Rechnung vornehmen sowie Garantien und BÃ¼rgschaften fÃ¼r Tochtergesellschaften und Dritte eingehen. Mitteilungen neu: Mitteilungen der GeschÃ¤ftsfÃ¼hrung an die Gesellschafter erfolgen per Brief oder E-Mail an die im Anteilbuch verzeichneten Adressen. | zweckaenderung | adressaenderung | Binga GmbH | CHE172988174 | CH40044497411 | Seon | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-10-08",
+    "categories": [
+      "bier"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "005270721)",
+      "09.2026. 22.09.202",
+      "0044497411"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-10-08",
+        "sogcId": 1006778022,
+        "registryOfCommerceId": 400,
+        "registryOfCommerceCanton": "AG",
+        "registryOfCommerceJournalId": 14256,
+        "registryOfCommerceJournalDate": "2026-10-05",
+        "message": "<FT TYPE=\"F\">Binga GmbH</FT>, in <FT TYPE=\"S\">Reinach (AG)</FT>, <FT TYPE=\"A\">CHE-172.988.174</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 156 vom 13.08.2021, Publ. 1005270721). StatutenÃ¤nderung: 10.09.2026. 22.09.2026. Sitz neu: <FT TYPE=\"5\">Seon</FT>. Domizil neu: Brauereiweg 2, 5703 Seon. Zweck neu: Die Gesellschaft bezweckt den Handel mit Fahrzeugen aller Art sowie mit Ersatzteilen und ZubehÃ¶r, die Reparatur, den Service und die Aufbereitung von Fahrzeugen einschliesslich Carrosserie- und Dellenreparaturarbeiten (Smart Repair), den Handel mit sowie die Aufbereitung (Refurbishment) und Reparatur von Computern und ElektronikgerÃ¤ten, die Erbringung von IT-Dienstleistungen, den Textildruck, den Betrieb von Online-Shops sowie den Handel mit Waren aller Art und die Erbringung damit zusammenhÃ¤ngender Dienstleistungen. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle GeschÃ¤fte tÃ¤tigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, verÃ¤ussern und verwalten. Sie kann auch Finanzierungen fÃ¼r eigene oder fremde Rechnung vornehmen sowie Garantien und BÃ¼rgschaften fÃ¼r Tochtergesellschaften und Dritte eingehen. Mitteilungen neu: Mitteilungen der GeschÃ¤ftsfÃ¼hrung an die Gesellschafter erfolgen per Brief oder E-Mail an die im Anteilbuch verzeichneten Adressen.",
+        "mutationTypes": [
+          {
+            "id": 11,
+            "key": "zweckaenderung"
+          },
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Binga GmbH",
+        "ehraid": 1499568,
+        "uid": "CHE172988174",
+        "chid": "CH40044497411",
+        "legalSeatId": 4209,
+        "legalSeat": "Seon",
+        "registryOfCommerceId": 400,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-10-08",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "8bbdcb008715cfa586763596",
+    "publication_date": "2026-10-08",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-10-08 | TI | 2026-10-05 | <FT TYPE=\"F\">Chill &amp; Drink Sagl</FT>, in <FT TYPE=\"S\">Bellinzona</FT>, <FT TYPE=\"A\">CHE-355.741.745</FT>, societÃ  a garanzia limitata (Nr. FUSC 166 del 29.08.2025, Pubbl. 1006420582). Nuova ditta: <FT TYPE=\"N\">Chill &amp; Drink Sagl in liquidazione</FT>. La societÃ  Ã¨ sciolta con decisione dell&apos;assemblea dei soci del 22.09.2026. Nuove persone iscritte o modifiche: Biaggini, Enea, da Bellinzona, in Bellinzona, socio e gerente, liquidatore, con firma individuale, con 500 quote da CHF 100.00 [finora: socio e gerente, con firma individuale]. | status | status.aufl | status.aufl.liq | aenderungorgane | Chill & Drink Sagl in liquidazione | CHE355741745 | CH50140283205 | Bellinzona | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | BEING_CANCELLED | 2026-10-08",
+    "categories": [
+      "allgemein"
+    ],
+    "confidence": 60,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006420582)",
+      "0140283205"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-10-08",
+        "sogcId": 1006778120,
+        "registryOfCommerceId": 501,
+        "registryOfCommerceCanton": "TI",
+        "registryOfCommerceJournalId": 14022,
+        "registryOfCommerceJournalDate": "2026-10-05",
+        "message": "<FT TYPE=\"F\">Chill &amp; Drink Sagl</FT>, in <FT TYPE=\"S\">Bellinzona</FT>, <FT TYPE=\"A\">CHE-355.741.745</FT>, societÃ  a garanzia limitata (Nr. FUSC 166 del 29.08.2025, Pubbl. 1006420582). Nuova ditta: <FT TYPE=\"N\">Chill &amp; Drink Sagl in liquidazione</FT>. La societÃ  Ã¨ sciolta con decisione dell&apos;assemblea dei soci del 22.09.2026. Nuove persone iscritte o modifiche: Biaggini, Enea, da Bellinzona, in Bellinzona, socio e gerente, liquidatore, con firma individuale, con 500 quote da CHF 100.00 [finora: socio e gerente, con firma individuale].",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 3,
+            "key": "status.aufl"
+          },
+          {
+            "id": 4,
+            "key": "status.aufl.liq"
+          },
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Chill & Drink Sagl in liquidazione",
+        "ehraid": 1598963,
+        "uid": "CHE355741745",
+        "chid": "CH50140283205",
+        "legalSeatId": 5002,
+        "legalSeat": "Bellinzona",
+        "registryOfCommerceId": 501,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "BEING_CANCELLED",
+        "sogcDate": "2026-10-08",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "f8119aa1c0551cf8905d009e",
+    "publication_date": "2026-10-08",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-10-08 | GE | 2026-10-05 | <FT TYPE=\"F\">Easy Drink Family SÃ rl, en liquidation</FT>, Ã  <FT TYPE=\"S\">Carouge (GE)</FT>, <FT TYPE=\"A\">CHE-225.356.425</FT> (FOSC du 09.09.2026, p. 0/1006752598). Par dÃ©cision du juge du Tribunal de premiÃ¨re instance du 27.08.2026, la sociÃ©tÃ© a Ã©tÃ© dissoute conformÃ©ment Ã  l&apos;art. 731b CO; sa liquidation a Ã©tÃ© ordonnÃ©e selon les dispositions applicables Ã  la faillite. | status | status.aufl | status.aufl.liq | Easy Drink Family Sàrl en liquidation | CHE225356425 | CH66011000133 | Carouge (GE) | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | BEING_CANCELLED | 2026-10-08",
+    "categories": [
+      "allgemein"
+    ],
+    "confidence": 60,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006752598)",
+      "011000133"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-10-08",
+        "sogcId": 1006778454,
+        "registryOfCommerceId": 660,
+        "registryOfCommerceCanton": "GE",
+        "registryOfCommerceJournalId": 24708,
+        "registryOfCommerceJournalDate": "2026-10-05",
+        "message": "<FT TYPE=\"F\">Easy Drink Family SÃ rl, en liquidation</FT>, Ã  <FT TYPE=\"S\">Carouge (GE)</FT>, <FT TYPE=\"A\">CHE-225.356.425</FT> (FOSC du 09.09.2026, p. 0/1006752598). Par dÃ©cision du juge du Tribunal de premiÃ¨re instance du 27.08.2026, la sociÃ©tÃ© a Ã©tÃ© dissoute conformÃ©ment Ã  l&apos;art. 731b CO; sa liquidation a Ã©tÃ© ordonnÃ©e selon les dispositions applicables Ã  la faillite.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 3,
+            "key": "status.aufl"
+          },
+          {
+            "id": 4,
+            "key": "status.aufl.liq"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Easy Drink Family Sàrl en liquidation",
+        "ehraid": 1137495,
+        "uid": "CHE225356425",
+        "chid": "CH66011000133",
+        "legalSeatId": 6608,
+        "legalSeat": "Carouge (GE)",
+        "registryOfCommerceId": 660,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "BEING_CANCELLED",
+        "sogcDate": "2026-10-08",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "2e7bd4d0148a996fb734c7fe",
+    "publication_date": "2026-10-08",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-10-08 | ZG | 2026-10-05 | <FT TYPE=\"N\">Freigeist Roasters GmbH</FT>, in <FT TYPE=\"5\">Zug</FT>, <FT TYPE=\"A\">CHE-317.211.937</FT>, Oberallmendstrasse 18, 6300 Zug, Gesellschaft mit beschrÃ¤nkter Haftung (Neueintragung). Statutendatum: 29.09.2026. Zweck: Die Gesellschaft bezweckt den Import, den Einkauf, die Verarbeitung, das RÃ¶sten, die Veredelung, die AbfÃ¼llung, den Vertrieb und den Handel mit Kaffee, Kaffeeprodukten und kaffeehaltigen Erzeugnissen, einschliesslich Functional Coffee sowie verwandter GetrÃ¤nke, Lebensmittel und Zutaten; den Betrieb einer RÃ¶sterei; den Online- und stationÃ¤ren Handel; die Entwicklung, Herstellung und den Vertrieb eigener Rezepturen, Marken und Verpackungen; die Lizenzierung und Bewirtschaftung von Marken- und ImmaterialgÃ¼terrechten, namentlich der Marke Â«Freigeist RoastersÂ»; sowie damit zusammenhÃ¤ngende Beratungs-, Schulungs- und Eventdienstleistungen. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle GeschÃ¤fte tÃ¤tigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, verÃ¤ussern und verwalten. Sie kann auch Finanzierungen fÃ¼r eigene oder fremde Rechnung vornehmen sowie Garantien und BÃ¼rgschaften fÃ¼r Tochtergesellschaften und Dritte eingehen. Stammkapital: CHF 35&apos;000.00. Publikationsorgan: SHAB. Mitteilungen der GeschÃ¤ftsfÃ¼hrung an die Gesellschafter erfolgen per Brief oder E-Mail an die im Anteilbuch verzeichneten Adressen. GemÃ¤ss ErklÃ¤rung bei der GrÃ¼ndung der Gesellschaft wird auf eine eingeschrÃ¤nkte Revision verzichtet. Eingetragene Personen: Hecht, Dieter, von Zug, in Oberwil-Lieli, Gesellschafter und GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift, mit 350 Stammanteilen zu je CHF 100.00. | status | status.neu | Freigeist Roasters GmbH | CHE317211937 | CH17040252783 | Zug | 0107 | Gesellschaft mit be",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "040252783"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-10-08",
+        "sogcId": 1006777669,
+        "registryOfCommerceId": 170,
+        "registryOfCommerceCanton": "ZG",
+        "registryOfCommerceJournalId": 19424,
+        "registryOfCommerceJournalDate": "2026-10-05",
+        "message": "<FT TYPE=\"N\">Freigeist Roasters GmbH</FT>, in <FT TYPE=\"5\">Zug</FT>, <FT TYPE=\"A\">CHE-317.211.937</FT>, Oberallmendstrasse 18, 6300 Zug, Gesellschaft mit beschrÃ¤nkter Haftung (Neueintragung). Statutendatum: 29.09.2026. Zweck: Die Gesellschaft bezweckt den Import, den Einkauf, die Verarbeitung, das RÃ¶sten, die Veredelung, die AbfÃ¼llung, den Vertrieb und den Handel mit Kaffee, Kaffeeprodukten und kaffeehaltigen Erzeugnissen, einschliesslich Functional Coffee sowie verwandter GetrÃ¤nke, Lebensmittel und Zutaten; den Betrieb einer RÃ¶sterei; den Online- und stationÃ¤ren Handel; die Entwicklung, Herstellung und den Vertrieb eigener Rezepturen, Marken und Verpackungen; die Lizenzierung und Bewirtschaftung von Marken- und ImmaterialgÃ¼terrechten, namentlich der Marke Â«Freigeist RoastersÂ»; sowie damit zusammenhÃ¤ngende Beratungs-, Schulungs- und Eventdienstleistungen. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle GeschÃ¤fte tÃ¤tigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, verÃ¤ussern und verwalten. Sie kann auch Finanzierungen fÃ¼r eigene oder fremde Rechnung vornehmen sowie Garantien und BÃ¼rgschaften fÃ¼r Tochtergesellschaften und Dritte eingehen. Stammkapital: CHF 35&apos;000.00. Publikationsorgan: SHAB. Mitteilungen der GeschÃ¤ftsfÃ¼hrung an die Gesellschafter erfolgen per Brief oder E-Mail an die im Anteilbuch verzeichneten Adressen. GemÃ¤ss ErklÃ¤rung bei der GrÃ¼ndung der Gesellschaft wird auf eine eingeschrÃ¤nkte Revision verzichtet. Eingetragene Personen: Hecht, Dieter, von Zug, in Oberwil-Lieli, Gesellschafter und GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift, mit 350 Stammanteilen zu je CHF 100.00.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Freigeist Roasters GmbH",
+        "ehraid": 1771100,
+        "uid": "CHE317211937",
+        "chid": "CH17040252783",
+        "legalSeatId": 1711,
+        "legalSeat": "Zug",
+        "registryOfCommerceId": 170,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-10-08",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "a6bb5eda954a35c7a2e6b34e",
+    "publication_date": "2026-10-08",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-10-08 | ZG | 2026-10-05 | <FT TYPE=\"F\">GOWORLD AG</FT>, in <FT TYPE=\"S\">Zug</FT>, <FT TYPE=\"A\">CHE-105.254.850</FT>, Aktiengesellschaft (SHAB Nr. 169 vom 02.09.2024, Publ. 1006119345). Ausgeschiedene Personen und erloschene Unterschriften: Weinberg, Sascha Christian, deutscher StaatsangehÃ¶riger, in Hedingen, Zeichnungsberechtigter, mit Einzelunterschrift. | aenderungorgane | GOWORLD AG | CHE105254850 | CH40040208489 | Zug | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-10-08",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006119345)",
+      "0040208489"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-10-08",
+        "sogcId": 1006777717,
+        "registryOfCommerceId": 170,
+        "registryOfCommerceCanton": "ZG",
+        "registryOfCommerceJournalId": 19472,
+        "registryOfCommerceJournalDate": "2026-10-05",
+        "message": "<FT TYPE=\"F\">GOWORLD AG</FT>, in <FT TYPE=\"S\">Zug</FT>, <FT TYPE=\"A\">CHE-105.254.850</FT>, Aktiengesellschaft (SHAB Nr. 169 vom 02.09.2024, Publ. 1006119345). Ausgeschiedene Personen und erloschene Unterschriften: Weinberg, Sascha Christian, deutscher StaatsangehÃ¶riger, in Hedingen, Zeichnungsberechtigter, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "GOWORLD AG",
+        "ehraid": 469162,
+        "uid": "CHE105254850",
+        "chid": "CH40040208489",
+        "legalSeatId": 1711,
+        "legalSeat": "Zug",
+        "registryOfCommerceId": 170,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-10-08",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "20c574b8b0affafd13992024",
+    "publication_date": "2026-10-08",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-10-08 | JU | 2026-10-05 | <FT TYPE=\"N\">Le Barrage CafÃ©-Bar SÃ rl</FT>, Ã  <FT TYPE=\"5\">CourtÃ©telle</FT>, <FT TYPE=\"A\">CHE-478.624.401</FT>, Rue de l&apos;Eglise 5, 2852 CourtÃ©telle, sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e (Nouvelle inscription). Date des statuts: 01.10.2026. But: Exploitation d&apos;un bar-restaurant et commerce de denrÃ©es alimentaires, de produits de consommation courante et de marchandises diverses. La sociÃ©tÃ© peut Ã©galement organiser et rÃ©aliser des Ã©vÃ©nements et manifestations en tout genre pour des privÃ©s et des entreprises. Capital social: CHF 20&apos;000.00. prestations accessoires, droits de prÃ©fÃ©rence, de prÃ©emption ou d&apos;emption: selon statuts. Organe de publication: FOSC. Communications aux associÃ©s: par Ã©crit ou par courriel. Selon dÃ©claration Ã  la constitution de la sociÃ©tÃ©, il est renoncÃ© Ã  un contrÃ´le restreint. Personne(s) inscrite(s): Comte, SÃ©bastien EugÃ¨ne, de CourtÃ©telle, Ã  CourtÃ©telle, associÃ© et gÃ©rant, avec signature individuelle, pour 200 parts sociales de CHF 100.00; Schwab, Paul CÃ©sar, de Siselen, Ã  CourtÃ©telle, avec signature individuelle. | status | status.neu | Le Barrage Café-Bar Sàrl | CHE478624401 | CH67040109156 | Courtételle | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-10-08",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "040109156"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-10-08",
+        "sogcId": 1006778500,
+        "registryOfCommerceId": 670,
+        "registryOfCommerceCanton": "JU",
+        "registryOfCommerceJournalId": 2098,
+        "registryOfCommerceJournalDate": "2026-10-05",
+        "message": "<FT TYPE=\"N\">Le Barrage CafÃ©-Bar SÃ rl</FT>, Ã  <FT TYPE=\"5\">CourtÃ©telle</FT>, <FT TYPE=\"A\">CHE-478.624.401</FT>, Rue de l&apos;Eglise 5, 2852 CourtÃ©telle, sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e (Nouvelle inscription). Date des statuts: 01.10.2026. But: Exploitation d&apos;un bar-restaurant et commerce de denrÃ©es alimentaires, de produits de consommation courante et de marchandises diverses. La sociÃ©tÃ© peut Ã©galement organiser et rÃ©aliser des Ã©vÃ©nements et manifestations en tout genre pour des privÃ©s et des entreprises. Capital social: CHF 20&apos;000.00. prestations accessoires, droits de prÃ©fÃ©rence, de prÃ©emption ou d&apos;emption: selon statuts. Organe de publication: FOSC. Communications aux associÃ©s: par Ã©crit ou par courriel. Selon dÃ©claration Ã  la constitution de la sociÃ©tÃ©, il est renoncÃ© Ã  un contrÃ´le restreint. Personne(s) inscrite(s): Comte, SÃ©bastien EugÃ¨ne, de CourtÃ©telle, Ã  CourtÃ©telle, associÃ© et gÃ©rant, avec signature individuelle, pour 200 parts sociales de CHF 100.00; Schwab, Paul CÃ©sar, de Siselen, Ã  CourtÃ©telle, avec signature individuelle.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Le Barrage Café-Bar Sàrl",
+        "ehraid": 1771040,
+        "uid": "CHE478624401",
+        "chid": "CH67040109156",
+        "legalSeatId": 6710,
+        "legalSeat": "Courtételle",
+        "registryOfCommerceId": 670,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-10-08",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "03817d9dfcf825367577c19d",
+    "publication_date": "2026-10-08",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-10-08 | BE | 2026-10-05 | <FT TYPE=\"F\">Maya CafÃ©-Boutique SÃ rl</FT>, Ã  <FT TYPE=\"S\">Saint-Imier</FT>, <FT TYPE=\"A\">CHE-311.789.617</FT>, sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e (No. FOSC 74 du 18.04.2023, Publ. 1005725989). Nouvelle adresse: La Chaux-d&apos;Abel 43, 2345 Le Cerneux-Veusil. Inscription ou modification de personne(s): Bobillier, Christelle, de Val-de-Travers, Ã  Le Cerneux-Veusil (Saint-Imier), associÃ©e et gÃ©rante, avec signature individuelle, pour 75 parts sociales de CHF 200.00 [prÃ©cÃ©demment: Ã  St-Imier (Saint-Imier)]. | adressaenderung | aenderungorgane | Maya Café-Boutique Sàrl | CHE311789617 | CH03640925345 | Saint-Imier | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-10-08",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "005725989)",
+      "03640925345"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-10-08",
+        "sogcId": 1006777506,
+        "registryOfCommerceId": 36,
+        "registryOfCommerceCanton": "BE",
+        "registryOfCommerceJournalId": 18646,
+        "registryOfCommerceJournalDate": "2026-10-05",
+        "message": "<FT TYPE=\"F\">Maya CafÃ©-Boutique SÃ rl</FT>, Ã  <FT TYPE=\"S\">Saint-Imier</FT>, <FT TYPE=\"A\">CHE-311.789.617</FT>, sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e (No. FOSC 74 du 18.04.2023, Publ. 1005725989). Nouvelle adresse: La Chaux-d&apos;Abel 43, 2345 Le Cerneux-Veusil. Inscription ou modification de personne(s): Bobillier, Christelle, de Val-de-Travers, Ã  Le Cerneux-Veusil (Saint-Imier), associÃ©e et gÃ©rante, avec signature individuelle, pour 75 parts sociales de CHF 200.00 [prÃ©cÃ©demment: Ã  St-Imier (Saint-Imier)].",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          },
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Maya Café-Boutique Sàrl",
+        "ehraid": 1569247,
+        "uid": "CHE311789617",
+        "chid": "CH03640925345",
+        "legalSeatId": 443,
+        "legalSeat": "Saint-Imier",
+        "registryOfCommerceId": 36,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-10-08",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "1fa64024a8c7486e4c6a51a6",
+    "publication_date": "2026-10-08",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-10-08 | BE | 2026-10-05 | <FT TYPE=\"F\">Pectra AG</FT>, in <FT TYPE=\"S\">KÃ¶niz</FT>, <FT TYPE=\"A\">CHE-112.165.134</FT>, Aktiengesellschaft (SHAB Nr. 188 vom 28.09.2020, Publ. 1004986884). Domizil neu: Gurtenbrauerei 12, 3084 Wabern. | adressaenderung | Pectra AG | CHE112165134 | CH03530338611 | Köniz | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-10-08",
+    "categories": [
+      "bier"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "004986884)",
+      "03530338611"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-10-08",
+        "sogcId": 1006777515,
+        "registryOfCommerceId": 36,
+        "registryOfCommerceCanton": "BE",
+        "registryOfCommerceJournalId": 18655,
+        "registryOfCommerceJournalDate": "2026-10-05",
+        "message": "<FT TYPE=\"F\">Pectra AG</FT>, in <FT TYPE=\"S\">KÃ¶niz</FT>, <FT TYPE=\"A\">CHE-112.165.134</FT>, Aktiengesellschaft (SHAB Nr. 188 vom 28.09.2020, Publ. 1004986884). Domizil neu: Gurtenbrauerei 12, 3084 Wabern.",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Pectra AG",
+        "ehraid": 778594,
+        "uid": "CHE112165134",
+        "chid": "CH03530338611",
+        "legalSeatId": 355,
+        "legalSeat": "Köniz",
+        "registryOfCommerceId": 36,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-10-08",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "2549cde21b8ee68153301745",
+    "publication_date": "2026-10-08",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-10-08 | SG | 2026-10-05 | <FT TYPE=\"F\">Quitty AG</FT>, bisher in <FT TYPE=\"S\">Baar</FT>, <FT TYPE=\"A\">CHE-308.785.748</FT>, Aktiengesellschaft (SHAB Nr. 210 vom 29.10.2024, Publ. 1006164977). StatutenÃ¤nderung: 22.09.2026. Sitz neu: <FT TYPE=\"5\">Uznach</FT>. Domizil neu: Brauereistrasse 1a, 8730 Uznach. Mitteilungen neu: Mitteilungen an die AktionÃ¤re erfolgen schriftlich an die im Aktienbuch eingetragene Adresse oder per E-Mail. | adressaenderung | Quitty AG | CHE308785748 | CH17030503067 | Uznach | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-10-08",
+    "categories": [
+      "bier"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006164977)",
+      "030503067"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-10-08",
+        "sogcId": 1006777951,
+        "registryOfCommerceId": 320,
+        "registryOfCommerceCanton": "SG",
+        "registryOfCommerceJournalId": 11566,
+        "registryOfCommerceJournalDate": "2026-10-05",
+        "message": "<FT TYPE=\"F\">Quitty AG</FT>, bisher in <FT TYPE=\"S\">Baar</FT>, <FT TYPE=\"A\">CHE-308.785.748</FT>, Aktiengesellschaft (SHAB Nr. 210 vom 29.10.2024, Publ. 1006164977). StatutenÃ¤nderung: 22.09.2026. Sitz neu: <FT TYPE=\"5\">Uznach</FT>. Domizil neu: Brauereistrasse 1a, 8730 Uznach. Mitteilungen neu: Mitteilungen an die AktionÃ¤re erfolgen schriftlich an die im Aktienbuch eingetragene Adresse oder per E-Mail.",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Quitty AG",
+        "ehraid": 1662652,
+        "uid": "CHE308785748",
+        "chid": "CH17030503067",
+        "legalSeatId": 3339,
+        "legalSeat": "Uznach",
+        "registryOfCommerceId": 320,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-10-08",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "e717d9629fc759f2921db496",
+    "publication_date": "2026-10-08",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-10-08 | ZH | 2026-10-05 | <FT TYPE=\"F\">Romer&apos;s HausbÃ¤ckerei AG, Benken (SG), Zweigniederlassung WÃ¤denswil</FT>, in <FT TYPE=\"S\">WÃ¤denswil</FT>, <FT TYPE=\"A\">CHE-136.394.079</FT>, schweizerische Zweigniederlassung (SHAB Nr. 135 vom 16.07.2026, Publ. 1006708074), Hauptsitz in: Benken (SG). Ausgeschiedene Personen und erloschene Unterschriften: Sommer, Heinz, von Oberglatt, in Lenzburg, Leiter der Zweigniederlassung, mit Einzelunterschrift. Eingetragene Personen neu oder mutierend: Paessens, Lea, von Wartau, in Weiningen (ZH), Leiterin der Zweigniederlassung, mit Einzelunterschrift. | aenderungorgane | Romer's Hausbäckerei AG, Benken (SG), Zweigniederlassung Wädenswil | CHE136394079 | CH02090072635 | Wädenswil | 0151 | Zweigniederlassung | Succursale | Succursale | Branch | ZN | Succ | Succ | Bran | ACTIVE | 2026-10-08",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006708074)",
+      "02090072635"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-10-08",
+        "sogcId": 1006777390,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 46733,
+        "registryOfCommerceJournalDate": "2026-10-05",
+        "message": "<FT TYPE=\"F\">Romer&apos;s HausbÃ¤ckerei AG, Benken (SG), Zweigniederlassung WÃ¤denswil</FT>, in <FT TYPE=\"S\">WÃ¤denswil</FT>, <FT TYPE=\"A\">CHE-136.394.079</FT>, schweizerische Zweigniederlassung (SHAB Nr. 135 vom 16.07.2026, Publ. 1006708074), Hauptsitz in: Benken (SG). Ausgeschiedene Personen und erloschene Unterschriften: Sommer, Heinz, von Oberglatt, in Lenzburg, Leiter der Zweigniederlassung, mit Einzelunterschrift. Eingetragene Personen neu oder mutierend: Paessens, Lea, von Wartau, in Weiningen (ZH), Leiterin der Zweigniederlassung, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Romer's Hausbäckerei AG, Benken (SG), Zweigniederlassung Wädenswil",
+        "ehraid": 1759210,
+        "uid": "CHE136394079",
+        "chid": "CH02090072635",
+        "legalSeatId": 293,
+        "legalSeat": "Wädenswil",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 9,
+          "uid": "0151",
+          "name": {
+            "de": "Zweigniederlassung",
+            "fr": "Succursale",
+            "it": "Succursale",
+            "en": "Branch"
+          },
+          "shortName": {
+            "de": "ZN",
+            "fr": "Succ",
+            "it": "Succ",
+            "en": "Bran"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-10-08",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "8042a657dc77edd7dba05f7a",
+    "publication_date": "2026-10-08",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-10-08 | BE | 2026-10-05 | <FT TYPE=\"F\">UCC COFFEE SWITZERLAND AG</FT>, in <FT TYPE=\"S\">Zollikofen</FT>, <FT TYPE=\"A\">CHE-102.368.492</FT>, Aktiengesellschaft (SHAB Nr. 142 vom 27.07.2026, Publ. 1006716699). Ausgeschiedene Personen und erloschene Unterschriften: Andres, Markus, von Buchegg, in Etzelkofen (Fraubrunnen), mit Kollektivunterschrift zu zweien. Eingetragene Personen neu oder mutierend: Fark, Inaja Samira, von Bettingen, in Zuchwil, mit Kollektivunterschrift zu zweien. | aenderungorgane | UCC COFFEE SWITZERLAND AG | CHE102368492 | CH03530293115 | Zollikofen | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-10-08",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006716699)",
+      "03530293115"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-10-08",
+        "sogcId": 1006777540,
+        "registryOfCommerceId": 36,
+        "registryOfCommerceCanton": "BE",
+        "registryOfCommerceJournalId": 18680,
+        "registryOfCommerceJournalDate": "2026-10-05",
+        "message": "<FT TYPE=\"F\">UCC COFFEE SWITZERLAND AG</FT>, in <FT TYPE=\"S\">Zollikofen</FT>, <FT TYPE=\"A\">CHE-102.368.492</FT>, Aktiengesellschaft (SHAB Nr. 142 vom 27.07.2026, Publ. 1006716699). Ausgeschiedene Personen und erloschene Unterschriften: Andres, Markus, von Buchegg, in Etzelkofen (Fraubrunnen), mit Kollektivunterschrift zu zweien. Eingetragene Personen neu oder mutierend: Fark, Inaja Samira, von Bettingen, in Zuchwil, mit Kollektivunterschrift zu zweien.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "UCC COFFEE SWITZERLAND AG",
+        "ehraid": 612232,
+        "uid": "CHE102368492",
+        "chid": "CH03530293115",
+        "legalSeatId": 361,
+        "legalSeat": "Zollikofen",
+        "registryOfCommerceId": 36,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-10-08",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "8ac26f0800a3e7d5768c3964",
+    "publication_date": "2026-10-08",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-10-08 | TG | 2026-10-05 | <FT TYPE=\"F\">Vorsorgestiftung Sparen 3 der Thurgauer Kantonalbank</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-110.390.476</FT>, Stiftung (SHAB Nr. 68 vom 10.04.2026, Publ. 1006621801). [Aktualisierung der Funktionsbezeichnung.]. Ausgeschiedene Personen und erloschene Unterschriften: Kummer, Daniel, von Seeberg, in Kleinandelfingen, VizeprÃ¤sident des Stiftungsrates, mit Kollektivunterschrift zu zweien. Eingetragene Personen neu oder mutierend: Keller, Francesca, von ZÃ¼rich, in WÃ¤ngi, VizeprÃ¤sidentin des Stiftungsrates, mit Kollektivunterschrift zu zweien; Bucher, Manuel, von Kerns, in Sarnen, Mitglied des Stiftungsrates, mit Kollektivunterschrift zu zweien [bisher: Mitglied, mit Kollektivunterschrift zu zweien]. | aenderungorgane | Vorsorgestiftung Sparen 3 der Thurgauer Kantonalbank | CHE110390476 | CH44070009839 | Weinfelden | 0110 | Stiftung | Fondation | Fondazione | Foundation | Stift | Fond | Fond | Found | ACTIVE | 2026-10-08",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006621801)",
+      "070009839"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-10-08",
+        "sogcId": 1006778090,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 6264,
+        "registryOfCommerceJournalDate": "2026-10-05",
+        "message": "<FT TYPE=\"F\">Vorsorgestiftung Sparen 3 der Thurgauer Kantonalbank</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-110.390.476</FT>, Stiftung (SHAB Nr. 68 vom 10.04.2026, Publ. 1006621801). [Aktualisierung der Funktionsbezeichnung.]. Ausgeschiedene Personen und erloschene Unterschriften: Kummer, Daniel, von Seeberg, in Kleinandelfingen, VizeprÃ¤sident des Stiftungsrates, mit Kollektivunterschrift zu zweien. Eingetragene Personen neu oder mutierend: Keller, Francesca, von ZÃ¼rich, in WÃ¤ngi, VizeprÃ¤sidentin des Stiftungsrates, mit Kollektivunterschrift zu zweien; Bucher, Manuel, von Kerns, in Sarnen, Mitglied des Stiftungsrates, mit Kollektivunterschrift zu zweien [bisher: Mitglied, mit Kollektivunterschrift zu zweien].",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Vorsorgestiftung Sparen 3 der Thurgauer Kantonalbank",
+        "ehraid": 297388,
+        "uid": "CHE110390476",
+        "chid": "CH44070009839",
+        "legalSeatId": 4946,
+        "legalSeat": "Weinfelden",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 7,
+          "uid": "0110",
+          "name": {
+            "de": "Stiftung",
+            "fr": "Fondation",
+            "it": "Fondazione",
+            "en": "Foundation"
+          },
+          "shortName": {
+            "de": "Stift",
+            "fr": "Fond",
+            "it": "Fond",
+            "en": "Found"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-10-08",
+        "deletionDate": null
+      }
+    }
+  }
+]
