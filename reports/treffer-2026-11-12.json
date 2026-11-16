@@ -1,0 +1,1075 @@
+[
+  {
+    "publication_id": "ce4b2fce901b0522a7e53fcf",
+    "publication_date": "2026-11-12",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-11-12 | VD | 2026-11-09 | <FT TYPE=\"F\">British CafÃ© SÃ rl</FT>, Ã  <FT TYPE=\"S\">Lausanne</FT>, <FT TYPE=\"A\">CHE-404.525.640</FT> (FOSC du 05.10.2026, p. 0/1006774145). Basaran GÃ¶khan signe dÃ©sormais individuellement. | aenderungorgane | British Café Sàrl | CHE404525640 | CH55011620309 | Lausanne | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-11-12",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006774145)",
+      "011620309"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-11-12",
+        "sogcId": 1006809128,
+        "registryOfCommerceId": 550,
+        "registryOfCommerceCanton": "VD",
+        "registryOfCommerceJournalId": 23378,
+        "registryOfCommerceJournalDate": "2026-11-09",
+        "message": "<FT TYPE=\"F\">British CafÃ© SÃ rl</FT>, Ã  <FT TYPE=\"S\">Lausanne</FT>, <FT TYPE=\"A\">CHE-404.525.640</FT> (FOSC du 05.10.2026, p. 0/1006774145). Basaran GÃ¶khan signe dÃ©sormais individuellement.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "British Café Sàrl",
+        "ehraid": 1226284,
+        "uid": "CHE404525640",
+        "chid": "CH55011620309",
+        "legalSeatId": 5586,
+        "legalSeat": "Lausanne",
+        "registryOfCommerceId": 550,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-11-12",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "3693928e9efd7200cad45d88",
+    "publication_date": "2026-11-12",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-11-12 | ZH | 2026-11-09 | <FT TYPE=\"F\">DrinkArt GmbH in Liquidation</FT>, in <FT TYPE=\"S\">ZÃ¼rich</FT>, <FT TYPE=\"A\">CHE-113.718.461</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 148 vom 04.08.2026, Publ. 1006723125). Das Konkursverfahren ist mit Urteil des Konkursgerichts des Bezirksgerichts ZÃ¼rich vom 02.11.2026 mangels Aktiven eingestellt worden. | status | status.wiederrufliq | DrinkArt GmbH in Liquidation | CHE113718461 | CH02040358326 | Zürich | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | BEING_CANCELLED | 2026-11-12",
+    "categories": [
+      "allgemein"
+    ],
+    "confidence": 60,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006723125)",
+      "02040358326"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-11-12",
+        "sogcId": 1006808259,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 52580,
+        "registryOfCommerceJournalDate": "2026-11-09",
+        "message": "<FT TYPE=\"F\">DrinkArt GmbH in Liquidation</FT>, in <FT TYPE=\"S\">ZÃ¼rich</FT>, <FT TYPE=\"A\">CHE-113.718.461</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 148 vom 04.08.2026, Publ. 1006723125). Das Konkursverfahren ist mit Urteil des Konkursgerichts des Bezirksgerichts ZÃ¼rich vom 02.11.2026 mangels Aktiven eingestellt worden.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 6,
+            "key": "status.wiederrufliq"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "DrinkArt GmbH in Liquidation",
+        "ehraid": 877749,
+        "uid": "CHE113718461",
+        "chid": "CH02040358326",
+        "legalSeatId": 261,
+        "legalSeat": "Zürich",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "BEING_CANCELLED",
+        "sogcDate": "2026-11-12",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "f12333cca7f68468a5ea3604",
+    "publication_date": "2026-11-12",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-11-12 | TG | 2026-11-09 | <FT TYPE=\"F\">Expo Suisse GmbH in Liquidation</FT>, in <FT TYPE=\"S\">Bischofszell</FT>, <FT TYPE=\"A\">CHE-113.882.824</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 187 vom 28.09.2026, Publ. 1006767335). Mit Entscheid des Bezirksgerichts Weinfelden vom 06.11.2026 wurde das Konkursverfahren mangels Aktiven eingestellt. | status | status.wiederrufliq | Expo Suisse GmbH in Liquidation | CHE113882824 | CH02040364603 | Bischofszell | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | BEING_CANCELLED | 2026-11-12",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006767335)",
+      "02040364603"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-11-12",
+        "sogcId": 1006809005,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 6974,
+        "registryOfCommerceJournalDate": "2026-11-09",
+        "message": "<FT TYPE=\"F\">Expo Suisse GmbH in Liquidation</FT>, in <FT TYPE=\"S\">Bischofszell</FT>, <FT TYPE=\"A\">CHE-113.882.824</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 187 vom 28.09.2026, Publ. 1006767335). Mit Entscheid des Bezirksgerichts Weinfelden vom 06.11.2026 wurde das Konkursverfahren mangels Aktiven eingestellt.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 6,
+            "key": "status.wiederrufliq"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Expo Suisse GmbH in Liquidation",
+        "ehraid": 887884,
+        "uid": "CHE113882824",
+        "chid": "CH02040364603",
+        "legalSeatId": 4471,
+        "legalSeat": "Bischofszell",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "BEING_CANCELLED",
+        "sogcDate": "2026-11-12",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "3262f4973a87e110ccfd3035",
+    "publication_date": "2026-11-12",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-11-12 | BE | 2026-11-09 | <FT TYPE=\"F\">INDIGO Food &amp; Drinks Moonganil Moideen Rawther</FT>, in <FT TYPE=\"S\">Bern</FT>, <FT TYPE=\"A\">CHE-488.677.511</FT>, Einzelunternehmen (SHAB Nr. 123 vom 30.06.2025, Publ. 1006369444). Die Rechtseinheit wird in Anwendung von Art. 934a OR von Amtes wegen gelÃ¶scht, weil diese Ã¼ber kein Rechtsdomizil mehr verfÃ¼gt. | status | status.loeschung | INDIGO Food & Drinks Moonganil Moideen Rawther | CHE488677511 | CH03611035665 | Bern | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | CANCELLED | 2026-11-12 | 2026-11-12",
+    "categories": [
+      "allgemein"
+    ],
+    "confidence": 60,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006369444)",
+      "03611035665"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-11-12",
+        "sogcId": 1006808454,
+        "registryOfCommerceId": 36,
+        "registryOfCommerceCanton": "BE",
+        "registryOfCommerceJournalId": 21028,
+        "registryOfCommerceJournalDate": "2026-11-09",
+        "message": "<FT TYPE=\"F\">INDIGO Food &amp; Drinks Moonganil Moideen Rawther</FT>, in <FT TYPE=\"S\">Bern</FT>, <FT TYPE=\"A\">CHE-488.677.511</FT>, Einzelunternehmen (SHAB Nr. 123 vom 30.06.2025, Publ. 1006369444). Die Rechtseinheit wird in Anwendung von Art. 934a OR von Amtes wegen gelÃ¶scht, weil diese Ã¼ber kein Rechtsdomizil mehr verfÃ¼gt.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 7,
+            "key": "status.loeschung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "INDIGO Food & Drinks Moonganil Moideen Rawther",
+        "ehraid": 1700114,
+        "uid": "CHE488677511",
+        "chid": "CH03611035665",
+        "legalSeatId": 351,
+        "legalSeat": "Bern",
+        "registryOfCommerceId": 36,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "CANCELLED",
+        "sogcDate": "2026-11-12",
+        "deletionDate": "2026-11-12"
+      }
+    }
+  },
+  {
+    "publication_id": "21ba338900b0027f67e4b836",
+    "publication_date": "2026-11-12",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-11-12 | BE | 2026-11-09 | <FT TYPE=\"N\">IsoTerra GmbH</FT>, in <FT TYPE=\"5\">Bern</FT>, <FT TYPE=\"A\">CHE-237.621.143</FT>, Oberer Aareggweg 84, 3004 Bern, Gesellschaft mit beschrÃ¤nkter Haftung (Neueintragung). Statutendatum: 07.10.2026. Zweck: Die Gesellschaft bezweckt TÃ¤tigkeiten und Dienstleistungen im Bereich des nachhaltigen Bauens mit Schwerpunkt auf Hanf-Lehm-DÃ¤mmungen, Lehmbaustoffen und natÃ¼rlichen BierfÃ¤ssern sowie die Etablierung und FÃ¶rderung innovativer und ressourcenschonender Bauweisen in der Sanierung und im Neubau. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle GeschÃ¤fte tÃ¤tigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, verÃ¤ussern und verwalten. Sie kann auch Finanzierungen fÃ¼r eigene oder fremde Rechnung vornehmen sowie Garantien und BÃ¼rgschaften fÃ¼r Tochtergesellschaften und Dritte eingehen. Stammkapital: CHF 20&apos;000.00. Publikationsorgan: SHAB. Mitteilungen an die Gesellschafter: per Brief oder E-Mail. GemÃ¤ss ErklÃ¤rung bei der GrÃ¼ndung der Gesellschaft wird auf eine eingeschrÃ¤nkte Revision verzichtet. Eingetragene Personen: Douillet, Guilhem Amin, franzÃ¶sischer StaatsangehÃ¶riger, in Bern, Gesellschafter und GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift, mit 100 Stammanteilen zu je CHF 200.00. | status | status.neu | IsoTerra GmbH | CHE237621143 | CH03641096454 | Bern | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-11-12",
+    "categories": [
+      "bier"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "03641096454"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-11-12",
+        "sogcId": 1006808387,
+        "registryOfCommerceId": 36,
+        "registryOfCommerceCanton": "BE",
+        "registryOfCommerceJournalId": 20961,
+        "registryOfCommerceJournalDate": "2026-11-09",
+        "message": "<FT TYPE=\"N\">IsoTerra GmbH</FT>, in <FT TYPE=\"5\">Bern</FT>, <FT TYPE=\"A\">CHE-237.621.143</FT>, Oberer Aareggweg 84, 3004 Bern, Gesellschaft mit beschrÃ¤nkter Haftung (Neueintragung). Statutendatum: 07.10.2026. Zweck: Die Gesellschaft bezweckt TÃ¤tigkeiten und Dienstleistungen im Bereich des nachhaltigen Bauens mit Schwerpunkt auf Hanf-Lehm-DÃ¤mmungen, Lehmbaustoffen und natÃ¼rlichen BierfÃ¤ssern sowie die Etablierung und FÃ¶rderung innovativer und ressourcenschonender Bauweisen in der Sanierung und im Neubau. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle GeschÃ¤fte tÃ¤tigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, verÃ¤ussern und verwalten. Sie kann auch Finanzierungen fÃ¼r eigene oder fremde Rechnung vornehmen sowie Garantien und BÃ¼rgschaften fÃ¼r Tochtergesellschaften und Dritte eingehen. Stammkapital: CHF 20&apos;000.00. Publikationsorgan: SHAB. Mitteilungen an die Gesellschafter: per Brief oder E-Mail. GemÃ¤ss ErklÃ¤rung bei der GrÃ¼ndung der Gesellschaft wird auf eine eingeschrÃ¤nkte Revision verzichtet. Eingetragene Personen: Douillet, Guilhem Amin, franzÃ¶sischer StaatsangehÃ¶riger, in Bern, Gesellschafter und GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift, mit 100 Stammanteilen zu je CHF 200.00.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "IsoTerra GmbH",
+        "ehraid": 1776268,
+        "uid": "CHE237621143",
+        "chid": "CH03641096454",
+        "legalSeatId": 351,
+        "legalSeat": "Bern",
+        "registryOfCommerceId": 36,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-11-12",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "0fc64fe03f7b29c670e2ca61",
+    "publication_date": "2026-11-12",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-11-12 | AG | 2026-11-09 | <FT TYPE=\"N\">JL Food &amp; Retail GmbH</FT>, in <FT TYPE=\"5\">Endingen</FT>, <FT TYPE=\"A\">CHE-477.194.823</FT>, Weidgasse 13b, 5304 Endingen, Gesellschaft mit beschrÃ¤nkter Haftung (Neueintragung). Statutendatum: 04.11.2026. Zweck: Die Gesellschaft bezweckt den Betrieb von Lebensmittel-, Convenience- und BÃ¤ckereiverkaufsstellen, den Handel mit Lebensmitteln, GetrÃ¤nken, Backwaren und Waren des tÃ¤glichen Bedarfs sowie den Verkauf von Kaffee, Snacks und Take-away-Produkten. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle GeschÃ¤fte tÃ¤tigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, verÃ¤ussern und verwalten. Sie kann auch Finanzierungen fÃ¼r eigene oder fremde Rechnung vornehmen sowie Garantien und BÃ¼rgschaften fÃ¼r Tochtergesellschaften und Dritte eingehen. Stammkapital: CHF 20&apos;000.00. Publikationsorgan: SHAB. Mitteilungen an die Gesellschafter erfolgen per Brief oder E-Mail an die im Anteilbuch verzeichneten Adressen. GemÃ¤ss ErklÃ¤rung bei der GrÃ¼ndung der Gesellschaft wird auf eine eingeschrÃ¤nkte Revision verzichtet. Eingetragene Personen: Iseni, Leotrim, von ZÃ¼rich, in Endingen, Gesellschafter und GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift, mit 20 Stammanteilen zu je CHF 1&apos;000.00. | status | status.neu | JL Food & Retail GmbH | CHE477194823 | CH40044598462 | Endingen | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-11-12",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "0044598462"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-11-12",
+        "sogcId": 1006808965,
+        "registryOfCommerceId": 400,
+        "registryOfCommerceCanton": "AG",
+        "registryOfCommerceJournalId": 15958,
+        "registryOfCommerceJournalDate": "2026-11-09",
+        "message": "<FT TYPE=\"N\">JL Food &amp; Retail GmbH</FT>, in <FT TYPE=\"5\">Endingen</FT>, <FT TYPE=\"A\">CHE-477.194.823</FT>, Weidgasse 13b, 5304 Endingen, Gesellschaft mit beschrÃ¤nkter Haftung (Neueintragung). Statutendatum: 04.11.2026. Zweck: Die Gesellschaft bezweckt den Betrieb von Lebensmittel-, Convenience- und BÃ¤ckereiverkaufsstellen, den Handel mit Lebensmitteln, GetrÃ¤nken, Backwaren und Waren des tÃ¤glichen Bedarfs sowie den Verkauf von Kaffee, Snacks und Take-away-Produkten. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle GeschÃ¤fte tÃ¤tigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, verÃ¤ussern und verwalten. Sie kann auch Finanzierungen fÃ¼r eigene oder fremde Rechnung vornehmen sowie Garantien und BÃ¼rgschaften fÃ¼r Tochtergesellschaften und Dritte eingehen. Stammkapital: CHF 20&apos;000.00. Publikationsorgan: SHAB. Mitteilungen an die Gesellschafter erfolgen per Brief oder E-Mail an die im Anteilbuch verzeichneten Adressen. GemÃ¤ss ErklÃ¤rung bei der GrÃ¼ndung der Gesellschaft wird auf eine eingeschrÃ¤nkte Revision verzichtet. Eingetragene Personen: Iseni, Leotrim, von ZÃ¼rich, in Endingen, Gesellschafter und GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift, mit 20 Stammanteilen zu je CHF 1&apos;000.00.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "JL Food & Retail GmbH",
+        "ehraid": 1776219,
+        "uid": "CHE477194823",
+        "chid": "CH40044598462",
+        "legalSeatId": 4305,
+        "legalSeat": "Endingen",
+        "registryOfCommerceId": 400,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-11-12",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "7118a2a158f63f1a0fd2be24",
+    "publication_date": "2026-11-12",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-11-12 | GE | 2026-11-09 | <FT TYPE=\"N\">Louis Dreyfus Company Juices Investments SA</FT>, Ã  <FT TYPE=\"5\">Le Grand-Saconnex</FT>, Route de l&apos;AÃ©roport 29, 1215 GenÃ¨ve, <FT TYPE=\"A\">CHE-411.708.022</FT>. Nouvelle sociÃ©tÃ© anonyme. Statuts du 29.10.2026. But: dans le sens d&apos;une holding, la prise de participations dans toutes entreprises ou sociÃ©tÃ©s, en Suisse et Ã  l&apos;Ã©tranger, ainsi que toutes opÃ©rations financiÃ¨res. Sont notamment visÃ©s la crÃ©ation, le contrÃ´le, l&apos;acquisition, le financement, la dÃ©tention et la cession d&apos;entreprises ou de sociÃ©tÃ©s. Sont exclues toutes opÃ©rations immobiliÃ¨res -et toutes participations dans des sociÃ©tÃ©s ayant pour but l&apos;acquisition d&apos;immeubles en Suisse- autres qu&apos;Ã  affectation exclusivement commerciale. La sociÃ©tÃ© a Ã©galement pour but le commerce de toutes matiÃ¨res premiÃ¨res, denrÃ©es agricoles, marchandises et produits finis ou semi-finis, directement ou indirectement, notamment par l&apos;achat, la gÃ©rance et l&apos;exploitation de tous fonds de commerce ; l&apos;exploitation et l&apos;affrÃ¨tement de navires et bateaux, ainsi que toutes opÃ©rations connexes ; l&apos;Ã©tude, la crÃ©ation, la mise en valeur, l&apos;exploitation, la direction, la gÃ©rance, l&apos;organisation, le financement et le contrÃ´le de toutes affaires ou entreprises industrielles, commerciales, financiÃ¨res, agricoles, mobiliÃ¨res ou immobiliÃ¨res ; l&apos;acquisition, l&apos;exploitation, la vente et l&apos;Ã©change de tous immeubles, Ã  l&apos;exclusion des opÃ©rations prohibÃ©es par la LFAIE, ainsi que l&apos;Ã©dification de toutes constructions pour ses besoins propres, la vente ou la location ; l&apos;emploi de ses capitaux disponibles, notamment par l&apos;achat, la souscription, l&apos;Ã©mission, la vente ou la nÃ©gociation de parts, actons et valeurs de toutes sortes. La sociÃ©tÃ© peut mettre des lignes de crÃ©dit Ã  disposition de ses filiales, sociÃ©tÃ©s sÅ“urs et sociÃ©tÃ©s affiliÃ©",
+    "categories": [
+      "alkoholfrei"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "040880267"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-11-12",
+        "sogcId": 1006809320,
+        "registryOfCommerceId": 660,
+        "registryOfCommerceCanton": "GE",
+        "registryOfCommerceJournalId": 27846,
+        "registryOfCommerceJournalDate": "2026-11-09",
+        "message": "<FT TYPE=\"N\">Louis Dreyfus Company Juices Investments SA</FT>, Ã  <FT TYPE=\"5\">Le Grand-Saconnex</FT>, Route de l&apos;AÃ©roport 29, 1215 GenÃ¨ve, <FT TYPE=\"A\">CHE-411.708.022</FT>. Nouvelle sociÃ©tÃ© anonyme. Statuts du 29.10.2026. But: dans le sens d&apos;une holding, la prise de participations dans toutes entreprises ou sociÃ©tÃ©s, en Suisse et Ã  l&apos;Ã©tranger, ainsi que toutes opÃ©rations financiÃ¨res. Sont notamment visÃ©s la crÃ©ation, le contrÃ´le, l&apos;acquisition, le financement, la dÃ©tention et la cession d&apos;entreprises ou de sociÃ©tÃ©s. Sont exclues toutes opÃ©rations immobiliÃ¨res -et toutes participations dans des sociÃ©tÃ©s ayant pour but l&apos;acquisition d&apos;immeubles en Suisse- autres qu&apos;Ã  affectation exclusivement commerciale. La sociÃ©tÃ© a Ã©galement pour but le commerce de toutes matiÃ¨res premiÃ¨res, denrÃ©es agricoles, marchandises et produits finis ou semi-finis, directement ou indirectement, notamment par l&apos;achat, la gÃ©rance et l&apos;exploitation de tous fonds de commerce ; l&apos;exploitation et l&apos;affrÃ¨tement de navires et bateaux, ainsi que toutes opÃ©rations connexes ; l&apos;Ã©tude, la crÃ©ation, la mise en valeur, l&apos;exploitation, la direction, la gÃ©rance, l&apos;organisation, le financement et le contrÃ´le de toutes affaires ou entreprises industrielles, commerciales, financiÃ¨res, agricoles, mobiliÃ¨res ou immobiliÃ¨res ; l&apos;acquisition, l&apos;exploitation, la vente et l&apos;Ã©change de tous immeubles, Ã  l&apos;exclusion des opÃ©rations prohibÃ©es par la LFAIE, ainsi que l&apos;Ã©dification de toutes constructions pour ses besoins propres, la vente ou la location ; l&apos;emploi de ses capitaux disponibles, notamment par l&apos;achat, la souscription, l&apos;Ã©mission, la vente ou la nÃ©gociation de parts, actons et valeurs de toutes sortes. La sociÃ©tÃ© peut mettre des lignes de crÃ©dit Ã  disposition de ses filiales, sociÃ©tÃ©s sÅ“urs et sociÃ©tÃ©s affiliÃ©es pour des opÃ©rations commerciales ou d&apos;acquisition d&apos;actifs. Elle peut notamment demander l&apos;Ã©mission, sous sa pleine responsabilitÃ© et pour leur compte, de garanties, cautions, garanties de soumission, garanties de bonne exÃ©cution, lettres de crÃ©dit et garanties de paiement. Elle peut plus gÃ©nÃ©ralement conclure des opÃ©rations avec des sociÃ©tÃ©s du groupe, y compris ses actionnaires directs et indirects. Elle peut en particulier leur accorder des prÃªts et des sÃ»retÃ©s de toute nature (nantissements, cessions Ã  titre de sÃ»retÃ©, garanties et cautionnements), avec ou sans contrepartie. La sociÃ©tÃ© peut effectuer toutes opÃ©rations commerciales, financiÃ¨res, mobiliÃ¨res ou immobiliÃ¨res se rapportant directement ou indirectement Ã  son but. Elle peut participer Ã  toute crÃ©ation de sociÃ©tÃ©, fusion, cession d&apos;actifs ou constitution d&apos;entreprises communes. Elle peut agir en tous pays, pour son compte ou pour le compte de tiers, seule ou avec toutes personnes physiques ou morales. Capital-actions: USD 130&apos;000, 00, entiÃ¨rement libÃ©rÃ©, divisÃ© en 1&apos;000 actions de USD 130. Organe de publication: Feuille Officielle Suisse du Commerce. Communication aux actionnaires: par Ã©crit (courrier recommandÃ© ou par courriel). Administration: Kreft Maurice, des Pays-Bas, Ã  Zevenhuizen, NLD, prÃ©sident, avec signature individuelle et Landerretche SÃ©bastien, de France, Ã  Lancy, avec signature individuelle. Selon dÃ©claration Ã  la constitution de la sociÃ©tÃ©, il est renoncÃ© Ã  un contrÃ´le restreint.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Louis Dreyfus Company Juices Investments SA",
+        "ehraid": 1776284,
+        "uid": "CHE411708022",
+        "chid": "CH66040880267",
+        "legalSeatId": 6623,
+        "legalSeat": "Le Grand-Saconnex",
+        "registryOfCommerceId": 660,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-11-12",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "6a67831fe4682a85017aab4b",
+    "publication_date": "2026-11-12",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-11-12 | VD | 2026-11-09 | <FT TYPE=\"F\">Epicerie CafÃ©, KÃ©vin George</FT>, Ã  <FT TYPE=\"S\">Lausanne</FT>, <FT TYPE=\"A\">CHE-168.803.490</FT> (FOSC du 25.07.2024, p. 0/1006094122). Nouvelle raison de commerce: <FT TYPE=\"N\">Maison G &amp; B KÃ©vin George</FT>. SiÃ¨ge transfÃ©rÃ© Ã  <FT TYPE=\"5\">Chavornay</FT>. Nouvelle adresse: Rue de la CitÃ© 18, 1373 Chavornay. Nouveau but: service traiteur dans les foires et sur les marchÃ©s pour entreprises et particuliers. | firmenaenderung | zweckaenderung | adressaenderung | Maison G & B Kévin George | CHE168803490 | CH55012424586 | Chavornay | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-11-12",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006094122)",
+      "012424586"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-11-12",
+        "sogcId": 1006809139,
+        "registryOfCommerceId": 550,
+        "registryOfCommerceCanton": "VD",
+        "registryOfCommerceJournalId": 23388,
+        "registryOfCommerceJournalDate": "2026-11-09",
+        "message": "<FT TYPE=\"F\">Epicerie CafÃ©, KÃ©vin George</FT>, Ã  <FT TYPE=\"S\">Lausanne</FT>, <FT TYPE=\"A\">CHE-168.803.490</FT> (FOSC du 25.07.2024, p. 0/1006094122). Nouvelle raison de commerce: <FT TYPE=\"N\">Maison G &amp; B KÃ©vin George</FT>. SiÃ¨ge transfÃ©rÃ© Ã  <FT TYPE=\"5\">Chavornay</FT>. Nouvelle adresse: Rue de la CitÃ© 18, 1373 Chavornay. Nouveau but: service traiteur dans les foires et sur les marchÃ©s pour entreprises et particuliers.",
+        "mutationTypes": [
+          {
+            "id": 9,
+            "key": "firmenaenderung"
+          },
+          {
+            "id": 11,
+            "key": "zweckaenderung"
+          },
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Maison G & B Kévin George",
+        "ehraid": 1647029,
+        "uid": "CHE168803490",
+        "chid": "CH55012424586",
+        "legalSeatId": 5749,
+        "legalSeat": "Chavornay",
+        "registryOfCommerceId": 550,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-11-12",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "8f0e31c1e7ff89b90df11926",
+    "publication_date": "2026-11-12",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-11-12 | TG | 2026-11-09 | <FT TYPE=\"F\">Oberdorfer Weine</FT>, in <FT TYPE=\"S\">Eschlikon</FT>, <FT TYPE=\"A\">CHE-106.587.455</FT>, Einzelunternehmen (SHAB Nr. 121 vom 24.06.2011, S.0, Publ. 6220734). Sitz neu: <FT TYPE=\"5\">MÃ¼nchwilen (TG)</FT>. Domizil neu: Im SteinrÃ¼ssel 5, 9542 MÃ¼nchwilen TG. Eingetragene Personen neu oder mutierend: Oberdorfer-Jandl, Maria Vlasta, von BÃ¼tschwil-Ganterschwil, in MÃ¼nchwilen TG, Inhaberin, mit Einzelunterschrift [bisher: in Wil SG]. | adressaenderung | aenderungorgane | Oberdorfer Weine | CHE106587455 | CH32010312825 | Münchwilen (TG) | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-11-12",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "010312825"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-11-12",
+        "sogcId": 1006809015,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 6984,
+        "registryOfCommerceJournalDate": "2026-11-09",
+        "message": "<FT TYPE=\"F\">Oberdorfer Weine</FT>, in <FT TYPE=\"S\">Eschlikon</FT>, <FT TYPE=\"A\">CHE-106.587.455</FT>, Einzelunternehmen (SHAB Nr. 121 vom 24.06.2011, S.0, Publ. 6220734). Sitz neu: <FT TYPE=\"5\">MÃ¼nchwilen (TG)</FT>. Domizil neu: Im SteinrÃ¼ssel 5, 9542 MÃ¼nchwilen TG. Eingetragene Personen neu oder mutierend: Oberdorfer-Jandl, Maria Vlasta, von BÃ¼tschwil-Ganterschwil, in MÃ¼nchwilen TG, Inhaberin, mit Einzelunterschrift [bisher: in Wil SG].",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          },
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Oberdorfer Weine",
+        "ehraid": 544885,
+        "uid": "CHE106587455",
+        "chid": "CH32010312825",
+        "legalSeatId": 4746,
+        "legalSeat": "Münchwilen (TG)",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-11-12",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "7ed7a3b9c167a41fdb85223a",
+    "publication_date": "2026-11-12",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-11-12 | ZG | 2026-11-09 | <FT TYPE=\"N\">Oldtimer Grand Prix Events AG</FT>, in <FT TYPE=\"5\">Zug</FT>, <FT TYPE=\"A\">CHE-443.557.046</FT>, WeinberghÃ¶he 19, 6300 Zug, Aktiengesellschaft (Neueintragung). Statutendatum: 05.11.2026. Zweck: Die Gesellschaft bezweckt die Organisation, DurchfÃ¼hrung und Vermarktung von Veranstaltungen und Events im Zusammenhang mit historischen Fahrzeugen (Oldtimern / Youngtimern). Zudem bezweckt die Gesellschaft die Produktion, den Vertrieb und die Lizenzierung von Film-, Video- und Multimedia-Inhalten, insbesondere Ã¼ber Oldtimer und automobile Themen. Die Gesellschaft kann Handel mit Fahrzeugen und ZubehÃ¶r betreiben, Agenturdienstleistungen erbringen, sowie alle GeschÃ¤fte tÃ¤tigen, die geeignet sind, den Zweck der Gesellschaft zu fÃ¶rdern. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle GeschÃ¤fte tÃ¤tigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, verÃ¤ussern und verwalten. Sie kann auch Finanzierungen fÃ¼r eigene oder fremde Rechnung vornehmen sowie Garantien und BÃ¼rgschaften fÃ¼r Tochtergesellschaften und Dritte eingehen. Aktienkapital: CHF 100&apos;000.00. Liberierung Aktienkapital: CHF 100&apos;000.00. Aktien: 100 vinkulierte Namenaktien zu CHF 1&apos;000.00. Publikationsorgan: SHAB. Die Mitteilungen an die AktionÃ¤re erfolgen per Brief oder E-Mail an die im Aktienbuch verzeichneten Adressen. Vinkulierung: Die Ãœbertragbarkeit der Namenaktien ist nach Massgabe der Statuten beschrÃ¤nkt. GemÃ¤ss ErklÃ¤rung bei der GrÃ¼ndung der Gesellschaft wird auf eine eingeschrÃ¤nkte Revision verzichtet. Eingetragene Personen: Heinecke, Anita, von Zug, in Zug, Mitglied des Verwaltungsrates, mit Einzelunterschrift; JÃ¶rin, Daniel Eric, von Waldenburg, in Zug, GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift. | status | status.neu | ",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "030533415"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-11-12",
+        "sogcId": 1006808572,
+        "registryOfCommerceId": 170,
+        "registryOfCommerceCanton": "ZG",
+        "registryOfCommerceJournalId": 21894,
+        "registryOfCommerceJournalDate": "2026-11-09",
+        "message": "<FT TYPE=\"N\">Oldtimer Grand Prix Events AG</FT>, in <FT TYPE=\"5\">Zug</FT>, <FT TYPE=\"A\">CHE-443.557.046</FT>, WeinberghÃ¶he 19, 6300 Zug, Aktiengesellschaft (Neueintragung). Statutendatum: 05.11.2026. Zweck: Die Gesellschaft bezweckt die Organisation, DurchfÃ¼hrung und Vermarktung von Veranstaltungen und Events im Zusammenhang mit historischen Fahrzeugen (Oldtimern / Youngtimern). Zudem bezweckt die Gesellschaft die Produktion, den Vertrieb und die Lizenzierung von Film-, Video- und Multimedia-Inhalten, insbesondere Ã¼ber Oldtimer und automobile Themen. Die Gesellschaft kann Handel mit Fahrzeugen und ZubehÃ¶r betreiben, Agenturdienstleistungen erbringen, sowie alle GeschÃ¤fte tÃ¤tigen, die geeignet sind, den Zweck der Gesellschaft zu fÃ¶rdern. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und sich an anderen Unternehmen im In- und Ausland beteiligen sowie alle GeschÃ¤fte tÃ¤tigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Die Gesellschaft kann im In- und Ausland Grundeigentum erwerben, belasten, verÃ¤ussern und verwalten. Sie kann auch Finanzierungen fÃ¼r eigene oder fremde Rechnung vornehmen sowie Garantien und BÃ¼rgschaften fÃ¼r Tochtergesellschaften und Dritte eingehen. Aktienkapital: CHF 100&apos;000.00. Liberierung Aktienkapital: CHF 100&apos;000.00. Aktien: 100 vinkulierte Namenaktien zu CHF 1&apos;000.00. Publikationsorgan: SHAB. Die Mitteilungen an die AktionÃ¤re erfolgen per Brief oder E-Mail an die im Aktienbuch verzeichneten Adressen. Vinkulierung: Die Ãœbertragbarkeit der Namenaktien ist nach Massgabe der Statuten beschrÃ¤nkt. GemÃ¤ss ErklÃ¤rung bei der GrÃ¼ndung der Gesellschaft wird auf eine eingeschrÃ¤nkte Revision verzichtet. Eingetragene Personen: Heinecke, Anita, von Zug, in Zug, Mitglied des Verwaltungsrates, mit Einzelunterschrift; JÃ¶rin, Daniel Eric, von Waldenburg, in Zug, GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Oldtimer Grand Prix Events AG",
+        "ehraid": 1776321,
+        "uid": "CHE443557046",
+        "chid": "CH17030533415",
+        "legalSeatId": 1711,
+        "legalSeat": "Zug",
+        "registryOfCommerceId": 170,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-11-12",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "15e5f2bec4f02fe57685a17c",
+    "publication_date": "2026-11-12",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-11-12 | TG | 2026-11-09 | <FT TYPE=\"F\">Stiftung Faszination BMX</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-200.039.227</FT>, Stiftung (SHAB Nr. 66 vom 08.04.2026, Publ. 1006619016). Ausgeschiedene Personen und erloschene Unterschriften: Belz, Felix, von BÃ¼rglen (TG), in Erlen, PrÃ¤sident des Stiftungsrates, mit Kollektivunterschrift zu zweien. Eingetragene Personen neu oder mutierend: RÃ¼dt, Christine, von Berg (TG), in Rothenhausen (Bussnang), PrÃ¤sidentin des Stiftungsrates, mit Kollektivunterschrift zu zweien. | aenderungorgane | Stiftung Faszination BMX | CHE200039227 | CH44070291040 | Weinfelden | 0110 | Stiftung | Fondation | Fondazione | Foundation | Stift | Fond | Fond | Found | ACTIVE | 2026-11-12",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006619016)",
+      "070291040"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-11-12",
+        "sogcId": 1006809023,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 6992,
+        "registryOfCommerceJournalDate": "2026-11-09",
+        "message": "<FT TYPE=\"F\">Stiftung Faszination BMX</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-200.039.227</FT>, Stiftung (SHAB Nr. 66 vom 08.04.2026, Publ. 1006619016). Ausgeschiedene Personen und erloschene Unterschriften: Belz, Felix, von BÃ¼rglen (TG), in Erlen, PrÃ¤sident des Stiftungsrates, mit Kollektivunterschrift zu zweien. Eingetragene Personen neu oder mutierend: RÃ¼dt, Christine, von Berg (TG), in Rothenhausen (Bussnang), PrÃ¤sidentin des Stiftungsrates, mit Kollektivunterschrift zu zweien.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Stiftung Faszination BMX",
+        "ehraid": 1207067,
+        "uid": "CHE200039227",
+        "chid": "CH44070291040",
+        "legalSeatId": 4946,
+        "legalSeat": "Weinfelden",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 7,
+          "uid": "0110",
+          "name": {
+            "de": "Stiftung",
+            "fr": "Fondation",
+            "it": "Fondazione",
+            "en": "Foundation"
+          },
+          "shortName": {
+            "de": "Stift",
+            "fr": "Fond",
+            "it": "Fond",
+            "en": "Found"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-11-12",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "7e38496037f2c9c00a4d8ced",
+    "publication_date": "2026-11-12",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-11-12 | VS | 2026-11-09 | <FT TYPE=\"F\">swisspro SR SA, succursale de Sion</FT>, Ã  <FT TYPE=\"S\">Sion</FT>, <FT TYPE=\"A\">CHE-224.526.239</FT>, succursale suisse (No. FOSC 177 du 13.09.2022, Publ. 1005560856), SiÃ¨ge principal Ã : Renens (VD). Personne(s) et signature(s) radiÃ©e(s): Oliveira Dantas, Paulo Rafael, ressortissant portugais, Ã  Monthey, avec procuration collective Ã  deux. Inscription ou modification de personne(s): Meilland, KÃ©vin, de Chamoson, Ã  Sion, avec signature collective Ã  deux [prÃ©cÃ©demment: sans fonction inscrite, avec procuration collective Ã  deux]; Rodrigues Andrade Rito, Jaime, ressortissant portugais, Ã  Saint-LÃ©onard, avec signature collective Ã  deux. | aenderungorgane | swisspro SR SA, succursale de Sion | CHE224526239 | CH62690124218 | Sion | 0151 | Zweigniederlassung | Succursale | Succursale | Branch | ZN | Succ | Succ | Bran | ACTIVE | 2026-11-12",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "005560856)"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-11-12",
+        "sogcId": 1006809239,
+        "registryOfCommerceId": 626,
+        "registryOfCommerceCanton": "VS",
+        "registryOfCommerceJournalId": 4938,
+        "registryOfCommerceJournalDate": "2026-11-09",
+        "message": "<FT TYPE=\"F\">swisspro SR SA, succursale de Sion</FT>, Ã  <FT TYPE=\"S\">Sion</FT>, <FT TYPE=\"A\">CHE-224.526.239</FT>, succursale suisse (No. FOSC 177 du 13.09.2022, Publ. 1005560856), SiÃ¨ge principal Ã : Renens (VD). Personne(s) et signature(s) radiÃ©e(s): Oliveira Dantas, Paulo Rafael, ressortissant portugais, Ã  Monthey, avec procuration collective Ã  deux. Inscription ou modification de personne(s): Meilland, KÃ©vin, de Chamoson, Ã  Sion, avec signature collective Ã  deux [prÃ©cÃ©demment: sans fonction inscrite, avec procuration collective Ã  deux]; Rodrigues Andrade Rito, Jaime, ressortissant portugais, Ã  Saint-LÃ©onard, avec signature collective Ã  deux.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "swisspro SR SA, succursale de Sion",
+        "ehraid": 953661,
+        "uid": "CHE224526239",
+        "chid": "CH62690124218",
+        "legalSeatId": 6266,
+        "legalSeat": "Sion",
+        "registryOfCommerceId": 626,
+        "legalForm": {
+          "id": 9,
+          "uid": "0151",
+          "name": {
+            "de": "Zweigniederlassung",
+            "fr": "Succursale",
+            "it": "Succursale",
+            "en": "Branch"
+          },
+          "shortName": {
+            "de": "ZN",
+            "fr": "Succ",
+            "it": "Succ",
+            "en": "Bran"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-11-12",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "3c1ad00ec0f783b75a337f59",
+    "publication_date": "2026-11-12",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-11-12 | AG | 2026-11-09 | <FT TYPE=\"N\">VAYA CafÃ© &amp; Shop KoÃ§</FT>, in <FT TYPE=\"5\">Villmergen</FT>, <FT TYPE=\"A\">CHE-336.599.257</FT>, Bahnhofplatz 1, Villmergen, 5605 Dottikon, Einzelunternehmen (Neueintragung). Zweck: Betrieb eines Shops mit CafÃ©-Angebot, Verkauf von Lebensmitteln, GetrÃ¤nken, Snacks und weiteren Waren des tÃ¤glichen Bedarfs. Eingetragene Personen: KoÃ§, Serdar, deutscher StaatsangehÃ¶riger, in Hunzenschwil, Inhaber, mit Einzelunterschrift. | status | status.neu | VAYA Café & Shop Koç | CHE336599257 | CH40016150231 | Villmergen | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-11-12",
+    "categories": [
+      "kaffee_tee"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "0016150231"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-11-12",
+        "sogcId": 1006808987,
+        "registryOfCommerceId": 400,
+        "registryOfCommerceCanton": "AG",
+        "registryOfCommerceJournalId": 15980,
+        "registryOfCommerceJournalDate": "2026-11-09",
+        "message": "<FT TYPE=\"N\">VAYA CafÃ© &amp; Shop KoÃ§</FT>, in <FT TYPE=\"5\">Villmergen</FT>, <FT TYPE=\"A\">CHE-336.599.257</FT>, Bahnhofplatz 1, Villmergen, 5605 Dottikon, Einzelunternehmen (Neueintragung). Zweck: Betrieb eines Shops mit CafÃ©-Angebot, Verkauf von Lebensmitteln, GetrÃ¤nken, Snacks und weiteren Waren des tÃ¤glichen Bedarfs. Eingetragene Personen: KoÃ§, Serdar, deutscher StaatsangehÃ¶riger, in Hunzenschwil, Inhaber, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "VAYA Café & Shop Koç",
+        "ehraid": 1776223,
+        "uid": "CHE336599257",
+        "chid": "CH40016150231",
+        "legalSeatId": 4080,
+        "legalSeat": "Villmergen",
+        "registryOfCommerceId": 400,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-11-12",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "f79b73026d8a6676db7c8778",
+    "publication_date": "2026-11-12",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-11-12 | ZH | 2026-11-09 | <FT TYPE=\"F\">Verein DRINK &amp; DONATE</FT>, in <FT TYPE=\"S\">ZÃ¼rich</FT>, <FT TYPE=\"A\">CHE-115.835.646</FT>, Verein (SHAB Nr. 98 vom 26.05.2026, Publ. 1006658108). Domizil neu: Badenerstrasse 296, 8004 ZÃ¼rich. | adressaenderung | Verein DRINK & DONATE | CHE115835646 | CH02060014055 | Zürich | 0109 | Verein | Association | Associazione | Association | Verein | Asso | Asso | Asso | ACTIVE | 2026-11-12",
+    "categories": [
+      "allgemein"
+    ],
+    "confidence": 60,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006658108)",
+      "02060014055"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-11-12",
+        "sogcId": 1006808349,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 52670,
+        "registryOfCommerceJournalDate": "2026-11-09",
+        "message": "<FT TYPE=\"F\">Verein DRINK &amp; DONATE</FT>, in <FT TYPE=\"S\">ZÃ¼rich</FT>, <FT TYPE=\"A\">CHE-115.835.646</FT>, Verein (SHAB Nr. 98 vom 26.05.2026, Publ. 1006658108). Domizil neu: Badenerstrasse 296, 8004 ZÃ¼rich.",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Verein DRINK & DONATE",
+        "ehraid": 987806,
+        "uid": "CHE115835646",
+        "chid": "CH02060014055",
+        "legalSeatId": 261,
+        "legalSeat": "Zürich",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 6,
+          "uid": "0109",
+          "name": {
+            "de": "Verein",
+            "fr": "Association",
+            "it": "Associazione",
+            "en": "Association"
+          },
+          "shortName": {
+            "de": "Verein",
+            "fr": "Asso",
+            "it": "Asso",
+            "en": "Asso"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-11-12",
+        "deletionDate": null
+      }
+    }
+  }
+]
