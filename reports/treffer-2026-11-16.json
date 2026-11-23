@@ -1,0 +1,974 @@
+[
+  {
+    "publication_id": "2c529d5e30ec6126d2e9956a",
+    "publication_date": "2026-11-16",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-11-16 | LU | 2026-11-11 | <FT TYPE=\"F\">4K Architektur AG</FT>, in <FT TYPE=\"S\">Zell (LU)</FT>, <FT TYPE=\"A\">CHE-111.737.358</FT>, Aktiengesellschaft (SHAB Nr. 74 vom 18.04.2013, S.0, Publ. 7154474). Eingetragene Personen neu oder mutierend: Bieri, Manuel, von Willisau, in Fischbach, GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift; Graber-Marbach, Nadja Pia, von Ettiswil, in Grosswangen, mit Einzelunterschrift. | aenderungorgane | 4K Architektur AG | CHE111737358 | CH10030282743 | Zell (LU) | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-11-16",
+    "categories": [
+      "bier"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "0030282743"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-11-16",
+        "sogcId": 1006811069,
+        "registryOfCommerceId": 100,
+        "registryOfCommerceCanton": "LU",
+        "registryOfCommerceJournalId": 11848,
+        "registryOfCommerceJournalDate": "2026-11-11",
+        "message": "<FT TYPE=\"F\">4K Architektur AG</FT>, in <FT TYPE=\"S\">Zell (LU)</FT>, <FT TYPE=\"A\">CHE-111.737.358</FT>, Aktiengesellschaft (SHAB Nr. 74 vom 18.04.2013, S.0, Publ. 7154474). Eingetragene Personen neu oder mutierend: Bieri, Manuel, von Willisau, in Fischbach, GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift; Graber-Marbach, Nadja Pia, von Ettiswil, in Grosswangen, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "4K Architektur AG",
+        "ehraid": 761748,
+        "uid": "CHE111737358",
+        "chid": "CH10030282743",
+        "legalSeatId": 1150,
+        "legalSeat": "Zell (LU)",
+        "registryOfCommerceId": 100,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-11-16",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "a897c24c121db3b5e3ee1bb2",
+    "publication_date": "2026-11-16",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-11-16 | ZH | 2026-11-11 | <FT TYPE=\"F\">Limousinen Tesla GmbH</FT>, in <FT TYPE=\"S\">Volketswil</FT>, <FT TYPE=\"A\">CHE-415.837.664</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 21 vom 02.02.2026, Publ. 1006556185). StatutenÃ¤nderung: 06.11.2026. Firma neu: <FT TYPE=\"N\">Driver &amp; You GmbH</FT>. Eingetragene Personen neu oder mutierend: Pranjes, Zoran, von ZÃ¼rich, in ZÃ¼rich, Gesellschafter und Vorsitzender der GeschÃ¤ftsfÃ¼hrung, mit Einzelunterschrift, mit 10 Stammanteilen zu je CHF 1&apos;000.00 [bisher: Gesellschafter und GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift, mit 20 Stammanteilen zu je CHF 1&apos;000.00]; Ã–zdogan, HÃ¼snÃ¼, von ZÃ¼rich, in HÃ¶ri, Gesellschafter und GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift, mit 6 Stammanteilen zu je CHF 1&apos;000.00; Pranjes, Marco Alessio, von ZÃ¼rich, in Weiningen (ZH), Gesellschafter, ohne Zeichnungsberechtigung, mit 4 Stammanteilen zu je CHF 1&apos;000.00. | firmenaenderung | aenderungorgane | Driver & You GmbH | CHE415837664 | CH32040789646 | Volketswil | 0107 | Gesellschaft mit beschränkter Haftung | Société à responsabilité limitée | Società a garanzia limitata | Limited Liability Company | GmbH | Sàrl | Sagl | LLC | ACTIVE | 2026-11-16",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006556185)",
+      "040789646"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-11-16",
+        "sogcId": 1006810885,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 53140,
+        "registryOfCommerceJournalDate": "2026-11-11",
+        "message": "<FT TYPE=\"F\">Limousinen Tesla GmbH</FT>, in <FT TYPE=\"S\">Volketswil</FT>, <FT TYPE=\"A\">CHE-415.837.664</FT>, Gesellschaft mit beschrÃ¤nkter Haftung (SHAB Nr. 21 vom 02.02.2026, Publ. 1006556185). StatutenÃ¤nderung: 06.11.2026. Firma neu: <FT TYPE=\"N\">Driver &amp; You GmbH</FT>. Eingetragene Personen neu oder mutierend: Pranjes, Zoran, von ZÃ¼rich, in ZÃ¼rich, Gesellschafter und Vorsitzender der GeschÃ¤ftsfÃ¼hrung, mit Einzelunterschrift, mit 10 Stammanteilen zu je CHF 1&apos;000.00 [bisher: Gesellschafter und GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift, mit 20 Stammanteilen zu je CHF 1&apos;000.00]; Ã–zdogan, HÃ¼snÃ¼, von ZÃ¼rich, in HÃ¶ri, Gesellschafter und GeschÃ¤ftsfÃ¼hrer, mit Einzelunterschrift, mit 6 Stammanteilen zu je CHF 1&apos;000.00; Pranjes, Marco Alessio, von ZÃ¼rich, in Weiningen (ZH), Gesellschafter, ohne Zeichnungsberechtigung, mit 4 Stammanteilen zu je CHF 1&apos;000.00.",
+        "mutationTypes": [
+          {
+            "id": 9,
+            "key": "firmenaenderung"
+          },
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Driver & You GmbH",
+        "ehraid": 1245138,
+        "uid": "CHE415837664",
+        "chid": "CH32040789646",
+        "legalSeatId": 199,
+        "legalSeat": "Volketswil",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-11-16",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "b673be4f94fb864d62150851",
+    "publication_date": "2026-11-16",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-11-16 | TG | 2026-11-11 | <FT TYPE=\"F\">FMT Global Trading AG</FT>, bisher in <FT TYPE=\"S\">St. Gallen</FT>, <FT TYPE=\"A\">CHE-237.297.568</FT>, Aktiengesellschaft (SHAB Nr. 184 vom 23.09.2026, Publ. 1006763830). StatutenÃ¤nderung: 25.03.2026. Sitz neu: <FT TYPE=\"5\">Weinfelden</FT>. Domizil neu: c/o Thalmann Treuhand AG, Marktplatz 3, 8570 Weinfelden. Mitteilungen neu: Mitteilungen an die AktionÃ¤re erfolgen per Brief oder E-Mail an die im Aktienbuch verzeichneten Adressen. | adressaenderung | FMT Global Trading AG | CHE237297568 | CH32030844886 | Weinfelden | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-11-16",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006763830)",
+      "030844886"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-11-16",
+        "sogcId": 1006811570,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 7049,
+        "registryOfCommerceJournalDate": "2026-11-11",
+        "message": "<FT TYPE=\"F\">FMT Global Trading AG</FT>, bisher in <FT TYPE=\"S\">St. Gallen</FT>, <FT TYPE=\"A\">CHE-237.297.568</FT>, Aktiengesellschaft (SHAB Nr. 184 vom 23.09.2026, Publ. 1006763830). StatutenÃ¤nderung: 25.03.2026. Sitz neu: <FT TYPE=\"5\">Weinfelden</FT>. Domizil neu: c/o Thalmann Treuhand AG, Marktplatz 3, 8570 Weinfelden. Mitteilungen neu: Mitteilungen an die AktionÃ¤re erfolgen per Brief oder E-Mail an die im Aktienbuch verzeichneten Adressen.",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "FMT Global Trading AG",
+        "ehraid": 1351623,
+        "uid": "CHE237297568",
+        "chid": "CH32030844886",
+        "legalSeatId": 4946,
+        "legalSeat": "Weinfelden",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-11-16",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "206fa2dd49fef6c4a33fcac0",
+    "publication_date": "2026-11-16",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-11-16 | SG | 2026-11-11 | <FT TYPE=\"F\">FMT Global Trading AG</FT>, in <FT TYPE=\"S\">St. Gallen</FT>, <FT TYPE=\"A\">CHE-237.297.568</FT>, Aktiengesellschaft (SHAB Nr. 184 vom 23.09.2026, Publ. 1006763830). Die Rechtseinheit wird infolge Verlegung des Sitzes nach Weinfelden im Handelsregister des Kantons Thurgau eingetragen und im Handelsregister des Kantons St. Gallen von Amtes wegen gelÃ¶scht. | adressaenderung | FMT Global Trading AG | CHE237297568 | CH32030844886 | Weinfelden | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-11-16",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006763830)",
+      "030844886"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-11-16",
+        "sogcId": 1006811455,
+        "registryOfCommerceId": 320,
+        "registryOfCommerceCanton": "SG",
+        "registryOfCommerceJournalId": 13032,
+        "registryOfCommerceJournalDate": "2026-11-11",
+        "message": "<FT TYPE=\"F\">FMT Global Trading AG</FT>, in <FT TYPE=\"S\">St. Gallen</FT>, <FT TYPE=\"A\">CHE-237.297.568</FT>, Aktiengesellschaft (SHAB Nr. 184 vom 23.09.2026, Publ. 1006763830). Die Rechtseinheit wird infolge Verlegung des Sitzes nach Weinfelden im Handelsregister des Kantons Thurgau eingetragen und im Handelsregister des Kantons St. Gallen von Amtes wegen gelÃ¶scht.",
+        "mutationTypes": [
+          {
+            "id": 16,
+            "key": "adressaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "FMT Global Trading AG",
+        "ehraid": 1351623,
+        "uid": "CHE237297568",
+        "chid": "CH32030844886",
+        "legalSeatId": 4946,
+        "legalSeat": "Weinfelden",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-11-16",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "5d326117782db81527bec291",
+    "publication_date": "2026-11-16",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-11-16 | GE | 2026-11-11 | <FT TYPE=\"F\">JOE &amp; THE JUICE (Switzerland) AG, Zweigniederlassung Genf</FT>, Ã  <FT TYPE=\"S\">GenÃ¨ve</FT>, <FT TYPE=\"A\">CHE-444.649.774</FT>, entreprise ayant son siÃ¨ge Ã  Zurich (FOSC du 23.04.2026, p. 0/1006633459). Economu Cosmin signe dÃ©sormais collectivement Ã  deux, pour la succursale sauf avec Bowman Shaun et Zamudio Moreno Diana Valeria. Signature collective Ã  deux, limitÃ©e aux affaires de la succursale, sauf entre eux et sauf avec Economu Cosmin, a Ã©tÃ© confÃ©rÃ©e Ã  Bowman Shaun, de Schenkon, Ã  Corsier GE et Zamudio Moreno Diana Valeria, d&apos;Espagne, Ã  GenÃ¨ve. | aenderungorgane | JOE & THE JUICE (Switzerland) AG, Zweigniederlassung Genf | CHE444649774 | CH66011640263 | Genève | 0151 | Zweigniederlassung | Succursale | Succursale | Branch | ZN | Succ | Succ | Bran | ACTIVE | 2026-11-16",
+    "categories": [
+      "alkoholfrei"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006633459)",
+      "011640263"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-11-16",
+        "sogcId": 1006811908,
+        "registryOfCommerceId": 660,
+        "registryOfCommerceCanton": "GE",
+        "registryOfCommerceJournalId": 28130,
+        "registryOfCommerceJournalDate": "2026-11-11",
+        "message": "<FT TYPE=\"F\">JOE &amp; THE JUICE (Switzerland) AG, Zweigniederlassung Genf</FT>, Ã  <FT TYPE=\"S\">GenÃ¨ve</FT>, <FT TYPE=\"A\">CHE-444.649.774</FT>, entreprise ayant son siÃ¨ge Ã  Zurich (FOSC du 23.04.2026, p. 0/1006633459). Economu Cosmin signe dÃ©sormais collectivement Ã  deux, pour la succursale sauf avec Bowman Shaun et Zamudio Moreno Diana Valeria. Signature collective Ã  deux, limitÃ©e aux affaires de la succursale, sauf entre eux et sauf avec Economu Cosmin, a Ã©tÃ© confÃ©rÃ©e Ã  Bowman Shaun, de Schenkon, Ã  Corsier GE et Zamudio Moreno Diana Valeria, d&apos;Espagne, Ã  GenÃ¨ve.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "JOE & THE JUICE (Switzerland) AG, Zweigniederlassung Genf",
+        "ehraid": 1741718,
+        "uid": "CHE444649774",
+        "chid": "CH66011640263",
+        "legalSeatId": 6621,
+        "legalSeat": "Genève",
+        "registryOfCommerceId": 660,
+        "legalForm": {
+          "id": 9,
+          "uid": "0151",
+          "name": {
+            "de": "Zweigniederlassung",
+            "fr": "Succursale",
+            "it": "Succursale",
+            "en": "Branch"
+          },
+          "shortName": {
+            "de": "ZN",
+            "fr": "Succ",
+            "it": "Succ",
+            "en": "Bran"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-11-16",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "f6b3a0c16e2d95a111c1cfef",
+    "publication_date": "2026-11-16",
+    "event_type": "closure",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-11-16 | TG | 2026-11-11 | <FT TYPE=\"F\">Kurt Metzler Malerhandwerk GmbH</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-389.107.457</FT>, schweizerische Zweigniederlassung (SHAB Nr. 178 vom 16.09.2019, Publ. 1004716880), Hauptsitz in: Zihlschlacht-Sitterdorf. Firma neu: <FT TYPE=\"N\">Kurt Metzler Malerhandwerk GmbH in Liquidation</FT>. Firma Hauptsitz neu: Kurt Metzler Malerhandwerk GmbH in Liquidation [bisher: Kurt Metzler Malerhandwerk GmbH]. Angaben zur Zweigniederlassung neu: Die Zweigniederlassung ist mit Beschluss der Gesellschafterversammlung vom 08.10.2026 aufgelÃ¶st. | Kurt Metzler Malerhandwerk GmbH in Liquidation | CHE389107457 | CH44090345836 | Weinfelden | 0151 | Zweigniederlassung | Succursale | Succursale | Branch | ZN | Succ | Succ | Bran | BEING_CANCELLED | 2026-11-16",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "004716880)",
+      "090345836"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-11-16",
+        "sogcId": 1006811572,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 7051,
+        "registryOfCommerceJournalDate": "2026-11-11",
+        "message": "<FT TYPE=\"F\">Kurt Metzler Malerhandwerk GmbH</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-389.107.457</FT>, schweizerische Zweigniederlassung (SHAB Nr. 178 vom 16.09.2019, Publ. 1004716880), Hauptsitz in: Zihlschlacht-Sitterdorf. Firma neu: <FT TYPE=\"N\">Kurt Metzler Malerhandwerk GmbH in Liquidation</FT>. Firma Hauptsitz neu: Kurt Metzler Malerhandwerk GmbH in Liquidation [bisher: Kurt Metzler Malerhandwerk GmbH]. Angaben zur Zweigniederlassung neu: Die Zweigniederlassung ist mit Beschluss der Gesellschafterversammlung vom 08.10.2026 aufgelÃ¶st.",
+        "mutationTypes": []
+      },
+      "companyShort": {
+        "name": "Kurt Metzler Malerhandwerk GmbH in Liquidation",
+        "ehraid": 1406090,
+        "uid": "CHE389107457",
+        "chid": "CH44090345836",
+        "legalSeatId": 4946,
+        "legalSeat": "Weinfelden",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 9,
+          "uid": "0151",
+          "name": {
+            "de": "Zweigniederlassung",
+            "fr": "Succursale",
+            "it": "Succursale",
+            "en": "Branch"
+          },
+          "shortName": {
+            "de": "ZN",
+            "fr": "Succ",
+            "it": "Succ",
+            "en": "Bran"
+          }
+        },
+        "status": "BEING_CANCELLED",
+        "sogcDate": "2026-11-16",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "afe26fc56dbfba28729ea634",
+    "publication_date": "2026-11-16",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-11-16 | ZG | 2026-11-11 | <FT TYPE=\"N\">LuvÃ¡ry AG</FT>, in <FT TYPE=\"5\">Zug</FT>, <FT TYPE=\"A\">CHE-189.262.358</FT>, Steinhauserstrasse 74, 6300 Zug, Aktiengesellschaft (Neueintragung). Statutendatum: 09.11.2026. Zweck: Die Gesellschaft bezweckt den Erwerb, das Halten, die dauernde Verwaltung und die VerÃ¤usserung von Beteiligungen an in- und auslÃ¤ndischen Gesellschaften und Unternehmen aller Art sowie die Erbringung von damit zusammenhÃ¤ngenden Management-, Beratungs- und UnterstÃ¼tzungsdienstleistungen. Ausgeschlossen sind GeschÃ¤fte, die nach dem Bundesgesetz Ã¼ber den Erwerb von GrundstÃ¼cken durch Personen im Ausland (BewG) bewilligungspflichtig oder untersagt sind. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und alle GeschÃ¤fte tÃ¤tigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Sie kann ImmaterialgÃ¼terrechte wie Patente und Marken im In- und Ausland erwerben, verwalten, Ã¼bertragen und verwerten. Die Gesellschaft kann Grundeigentum im In- und Ausland erwerben, belasten, verÃ¤ussern und verwalten. Sie kann auch Finanzierungen fÃ¼r eigene oder fremde Rechnung vornehmen sowie Sicherheiten fÃ¼r Verbindlichkeiten verbundener Gesellschaften und Dritter abgeben. Aktienkapital: CHF 100&apos;000.00. Liberierung Aktienkapital: CHF 100&apos;000.00. Aktien: 1&apos;000 vinkulierte Namenaktien zu CHF 100.00. Qualifizierte TatbestÃ¤nde: Sacheinlage: Die Gesellschaft Ã¼bernimmt bei der GrÃ¼ndung gemÃ¤ss Vertrag vom 09.11.2026 98 Namenaktien der PRIVA-CORP ADVISORS AG (<FT TYPE=\"B\">CHE-157.758.158</FT>), in Zug, wofÃ¼r 1&apos;000 Namenaktien zu CHF 100.00 ausgegeben werden. Publikationsorgan: SHAB. Mitteilungen an die AktionÃ¤re erfolgen durch Brief oder elektronische oder digitale Mitteilung an die im Aktienbuch verzeichneten Adressen oder durch einmalige VerÃ¶ffentlichung im Schweizerischen Handelsamtsblatt. Vinkulierung: Die Ãœbertragbarkeit der Namenaktien ist nach Massgabe der Statuten be",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "09.11.2026 98",
+      "030533567"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-11-16",
+        "sogcId": 1006811123,
+        "registryOfCommerceId": 170,
+        "registryOfCommerceCanton": "ZG",
+        "registryOfCommerceJournalId": 22102,
+        "registryOfCommerceJournalDate": "2026-11-11",
+        "message": "<FT TYPE=\"N\">LuvÃ¡ry AG</FT>, in <FT TYPE=\"5\">Zug</FT>, <FT TYPE=\"A\">CHE-189.262.358</FT>, Steinhauserstrasse 74, 6300 Zug, Aktiengesellschaft (Neueintragung). Statutendatum: 09.11.2026. Zweck: Die Gesellschaft bezweckt den Erwerb, das Halten, die dauernde Verwaltung und die VerÃ¤usserung von Beteiligungen an in- und auslÃ¤ndischen Gesellschaften und Unternehmen aller Art sowie die Erbringung von damit zusammenhÃ¤ngenden Management-, Beratungs- und UnterstÃ¼tzungsdienstleistungen. Ausgeschlossen sind GeschÃ¤fte, die nach dem Bundesgesetz Ã¼ber den Erwerb von GrundstÃ¼cken durch Personen im Ausland (BewG) bewilligungspflichtig oder untersagt sind. Die Gesellschaft kann Zweigniederlassungen und Tochtergesellschaften im In- und Ausland errichten und alle GeschÃ¤fte tÃ¤tigen, die direkt oder indirekt mit ihrem Zweck in Zusammenhang stehen. Sie kann ImmaterialgÃ¼terrechte wie Patente und Marken im In- und Ausland erwerben, verwalten, Ã¼bertragen und verwerten. Die Gesellschaft kann Grundeigentum im In- und Ausland erwerben, belasten, verÃ¤ussern und verwalten. Sie kann auch Finanzierungen fÃ¼r eigene oder fremde Rechnung vornehmen sowie Sicherheiten fÃ¼r Verbindlichkeiten verbundener Gesellschaften und Dritter abgeben. Aktienkapital: CHF 100&apos;000.00. Liberierung Aktienkapital: CHF 100&apos;000.00. Aktien: 1&apos;000 vinkulierte Namenaktien zu CHF 100.00. Qualifizierte TatbestÃ¤nde: Sacheinlage: Die Gesellschaft Ã¼bernimmt bei der GrÃ¼ndung gemÃ¤ss Vertrag vom 09.11.2026 98 Namenaktien der PRIVA-CORP ADVISORS AG (<FT TYPE=\"B\">CHE-157.758.158</FT>), in Zug, wofÃ¼r 1&apos;000 Namenaktien zu CHF 100.00 ausgegeben werden. Publikationsorgan: SHAB. Mitteilungen an die AktionÃ¤re erfolgen durch Brief oder elektronische oder digitale Mitteilung an die im Aktienbuch verzeichneten Adressen oder durch einmalige VerÃ¶ffentlichung im Schweizerischen Handelsamtsblatt. Vinkulierung: Die Ãœbertragbarkeit der Namenaktien ist nach Massgabe der Statuten beschrÃ¤nkt. GemÃ¤ss ErklÃ¤rung bei der GrÃ¼ndung der Gesellschaft wird auf eine eingeschrÃ¤nkte Revision verzichtet. Eingetragene Personen: Brenner, Martin, von Weinfelden, in StÃ¤fa, Mitglied des Verwaltungsrates, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Luváry AG",
+        "ehraid": 1776700,
+        "uid": "CHE189262358",
+        "chid": "CH17030533567",
+        "legalSeatId": 1711,
+        "legalSeat": "Zug",
+        "registryOfCommerceId": 170,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-11-16",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "af1822104e00506150a1c1c8",
+    "publication_date": "2026-11-16",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-11-16 | VS | 2026-11-11 | <FT TYPE=\"N\">Satoluonto SÃ rl</FT>, Ã  <FT TYPE=\"5\">Martigny-Combe</FT>, <FT TYPE=\"A\">CHE-484.621.575</FT>, Route de la Croix 41, 1921 Martigny-Croix, sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e (Nouvelle inscription). Date des statuts: 06.11.2026. But: La sociÃ©tÃ© a pour but l&apos;exploitation d&apos;Ã©piceries fines, de magasins de village et de commerces de proximitÃ©, comprenant notamment le commerce, l&apos;importation, l&apos;exportation et, le cas Ã©chÃ©ant, la production de denrÃ©es alimentaires, de produits du terroir, de spÃ©cialitÃ©s artisanales et de boissons avec ou sans alcool. Elle peut Ã©galement proposer des prestations de restauration et de service traiteur, organiser des dÃ©gustations, des ateliers et des Ã©vÃ©nements, notamment dans le domaine de la gastronomie et de l&apos;Å“nologie. La sociÃ©tÃ© a en outre pour but la conception, la fabrication et la commercialisation d&apos;articles artisanaux, de produits d&apos;usage quotidien, d&apos;articles cadeaux, de dÃ©coration, de papeterie, de photographies et de calendriers, ainsi que la fourniture de services pour le compte de partenaires, notamment dans les domaines des services postaux et de la loterie. La sociÃ©tÃ© peut accorder des prÃªts ou des garanties Ã  des associÃ©s ou Ã  des tiers, si cela favorise ses intÃ©rÃªts. Elle peut exercer ses activitÃ©s aussi bien en Suisse qu&apos;Ã  l&apos;Ã©tranger et prendre des participations dans d&apos;autres sociÃ©tÃ©s ou s&apos;associer Ã  d&apos;autres sociÃ©tÃ©s. La sociÃ©tÃ© peut exercer toute activitÃ© financiÃ¨re, commerciale ou industrielle, mobiliÃ¨re ou immobiliÃ¨re (Ã  l&apos;exception des opÃ©rations prohibÃ©es par la LFAIE), en rapport direct ou indirect avec son but; elle peut entreprendre toute autre activitÃ© convergente ou apte Ã  le favoriser. Elle peut en outre crÃ©er des succursales en Suisse et Ã  l&apos;Ã©tranger, ainsi que fonder ou financer des entreprises ayant un rapport direct ou indirect avec son but",
+    "categories": [
+      "allgemein",
+      "handel_vertrieb"
+    ],
+    "confidence": 95,
+    "contact_names": [],
+    "emails": [],
+    "phones": [],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": []
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-11-16",
+        "sogcId": 1006811759,
+        "registryOfCommerceId": 621,
+        "registryOfCommerceCanton": "VS",
+        "registryOfCommerceJournalId": 4363,
+        "registryOfCommerceJournalDate": "2026-11-11",
+        "message": "<FT TYPE=\"N\">Satoluonto SÃ rl</FT>, Ã  <FT TYPE=\"5\">Martigny-Combe</FT>, <FT TYPE=\"A\">CHE-484.621.575</FT>, Route de la Croix 41, 1921 Martigny-Croix, sociÃ©tÃ© Ã  responsabilitÃ© limitÃ©e (Nouvelle inscription). Date des statuts: 06.11.2026. But: La sociÃ©tÃ© a pour but l&apos;exploitation d&apos;Ã©piceries fines, de magasins de village et de commerces de proximitÃ©, comprenant notamment le commerce, l&apos;importation, l&apos;exportation et, le cas Ã©chÃ©ant, la production de denrÃ©es alimentaires, de produits du terroir, de spÃ©cialitÃ©s artisanales et de boissons avec ou sans alcool. Elle peut Ã©galement proposer des prestations de restauration et de service traiteur, organiser des dÃ©gustations, des ateliers et des Ã©vÃ©nements, notamment dans le domaine de la gastronomie et de l&apos;Å“nologie. La sociÃ©tÃ© a en outre pour but la conception, la fabrication et la commercialisation d&apos;articles artisanaux, de produits d&apos;usage quotidien, d&apos;articles cadeaux, de dÃ©coration, de papeterie, de photographies et de calendriers, ainsi que la fourniture de services pour le compte de partenaires, notamment dans les domaines des services postaux et de la loterie. La sociÃ©tÃ© peut accorder des prÃªts ou des garanties Ã  des associÃ©s ou Ã  des tiers, si cela favorise ses intÃ©rÃªts. Elle peut exercer ses activitÃ©s aussi bien en Suisse qu&apos;Ã  l&apos;Ã©tranger et prendre des participations dans d&apos;autres sociÃ©tÃ©s ou s&apos;associer Ã  d&apos;autres sociÃ©tÃ©s. La sociÃ©tÃ© peut exercer toute activitÃ© financiÃ¨re, commerciale ou industrielle, mobiliÃ¨re ou immobiliÃ¨re (Ã  l&apos;exception des opÃ©rations prohibÃ©es par la LFAIE), en rapport direct ou indirect avec son but; elle peut entreprendre toute autre activitÃ© convergente ou apte Ã  le favoriser. Elle peut en outre crÃ©er des succursales en Suisse et Ã  l&apos;Ã©tranger, ainsi que fonder ou financer des entreprises ayant un rapport direct ou indirect avec son but. Capital social: CHF 20&apos;000.00. Obligations de fournir des prestations accessoires, droits de prÃ©fÃ©rence, de prÃ©emption ou d&apos;emption: pour les dÃ©tails, voir les statuts. Organe de publication: FOSC. Communications aux associÃ©s: par courrier ou par courriel. Selon dÃ©claration Ã  la constitution de la sociÃ©tÃ©, il est renoncÃ© Ã  un contrÃ´le restreint. Personne(s) inscrite(s): Borgeaud, Lea, de Morrens (VD), Ã  Saillon, associÃ©e et gÃ©rante, avec signature individuelle, pour 20 parts sociales de CHF 1&apos;000.00.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Satoluonto Sàrl",
+        "ehraid": 1776805,
+        "uid": "CHE484621575",
+        "chid": "CH62140135863",
+        "legalSeatId": 6137,
+        "legalSeat": "Martigny-Combe",
+        "registryOfCommerceId": 621,
+        "legalForm": {
+          "id": 4,
+          "uid": "0107",
+          "name": {
+            "de": "Gesellschaft mit beschränkter Haftung",
+            "fr": "Société à responsabilité limitée",
+            "it": "Società a garanzia limitata",
+            "en": "Limited Liability Company"
+          },
+          "shortName": {
+            "de": "GmbH",
+            "fr": "Sàrl",
+            "it": "Sagl",
+            "en": "LLC"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-11-16",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "2a504be81e30c19d1a4d2191",
+    "publication_date": "2026-11-16",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-11-16 | ZH | 2026-11-11 | <FT TYPE=\"N\">SAVAN KlG</FT>, in <FT TYPE=\"5\">BÃ¼lach</FT>, <FT TYPE=\"A\">CHE-170.084.161</FT>, Sodagasse 2, 8180 BÃ¼lach, Kollektivgesellschaft (Neueintragung). Beginn: 06.11.2026. Zweck: Handel mit Bekleidung und Modeartikeln, insbesondere Massbekleidung; Design, Herstellung, Vertrieb sowie Import und Export von Textilien, Bekleidung und Accessoires. Eingetragene Personen: Oral, Enes, von ZÃ¼rich, in Solothurn, Gesellschafter, mit Kollektivunterschrift zu zweien; Parakash, Bhisham, von Embrach, in BÃ¼lach, Gesellschafter, mit Kollektivunterschrift zu zweien; Zeciri, DÃ«boras Joel, von Weinfelden, in Klingnau, Gesellschafter, mit Kollektivunterschrift zu zweien. | status | status.neu | SAVAN KlG | CHE170084161 | CH02020105260 | Bülach | 0103 | Kollektivgesellschaft | Société en nom collectif | Società in nome collettivo | General Partnership | KlG | SNC | SNC | GP | ACTIVE | 2026-11-16",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "02020105260"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-11-16",
+        "sogcId": 1006810759,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 53011,
+        "registryOfCommerceJournalDate": "2026-11-11",
+        "message": "<FT TYPE=\"N\">SAVAN KlG</FT>, in <FT TYPE=\"5\">BÃ¼lach</FT>, <FT TYPE=\"A\">CHE-170.084.161</FT>, Sodagasse 2, 8180 BÃ¼lach, Kollektivgesellschaft (Neueintragung). Beginn: 06.11.2026. Zweck: Handel mit Bekleidung und Modeartikeln, insbesondere Massbekleidung; Design, Herstellung, Vertrieb sowie Import und Export von Textilien, Bekleidung und Accessoires. Eingetragene Personen: Oral, Enes, von ZÃ¼rich, in Solothurn, Gesellschafter, mit Kollektivunterschrift zu zweien; Parakash, Bhisham, von Embrach, in BÃ¼lach, Gesellschafter, mit Kollektivunterschrift zu zweien; Zeciri, DÃ«boras Joel, von Weinfelden, in Klingnau, Gesellschafter, mit Kollektivunterschrift zu zweien.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "SAVAN KlG",
+        "ehraid": 1776713,
+        "uid": "CHE170084161",
+        "chid": "CH02020105260",
+        "legalSeatId": 53,
+        "legalSeat": "Bülach",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 2,
+          "uid": "0103",
+          "name": {
+            "de": "Kollektivgesellschaft",
+            "fr": "Société en nom collectif",
+            "it": "Società in nome collettivo",
+            "en": "General Partnership"
+          },
+          "shortName": {
+            "de": "KlG",
+            "fr": "SNC",
+            "it": "SNC",
+            "en": "GP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-11-16",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "d15720b4ad9dc70a7c5e46c7",
+    "publication_date": "2026-11-16",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-11-16 | GR | 2026-11-11 | <FT TYPE=\"F\">Simonethebrand, Inh. WÃ¼thrich</FT>, in <FT TYPE=\"S\">Pontresina</FT>, <FT TYPE=\"A\">CHE-392.431.007</FT>, Einzelunternehmen (SHAB Nr. 25 vom 06.02.2026, Publ. 1006562512). Zweck neu: Handel mit Mode, Bekleidung und Fashion-Accessoires einer eigenen Modemarke sowie Design- und Lifestyleartikeln, insbesondere Caps, T-Shirts, HÃ¼ten, Taschen, Postkarten und weiteren Merchandising-Produkten. Zudem Betrieb von Keramikmalateliers sowie Organisation und DurchfÃ¼hrung von kreativen Workshops und Veranstaltungen. ErgÃ¤nzend Handel mit Kaffee, Wein, Spirituosen und weiteren Genussmitteln. | zweckaenderung | Simonethebrand, Inh. Wüthrich | CHE392431007 | CH35010148515 | Pontresina | 0101 | Einzelunternehmen | Entreprise individuelle | Ditta individuale | Sole proprietorship | EIU | EI | IPI | SP | ACTIVE | 2026-11-16",
+    "categories": [
+      "wein",
+      "spirituosen",
+      "kaffee_tee"
+    ],
+    "confidence": 95,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006562512)",
+      "010148515"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-11-16",
+        "sogcId": 1006811488,
+        "registryOfCommerceId": 350,
+        "registryOfCommerceCanton": "GR",
+        "registryOfCommerceJournalId": 5637,
+        "registryOfCommerceJournalDate": "2026-11-11",
+        "message": "<FT TYPE=\"F\">Simonethebrand, Inh. WÃ¼thrich</FT>, in <FT TYPE=\"S\">Pontresina</FT>, <FT TYPE=\"A\">CHE-392.431.007</FT>, Einzelunternehmen (SHAB Nr. 25 vom 06.02.2026, Publ. 1006562512). Zweck neu: Handel mit Mode, Bekleidung und Fashion-Accessoires einer eigenen Modemarke sowie Design- und Lifestyleartikeln, insbesondere Caps, T-Shirts, HÃ¼ten, Taschen, Postkarten und weiteren Merchandising-Produkten. Zudem Betrieb von Keramikmalateliers sowie Organisation und DurchfÃ¼hrung von kreativen Workshops und Veranstaltungen. ErgÃ¤nzend Handel mit Kaffee, Wein, Spirituosen und weiteren Genussmitteln.",
+        "mutationTypes": [
+          {
+            "id": 11,
+            "key": "zweckaenderung"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Simonethebrand, Inh. Wüthrich",
+        "ehraid": 1733799,
+        "uid": "CHE392431007",
+        "chid": "CH35010148515",
+        "legalSeatId": 3784,
+        "legalSeat": "Pontresina",
+        "registryOfCommerceId": 350,
+        "legalForm": {
+          "id": 1,
+          "uid": "0101",
+          "name": {
+            "de": "Einzelunternehmen",
+            "fr": "Entreprise individuelle",
+            "it": "Ditta individuale",
+            "en": "Sole proprietorship"
+          },
+          "shortName": {
+            "de": "EIU",
+            "fr": "EI",
+            "it": "IPI",
+            "en": "SP"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-11-16",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "7660b2b05b1ce6bfcba90c4e",
+    "publication_date": "2026-11-16",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-11-16 | TG | 2026-11-11 | <FT TYPE=\"F\">Stiftung Hofacker Weinfelden</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-101.836.237</FT>, Stiftung (SHAB Nr. 66 vom 08.04.2026, Publ. 1006619025). [Aktualisierung der Personalangaben aufgrund geÃ¤nderter Eintragungspraxis.]. Eingetragene Personen neu oder mutierend: Zlabinger, Stephan David, von Remetschwil, in Weinfelden, Mitglied des Stiftungsrates, mit Kollektivunterschrift zu zweien; Thalmann Treuhand AG (<FT TYPE=\"B\">CHE-108.028.770</FT>), in Weinfelden, Revisionsstelle [bisher: Thalmann Treuhand AG]. | aenderungorgane | Stiftung Hofacker Weinfelden | CHE101836237 | CH44070007617 | Weinfelden | 0110 | Stiftung | Fondation | Fondazione | Foundation | Stift | Fond | Fond | Found | ACTIVE | 2026-11-16",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006619025)",
+      "070007617"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-11-16",
+        "sogcId": 1006811581,
+        "registryOfCommerceId": 440,
+        "registryOfCommerceCanton": "TG",
+        "registryOfCommerceJournalId": 7060,
+        "registryOfCommerceJournalDate": "2026-11-11",
+        "message": "<FT TYPE=\"F\">Stiftung Hofacker Weinfelden</FT>, in <FT TYPE=\"S\">Weinfelden</FT>, <FT TYPE=\"A\">CHE-101.836.237</FT>, Stiftung (SHAB Nr. 66 vom 08.04.2026, Publ. 1006619025). [Aktualisierung der Personalangaben aufgrund geÃ¤nderter Eintragungspraxis.]. Eingetragene Personen neu oder mutierend: Zlabinger, Stephan David, von Remetschwil, in Weinfelden, Mitglied des Stiftungsrates, mit Kollektivunterschrift zu zweien; Thalmann Treuhand AG (<FT TYPE=\"B\">CHE-108.028.770</FT>), in Weinfelden, Revisionsstelle [bisher: Thalmann Treuhand AG].",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Stiftung Hofacker Weinfelden",
+        "ehraid": 276258,
+        "uid": "CHE101836237",
+        "chid": "CH44070007617",
+        "legalSeatId": 4946,
+        "legalSeat": "Weinfelden",
+        "registryOfCommerceId": 440,
+        "legalForm": {
+          "id": 7,
+          "uid": "0110",
+          "name": {
+            "de": "Stiftung",
+            "fr": "Fondation",
+            "it": "Fondazione",
+            "en": "Foundation"
+          },
+          "shortName": {
+            "de": "Stift",
+            "fr": "Fond",
+            "it": "Fond",
+            "en": "Found"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-11-16",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "167e89dc98989c43238eb69b",
+    "publication_date": "2026-11-16",
+    "event_type": "new",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-11-16 | BE | 2026-11-11 | <FT TYPE=\"N\">Turm Broccoli - Schachschule</FT>, in <FT TYPE=\"5\">Bern</FT>, <FT TYPE=\"A\">CHE-244.013.397</FT>, c/o Michael Weber, Gantrischstrasse 45, 3006 Bern, Verein (Neueintragung). Statutendatum: 22.10.2026. Zweck: Der Verein betreibt die Schachschule Â«Turm BroccoliÂ». Damit bezweckt er die Pflege, FÃ¶rderung und Verbreitung des Schachspiels als Sport-, Kultur- und FreizeitbeschÃ¤ftigung fÃ¼r alle Alters- und BevÃ¶lkerungsgruppen. Dieser Zweck wird insbesondere angestrebt durch: den Betrieb der Schachschule mit Kursen und Trainings fÃ¼r Kinder, Jugendliche und Erwachsene; die gezielte FÃ¶rderung des Nachwuchses, zum Beispiel durch Jugendtrainings und Schulschachkurse; regelmÃ¤ssige Spiel- und Trainingsabende; interne Turniere und die Teilnahme an externen Turnieren, auch in Zusammenarbeit mit anderen Schachklubs; gesellige AnlÃ¤sse fÃ¼r SchÃ¼lerinnen, SchÃ¼ler, Eltern und Mitglieder. Der Verein kann sich VerbÃ¤nden anschliessen und mit anderen Schachklubs zusammenarbeiten, insbesondere fÃ¼r Spielerlizenzen und Turniere. Mittel: Mittel: Kursgelder, Spenden, Sponsoring und Zuwendungen, BeitrÃ¤ge der Ã¶ffentlichen Hand und von VerbÃ¤nden, ErtrÃ¤ge aus AnlÃ¤ssen. Eingetragene Personen: Weber, Michael, deutscher StaatsangehÃ¶riger, in Bern, PrÃ¤sident des Vorstandes, mit Einzelunterschrift; Barmettler, Peter, von Buochs, in Bern, Mitglied des Vorstandes, Aktuar, mit Einzelunterschrift; Brauchli, JÃ¶rg, von Weinfelden, in Bern, Mitglied des Vorstandes, Kassier, mit Einzelunterschrift. | status | status.neu | Turm Broccoli - Schachschule | CHE244013397 | CH03661096678 | Bern | 0109 | Verein | Association | Associazione | Association | Verein | Asso | Asso | Asso | ACTIVE | 2026-11-16",
+    "categories": [
+      "wein"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "03661096678"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-11-16",
+        "sogcId": 1006811011,
+        "registryOfCommerceId": 36,
+        "registryOfCommerceCanton": "BE",
+        "registryOfCommerceJournalId": 21109,
+        "registryOfCommerceJournalDate": "2026-11-11",
+        "message": "<FT TYPE=\"N\">Turm Broccoli - Schachschule</FT>, in <FT TYPE=\"5\">Bern</FT>, <FT TYPE=\"A\">CHE-244.013.397</FT>, c/o Michael Weber, Gantrischstrasse 45, 3006 Bern, Verein (Neueintragung). Statutendatum: 22.10.2026. Zweck: Der Verein betreibt die Schachschule Â«Turm BroccoliÂ». Damit bezweckt er die Pflege, FÃ¶rderung und Verbreitung des Schachspiels als Sport-, Kultur- und FreizeitbeschÃ¤ftigung fÃ¼r alle Alters- und BevÃ¶lkerungsgruppen. Dieser Zweck wird insbesondere angestrebt durch: den Betrieb der Schachschule mit Kursen und Trainings fÃ¼r Kinder, Jugendliche und Erwachsene; die gezielte FÃ¶rderung des Nachwuchses, zum Beispiel durch Jugendtrainings und Schulschachkurse; regelmÃ¤ssige Spiel- und Trainingsabende; interne Turniere und die Teilnahme an externen Turnieren, auch in Zusammenarbeit mit anderen Schachklubs; gesellige AnlÃ¤sse fÃ¼r SchÃ¼lerinnen, SchÃ¼ler, Eltern und Mitglieder. Der Verein kann sich VerbÃ¤nden anschliessen und mit anderen Schachklubs zusammenarbeiten, insbesondere fÃ¼r Spielerlizenzen und Turniere. Mittel: Mittel: Kursgelder, Spenden, Sponsoring und Zuwendungen, BeitrÃ¤ge der Ã¶ffentlichen Hand und von VerbÃ¤nden, ErtrÃ¤ge aus AnlÃ¤ssen. Eingetragene Personen: Weber, Michael, deutscher StaatsangehÃ¶riger, in Bern, PrÃ¤sident des Vorstandes, mit Einzelunterschrift; Barmettler, Peter, von Buochs, in Bern, Mitglied des Vorstandes, Aktuar, mit Einzelunterschrift; Brauchli, JÃ¶rg, von Weinfelden, in Bern, Mitglied des Vorstandes, Kassier, mit Einzelunterschrift.",
+        "mutationTypes": [
+          {
+            "id": 1,
+            "key": "status"
+          },
+          {
+            "id": 2,
+            "key": "status.neu"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "Turm Broccoli - Schachschule",
+        "ehraid": 1776658,
+        "uid": "CHE244013397",
+        "chid": "CH03661096678",
+        "legalSeatId": 351,
+        "legalSeat": "Bern",
+        "registryOfCommerceId": 36,
+        "legalForm": {
+          "id": 6,
+          "uid": "0109",
+          "name": {
+            "de": "Verein",
+            "fr": "Association",
+            "it": "Associazione",
+            "en": "Association"
+          },
+          "shortName": {
+            "de": "Verein",
+            "fr": "Asso",
+            "it": "Asso",
+            "en": "Asso"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-11-16",
+        "deletionDate": null
+      }
+    }
+  },
+  {
+    "publication_id": "99d3515f06ebd445259412f0",
+    "publication_date": "2026-11-16",
+    "event_type": "mutation",
+    "company_name": "",
+    "uid": "",
+    "canton": "",
+    "locality": "",
+    "purpose": "2026-11-16 | ZH | 2026-11-11 | <FT TYPE=\"F\">VIU AG</FT>, in <FT TYPE=\"S\">ZÃ¼rich</FT>, <FT TYPE=\"A\">CHE-176.506.290</FT>, Aktiengesellschaft (SHAB Nr. 210 vom 30.10.2025, Publ. 1006470859). Ausgeschiedene Personen und erloschene Unterschriften: Fliescher, Dirk, von Ottenbach, in Ottenbach, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien. Eingetragene Personen neu oder mutierend: Bieri, Marcel, von Schangnau, in Winkel, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien. | aenderungorgane | VIU AG | CHE176506290 | CH02040505658 | Zürich | 0106 | Aktiengesellschaft | Société anonyme | Società anonima | Corporation | AG | SA | SA | Ltd | ACTIVE | 2026-11-16",
+    "categories": [
+      "bier"
+    ],
+    "confidence": 80,
+    "contact_names": [],
+    "emails": [],
+    "phones": [
+      "006470859)",
+      "02040505658"
+    ],
+    "website": "",
+    "contact_sources": {
+      "names": [],
+      "emails": [],
+      "phones": [
+        "ZEFIX/SHAB publication"
+      ]
+    },
+    "source_url": "",
+    "raw": {
+      "sogcPublication": {
+        "sogcDate": "2026-11-16",
+        "sogcId": 1006810966,
+        "registryOfCommerceId": 20,
+        "registryOfCommerceCanton": "ZH",
+        "registryOfCommerceJournalId": 53221,
+        "registryOfCommerceJournalDate": "2026-11-11",
+        "message": "<FT TYPE=\"F\">VIU AG</FT>, in <FT TYPE=\"S\">ZÃ¼rich</FT>, <FT TYPE=\"A\">CHE-176.506.290</FT>, Aktiengesellschaft (SHAB Nr. 210 vom 30.10.2025, Publ. 1006470859). Ausgeschiedene Personen und erloschene Unterschriften: Fliescher, Dirk, von Ottenbach, in Ottenbach, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien. Eingetragene Personen neu oder mutierend: Bieri, Marcel, von Schangnau, in Winkel, Mitglied des Verwaltungsrates, mit Kollektivunterschrift zu zweien.",
+        "mutationTypes": [
+          {
+            "id": 17,
+            "key": "aenderungorgane"
+          }
+        ]
+      },
+      "companyShort": {
+        "name": "VIU AG",
+        "ehraid": 1148638,
+        "uid": "CHE176506290",
+        "chid": "CH02040505658",
+        "legalSeatId": 261,
+        "legalSeat": "Zürich",
+        "registryOfCommerceId": 20,
+        "legalForm": {
+          "id": 3,
+          "uid": "0106",
+          "name": {
+            "de": "Aktiengesellschaft",
+            "fr": "Société anonyme",
+            "it": "Società anonima",
+            "en": "Corporation"
+          },
+          "shortName": {
+            "de": "AG",
+            "fr": "SA",
+            "it": "SA",
+            "en": "Ltd"
+          }
+        },
+        "status": "ACTIVE",
+        "sogcDate": "2026-11-16",
+        "deletionDate": null
+      }
+    }
+  }
+]
